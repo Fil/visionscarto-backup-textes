@@ -1,0 +1,59 @@
+
+--------------------------
+
+TITRE:
+L'Europe à l'assaut des terres agricoles mondiales
+
+--------------------------
+
+AUTEUR: 
+- Agnès Stienne
+
+--------------------------
+
+CHAPO:
+<h4 class="text-right">{par Agnès Stienne}</h4>
+<h5 class="text-right">artiste</h5>
+
+
+--------------------------
+TEXTE:
+
+C’est la ruée sur les terres arables. La main mise par les sociétés agro-industrielles et les spéculateurs, notamment européens, sur les terres agricoles mondiales n'a jamais été aussi vigoureuse.
+
+En 2014, selon Land Matrix, le [site internet->http://landmatrix.org/] qui recense les contrats documentés -- tous ne le sont pas, c'est un business encore assez opaque --, près de 36~millions d'hectares de terres, à l'échelle mondiale, ont fait l'objet de transactions foncières, et 14~millions d’hectares sont en cours de négociation.
+
+Certes, l’historique de ces données permet de voir qu’environ un contrat sur sept (13~%) n’aboutit pas. Mais de nouvelles tractations s'ouvrent à chaque instant, et les acquisitions de larges étendues de terres arables progressent inexorablement. Chaque jour, des petits paysans (dont une part importante de femmes) se voient dépossédés de leur unique moyen de subsistance. Et ces accaparements de terres, destinés aux marchés d’exportation, provoquent une pression croissante sur les ressources alimentaires des pays les plus pauvres.
+
+<https://farm6.staticflickr.com/5596/14656682027_4ffe9b6436_o_d.jpg size=original class=fullwidth>
+
+Mais pas seulement. Lorsque, le 22~février 2014, les Ukrainiens de la place Maidan destituent Viktor Ianoukovitch, 1,6 million d’hectares de terres des plus fertiles d’Ukraine étaient passées, par l’affairisme du président, entre les mains d'investisseurs étrangers, dont 1,3 million au profit d’Européens. La semaine suivante, le négociant danois Trigon Agri, jouissant de 52~000 hectares en Ukraine, [estimait sans inquiétude->http://farmlandgrab.org/post/view/23218-ukraine-unrest-may-boost-farming-says-trigon-agri] qu'{« il est fort probable que tout ceci conduira à un environnement plus favorable pour les affaires que celui que nous avons connu ces dernières années ».} C'est dire !
+
+Les investisseurs des quinze pays européens les plus riches ont désormais, à eux seuls, jeté leur dévolu sur plus de 17~millions d'hectares de terres, dont 70~% sur le continent africain. Sans surprise, on y cultive des agrocarburants, des céréales, des palmiers à huile, du soja, du bois, du caoutchouc.
+
+<https://farm6.staticflickr.com/5565/14656747447_b498255547_o_d.jpg size=original class=fullwidth>
+
+{La carte interactive ci-dessous permet de voir la liste des acquisitions de terres agricoles faites à l'étranger par les entreprises européennes. Cliquer sur le nom d'un pays pour révéler les données.}
+
+<iframe class=fullwidth style="border:0" height=850 src="/projects/land-grabbing/" frameborder=0></iframe>
+
+
+<p class=box>{{À lire:}}
+—  «[La Chine, l’Inde et les États-Unis aussi...->http://visionscarto.net/accaparement-chine-inde-etats-unis]», 6~octobre~2014.
+—  «[Vol de terres en Éthiopie->http://visionscarto.net/vol-de-terres-en-ethiopie]», 19~juin~2015.
+— «[Conquête coloniale et concentration de terres->http://visionscarto.net/conquete-et-concentration]», 5~octobre~2015.
+</p>
+
+#agriculture #faim #alimentation #terres #accaparement #land_grabbing
+ 
+
+
+--------------------------
+
+PS: Ce texte fait partie d'une recherche en cours sur [des terres et des territoires->http://visionscarto.net/des-terres-et-des-territoires]. Si vous souhaitez utiliser tout ou partie de cette contribution, ou simplement contacter l’auteure, vous pouvez le faire par mail via [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 1er janvier 2016 17:23

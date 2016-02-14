@@ -1,0 +1,170 @@
+
+--------------------------
+
+TITRE:
+La Méditerranée, plus loin que l'horizon
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+
+--------------------------
+
+CHAPO:
+Oui, les mots sont importants. Un collègue journaliste syrien me racontait, il y a quatre ou cinq ans, qu'à chaque fois qu'il entendait ses interlocuteurs lui parler du « dialogue euro-méditerranée », ça le faisait bien marrer d'imaginer l'Europe dialoguant avec... la mer. Expression bien symbolique des « termes de l'échange » que propose le nord envers ses voisins du sud : le #Maghreb, le #Machrek ou le Proche-Orient, c'est en gros la #Méditerranée. On va pas non plus faire dans le détail. C'est peut-être cette conversation qui m'a donné envie de créer la trilogie cartographique que je présente ici, pour essayer de donner une autre vision. Ce projet reprend d'ailleurs des thèmes que j'ai déjà largement exploité et cartographié : #migrations, #tourisme et #concurrences_géopolitiques.
+
+<h4 class="text-right">{par Philippe Rekacewicz}</h4>
+<h5 class="text-right">géographe, cartographe et information designer
+_ Toutes les esquisses cartographiques sont de l'auteur.</h5>
+
+
+--------------------------
+TEXTE:
+
+Et c'est La Villa Méditerranée, à Marseille, qui me donnera l'occasion de concrétiser cette idée. Ce musée a ouvert en juin 2013 [une exposition permanente->http://www.villa-mediterranee.org/fr/plus-loin-que-lhorizon] sur le thème des « circulations humaines, économiques et géopolitiques » en Méditerranée, imaginée par le réalisateur de documentaires et artiste plasticien [Bruno Ulmer->http://www.villa-mediterranee.org/node/448], et mise en scène par la scénographe Elizabeth Guyone. 
+
+Dans l'espace méditerranéen, les parcours, les déplacements d'êtres humains et de marchandises se croisent en flux continus et surtout très soutenus. Dans l'idée de visualiser le contexte géographique d'une manière originale, les responsables de l'exposition ont proposé la création de trois cartes-esquisses qui pouvaient offrir aux visiteurs une sorte de synthèse contextuelle de la région « élargie ».
+
+Ces esquisses, commandées à l'été 2012 par le musée sur la proposition de Bruno Ulmer, ont fait l'objet de nombreuses discussions et de recherches préparatoires dont nous publions ici quelques traces aux côtés des cartes finalisées. Les cartes sont datées du printemps 2013 -- c'est important de le rappeler tant est mouvante la situation dans certains pays de la région : ainsi par exemple, la crise ukrainienne et le rattachement de la Crimée à la Russie ne figurent pas sur les cartes.
+
+C'est d'ailleurs bien le problème de la cartographie thématique en général : le temps de produire les cartes et, à peine publiées, les voilà déjà obsolètes... C'est pour cette raison que, dans les visions que j'expérimente, dans les choix de représentation, j'essaie de donner autant d'importance aux événements qu'on sait éphémères qu'aux éléments géographiques permanents et aux tendances socio-économiques ou géopolitiques plus persistantes.
+
+Avec une telle approche, j'espère produire un document, une image qui serait en même temps une photographie instantanée captée à une période précise de l'histoire, et un témoignage sur le temps plus long, d'une « espérance de vie » plus longue, qui pose les termes essentiels pour engager un débat sur l'évolution de l'espace méditerranéen.
+
+Parler et montrer les circulations d'êtres humains ou de marchandises, les relations géopolitiques, c'est finalement assez facile. Mais que dire et surtout que montrer de ce fameux « dialogue » ?
+
+<h2>1. L'espace migratoire</h2>
+
+La Méditerranée est lieu de circulation intense : marine marchande, pêche, navigation de plaisance, migrants partis à la recherche d'un travail saisonnier ou qui finissent par s'établir... Depuis un peu plus de deux décennies, la question migratoire a changé de dynamique, et la mer s'est emplie de bateaux de surveillance (en particulier ceux de Frontex), tentant de contrôler les centaines de milliers de migrants nord-africains ou subsahariens qui tentent de rejoindre l'Europe par bateau et se [fracassent sur les  « lignes de défense » dressées contre eux par l'Europe->http://visionscarto.net/mourir-aux-portes-de-l-europe].
+
+Ce « système de défense » comporte :
+
+- la protection renforcée de la frontière Schengen en elle-même ;
+- une «pré-frontière» établie de facto par les politiques d'externalisation du contrôle aux frontières (et qui coûte des centaines de millions d'euros par an) vers des pays qu'on a chargé, très loin de Schengen, de surveiller et d'empêcher les déplacements de migrants;
+- une «post-frontière» symbolisée par les camps d'enfermement (des centres de rétention dans les centres urbains ou dans les aéroports, mais aussi parfois des foyers ou des camps ouverts), d'où souvent on renvoie de force ces migrants vers leur pays (ou plutôt, vers le pays d'où l'on pense qu'ils viennent).
+
+Les conséquences de cette politique européenne de fermeture sont multiples, mais celle qui, à mes yeux, devrait faire l'objet d'une absolue priorité, c'est l'hécatombe qu'elle provoque : des milliers, voire dizaines de milliers de vies perdues, sacrifiées, et d'autres encore plus nombreuses dans les années qui viennent si ce système perdure.
+
+<https://farm8.staticflickr.com/7102/14049993015_4026a54000_k.jpg size=original class=fullwidth caption="Migrations, protections, croisements - Esquisse cartographique, juin 2013.">
+
+<div class="ui small fluid accordion">
+  <div class="title">
+    <i class="dropdown icon"></i>
+    Sources pour la carte
+  </div>
+  <div class="small content">
+-* United for Intercultural Action, « [The Fatal Realities of Fortress Europe}->http://www.unitedagainstracism.org/campaigns/the-fatal-realities-of-fortress-europe/]
+-* [Migreurop, observatoire des frontières->http://www.migreurop.org/rubrique266.html] et en particulier le remarquable [Atlas des migrants en Europe -- édition 2012->http://www.migreurop.org/article2271.html] 
+-* Le blog de Gabriele Del Grande [Fortress Europe->http://fortresseurope.blogspot.no/]
+-* [The migrant files->http://www.detective.io/detective/the-migrants-files], un projet porté par [Journalism++ SAS->http://paris.jplusplus.org/], [Journalism++ Stockholm->http://jplusplus.se/] et [Dataninja->http://www.dataninja.it/], les médias {Neue Zürcher Zeitung, El Confidencial, Sydsvenskan} et {Radiobubble,} ainsi que Jacopo Ottaviani et Jean-Marc Manach.
+-* Agence européenne pour la gestion de la coopération opérationnelle aux frontières extérieures ([Frontex->http://frontex.europa.eu/]).
+</div>
+</div>
+
+La représentation visuelle de cette tragédie humaine est devenue une constante sur l'essentiel des cartes méditerranéennes que j'ai produites depuis quelques années. Il m'est désormais impossible de cartographier cette région sans faire figurer, d'une manière ou d'une autre, cette immense fracture qui déchire le « dialogue euro - ... ».
+
+Mise au monde par Olivier Clochard (Réseau [Migreurop->http://www.migreurop.org/article2271.html]) au début des années 2000, cette carte des « morts aux frontières de l'Europe » a évolué, changé. D'autres géographes-cartographes, comme [Nicolas Lambert->http://neocarto.hypotheses.org/], ont exploré divers modes de représentations, toujours dans l'idée de trouver le moyen le plus efficace de rendre compte de ce massacre longtemps ignoré. Cette carte a une histoire, elle sera racontée très prochainement sur [Visionscarto->http://visionscarto.net].
+
+<https://farm6.staticflickr.com/5449/14141176543_40ce117855_h.jpg
+size=medium  class=caption-right
+title="Méditerranée migratoire : esquisse préparatoire"
+credit="janvier 2013."
+link=https://farm6.staticflickr.com/5449/14141176543_40ce117855_h.jpg>
+
+<https://farm3.staticflickr.com/2934/13934330397_598b093261_h.jpg size=medium class=caption-right
+title="Recherches pour la visualisation de la « barrière » Frontex"
+credit="janvier 2013."
+link=https://farm3.staticflickr.com/2934/13934330397_598b093261_h.jpg>
+
+<h2>2. L'espace géopolitique : lieux stratégiques et nouvelles concurrences
+</h2>
+
+Espace stratégique, espace de concurrence, la Méditerranée fait l'objet, en mains endroits, d'âpres « bras de fer ». Le droit international de la mer ne peut s'y appliquer, dans la mesure ou peu d'accords sur les délimitations maritimes ont été signés. Beaucoup de différends restent à régler : espace maritime entre la Grèce et la Turquie, entre Chypre, le Liban, la Palestine, l'Égypte et Israël, pour le contrôle des réserves de gaz offshore -- supposées importantes -- et enfin, quelques revendications mineures près du détroit de Gibraltar, et en mer Adriatique.
+
+Encore plus préoccupant, l'espace méditerranéen est le lieu de conflits très graves pour lesquels on ne voit toujours pas, en 2014, de possibilités de règlement.
+
+<https://farm3.staticflickr.com/2916/14026796166_7ca0c3b307_k.jpg size=original class=fullwidth caption="La recomposition géopolitique méditerranéenne - Esquisse cartographique, juin 2013.">
+
+<div class="ui small fluid accordion">
+  <div class="title">
+    <i class="dropdown icon"></i>
+    Sources pour la carte
+  </div>
+  <div class="small content">
+-* Agences de presse : Reuters, Agence France presse, Associated Press.
+-* Titres de presse francophones : Le Monde, le Figaro, Le Devoir (Canada), Le Soir (Bruxelles), Les Échos, La Croix, Courrier international, Le Monde diplomatique.
+-* Titres de presse anglophones : The Economist, The New York Times, The Washington Post, The Financial Times.
+-* Titres de presse scandinaves : Aftenposten, NRK, Klassekampen, Morgenbladet, Politiken.
+-* Sites internet : [Orient XXI->http://orientxxi.info/], La revue géopolitique [Diploweb->http://www.diploweb.com/]
+-* EU Energy Strategy in the South Mediterranean, Policy department A: economic and scientific policy, Parlement européen, 2011.
+-* {« Pétroles et gaz arabes »}, Paris, 2008, 2010, 2012 et 2014.
+</div>
+</div>
+
+Le conflit israélo-palestinien s'exacerbe en dépit du vote favorable à l'ONU en novembre 2012 pour la reconnaissance de la Palestine comme Etat, le conflit Chypriote ne connaît aucune avancée, la guerre civile en Syrie s'étend, et les Etats arabes en situation «post-révolutionnaire» restent très instables. Enfin, trois passages stratégiques d'importance mondiale sont sous très-haute tension : le Canal de Suez avec la crise égyptienne, le détroit de Gibraltar et le détroit du Bosphore avec, depuis mars 2014, l'aggravation de la crise ukrainienne et le rattachement de le Crimée à la Russie.
+
+<https://farm8.staticflickr.com/7389/14118063212_1fbab51d37_k.jpg
+size=medium class=caption-right
+title="Le monde vu du Caire"
+caption="Sur le même sujet, cette esquisse publiée dans « Un monde à l'envers, Atlas 2009 du Monde diplomatique » montre une vision des recompositions géopolitiques dans la région avant le début des révoltes arabes" credit="novembre 2008."
+link=https://farm8.staticflickr.com/7389/14118063212_1fbab51d37_k.jpg>
+~
+
+<https://farm8.staticflickr.com/7425/13934548389_cbd62e787d_h.jpg size=medium class=caption-right
+title="Le monde vu du Caire : esquisse 0.0"
+caption="Document de travail préalable à la création de l'esquisse préparatoire"
+credit="octobre 2008."
+link=https://farm8.staticflickr.com/7425/13934548389_cbd62e787d_h.jpg>
+
+<h2>3. Une vision du tourisme dans la région méditerranéenne</h2>
+
+L'analyse des données sur le tourisme mondial réserve quelques surprises. Alors qu'on s'attend à une croissance fulgurante des flux intercontinentaux, il ressort qu'en réalité l'essentiel des déplacements touristiques sont intrarégionaux. C'est en particulier vrai pour l'Europe. En comparaison, seule une fraction des touristes traversent la Méditerranée (en partie seulement à cause de la situation instable en Algérie, et des transformations politiques en Tunisie, Libye et Égypte : ce constat était déjà vrai avant le début des révoltes arabes) alors que  l'essentiel des touristes européens -- ce qui représente des dizaines de millions de déplacements -- investissent les côtes méditerranéennes du sud européen, sur lesquelles s'exerce une forte pression foncière et environnementale.
+
+<https://farm8.staticflickr.com/7412/14069981983_1d6885cd95_k.jpg size=original class=fullwidth caption="Tourisme de masse - Esquisse cartographique, juin 2013.">
+
+<div class="ui small fluid accordion">
+  <div class="title">
+    <i class="dropdown icon"></i>
+    Sources pour la carte
+  </div>
+  <div class="small content">
+-* [Le Plan bleu->http://planbleu.org/fr].
+-* [Agence européenne pour l'environnement->http://www.eea.europa.eu/fr].
+-* [Organisation mondiale du tourisme (OMT)->http://www2.unwto.org/fr]
+-* {« Croisières et Plaisance en Méditerranée »}, Alberto Cappato, Le Plan bleu, Sophia Antiplolis, mars 2011.
+-* {« Tourisme et développement durable en Méditerranée »}, colloque international, Bruxelles, 21 et 22 juin 2012.
+-* Risk of Energy Availability: Common Corridors for Europe Supply Security (EU FP7 REACCESS), E. Lavagno, L. Schranz. in {« Infrastructures et développement durable en Méditerranée : perspectives 2025 »}, cahier n°6 du Plan bleu, 2009.
+-* [Environment and Security Issues in the Mediterranean, 2009 (Medsec)->http://issuu.com/zoienvironment/docs/medsec], Zoï Environment Network, Genève.
+-* [Royal Caribbean International->http://www.royalcaribbean.fr/destinations-croisieres/croisiere-mediterranee.html] et [Costa croisières->http://www.costacroisieres.fr/B2C/F/Info/Pages/croisiere-mediterranee.aspx]
+</div>
+</div>
+
+Des régions entières ne vivent que des revenus du tourisme. Les croisières sont aujourd'hui devenues si nombreuses que les ports de plaisance qui reçoivent ces immenses paquebots sont désormais engorgés : comme dans les [Caraïbes->http://blog.mondediplo.net/2013-04-04-A-la-Dominique-la-croisiere-n-amuse-pas], se développe en Méditerranée un « tourisme découplé » des communautés et des lieux qui environnent les principales escales.
+
+<https://farm8.staticflickr.com/7397/13934374147_cda2dc8e95_h.jpg
+size=medium class=caption-right
+title="Tourisme en Méditerranée, Première figuration de l'esquisse « tourisme »"
+caption="Le projet original était beaucoup plus « radical » et tranché que ce que l'esquisse finale est devenue. Il y a pourtant quelques idées qu'il faudrait reprendre et travailler" credit="février 2013."
+link=https://farm8.staticflickr.com/7397/13934374147_cda2dc8e95_h.jpg>
+
+<h2>4. Une carte en plus : croisements touristiques et migratoires</h2>
+
+Cette dernière carte, qui ne fait pas partie de l'exposition marseillaise, est une sorte de superposition ou de fusion des thèmes évoqués dans la trilogie cartographique. Elle a été publiée en septembre 2009 en accompagnement de l'article [Migrations, sauvetage en mer et droits humains->http://blog.mondediplo.net/2009-09-27-Migrations-sauvetage-en-mer-et-droits-humains#nb5].
+
+<https://farm3.staticflickr.com/2897/13934719630_e5dc6cf758_o.png size=medium caption="Photo : Arturo Rodriguez, Associated Press, 2006, DR. Source : « Réfugié ou migrant ? Pourquoi cette question compte », Réfugiés, n° 148, décembre 2007." right> Elle montre en particulier que des centaines de milliers de personnes migrantes se déplaçant dans le sens sud-nord croisent quelques centaines de milliers de touristes qui eux, se déplacent dans le sens inverse nord-sud. Sans jamais les voir. Ou presque. Il y a de temps en temps des collisions, comme celle, immortalisée par le photographe espagnol Antonio Rodriguez en 2006 sur une plage des îles Canaries. Une jeune vacancière réconforte un migrant d’origine africaine arrivé épuisé à la nage après le naufrage de son embarcation. Petit crash de deux mondes qui n’auraient jamais dû se rencontrer. 
+
+<https://farm8.staticflickr.com/7347/14097851866_8d480de5ee_o.jpg size=original class=fullwidth caption="Au voisinage touristique de l'Europe, la guerre, les réfugiés et les migrants - Esquisse cartographique, mars 2009.">
+
+
+--------------------------
+
+PS: Ces esquisses, cartes et documents de travail font partie d'un projet de recherche en cours sur les représentations en cartographie. Ces images se nourrissent et s'enrichissent des remarques et critiques qui nous arrivent régulièrement.
+
+Si vous souhaitez réagir, contribuer, commenter, utiliser tout ou partie de ce travail, ou simplement contacter l'auteur, nous vous invitons à nous écrire via  [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 1er décembre 2014 21:58

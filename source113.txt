@@ -1,0 +1,78 @@
+
+--------------------------
+
+TITRE:
+En Inde, des enfants veulent transformer les bidonvilles par la cartographie
+
+--------------------------
+
+AUTEUR: 
+- Sam Sturgis
+
+--------------------------
+
+CHAPO:
+Donner une voix aux jeunes Indiens dans le développement urbain, tel est l’enjeu de ce nouveau projet.
+
+<h4 class="text-right">{Par Sam Sturgis}</h4>
+<h5 class="text-right">{journaliste associé au [CityLab->http://www.citylab.com/], The Atlantic}</h5>
+
+
+--------------------------
+TEXTE:
+
+<https://farm8.staticflickr.com/7286/16677360628_b18c8bb1cc_o_d.jpg size=original caption="Des cartes dessinées à la main, comme celle-ci, se trouvent désormais sur les bureaux des urbanistes à travers l’Inde" credit="Crédit: Humara Bachpan">
+
+
+Tous les enfants aiment dessiner. Mais en Inde, de jeunes résidents des bidonvilles utilisent leurs talents d’artistes pour provoquer des changements urbains.
+
+Dans le cadre d’une campagne civique centrée sur des [clubs d’enfants->http://www.unicef.org/india/health_2885.htm], des groupes de jeunes créent des « [cartes sociales->http://citiscope.org/story/2015/how-generation-young-leaders-emerging-indias-slums] » détaillées de leurs quartiers marginalisés avec l'objectif de partager leurs inquiétudes sur l’espace public.
+
+Depuis 2011, l’UNICEF encourage les enfants à utiliser les technologies mobiles et les données ouvertes pour cartographier les problèmes de santé et d’environnement [près de chez eux->http://unicefstories.org/2014/05/20/digital-mapping-technology-to-reduce-disaster-risks/]. Mais cette technologie est loin d'être accessible à tous. Au lieu de cela, cette campagne de cartographie menée à travers l’Inde par les enfants repose sur des outils de topographie anciens: du papier et un arc-en-ciel de feutres.
+
+
+Des équipes de jeunes cartographes accompagnés par des animateurs adultes passent environ 45~jours à parcourir leurs bidonvilles. Ils apprennent la forme de leur quartier, la manière dont les rues se connectent (ou non) et la densité des habitations. Ces informations forment le squelette de la carte. Puis ils ajoutent les détails. Ils cherchent ce qui est nécessaire à travers leurs yeux d’enfants: là où les espaces publics mal desservis pourraient devenir des espaces de jeu, là où des poubelles pourraient être ajoutées dans des endroits qu’ils voient régulièrement couverts de déchets. Leur quartier idéal est dessiné et détaillé sur la carte. Une fois terminé, les représentants des clubs d’enfants présentent leur travail aux autorités locales.
+
+
+<https://farm8.staticflickr.com/7282/16863814222_aa0a038dab_o_d.jpg size=original caption="De jeunes cartographes esquissent le changement qu’ils veulent voir dans leur communauté." credit="Crédit: Humara Bachpan" class=fullwidth>
+
+<https://farm8.staticflickr.com/7586/16678839179_b25a9056cd_o_d.jpg size=original credit="Crédit: Humara Bachpan" class=fullwidth>
+
+{« Ils cartographient leurs aspirations »,}  dit Aishwarya Das Pattnaik, un membre de l’équipe d’[Humara Bachpan->http://www.humarabachpan.org/], l’organisation qui dirige la campagne.
+
+
+Humara Bachpan défend l’implication des enfants dans le développement depuis 2012. L’organisation a dirigé des campagnes de cartographie dans plusieurs centres urbains majeurs, dont Mumbai, Delhi et Hyderabad. (D’après [Citiscope->http://citiscope.org/story/2015/how-generation-young-leaders-emerging-indias-slums], environ 325~clubs d’enfants ont été établis dans tout le pays, et d’autres sont en cours de création.) Cette initiative associe le militantisme et l'amusement adolescent; des amitiés se créent, des mains se couvrent d’encre, et des talents de direction et de planification sont encouragés. Mais il s’agit aussi d’un travail sérieux, car la santé à long terme des bidonvilles indiens dépend peut-être de ces cartes. Comme le note Das Pattnaik, les enfants peuvent repérer des besoins de la communauté que des adultes ne remarqueraient pas.
+
+
+Elle cite l’exemple de l'infrastructure de [sanitaires publics->http://www.inclusivebusinesshub.org/profiles/blogs/slum-sanitation-in-india-is-there-a-case-for-private-toilet], un problème majeur pour les [65~millions de citadins->http://www.thehindu.com/news/national/slum-population-up-from-52-million-to-65-million/article5187166.ece] (environ huit fois la population de New York) qui vivent dans les bidonvilles indiens. Pour combattre les problèmes sanitaires, le nombre des toilettes publiques devra s'accroître de façon considérable. Mais si les fesses des jeunes habitants des bidonvilles ne tiennent pas sur les nouveaux sièges, l’amélioration de la santé publique est limitée. {« Un enfant pourrait facilement tomber dans les toilettes »,} m’a dit Das Pattnaik. Sur beaucoup des cartes des enfants apparaissent donc des points pour marquer les emplacements où devraient se trouver des toilettes publiques adaptées à la taille des enfants.
+
+<https://farm9.staticflickr.com/8683/16677355978_e999f2e822_o_d.jpg size=original credit="Crédit: Humara Bachpan" class=fullwidth>
+
+La valeur de la cartographie menée par les enfants ne s’arrête cependant pas à rêver d’un terrain de cricket moderne et autres installations publiques (bien que ça soit évidemment important). De manière générale, les habitants des bidonvilles évoluent en périphérie de la société indienne, d’un point de vue géographique comme socio-économique. Pour les enfants, cette exclusion est amplifiée.
+
+
+L’urbanisme en Inde fonctionne de fait comme une gérontocratie, m’a dit Dharitri Patnaik, représentant indien de la [Fondation Bernard van Leer->http://www.bernardvanleer.org/], qui finance des programmes de développement de l’enfant. {« La plupart du temps, les enfants ne sont pas considérés comme des citoyens. Ils sont considérés comme de futurs citoyens »,} explique Patnaik. En apportant une proposition alternative de développement -- la carte --, les enfants font la preuve de leurs capacités analytiques. En retour, les représentants du gouvernement doivent les prendre plus au sérieux.
+
+
+Pour autant, personne n’aime s’entendre dire comment faire son travail, surtout par des enfants. Les urbanistes du gouvernement ne vont-ils pas se mettre sur la défensive si leur travail est critiqué de manière aussi candide, surtout avec des feutres de couleur ?
+
+<https://farm9.staticflickr.com/8643/16678842619_77fa88ab6c_o_d.jpg size=original credit="Crédit: Humara Bachpan" class=fullwidth>
+
+
+Mais les activistes impliqués soutiennent que le gouvernement a bien répondu aux cartes des enfants. Preeti Prada, le coordinateur national de campagnes d’Humara Bachpan, m’a parlé dans un email d’une jeune cartographe dans la ville de Bhubaneswar. Les enfants d’un quartier ne se sentaient pas en sécurité sur le chemin de leurs cours supplémentaires (des cours du soir populaires en Inde) car la route était mal éclairée. Une fillette de douze ans, en réaction, dessina une carte du secteur et finit par obtenir une audience avec le représentant du quartier pour la lui présenter. D'après Prada, le représentant s'active désormais à améliorer l'éclairage public pour renforcer la sécurité.
+
+L'avenir urbain de l'Inde est parfois présenté sous un jour apocalyptique. Déjà 25~% de tous les citadins vivent dans des quartiers proches de bidonvilles, [selon un rapport gouvernemental publié en 2011->http://nbo.nic.in/Images/PDF/Slum_in_india_2011_english_book_23_May_12.pdf]. Et d'ici 2028, le pays devrait dépasser la Chine comme [pays le plus peuplé de la planète->http://www.bbc.com/news/world-asia-22907307] -- ce qui implique un nombre encore croissant de logements déshérités. Mais, au-delà des grandes prévisions, ces données ne prennent pas en compte la capacité de moblisation humaine. Car, que ces cartes réalisées par les enfants conduisent ou non à un développement urbain plus équitable, elles sont révélatrices d'une jeune génération indienne qui émerge avec une conscience aiguë des inégalités -- et qui souhaite y mettre fin.
+
+<p class="text-right caps">↬ Sam Sturgis</p>
+
+
+--------------------------
+
+PS: Cet article a été publié par {[CityLab->http://www.citylab.com/], The Atlantic} le 19 février (“[Kids in India Are Sparking Urban Planning Changes by Mapping Slums->http://www.citylab.com/tech/2015/02/kids-are-sparking-urban-planning-changes-by-mapping-their-slums/385636/]”). Il est reproduit ici avec l'aimable autorisation de [son auteur->http://www.citylab.com/authors/sam-sturgis/].
+Traduction pour Visionscarto : Jasmine Rivière-Poupon.
+
+
+
+
+--------------------------
+Visionscarto - version du 24 avril 2015 17:12

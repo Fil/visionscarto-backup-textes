@@ -1,0 +1,35 @@
+
+--------------------------
+
+TITRE:
+La projection Bottomley
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+
+
+--------------------------
+TEXTE:
+
+<https://cloud.githubusercontent.com/assets/7001/12144809/83c0f612-b48a-11e5-8910-cee82845dc66.png>
+
+{« Je voulais essayer de dessiner la projection de Bonne, mais j'ai fait une erreur et j'ai trouvé que j'avais une jolie projection en forme de cœur qui conservait les surfaces. »} Henry Bottomley, un statisticien britannique, me raconte ainsi comment il a trouvé cette projection, qu'il a publiée en 2003 dans la revue électronique {Cybergéo.}
+
+Je viens de la coder pour la bibliothèque des projections géographiques avancées du logiciel D3.js, [d3.geo.projection->https://github.com/d3/d3-geo-projection/]. Pour l'utiliser, vous trouverez ici un [exemple de code->http://bl.ocks.org/Fil/6244cd213f08d5d16774]. Faites-en bon usage !
+
+<p class="text-right caps">Philippe Rivière</p>
+
+
+{Référence :}
+- Henry Bottomley, « [Between the Sinusoidal projection and the Werner: an alternative to the Bonne->http://cybergeo.revues.org/3977] », {Cybergeo : European Journal of Geography}, 13 juin 2003.
+
+
+
+
+
+
+--------------------------
+Visionscarto - version du 11 janvier 2016 15:59

@@ -1,0 +1,94 @@
+
+--------------------------
+
+TITRE:
+Les hackers de La Paz s’organisent pour libérer internet
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+--------------------------
+
+CHAPO:
+À 3 700 mètres d’altitude, dans la capitale bolivienne, le visiteur s’essouffle rapidement à monter la cinquantaine de marches qui conduit à la r00thouse, la grande maison qui sert de quartier général aux militants du logiciel libre. Un drapeau noir à tête de mort flotte sur la façade rose. Il est un peu défraîchi : cela fait déjà sept ans qu’ils se sont installés ici. Le très modeste budget qu'ils parviennent à rassembler est essentiellement consacré à un projet phare, le réseau mesh. Car les hackers de La Paz rêvent en grand: déployer, sur toute la capitale bolivienne, un accès internet public.
+
+<h4 class=text-right>{par Philippe Rivière}</h4>
+
+
+--------------------------
+TEXTE:
+
+En ce frais samedi du mois de juillet, sous les flocons de neige, nous escaladons la grille de la fenêtre pour grimper sur le toit. L’objectif: vérifier qu’aucun obstacle ne bloque la ligne de vue directe avec le «Monoblock», l’immeuble caractéristique de couleur marron de l’Université supérieure de San Andrés (UMSA), de l’autre côté de la rivière souterraine qui traverse la ville. Le réseau, qui n’a jusqu’à présent été validé que dans l’espace clos du [hacklab->http://hacklab.org.bo/], lieu de rencontre des militants de l'informatique libre, va bientôt connaître son premier test grandeur nature.
+
+<https://farm1.staticflickr.com/467/19024708568_fa07ffc5b6_h_d.jpg legend="Accueillante r00thouse">
+
+{«Ce projet existe depuis 2012,} raconte Armin Mesa, un des animateurs du hacklab de La Paz. {À cette époque, nous étions allés avec des amis visiter celui de Santiago du Chili. Là-bas, ils fabriquaient leurs propres antennes. Il faut savoir que les connexions internet en Bolivie sont très chères, et lentes... nous avons donc eu l’idée de proposer une nouvelle option: un intranet auquel pourrait se connecter toute personne qui en aurait envie.»}
+
+<https://farm1.staticflickr.com/464/19409602166_43c4a49866_z_d.jpg
+legend="Escalade du toit de la r00thouse, sous la neige">
+
+Une première expérience, en 2009, avait déjà permis à Freddy Condori de connecter la maison de ses parents, à El Alto, la grande banlieue au nord de La Paz, abritant plus d’un million d’habitants et installée à quelque 4~000~mètres d’altitude. Seule son antenne wi-fi artisanale lui permettait d’obtenir une connexion internet stable et un bon débit. Il avait alors commencé à la partager avec ses voisins.
+
+<https://farm1.staticflickr.com/556/19428641001_ebbd5251c1_z_d.jpg legend="L'antenne directionnelle pointée vers l'UMSA" right>
+
+{«Pendant longtemps,} reprend Armin Mesa, {le projet n’a pas vraiment pu avancer, faute d’argent. Mais nous avons fini par décider que c’était ça, notre priorité. En mettant en commun nos moyens, nous avons acheté quelques routeurs et une antenne directionnelle.»}
+
+Le plan est le suivant: quand le premier lien sera établi avec l’Université supérieure de San Andrés, les hackers ajouteront une deuxième connexion, {«vers la maison de Victor, sise à quatre rues».} À partir de ces trois noeuds, ils espèrent pouvoir connecter {«les trois ou quatre écoles du quartier»,} puis arroser toute la zone en wi-fi, et enfin offrir des services comme {«une copie locale de Wikipédia en espagnol»} ou encore {«un nœud Diaspora»} -- ce logiciel libre permettant de créer un [réseau social décentralisé->https://framasphere.org/].
+
+<https://farm1.staticflickr.com/522/19217328262_14dc435fea_z_d.jpg legend="En face, l'UMSA">
+
+Plusieurs membres du hacklab sont étudiants en informatique. Avec le soutien de quelques enseignants, ils envisagent de déposer un projet de recherche conjoint avec la fac. Mais ils sont jaloux de leur autonomie: à une militante de New York qui leur rend visite le dimanche suivant, Armin explique qu’il est {«hors de question d’accepter de l’argent d’une entreprise ou d’une ONG internationale».} Pourtant, il y a urgence: Facebook a lancé, le 22~juin, un partenariat avec Viva, la troisième entreprise de téléphonie mobile de Bolivie, pour diffuser sur le territoire l’initiative Internet.org, une sorte d’ersatz du réseau mondial offrant d’accéder au site de... Facebook et à quelques sites partenaires. Le «mal absolu» aux yeux de ces militants du logiciel libre, qui espèrent pouvoir développer un véritable accès au réseau pour que la population puisse découvrir tout ce qu’on peut faire avec internet avant d’être {«emprisonnée»} dans les filets de cette initiative.
+
+<https://farm1.staticflickr.com/524/18812201434_43ceb001cf_z_d.jpg legend="Le signal" right>
+
+Mais, si l’offre de Facebook a du succès, c’est parce que le manque de bande passante dans le pays est criant. La Bolivie est en queue de liste sur tous les indicateurs de connexion au réseau. Selon le site [mas y mejor internet->http://www.masymejorinternet.org.bo/], seuls 5,4 % des foyers ont accès à internet; le débit moyen plafonne à 1~mégabit/s, et le prix y est de loin le plus élevé d’Amérique latine. La percée de l’internet mobile pourrait changer un peu la donne, mais la Bolivie est aussi le pays qui accuse le plus faible taux de connexions mobiles à haut débit du continent.
+
+Serait-ce en raison de la taille réduite du pays (à peine 11~millions d’habitants) ou que, faute d’accès à la mer, il se fournit en bande passante à travers son «alliée-ennemie», la République chilienne, située au bout du câble venant des États-Unis? La réponse de Luis, un militant du logiciel libre, fuse: {«Tu ne serais pas fonctionnaire de l’État, toi, par hasard? Regarde l’Estonie, c’est un pays dix fois plus petit que la Bolivie; et pourtant, il suffit d’une heure pour y créer une entreprise d’informatique, avoir accès à tous les services nécessaires et à la meilleure bande passante. Au contraire, si tu considères que la Bolivie est entourée de cinq pays, elle pourrait devenir une cyber-plateforme latino-américaine... Si elle le voulait!»}
+
+<https://farm4.staticflickr.com/3798/18813450854_2b5a6c317e_z_d.jpg legend="Les routeurs du réseau mesh" right>
+
+À l’instar de certains ex-présidents et hommes d’affaires corrompus qui sévissaient avant l’arrivée au pouvoir en 2006 du leader syndical Evo Morales, les points d’interconnexion entre opérateurs boliviens se trouvent... à Miami. Bien souvent, un courriel expédié de La Paz transite par l’Espagne, puis par Washington, avant de revenir à La Paz. Un décret d’octobre 2012 oblige pourtant les opérateurs à disposer d’un point d’échange en Bolivie, mais ils renâclent à l’exploiter pleinement et la situation évolue très lentement.
+
+<https://farm1.staticflickr.com/301/19212801455_e22b33b708_o_d.jpg size=original legend="Une boutique Internet à La Paz">
+
+Pour sortir de l’ornière, le gouvernement a adopté un mot d’ordre, la «souveraineté scientifique et technologique». Dans le domaine de l’informatique, cela se traduit par un plan visant à équiper toutes les administrations de logiciels libres, en lieu et place des traditionnels programmes «privatifs» de Microsoft et co. Mais avec quels moyens humains?
+
+<https://farm1.staticflickr.com/701/22138145960_d2bd68ffa2_m_d.jpg title="Voir notre série cartographique sur les tarifs d'accès à internet dans le monde" link=http://visionscarto.net/prix-internet-2014 right>
+
+À l’[ADSIB->http://www.adsib.gob.bo/], le pôle numérique de l’administration, le volontarisme est évident. Une ambiance de hacklab règne à ce troisième étage du palais de la vice-présidence. Sous une lumière blafarde, on manipule le fer à souder pour assembler des cartes-mères. Un jeune ingénieur français est venu pour un stage d’été. Son rôle est de concevoir un routeur capable de faire transiter des données de manière chiffrée sur le futur intranet de l’État. (Et j’y donne, pour ma part, un cours du soir sur des outils de traitement de données.) Au sous-sol, nous visitons un centre de données hébergeant les serveurs qui devront fournir le système de signature électronique prévu par la loi. La sécurité du site a été assurée en interne, à partir de montages Arduino -- un système électronique libre fort prisé des libristes.
+
+L’agence, qui doit s’autofinancer (elle vend les noms de domaines internet en .bo), ne dispose que d’une vingtaine de fonctionnaires. Bien peu pour mettre en oeuvre un plan national ambitieux. Dans les couloirs, on croise d’ailleurs quelques-uns des membres du hacklab, qui ont trouvé ici un contrat temporaire. Beaucoup des services de l’État fonctionnent par projets, cofinancés par l’aide internationale, mais agissent sans grande coordination. Il s’ensuit un nombre très important d’agents contractuels engagés pour de brèves durées (trois ou neuf mois). Ce mode de fonctionnement, l’économiste espagnol Antonio Rodríguez-Carmona l'appelle le {projectorat} (lire à ce sujet la note de notre ami Louca Lerch dans la [Revue Tiers-Monde->http://www.jstor.org/stable/23593832]). Il nuit à la continuité nécessaire de l’action ainsi qu’à la mémoire institutionnelle, tout en produisant un sentiment de précarité.
+
+<https://farm4.staticflickr.com/3910/19197593786_c080cc2222_z_d.jpg size=original legend="Une des nombreuses annonces de formations à l'informatique qui fleurissent sur les murs">
+
+On comprend dès lors que nos hackers, sans hostilité particulière pour le gouvernement, souhaitent développer un réseau indépendant. Et ce soir-là, ils sont ravis: ça marche! L’antenne sur le toit capte le wi-fi de l’université, et la liaison apparaît rapide et stable. Hourra!
+
+<p class="text-right caps">↬ Philippe Rivière</p>
+
+
+
+_ 
+
+_ 
+
+<https://farm4.staticflickr.com/3717/19026206769_571c26cf50_h_d.jpg size=original legend="La porte des toilettes de la r00thouse et son “kit anti-stress: Frapper au centre avec la tête. Répéter autant de fois que nécessaire. En cas de perte de connaissance, faire une pause.”">
+
+
+
+#internet #bolivie #hackers #réseau #mesh #cccp
+_ {Photo du bandeau : vue sur le mont Illimani depuis la r00thouse.}
+
+
+--------------------------
+
+PS: Ce reportage a été publié dans {La Cité,} septembre 2015 ([->http://lacite.website/]).
+
+Si vous souhaitez réagir, contribuer, commenter, utiliser ce texte ou les images, ou simplement contacter l'auteur, nous vous invitons à nous écrire via  [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 20 octobre 2015 15:07

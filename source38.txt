@@ -1,0 +1,66 @@
+
+--------------------------
+
+TITRE:
+Économie interplanétaire : de la Terre à Mars
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+- Philippe Rivière
+
+
+
+--------------------------
+TEXTE:
+
+|{{Titre :}}| Économie interplanétaire : de la Terre à Mars |
+|{{Mots-clés :}} | #Espace
+#Tourisme
+#Spaceports
+#Cosmodrome
+#Tourisme_spatial
+#Spatioports|
+|{{Apparition :}} | Le Monde diplomatique d'août 2012 |
+|{{Auteur :}} | Philippe Rekacewicz |
+|{{Date :}} | Août 2012 |
+
+
+----
+
+<leaflet|href=https://farm6.staticflickr.com/5578/14834506462_64d2f2fedb_k_d.jpg>
+
+<https://farm4.staticflickr.com/3866/14811885056_07cdb57cbf_b_d.jpg size=medium>
+
+<https://farm3.staticflickr.com/2925/14648211849_892f96a805_b_d.jpg size=medium>
+
+----
+Esquisse de travail (première visualisation)
+
+<https://farm4.staticflickr.com/3855/14854912543_5a0dee9dee_k_d.jpg size=original class=fullwidth>
+
+----
+Esquisse de travail (expérimentation cartographique du tourisme spatial par Oskar, 6 ans)
+
+<https://farm4.staticflickr.com/3856/14854969333_a41e2ca050_o_d.png size=original class=fullwidth>
+
+
+----
+Ces figures illustraient deux articles de Philippe Rivière parus dans {Le Monde diplomatique} d'août 2012 :
+
+[L’île de Man sur orbite->http://www.monde-diplomatique.fr/2012/08/RIVIERE/48043] : {Un voyage touristique autour de la Lune ? Depuis le 19 juin, le ticket est à 155 millions de dollars. Si la première course à l’espace opposait deux grandes puissances — les Etats-Unis et l’Union soviétique —, les armateurs spatiaux du XXIe siècle sont des entreprises privées, comme la société américaine Space Adventures, ou encore Excalibur Almaz, basée… sur l’île de Man.}
+
+[A l’assaut du huitième continent->http://www.monde-diplomatique.fr/2012/08/RIVIERE/48044] : {Il peut pavoiser, M. Elon Musk. Capable de déclarer, en plaisantant à moitié : « Je pense que ce serait cool d’être né sur Terre et de mourir sur Mars. De préférence pas au point d’impact », le patron de la société californienne SpaceX est la nouvelle tête d’affiche de cette classe d’entrepreneurs ayant fait fortune dans l’informatique (il a fondé PayPal, la société de paiements sur Internet) et qui, se demandant : « Et maintenant, quoi faire ? », ont tourné leurs regards vers l’espace. Le retour sans encombre sur Terre de sa capsule Dragon, le 31 mai 2012, signe un tournant dans l’épopée spatiale.}
+
+
+
+--------------------------
+
+PS: Si vous souhaitez commenter, utiliser ces documents ou simplement contacter les auteurs, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 9 septembre 2014 11:08

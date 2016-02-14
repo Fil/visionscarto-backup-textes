@@ -1,0 +1,83 @@
+
+--------------------------
+
+TITRE:
+Quel futur pour le trafic maritime ?
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+
+--------------------------
+
+CHAPO:
+<h4 class="text-right">{par Philippe Rekacewicz}</h4>
+
+
+
+--------------------------
+TEXTE:
+
+Le nombre d'actes de piraterie au large de la Somalie a considérablement baissé. Les Nations unies ont tout de même publié un communiqué, en novembre 2013, indiquant que {« la piraterie représentait toujours [une menace sérieuse->http://www.un.org/News/fr-press/docs/2012/CS10820.doc.htm] pour le trafic maritime mondial ».}
+
+Sur la base du [chapitre 7 de la Charte des Nations unies->http://www.un.org/fr/documents/charter/chap7.shtml], le Conseil de sécurité a demandé à la communauté internationale {« de continuer à soutenir les efforts pour traduire en justice les pirates, déployer des forces navales pour surveiller l'océan et saisir les bateaux et le matériel des pirates ».}
+
+En d'autres termes, l'ONU, considérant que le système de surveillance mis en place dans l'Océan Indien et dans la Mer Rouge avait montré son efficacité, a demandé aux nations concernées de poursuivre leurs efforts dans ce sens.
+
+------------------
+
+<p class=small>À consulter dans la collection cartographique</p>
+<p class=small>[->48]</p>
+
+<https://farm4.staticflickr.com/3896/15084209481_bbd20f235b_b_d.jpg size=medium>
+
+------------------
+
+Le coût de la lutte contre la piraterie maritime est estimé, selon les sources, entre 18~et 20~milliards de dollars par an depuis 2006. C'est donc à ce prix que la communauté internationale pense qu'elle a réussi à « assurer la sécurité » du trafic maritime dans les zones dites à risque. Et cela représente beaucoup d'argent : seulement une petite partie de cette somme est couverte par les grandes compagnies maritimes. L'essentiel, c'est-à-dire la mise en place et la gestion de l'immense infrastructure militaire, est assumé par les États concernés, c'est-à-dire par les contribuables… 
+
+Déclarés « utiles », ce sont pourtant des investissements énormes -- de court ou de très court terme (sécurité, surveillance) -- qui ne rapporte rien. En somme, de l'argent « perdu ». Dans ce contexte, il n'est pas surprenant que les Etats aient poursuivi le débat sur l'ouverture de routes maritimes alternatives, ainsi que de corridors terrestres internationaux pour diversifier les voies d'approvisionnement en matières premières, en produits énergétiques ou en produits manufacturés.
+
+Bien entendu, Il ne s'agit pas de remplacer le fret empruntant les routes maritimes traditionnelles entre l'Europe et l'Asie via l'Océan Indien, la Méditerranée et les passages stratégiques (Gibraltar, Suez, Bab el-Mandeb et Malacca), d'autant plus que la question de la piraterie au large de la Corne africaine est « en voie de disparition ». Le débat porte plutôt sur l'élaboration d'un réseau « complémentaire », sur un rééquilibrage des « routes marchandes » pour donner un peu moins d'importance à ce grand mouvement de va-et-vient d'Est en Ouest concernant des dizaines de milliers de bateaux, un mouvement pendulaire presque parfait qu'on appelle le {pendulum latitudinal.}
+
+Du point de vue économique, il est peut-être profitable d'investir, non pas dans la sécurisation d'une route, mais plutôt dans des infrastructures durables (comme des corridors de transports terrestres multi-modaux), et surtout rentables sur le moyen et le long terme. 20~milliards de dollars, c'est en gros le coût d'un gazoduc ou d'un oléoduc transcontinental…
+
+Par rapport au pendulum latitudinal, on pourra différencier les routes alternatives «externes» et «internes» :
+
+- Externes : les détours par des circuits sûrs, plus longs, donc plus coûteux mais infiniment moins risqués, ne représentent pas une solution à long terme, mais plutôt une solution d'urgence pour maintenir le trafic maritime si des tensions politiques, une crise majeure ou un conflit interdisent l'accès à la route principale ;
+
+- Internes : ce sont des alternatives plus durables, étudiées aujourd'hui avec beaucoup d'attention par tous les acteurs mondiaux du transport. Notamment la route arctique, soit par la côte russe, soit par la côte canadienne : le trafic y croît rapidement, mais le nombre de cargos qui l'empruntent reste très marginal (quelques centaines, contre 20~000 pour l'Océan Indien en 2012).
+
+En novembre 2012, Gazprom, pour la première fois au monde, a réussi à faire passer un énorme méthanier par la route du Nord-Est depuis la Norvège jusqu'au Japon. Et l'année suivante, le {Nordic Orion,} un vraquier de 225~mètres chargé en charbon à Vancouver est arrivé en Finlande après avoir emprunté le passage du Nord-Ouest, économisant ainsi 80~000~dollars en carburant, et une semaine de temps, et prouvant ainsi que les plus gros navires du monde pouvaient emprunter ces voies maritimes dangereuses.
+
+Mais pour établir une route permanente dans l'Arctique, tous les problèmes sont loin d'être réglés :
+-- il faut d'abord attendre encore un peu pour que la route soit libre de glace pendant une période assez longue, permettre au trafic de s'accroître pour rentabiliser les nécessaires infrastructures à construire le long de la côte (secours et assistance en cas de naufrage, surveillance, services, brise-glaces) ;
+-- ensuite, il faudra que le Canada et les États-Unis parviennent à un accord sur la souveraineté du passage du Nord-Ouest, que les Canadiens considèrent comme canadien, mais que les Etats-Unis considèrent comme un espace «international» ;
+-- enfin, de gros investissements seront nécessaires pour moderniser une partie de la flotte mondiale et construire des navires à double ou triple coque, renforcés pour affronter une navigation rendue difficile par les nombreux blocs de glace dérivants pendant la période de dislocation de la calotte glaciaire. De ce fait, la plupart des analystes ne cessent de répéter qu'une réelle navigation commerciale en milieu arctique ne sera possible qu'à partir de 2025. 
+
+Le corridor terrestre transcontinental qui relie l'Asie à l'Europe et l'Amérique du Nord est une autre alternative. Cette route pourrait bien jouer un rôle fondamental à l'avenir pour le transport d'une partie des marchandises, matières premières comme produits manufacturés conteneurisés. Le projet est loin d'être opérationnel, mais représente un potentiel certain. Reste à finir de rénover les voies ferrées, à gérer la question des ruptures de charges, liées -- dans la partie terrestre du projet -- à la différence d'écartement des rails entre la Chine et les pays de l'ex-URSS, et entre la Russie et l'Europe.
+
+Enfin, et lorsque la situation géopolitique le permettra, une troisième alternative interne sera possible avec la construction d'une série de nouveaux pipelines qui complèteraient le réseau existant entre les pays de Golfe, l'Asie centrale, la Russie et l'Europe, et entre la Russie et la Chine.
+
+La mise en place de ces nouvelles routes n'absorberait qu'une partie du trafic dans l'Océan Indien, lequel resterait toutefois soutenu. Mais cela pourrait changer sensiblement «l'ordre mondial» du système de transport maritime, rendant les États moins dépendant des zones à risque, pas seulement de piraterie, mais aussi de crises internationales majeures.
+
+------------------
+
+<p class=small>À consulter : [->48]</p>
+<p class=small>dans la collection cartographique, l'esquisse préparatoire</p>
+
+<https://farm4.staticflickr.com/3928/15401403611_8baa0e365b_o_d.jpg size=medium>
+
+------------------
+
+
+
+--------------------------
+
+PS: Si vous souhaitez commenter, utiliser le texte ou la carte de cet article, ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse mail [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 2 octobre 2014 21:23

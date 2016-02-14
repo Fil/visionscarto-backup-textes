@@ -1,0 +1,105 @@
+
+--------------------------
+
+TITRE:
+Los hackers de La Paz se organizan para liberar internet
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+--------------------------
+
+CHAPO:
+A 3.700 metros de altura, en la capital boliviana, al visitante rápidamente le falta el aire cuando sube las cincuenta gradas que llevan a la r00thouse, la gran casa que sirve de punto de encuentro para los militantes del software libre. Una bandera negra con calavera flota sobre la fachada rosada. Su color esta un poco pasado: ya son siete años que se instalaron aquí. El presupuesto muy escaso que logran juntar esta esencialmente dedicado para un proyecto estrella, la red mesh. En efecto, los hackers de La Paz sueñan en grande: desplegar, sobre toda la capital boliviana, un acceso internet público.
+
+<h4 class="text-right">{por Philippe Rivière}</h4>
+
+
+--------------------------
+TEXTE:
+
+En este fresco sábado del mes de julio, bajo la nieve, trepamos la reja de la ventana para acceder al techo. El objetivo: verificar que ningún obstáculo esté obstaculizando la línea de vista directa con el «Monoblock», el edificio característico de color café de la Universidad Mayor de San Andrés (UMSA), del otro lado del río subterráneo que atraviesa la ciudad. La red, que hasta la fecha solo fue validada en el espacio cerrado del [hacklab->http://hacklab.org.bo/], lugar de encuentro de los militantes de la informática libre, pronto conocerá su primera prueba en tamaño real.
+
+<https://farm1.staticflickr.com/467/19024708568_fa07ffc5b6_h_d.jpg
+legend="Acogedor r00thouse">
+
+{«Este proyecto existe desde 2012,} cuenta Armin Mesa, uno de los animadores del hacklab de La Paz. {En esa época, fuimos con unos amigos a visitar el hacklab de Santiago de Chile. Allá, fabricaban sus propias antenas. Tienes que saber que las conexiones internet en Bolivia son muy caras, y lentas... Entonces tuvimos la idea de proponer una nueva opción: un intranet al cuál se podría conectar toda persona que así lo desee.»}
+
+<https://farm1.staticflickr.com/464/19409602166_43c4a49866_z_d.jpg
+legend="Escalada del techo del r00thouse, bajo la nieve">
+
+Una primera experiencia, en 2009, ya había permitido a Freddy Condori conectar la casa de sus padres, en El Alto, la gran ladera en el norte de La Paz, compuesta por más de un millón de habitantes e instalada a unos 4.000~metros de altura. Su antena wi-fi artesanal fue la única manera para el de obtener una conexión a internet estable y con una buena velocidad. En ese entonces, había empezado a compartirla con sus vecinos.
+
+<https://farm1.staticflickr.com/556/19428641001_ebbd5251c1_z_d.jpg
+legend="La antena direccional apuntada hacia la UMSA" right>
+
+{«Durante mucho tiempo,} sigue Armin Mesa, {el proyecto no pudo avanzar realmente, por falta de plata. Pero terminamos definiendo que ese era nuestra prioridad. Juntando nuestros recursos, compramos algunos routers y una antena direccional.»}
+
+El plan es el siguiente: cuando el primer vínculo estará establecido con la Universidad Mayor de San Andrés, los hackers añadirán una segunda conexión, {«hacia la casa de Victor, a unas cuatro cuadras».} Desde estos tres nodos, esperan poder conectar {«las tres o cuatro escuelas del barrio»,} luego cubrir toda la zona en wi-fi, y finalmente ofrecer servicios como {«una copia local de Wikipedia en español»} o también {«un nodo Diaspora»} -- ese software libre que permite crear una [red social descentralizada->https://framasphere.org/].
+
+<https://farm1.staticflickr.com/522/19217328262_14dc435fea_z_d.jpg
+legend="Al frente, la UMSA">
+
+Varios miembros del hacklab son estudiantes en informática. Con el apoyo de algunos profesores, prevén proponer un proyecto de investigación conjunto con la U. Pero tienes celos de su autonomía: a una militante de Nueva York que les visita el domingo siguiente, Armin explica que {«de ninguna forma se aceptará plata de una empresa o una ONG internacional».} Sin embargo, hay emergencia: Facebook lanzó, el 22~de~junio, un acuerdo con Viva, la tercera empresa de telefonía móvil de Bolivia, para difundir sobre el territorio la iniciativa Internet.org, una suerte de sucedáneo de la red mundial que ofrece acceder al sitio de... Facebook y algunos sitios socios. El «mal absoluto» para estos militantes del software libre, que esperan poder desarrollar un verdadero acceso a la red para que la población pueda descubrir todo lo que se puede hacer con internet antes de {«caer en la trampa»} de esta iniciativa.
+
+<https://farm1.staticflickr.com/524/18812201434_43ceb001cf_z_d.jpg
+legend="La señal" right>
+
+Pero, si la oferta de Facebook tiene éxito, es porque la falta de ancho de banda en el país es evidente. Bolivia esta entre los últimos países en todos los indicadores de conexión a la red. Según el sitio [mas y mejor internet->http://www.masymejorinternet.org.bo/], apenas 5,4% de los hogares tienen acceso a internet; la velocidad promedio no pasa de 1~Mbps, y el precio es por lejos el más elevado de América Latina. La emergencia del internet móvil podría cambiar un poco la figura, pero Bolivia es también el país que cuenta con la menor tasa de conexiones móviles de banda ancha del continente.
+
+¿Se deberá al tamaño reducido del país (apenas 11~millones de habitantes) o al hecho que, por no tener acceso al mar, se provee en ancho de banda a través de su «aliada-enemiga», la República de Chile, ubicada al final del cable que llega de Estados Unidos? La respuesta de Luís, un militante del software libre, vuela: {«¿No eres funcionario del Gobierno, por si acaso? Mira a Estonia, es un país diez veces más pequeño que Bolivia. sin embargo, solo basta con una hora para crear una empresa de informática, tener acceso a todos los servicios necesarios y al mejor ancho de banda. Al contrario; si consideras que Bolivia esta rodeada por cinco países, podría volverse una ciber-plataforma latinoamericana... ¡Si así lo quisiera!»}
+
+<https://farm4.staticflickr.com/3798/18813450854_2b5a6c317e_z_d.jpg
+legend="Los routeurs de la red mesh" right>
+
+Al igual que algunos ex-presidentes y empresarios corruptos que escaparon después de la llegada al poder en 2006 del líder sindical Evo Morales, los puntos de interconexión entre operadores bolivianos se encuentran... en Miami. A menudo, un correo electrónico enviado de La Paz transita por España, y luego por Washington, antes de volver a La Paz. Un decreto de octubre de 2012 obliga los operadores a establecer un punto de intercambio en Bolivia, pero son reticentes en explotarlo plenamente y la situación evoluciona muy lentamente.
+
+<https://farm1.staticflickr.com/301/19212801455_e22b33b708_o_d.jpg
+size=original legend="Una cibercafé en La Paz">
+
+Para salir de esta complicada situación, el gobierno adoptó una estrategia, la «soberanía científica y tecnológica». En el ámbito informático, se traduce por un plan que apunta a equipar todas las administraciones de software libre, en lugar de los tradicionales programas «privativos» de Microsoft y otros. ¿Pero con qué recursos humanos?
+
+<https://farm1.staticflickr.com/677/22300955600_2d852e6744_m_d.jpg
+title="Ver nuestra serie cartográfica sobre las tarifas de acceso a
+internet en el mundo" link=http://visionscarto.net/precios-internet-2014
+right>
+
+En la [ADSIB->http://www.adsib.gob.bo/], el polo digital de la administración, el voluntarismo es evidente. Un aire de hacklab se respira en este tercer piso del palacio de la vicepresidencia. Bajo una luz pálida, se manipula el soldador para ensamblar tarjetas-madre. Un joven ingeniero francés vino para una pasantía. Su rol es concebir un router capaz de hacer transitar datos de manera cifrada sobre el futuro intranet del Estado. (Y yo doy, por mi parte, un curso en la noche sobre herramientas de procesamiento de datos.) En el subsuelo, visitamos un centro de datos que alberga los servidores que deberán proveer el sistema de firma digital previsto por la ley. La seguridad del sitio ha sido asegurada de manera interna, a partir de ensamblajes Arduino -- un sistema electrónico libre muy apreciado de los libristas.
+
+La agencia, que debe auto-sostenerse (vende los nombres de dominio internet en .bo), dispone de solamente unos veinte funcionarios. Muy poco para implementar un plan nacional ambicioso. En los pasillos, se pueden ver de hecho algunos de los miembros del hacklab, que encontraron aquí un contrato temporal. Muchos de los servicios estatales funcionan por proyecto, cofinanciados por la ayuda internacional, pero se desenvuelven sin mucha coordinación. Una consecuencia es el número muy elevado de consultores contratados por periodos cortos (tres a nueve meses). Este modo de funcionamiento ha sido bautizado {proyectorado} por el economista español Antonio Rodríguez-Carmona (leer sobre este tema la nota de nuestro amigo Louca Lerch en la [Revista Tercer-Mundo->http://www.jstor.org/stable/23593832]). Perjudica la continuidad necesaria de la acción, así como a la memoria institucional, produciendo al mismo tiempo un sentimiento de precariedad [[NdT: Después de la fecha de realización de este reportaje se registraron sin embargo importantes cambios en este ambito con la creación de una Agencia del gobierno electrónico (AGETIC) con mayores dotaciones en personal fijo y atribuciones.]].
+
+<https://farm4.staticflickr.com/3910/19197593786_c080cc2222_z_d.jpg
+size=original legend="Uno de los numerosos anuncios de capacitaciones en informática que florecen sobre las paredes">
+
+Se entiende entonces que nuestros hackers, sin hostilidad particular por el gobierno, deseen desarrollar una red independiente. Y esta noche, están encantados: funciona! La antena sobre el techo capta el wi-fi de la universidad, y el lazo parece rápido y estable. ¡Jallalla!
+
+<p class="text-right caps">↬ Philippe Rivière</p>
+
+_ 
+
+_ 
+
+
+<https://farm4.staticflickr.com/3717/19026206769_571c26cf50_h_d.jpg
+size=original legend="La puerta del baño de la r00thouse y su «kit anti-estrés: Golpear la cabeza aquí. Repetir tantas veces como sea necesario. En caso de perder el conocimiento, hacer una pausa.»">
+
+
+
+#internet #bolivia #hackers #réd #mesh #cccp
+_ {Foto del encabezado: vista sobre el Illimani desde la r00thouse.}
+
+{Traducido por Sylvain Lesage.}
+
+
+
+--------------------------
+
+PS: Si quiere reaccionar, contribuir, comentar, utilizar este texto o las imágenes, o simplemente contactar el autor, le invitamos a escribirnos mediante [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 26 de octubre de 2015 23:35

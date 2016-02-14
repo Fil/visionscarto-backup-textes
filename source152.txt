@@ -1,0 +1,195 @@
+
+--------------------------
+
+TITRE:
+Cartes minimalistes
+
+--------------------------
+
+AUTEUR: 
+- Arthur Charpentier
+
+--------------------------
+
+CHAPO:
+<https://farm6.staticflickr.com/5813/21268707072_29cb14cdc8_k_d.jpg size=original class=fullwidth>
+Il y a quelques jours j'ai relayé sur twitter ces images vues sur le site [imgur->http://imgur.com/iOIaAJN], sans explication ni mention d'auteur. Piqué par une question de [Matthew Champion->https://twitter.com/matthewchampion] qui me demandait comment j'avais fait ces cartes (ce n'était pas le cas), je me suis pris au jeu de les reproduire avec mon langage de programmation favori, [R->https://fr.wikipedia.org/wiki/R_(langage_de_programmation_et_environnement_statistique)].
+
+
+<h4 class=text-right>Par Arthur Charpentier</h4>
+<h5 class=text-right>statisticien, économiste, animateur du blog [Freakonometrics->http://freakonometrics.hypotheses.org/]</h5>
+
+
+--------------------------
+TEXTE:
+
+Le logiciel R peut être installé, librement et gratuitement, depuis un des dépôts du [CRAN->https://cran.r-project.org/] (Comprehensive R Archive Network), ou, pour un éditeur plus convivial, via [RStudio->https://www.rstudio.com/products/rstudio/download/]. Une des richesses de R, c'est sa (vaste) communauté d'utilisateurs, qui partagent des librairies de fonctions (appelées {packages}), par exemple en [cartographie->https://cran.r-project.org/web/views/Spatial.html]. Ces librairies proposent divers outils comme des fonctions ou des bases de données.
+
+Pour installer un {package,} on emploie la commande
+<html><kbd>install.packages("maps",dependencies=TRUE,repos='http://cran.us.r-project.org')</kbd></html>
+
+Cette instruction va installer sur notre disque dur les divers objets du package <code>maps</code>. Ces fonctions doivent ensuite être chargées en mémoire, avec l'instruction :
+<html><kbd>library(maps)</kbd></html>
+
+{{{1. Les villes}}}
+
+Le package <code>maps</code> contient, entre autres choses, une base de la localisation des principales villes du monde, dont on peut afficher un extrait de quelques lignes ainsi :
+<html><kbd>data("world.cities")</kbd><br>
+<kbd>tail(world.cities[,c(1,2,4,5)])</kbd></html>
+
+<pre>
+                 name  country.etc   lat  long
+43640      az-Zubarah        Qatar 26.12 51.17
+43641       az-Zubayr         Iraq 30.39 47.71
+43642        az-Zulfi Saudi Arabia 26.30 44.80
+43643   az-Zuwaytinah        Libya 30.95 20.12
+43644    s-Gravenhage  Netherlands 52.07  4.30
+43645 s-Hertogenbosch  Netherlands 51.68  5.30
+</pre>
+
+Les quatre colonnes de données affichées sont: le nom de la ville (1), son pays (2), sa latitude (4) et sa longitude (5). (La base contient d'autres éléments, comme par exemple la population, champ numéro 3.)
+
+Pour obtenir le premier graphique, on emploie la fonction <code>plot()</code>, qui trace des points, en indiquant les longitude (<code>world.cities$lon</code>) et latitude (<code>world.cities$lon</code>) de chaque ville, avec des points pleins (option <code>pch=19</code>) et pas trop gros (<code>cex=.7</code>) -- n'oublions pas qu'il y a 43~645 points à représenter sur la “carte” --, sans dessiner ni axe ni libellés :
+
+<html><kbd>plot(world.cities$lon,world.cities$lat,pch=19,cex=.7,axes=FALSE,xlab="",ylab="")</kbd></html>
+
+<https://farm6.staticflickr.com/5674/21268946342_c3fb6c14e6_o_d.png size=original>
+
+L'image est un peu trop dense à notre goût, on va la simplifier en affichant moins de points. Par exemple, en se limitant aux villes de plus de 100~000~habitants. Le plus simple est de filtrer le contenu pour n'en retenir qu'une sous-base:
+<html><kbd>world.cities.sub = subset(world.cities,pop>100000)</kbd></html>
+et de reprendre le code précédent
+<html><kbd>plot(world.cities.sub$lon,world.cities.sub$lat,pch=19,cex=.7,axes=FALSE,xlab="",ylab="")</kbd></html>
+
+Cette fois, seules 4~251 villes sont représentées.
+
+<https://farm1.staticflickr.com/654/21287597111_6c85013b90_o_d.png size=original>
+
+
+{{{2. Les aéroports}}}
+
+Dans la plupart des situations, les données nécessaires pour créer une carte ne se trouvent pas dans un package, et il convient de les trouver sur un site.
+
+C'est le cas pour la localisation des aéroports. Les bases de données proposées par le site [openflights.org->http://openflights.org/data.html#airport] en référencent près de 7~000. Une base plus petite (probablement uniquement les aéroports internationaux) se trouve sur le site [Natural Earth->http://www.naturalearthdata.com/downloads/10m-cultural-vectors/]. Il faut télécharger, puis importer la base sous R.
+
+<html><kbd>loc="http://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/cultural/ne_10m_airports.zip"</kbd><br>
+<kbd>download.file(loc,destfile="data/aeroports.zip")</kbd></html>.
+Ce fichier au format zip doit être décompressé :
+<html><kbd>unzip("data/aeroports.zip", exdir="data/aeroports/")</kbd></html>
+
+On obtient ainsi un ensemble de fichiers, qui composent un {shapefile}; ils contiennent des objets géoréférencés, comme des lignes, des polygones ou des points. Pour importer ce shapefile dans R, il convient d'installer le package dédié:
+<html><kbd>install.packages("maptools",repos='http://cran.us.r-project.org')</kbd></html>
+
+on charge ensuite les fonctions en mémoire, et on utilise la fonction <code>readShapePoints()</code> (la base des aéroports est une collection de points géographiques).
+<html><kbd>library(maptools)</kbd><br><kbd>
+shape <- readShapePoints("data/aeroports/ne_10m_airports.shp")</kbd></html>
+
+<html><kbd>plot(shape,pch=19,cex=.7)</kbd></html>
+
+<https://farm1.staticflickr.com/666/21253547976_6c55512b31_o_d.png size=original>
+
+
+{{{3. Les ports maritimes}}}
+
+Tant qu'on est sur un format de points, le processus est toujours le même. La seule difficulté est de trouver les bases localisant des points intéressants. 
+
+Autre exemple, les {ports} se trouvent aussi sur [Natural Earth->http://www.naturalearthdata.com/downloads/10m-cultural-vectors/]:
+
+<html><kbd>loc="http://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/cultural/ne_10m_ports.zip"</kbd><br><kbd>
+download.file(loc,destfile="data/ports.zip")</kbd><br><kbd>
+unzip("data/ports.zip", exdir="data/ports/")</kbd><br><kbd>
+shape <- readShapePoints("data/ports/ne_10m_ports.shp")</kbd><br><kbd>
+plot(shape,pch=19,cex=.7)</kbd></html>
+
+<https://farm6.staticflickr.com/5747/21092982969_f57734f0bc_b_d.jpg size=original>
+
+{{{4. Les rivières}}}
+
+Une base de données des rivières sur trouve sur [github.com/jjrom/hydre->https://github.com/jjrom/hydre/tree/master/mapserver/geodata/rivers]. Ces données sont un peu plus difficiles à récupérer, car elles ne sont pas au format zip mais en 7 fichiers à télécharger individuellement.
+
+Cette fois-ci, ce qu'on veut visualiser n'est pas constitué de points, mais de lignes. On importe la base avec la fonction <code>readShapeLines()</code>.
+
+<html><kbd>shape <- readShapeLines("GRDC_687_rivers.shp")</kbd></html>
+
+Cet objet est un peu plus complexe que le précédent. Chaque “rivière” est une collection de lignes. Il y en a ici 687. La troisième rivière de la liste est décrite par l'objet <code>shape@lines[[3]]</code>, qui est une liste composée de lignes, correspondant à autant de tronçons de rivière que nécessaire. Ainsi, le cinquième tronçon de la troisième rivière est caractérisé par les points
+<html><kbd>shape@lines[[3]]@Lines[[5]]</kbd></html>
+
+<pre>## An object of class "Line"
+## Slot "coords":
+##            [,1]     [,2]
+##  [1,] -161.9773 61.56081
+##  [2,] -162.0067 61.55999
+##  [3,] -162.0303 61.56082
+##  [4,] -162.0411 61.56194
+##  [5,] -162.0697 61.56777
+##  [6,] -162.0817 61.57639
+##  [7,] -162.0855 61.58250
+##  [8,] -162.0864 61.58860
+##  [9,] -162.0783 61.59749
+## [10,] -162.0725 61.60139
+## [11,] -162.0650 61.60500
+## [12,] -162.0378 61.61361
+## [13,] -162.0269 61.61583
+## [14,] -162.0125 61.61694
+## [15,] -161.9892 61.62110
+## [16,] -161.9745 61.62838
+</pre>
+
+Visuellement, on va relier ces points par des segments; l'opération est plus lourde, car on traite des centaines de milliers de coordonnées. La commande à utiliser est :
+<html><kbd>plot(shape,col="blue")</kbd></html>
+
+<https://farm1.staticflickr.com/679/20658823013_5bb3efeb50_b_d.jpg size=original>
+
+{{{5. Les routes}}}
+
+Pour les routes, on a compris. Il suffit de trouver la base, de l'importer, de la lire, et de la visualiser. Avec là encore un simple appel de la fonction <code>plot()</code> pour garder une forme minimaliste.
+
+La base est sur Natural Earth à l'adresse [->http://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/cultural/]; les fonctions <html><kbd>readShapeLines</kbd></html> et <html><kbd>
+plot(shape,pch=19,lwd=.7)</kbd></html> nous permettent de tracer la carte.
+
+<https://farm6.staticflickr.com/5812/21253891486_feb72a44c8_b_d.jpg size=original>
+
+(Un lecteur nous signale qu'il y a sur notre carte des “routes” reliant l'Islande, la Norvège et la Grande-Bretagne; ce sont probablement des ferry.)
+
+{{{6. Les lacs}}}
+
+Les lacs se trouvent eux aussi sur le site [Natural Earth->http://www.naturalearthdata.com/downloads/10m-physical-vectors/]. Cette fois, les objets sont des polygones, c'est-à-dire une collection de sommets reliés entre eux ; on emploie la commande <code>readShapePoly</code> pour les importer.
+<html><kbd>shape <- readShapePoly("data/lacs/ne_10m_lakes.shp")</kbd></html>
+
+Nous obtenons 1~353~lacs. L'objet <code>shape@polygons[[3]]</code> contient le (ou les) polygones décrivant le troisième lac. Le premier de ces polygones est décrit par:
+<html><kbd>plot(shape@polygons[[3]]@Polygons[[1]]@coords)</kbd></html>
+<https://farm1.staticflickr.com/588/21092135090_0a146d3989_b_d.jpg size=original>
+
+On peut fermer ce polygone et le remplir en bleu :
+<html><kbd>plot(shape@polygons[[3]]@Polygons[[1]]@coords)<br>
+polygon(shape@polygons[[3]]@Polygons[[1]]@coords,col="light blue")</kbd></html>
+
+<https://farm1.staticflickr.com/652/21280226395_2b600194c5_b_d.jpg size=original>
+
+C'est ce que l'on va faire, avec tous nos polygones de lacs.
+<html><kbd>plot(shape,col="blue",border="blue")</kbd></html>
+
+<https://farm1.staticflickr.com/649/21280226505_bcf00fcc6c_o_d.png size=original>
+
+<h3 class=text-center>* * *</h3>
+
+Le code complet de cet article est disponible [sur le github de visionscarto->https://github.com/visionscarto/cartes-minimalistes]. On verra notamment comment choisir une autre projection géographique que l'on souhaite, avec le package <code>mapproj</code>, pour obtenir une carte telle que celle-ci.
+
+<https://farm1.staticflickr.com/695/21254028616_08e3793d83_o_d.png size=original>
+
+
+
+
+--------------------------
+
+PS: Pour commenter ou reproduire cet article, n'hésitez pas à nous écrire à l'adresse [->contact@visionscarto.net].
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- titre noir
+- texte sans-serif
+
+
+--------------------------
+Visionscarto - version du 11 septembre 2015 14:52

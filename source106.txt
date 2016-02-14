@@ -1,0 +1,69 @@
+
+--------------------------
+
+TITRE:
+By making hand-drawn maps of their slums in India, kids are influencing urban planning
+
+--------------------------
+
+AUTEUR: 
+- Sam Sturgis
+
+--------------------------
+
+CHAPO:
+A new project aims to give young Indians a voice in the city-development process.
+
+<h4 class="text-right">{By Sam Sturgis}</h4>
+<h5 class="text-right">{editorial fellow with [CityLab->http://www.citylab.com/], The Atlantic}</h5>
+
+
+--------------------------
+TEXTE:
+
+<https://farm8.staticflickr.com/7286/16677360628_b18c8bb1cc_o_d.jpg size=original caption="Hand-drawn maps such as this are winding up on the desks of~urban~planners across India." credit="Courtesy of Humara Bachpan">
+
+Every kid likes to draw. But in India, young people living in slums are using their sketching skills to spur urban change.
+
+As part of a broader civic campaign centered on “[child clubs->http://www.unicef.org/india/health_2885.htm],” groups of children are [creating detailed “social maps”->http://citiscope.org/story/2015/how-generation-young-leaders-emerging-indias-slums] of their marginalized neighborhoods to voice their concerns about public space [[As first reported in [Citiscope->http://citiscope.org/], a CityLab partner site.]].
+
+Since 2011, UNICEF has been encouraging kids to use [mobile technology and open data->http://unicefstories.org/2014/05/20/digital-mapping-technology-to-reduce-disaster-risks/] to map environmental and health issues near their homes. But that technology isn’t available to everyone. Instead, much of the child-led mapping campaign sweeping India today relies on old-school topography materials—paper and a rainbow-spectrum of markers.
+
+Teams of young mappers and adult facilitators spend roughly 45 days traversing their slums. They learn the shape of their neighborhood, how streets interconnect (or don’t), and the density of homes there. This information becomes the map’s skeleton. Then, they fill in the specifics. They stake out what is needed through the eyes of children—where underserved public areas could become play spaces, where trash bins could be added in an area they regularly see littered with filth. Their ideal neighborhood is drawn and detailed onto the map. Then, once completed, leaders from the child clubs present their work to local officials.
+
+<https://farm8.staticflickr.com/7282/16863814222_aa0a038dab_o_d.jpg size=original caption="Young mapmakers sketch out the changes they would like to see in their communities." credit="Courtesy of Humara Bachpan" class=fullwidth>
+
+<https://farm8.staticflickr.com/7586/16678839179_b25a9056cd_o_d.jpg size=original credit="Courtesy of Humara Bachpan" class=fullwidth>
+
+“What they make is their dream aspirational map,” says Aishwarya Das Pattnaik, a staff member of [Humara Bachpan->http://www.humarabachpan.org/], the organization leading the campaign.
+
+Humara Bachpan has been advocating for child-led development since 2012. It has organized mapping campaigns in a handful of major urban centers, including Mumbai, Delhi, and Hyderabad. ([According to Citiscope->http://citiscope.org/story/2015/how-generation-young-leaders-emerging-indias-slums], approximately 325 child clubs have been established across the country, with plans to expand.) The initiative mixes activism with adolescent fun; new friendships are made, hands are covered in ink, and leadership and planning skills are nurtured. But this is also serious work, as the long-term health of India’s slums may depend on these maps. As Das Pattnaik notes, children can pinpoint community needs that go unnoticed by adults.
+
+She cites the example of public sanitation infrastructure, which is a [glaring concern->http://www.inclusivebusinesshub.org/profiles/blogs/slum-sanitation-in-india-is-there-a-case-for-private-toilet] for the [65 million->http://www.thehindu.com/news/national/slum-population-up-from-52-million-to-65-million/article5187166.ece] urbanites—that’s about eight times the population of New York City—that live in slums across India. To combat sanitation woes, the scale of public toilets needs to dramatically grow. But if the bottoms of young slum dwellers do not fit on the new toilet seats, the improvement to public health is marginal. “A child could easily fall into the toilet,” Das Pattnaik told me. On many of the child maps, therefore, dots appear indicating where child-specific public toilets should go.
+
+<https://farm9.staticflickr.com/8683/16677355978_e999f2e822_o_d.jpg size=original credit="Courtesy of Humara Bachpan" class=fullwidth>
+
+The value of child-led mapping, however, is not restricted to dreaming of a modern cricket pitch or other public utilities (although that is evidently important). Generally speaking, people living in slums operate on the peripheries of Indian society—geographically and socio-economically. Exclusion is magnified even further when you are a child.
+
+Urban planning in India operates as a de-facto gerontocracy, I was told by Dharitri Patnaik, India representative of the [Bernard van Leer Foundation->http://www.bernardvanleer.org/], which funds child-development programs. “Most of the time children are never considered as citizens. They’re considered as future citizens,” Patnaik explains. By coming to the table with a surrogate development proposal—the map—children demonstrate analytical capabilities. In turn, government officials have to take them more seriously.
+
+Yet, no one likes being told how to do one's job, especially by children. Won’t urban-planning officials go on the defensive if their work is so candidly indicted, with colored markers no less?
+
+<https://farm9.staticflickr.com/8643/16678842619_77fa88ab6c_o_d.jpg size=original credit="Courtesy of Humara Bachpan" class=fullwidth>
+
+But those involved contend that the government has been duly responsive to children’s maps. Preeti Prada, Humara Bachpan’s national campaign coordinator, told me by email about a young mapmaker in the city of Bhubaneswar. Children in one neighborhood felt unsafe going to “tuition classes”—nighttime schooling popular in India—because the route was dimly lit. A 12-year-old girl responded by drawing a map of the area and, ultimately, earned an audience with the local ward representative to present it. According to Prada, the ward official is actively working to make the area safer by improving light utilities.
+
+At times, India’s urban future is depicted through an apocalyptic lens. Already, 25 percent of all urbanites in India live in close quarters in slums, [according to a 2011 government report->http://nbo.nic.in/Images/PDF/Slum_in_india_2011_english_book_23_May_12.pdf]. And by 2028, India is expected to overtake China as the [world’s most populous country->http://www.bbc.com/news/world-asia-22907307]—likely meaning more impoverished settlements. But only broad predications can be drawn from such data. Human activism, on the other hand, is a better indication of reality. Regardless of whether these child maps lead to more equitable urban development or not, it is indicative of a young Indian generation coming to the fore with a keen awareness of disparity—who are eager to correct it.
+
+<p class="text-right caps">↬ Sam Sturgis</p>
+
+
+--------------------------
+
+PS: This article has initially been published by {[CityLab->http://www.citylab.com/], The Atlantic} on Feb. 19, at “[Kids in India Are Sparking Urban Planning Changes by Mapping Slums->http://www.citylab.com/tech/2015/02/kids-are-sparking-urban-planning-changes-by-mapping-their-slums/385636/]”. It is republished here with kind permission from [the author->http://www.citylab.com/authors/sam-sturgis/].
+
+
+
+
+--------------------------
+Visionscarto - version du 20 March 2015 09:12

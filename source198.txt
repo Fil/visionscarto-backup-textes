@@ -1,0 +1,44 @@
+
+--------------------------
+
+TITRE:
+Prezzi degli accessi ad internet nel mondo
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+- Cristina Del Biaggio
+
+
+
+--------------------------
+TEXTE:
+
+|{{Titolo:}}| Prezzi degli accessi ad internet nel mondo |
+|{{Parole chiave:}} | #Internet #Comunicazione #Informatica #Ineguaglianze #Acesso #TIC |
+|{{Pubblicazioni:}} | Inedita |
+|{{Motivazione:}} | «[Gli hackers di La Paz si organizzaano per liberare internet ->http://visionscarto.net/hackers-de-bolivie]» |
+|{{Autore:}} | Philippe Rivière |
+|{{Fonte dei dati:}} | Unione internazionale delle telecomunicazioni (ITU), rapporto 2015 : «[Mesurer la société de l'information->http://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2015.aspx]». |
+|{{Data di creazione:}} | Ottobre 2015, aggiornata in dicembre 2015 |
+|{{Traduzione:}}| Cristina Del Biaggio |
+
+
+<https://farm2.staticflickr.com/1446/24996306186_bf6f3032c2_h_d.jpg
+ size=original>
+<https://farm2.staticflickr.com/1669/24392031894_2a51aad13a_h_d.jpg size=original>
+<https://farm2.staticflickr.com/1679/24727110270_d7c1889822_h_d.jpg size=original>
+
+<quote>{{Nota.}} Secondo la definizione dell'ITU, l'accesso internet a "banda larga" concerne le connessioni fisse superiori a 256 kbit/s — un valore cento volte inferiore per esempio a quello divulgato nel 2015 dalla Federal Communications Commission (FCC) ([25Mbit/s->https://www.fcc.gov/document/fcc-finds-us-broadband-deployment-not-keeping-pace]).</quote>
+
+
+--------------------------
+
+PS: Se desiderate utilizzare queste carte, o semplicemente contattare l'autore, non esitate a scrivere all'indirizzo: [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 14 febbraio 2016 16:23

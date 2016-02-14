@@ -1,0 +1,51 @@
+
+--------------------------
+
+TITRE:
+Cartographier le choléra
+
+--------------------------
+
+AUTEUR: 
+- Sonia Shah
+- Dan McCarey
+
+--------------------------
+
+CHAPO:
+<h4 class="text-right">{par Sonia Shah}</h4>
+<h5 class="text-right">Journaliste scientifique</h5>
+
+
+--------------------------
+TEXTE:
+
+Ebola est le dernier en date des virus pathogènes envahissant de façon incontrôlable une communauté appauvrie et ravagée par un conflit ou une catastrophe environnementale ; mais il n’est pas le premier. Il y a quatre ans, presque jour pour jour, un autre pathogène d’une virulence similaire, d’une grande capacité à fondre sur des sociétés caractérisées par un assainissement défaillant, la surpopulation et la méfiance, dévastait l’île-nation d’Haïti, à quelques mille kilomètres des côtes de Floride, dans une épidémie hors de contrôle qui persiste encore aujourd’hui.
+
+{Vibrio cholerae} n’a jamais été signalé sur l’île au cours du siècle qui précède son arrivée en Haïti, en octobre 2010, soit dix mois après le séisme de magnitude 7 qui dévasta Port-au-Prince le 12 janvier 2010, à 16h53. Le pathogène bactérien provoque l’une des maladies les plus rapidement mortelles que connaisse l’humanité : le choléra. En l’absence d’un traitement rapide, le choléra peut tuer 50 % de ses victimes en quelques heures, en provoquant la perte de leurs fluides vitaux.
+
+À partir du petit nombre de cas initiaux, la flambée s’est rapidement muée en explosion, chaque victime infectée transmettant la maladie à environ six autres personnes… un taux trois fois supérieur à la croissance exponentielle d’Ebola. Douze mois plus tard, le choléra avait rendu malades plus de 450 000 Haïtiens -- soit 5 % de la population -- et tué plus de 6 000 personnes. Le pathogène avait aussi atteint la République dominicaine, Cuba, les Bahamas, Puerto Rico et le Mexique. Les autorités sanitaires mondiales ont échoué à contrôler cette épidémie, qui continue encore en cette fin d'année 2014 à dévaster Haïti, contaminant quotidiennement 30 personnes de plus.
+
+Le choléra est l’un des pathogènes les plus performants au monde, coupable de pas moins de sept pandémies globales. Haïti est sa conquête la plus récente. L’une de ses premières avait été la ville de New York, en 1832. En exploitant des cartes nouvellement géocodées et en visualisant des données jamais encore représentées, l'application « Cartographier le choléra », présentée ci-dessous, raconte l’histoire de ces deux épidémies notables (et oubliées), qui ont ponctué la longue carrière de l'un des agents pathogènes les plus terrifiants et les plus difficiles à dompter de la planète.
+
+
+<div class=fullwidth><iframe id="appli" src="http://visionscarto.net/maps/choleramap/?lang=fr" scrolling="no" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="100%" frameborder="0" height="600"></iframe>
+<html><script>setInterval(function(){ $('#appli').css('height', $('#appli').width()*2/3);}, 500);</script></html>
+</div>
+
+<aside class=box>
+NDLR: Les victimes haïtiennes ont porté l'affaire devant les tribunaux, afin de faire reconnaître la responsabilité des Nations Unies. L'organisation a longtemps pratiqué le déni. Elle admet désormais que ses soldats ont été le vecteur du choléra en Haïti — mais revendique l'immunité juridique. Nous suivrons cette affaire, notamment à travers [seenthis->http://seenthis.net/recherche?recherche=chol%C3%A9ra%20ha%C3%AFti].
+
+#cartographie_narrative #choléra #santé #épidémies #inégalités #histoire #Haïti #géocodage
+</aside>
+
+
+--------------------------
+
+PS: Visionscarto a traduit ce projet en français, et contribué à diffuser ce travail dans la presse ({[Le Monde->http://abonnes.lemonde.fr/sciences/visuel/2014/11/14/les-chemins-du-cholera-pour-comprendre-l-epidemie-d-ebola_4523892_1650684.html?xtmc=cholera&xtcr=1]}, 14/11). Si vous souhaitez contacter l'auteure, republier cette carte ou la traduire dans d'autres langues, n'hésitez pas à nous écrire à [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 29 janvier 2016 08:41

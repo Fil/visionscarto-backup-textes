@@ -1,0 +1,63 @@
+
+--------------------------
+
+TITRE:
+Bretagne zone hydrocarbure
+
+--------------------------
+
+AUTEUR: 
+- Bruno Bergot
+
+--------------------------
+
+CHAPO:
+Une visualisation sous forme de narration cartographique des différentes marées noires qui ont touché les côtes bretonnes, du {Torrey Canyon} (1967) à l'{Erika} (1999).
+
+
+--------------------------
+TEXTE:
+
+<iframe width="100%" height="600" src="/maps/bretagne_zone_hydrocarbure/" frameborder="0"><https://farm2.staticflickr.com/1452/24103128561_610464401a_o_d.jpg></iframe>
+
+~
+
+
+<blockquote>
+{Né en mars 1978, je suis un fils de l'Amoco Cadiz, dont on pouvait sentir “la douce odeur” de pétrole jusqu'à Landerneau — dixit ma Mamie.}
+
+{L'idée de cette carte interactive m'est venue des t-shirts proposés par [PARIA->http://www.pariarevolution.com/fonds-d-ecran.htm], une marque locale de vêtements.}
+
+{J'ai “pompé” le visuel de leur fond d'écran, avec leur autorisation. Puis, j'ai utilisé les données du site du Centre de documentation, de recherche et d'expérimentations sur les pollutions accidentelles des eaux ([CEDRE->http://wwz.cedre.fr/]) pour la localisation des différentes marées noires.}
+
+{J'ai programmé la carte avec l'outil de cartographie [leaflet.js->http://leafletjs.com/]. J'en partage bien volontiers [le code->http://tiles.kupaia.fr/article34.html] pour qui voudrait le réutiliser sur d'autres projets. La licence est [CC0->https://creativecommons.org/publicdomain/zero/1.0/deed.fr] ou [WTFPL->http://www.wtfpl.net/] : autrement dit, servez-vous, et faites-en ce que voulez, comme vous le voulez ! »}
+<p class="caps text-right">Bruno Bergot.
+</p>
+</blockquote>
+
+~
+
+----
+
+|{{Année}}|{{Navire}}|{{Pétrole déversé}}|
+| 1967 | Torrey Canyon | 121 000 t |
+| 1976 | Boehlen | 7 000 t |
+| 1976 | Olympic Bravery | 1 200 t |
+| 1978 | Amoco Cadiz | 227 000 t |
+| 1979 | Gino | 32 000 t |
+| 1980 | Tanio | 6 000 t |
+| 1988 | Amazzone | 2 100 t |
+| 1999 | Erika | 20 000 t |
+
+<small>Source du bandeau : [National Oceanic and Atmospheric Administration, via Wikipedia->https://commons.wikimedia.org/wiki/File:Amoco_Cadiz_impact.jpg].</small>
+<html><script>setTimeout(function(){
+  $('iframe').attr('height', $('iframe').width()*2/3);
+},300);</script></html>
+
+
+
+
+
+
+--------------------------
+Visionscarto - version du 11 janvier 2016 15:59

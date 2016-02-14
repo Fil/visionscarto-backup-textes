@@ -1,0 +1,92 @@
+
+--------------------------
+
+TITRE:
+Afrique du Sud : quand la carte fait son histoire
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+--------------------------
+
+CHAPO:
+C'est une constante dans l'édition : les cartes publiées dans les manuels scolaires ou les journaux peinent à suivre les changements administratifs de frontières ou de noms. On réemploie souvent des fonds de carte qui n'ont pas été mis à jour, ou on reproduit des documents sans se rendre compte qu'ils sont devenus obsolètes. Exemple avec l'Afrique du Sud, qui nous avait donné du fil à retordre pour un article publié en 2008, et qui fait encore souffrir les rédacteurs pressés.
+
+<h4 class=text-right>par Philippe Rivière</h4>
+
+
+--------------------------
+TEXTE:
+
+<https://farm4.staticflickr.com/3874/14724689450_ee744f4453_o.jpg size=original class=right> On a parfois des surprises quand on cherche à faire une « carte de position » -- une de ces toutes petites cartes qui accompagnent un article, indiquant la localisation de quelques points de repère -- dans un pays ayant vécu des bouleversements politiques majeurs.
+
+Il n'est pas rare, aujourd'hui encore, de voir dans la presse ou dans certaines encyclopédies le Yémen représenté avec sa frontière nord d'avant 2000, la Yougoslavie d'avant 1991 ou l'Éthiopie avant la séparation avec l'Érythrée en 1992. Les simples cartes de localisation -- reprises, recopiées d'une édition à l'autre -- font l'objet de moins d'attention que les grandes cartes thématiques et n'arrivent parfois pas à suivre le rythme -- certes rapide depuis vingt ans -- des changements territoriaux.
+
+En 2008, l’Afrique du Sud nous en avait fourni un exemple (lire, dans le numéro d’avril 2008 du {Monde diplomatique}, [« Quand les Sud-Africains attendent un toit »->http://www.monde-diplomatique.fr/2008/04/RIVIERE/15824]).
+
+Une version de préparation de notre carte avait été composée avec les noms officiels, de langue anglaise, des provinces sud-africaines. Une première traduction, réalisée à partir du « livre de style » de l’intranet du {Monde}, donnait :
+- État libre (ex-État libre d'Orange, Free State)
+- Le Cap-Nord (Northern Cape)
+- Le Cap-Occidental (Western Cape)
+- Le Cap-Oriental (Eastern Cape)
+- Gauteng
+- Kwazoulou-Natal
+- Mpumalanga (ex-Transvaal-Oriental)
+- Nord-Ouest
+- Province du Nord (ex-Transvaal-Nord)
+
+Ce « livre de style » signalait également le changement de nom de la capitale, décidé en 2005, par la mention suivante :
+- Capitale : Tshwane (ex-Pretoria, 03.2005)
+
+La fiche « Afrique du Sud », mise à jour trois ans plus tôt, le 17 mars 2005, ignorait cependant que cette décision locale avait longtemps été contestée par la population afrikaner, qui protestait contre ce qu’elle percevait comme une volonté d’effacer toute trace de sa culture. Le changement de nom de la capitale n’avait donc pas été approuvé officiellement au plan national : Pretoria restait officiellement, Pretoria. En 2012, l'ANC proposait un compromis : la communauté métropolitaine porterait le nom de Tschwane, et la ville de Pretoria resterait Pretoria, à condition que vingt-sept de ses rues soient rebaptisées. En 2015, la dispute s'est déportée sur la question des panneaux apposés sur ces rues, et n'est [toujours pas terminée->http://www.iol.co.za/news/crime-courts/tshwane-to-get-old-street-names-back-1.1866630].
+
+En revanche l’africanisation de la « Province du Nord » en « Limpopo », qui avait eu lieu en 2003 et fait consensus, ne figurait pas dans notre « Bible » -- on notera aussi, au passage, que l’orthographe proposée pour le « Kwazoulou-Natal » relevait d’une écriture ultra-francisée inusitée ; la dénomination officielle est « KwaZulu-Natal ».
+
+Bref, il nous fallait trouver une source plus fiable. Une recherche nous avait d'abord conduit vers le site Internet de l’Assemblée nationale française qui n'offrait rien moins qu'une carte datant...  de l’apartheid (ci-dessous). 
+
+<https://farm4.staticflickr.com/3904/14888372426_36caafdb6b_o.jpg size=original
+legend="Le site de l'Assemblée nationale présentait cette carte datant de l'apartheid, sans en mentionner la source..."
+>
+
+Après l'avoir signalé au webmestre, en juin 2008, cette carte avait été changée par celle-ci :
+<https://farm4.staticflickr.com/3878/14721333959_f37772dd1c_o.gif size=original
+legend="... La nouvelle carte remplaçant celle de l'apartheid est une création du service cartographique du ministère des affaires étrangères français, où il n'a pas été jugé utile de reporter les nouvelles divisions administratives."
+>
+
+En 2015, le site de l'Assemblée nationale ne semble plus proposer de carte; quant au site du département cartographique des Nations unies, il offre encore en 2015 une carte de 2007, obsolète dès sa conception sur deux points : la province du Limpopo, et l'enclave d'Umzimkulu (voir plus bas).
+
+<https://farm6.staticflickr.com/5690/20860032341_4802412437_o_d.jpg size=original legend="Carte d'Afrique du Sud proposée par le département cartographique des Nations unies (2007).">
+
+
+Les neuf provinces sud-africaines actuelles ont été créées en 1994, par un redécoupage des provinces existantes et des bantoustans prétendument «autonomes » ou « indépendants » qui visaient, selon l’idéologie du « développement séparé des races » (c’est le sens du mot « apartheid »), à donner un pays à chaque « peuple » (lire « race »).
+
+<https://farm4.staticflickr.com/3844/14724756278_7878ce3c3c_o.jpg size=original
+title="Les bantoustans sud-africains avant 1994." credit="Philippe Rekacewicz, {Le Monde diplomatique}, janvier 1993."
+>
+
+Avec la nouvelle Constitution, les Transkei, Ciskei, Bophutatswana de sinistre mémoire furent soit effacés soit transformés en simples noms régionaux, sans existence administrative.
+
+Le Natal (blanc) fusionna en 1994 avec l’ex-bantoustan du KwaZulu, pour former le Kwazulu-Natal (ou KwaZulu-Natal). La province de l’État libre d’Orange (Orange Free State), du nom de la rivière Orange qui y coule, elle-même baptisée en l’honneur de la famille princière néerlandaise (Orange-Nassau) et, donc, de l’histoire boer de l’Afrique du Sud, devint en 1995 l’État libre (Free State). Enfin, le 1er mars 2006 le douxième amendement de la Constitution rattachait au Kwazulu-Natal l'enclave d'Umzimkulu.
+
+<https://farm4.staticflickr.com/3922/14724689520_9d7621c10d_o.jpg size=original
+title="Les nouvelles provinces créées en 1994." credit="Philippe Rekacewicz, «Le bouleversement du monde», {Manière de voir}, n° 25, février 1995."
+>
+
+Pour orthographier correctement nos provinces, nous nous sommes finalement tournés vers quatre sources récentes : l’ambassade d’Afrique du Sud à Paris, l’Encyclopædia Universalis 2008, le Robert 2008, ainsi que la version française de Wikipedia. Le Larousse de 2012 indique pour sa part : {{Cap-Est, Cap-Nord, Cap-Ouest, État libre, Gauteng, Kwazulu-Natal, Limpopo, Mpumalanga, Nord-Ouest}}.
+
+Les orthographes divergent un peu sur la traduction de « Eastern Cape / Western Cape », qui peuvent s’écrire « Cap-Est / Cap-Ouest » ou « Cap-Oriental / Cap-Occidental ». Mais il ne faut y voir cette fois qu’une liberté dans la traduction, sans connotation ni historique ni politique.
+
+#Afrique_du_Sud
+
+
+--------------------------
+
+PS: Cet article est une mise à jour de «[Quand la carte fait son histoire->http://blog.mondediplo.net/2008-06-13-Quand-la-carte-fait-son-histoire]», publié en juin 2008 sur le site du {Monde diplomatique.} Pour tout commentaire, n'hésitez pas à nous écrire : [->mailto:contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 1er septembre 2015 21:01

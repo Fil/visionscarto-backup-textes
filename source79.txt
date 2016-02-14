@@ -1,0 +1,123 @@
+
+--------------------------
+
+TITRE:
+Géographie de l'enfance
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+
+--------------------------
+
+CHAPO:
+Les enfants de moins de quatorze~ans sont aujourd’hui 1,9~milliard. La moitié d’entre eux n’ont accès à aucun des services fondamentaux auxquels ils ont droit : l’alimentation, la santé, l’éducation, la protection contre les abus. 
+<h4 class=text-right>{par Philippe Rekacewicz}</h4>
+
+
+--------------------------
+TEXTE:
+
+<p class=small>Ce billet a été publié dans le blog « Visions cartographiques » le 28 octobre 2009. Bien que les statistiques soient anciennes, les cartes restent pertinentes en 2014 . Elles ont un intérêt historique. Nous publions donc ce billet comme une base de travail, dans la perspective de proposer prochainement une mise à jour de tous les indicateurs présentés ici.</p>
+
+----
+
+La géographie mondiale des droits de l’enfant désigne sans erreur possible les lieux de l’enfance en péril. C’est la géographie de tout ce qu’il manque. Les tâches sombres qui, sur les cartes, représentent les situations les plus dramatiques se retrouvent toujours sur les mêmes régions : l’Afrique sub-saharienne et l’Asie du Sud où la plupart des États subissent encore avec violence les conséquences des politiques d’ajustement structurel des années 1980 et 1990. Comment des pays, priés de privatiser ses services publics, ou croulant sous une dette qu’ils peinent à rembourser, pourraient-il créer des systèmes de santé et d’éducation adaptés à leur population d’enfants ?
+
+<https://farm4.staticflickr.com/3932/15495046345_fa2b05fef6_o_d.jpg size=large title="Les enfants de cinq à quatorze~ans au travail, en pourcentage du total de la classe d'âge. Chiffres de 2000-2007.">
+
+Les droits des enfants y sont simplement bafoués, à commencer par le premier d’entre tous, le droit à la vie. Au Burkina Faso, au Mali ou au Tchad, un enfant sur~cinq meurt avant d’atteindre l’âge de 5~ans. Au Sierra Leone ou en Afghanistan, c’est un enfant sur~quatre. Le droit d’exister aussi, d’acquérir une nationalité, une identité : de nombreux enfants ne sont toujours pas enregistrés à la naissance (plus de la moitié des enfants en Afrique sub-saharienne ou en Asie du Sud) malgré les efforts notables de quelques États pour remédier à cette situation, comme le Cambodge qui vient de terminer une vaste campagne au cours de laquelle plusieurs millions de personnes ont été finalement enregistrées. Le droit à l’alimentation enfin : environ un tiers des enfants en Afrique sahélienne ou en Inde absorbent largement moins de calories que le minimum quotidien nécessaire et souffrent de ce fait d’insuffisance pondérale plus ou moins grave.
+
+<https://farm3.staticflickr.com/2945/15495047735_3c14e46b41_o_d.jpg size=large title="Mortalité infantile (enfants de moins de 1 an) en 2007.">
+
+Pour certains indicateurs, les courbes d’évolution montrent des situations qui, au mieux restent stables, au pire se détériorent, comme dans les régions occidentales ou orientales de l’Afrique. Retard de croissance et sous-nutrition touchent une part grandissante de la population enfantine, l’accès à l’eau et aux services d’assainissement ou aux centres de santé y sont plus difficiles que jamais.
+
+Rappelons enfin que cette photographie de la situation des enfants dans le monde est anachronique. Comme souvent, les institutions internationales mandatées publient les statistiques socio-démographiques avec deux ou trois~ans de retard, voire beaucoup plus dans certains cas. 
+
+Soit les États eux mêmes ne produisent des enquêtes qu’une fois tous les cinq ou dix~ans, soit les organisations internationales n’ont pas les budgets pour produire des statistiques plus à jour. Produire des chiffres coûte cher. L’Unesco, l’Unicef ou le PNUD publient en 2009 des statistiques de 2007 ou de 2006 (parfois, pour certains pays, les chiffres les plus récents remontent à 2000), de sorte que l’image cartographique présentée ici -- bien que réalisée avec « les derniers chiffres disponibles » -- montre une situation qui n’existe déjà plus en 2009. 
+
+C’est paradoxal, surtout à l’heure où n’importe quelle statistique économique ou financière est disponible le jour ou le mois même. Il faut dire que les budgets alloués pour la production de ces statistiques sont gigantesques (Banque mondiale, FMI et OCDE). Il est apparemment plus rentable de connaître l’état précis des PIB, du commerce international ou des transactions financières au jour le jour que de celui des enfants qui manquent de l’essentiel.
+
+
+
+
+<blockquote>
+{Nike paie vingt-neuf cents un gamin pour confectionner un maillot de basket avant de le revendre cent quarante dollars et ce serait moi le criminel ?}
+
+{Wal-Mart décime comme des bisons tous les commerces de proximité du pays et allonge sept cents de l’heure aux gosses qui fabriquent ses merdes et ce serait moi le criminel ?}
+
+{On dit bye-bye à deux millions d’emplois en deux ans, aucun travailleur ne peut encore avancer l’argent de l’achat d’une baraque, le fisc nous dépouille comme un poivrot devant un distributeur de billets de banque puis envoie notre fric à quelque industriel sous-traitant de la Défense, qui va fermer une usine, licencier ses ouvriers et s’octroyer un parachute doré de plusieurs millions de dollars et c’est moi le criminel ?}
+
+{Tu peux prendre les Crips, les Bloods, toutes les posses jamaïcaines, la mafia, la pègre russe et les cartels mexicains...}
+
+{À eux tous, ils seraient bien infoutus d’amasser en une bonne année autant de pognon que le Congrès en un après-midi médiocre ... »}
+
+<p class=small>Don Winslow — L’hiver de Frankie Machine
+Traduction Frank Reichert, cité par @grommeleur sur [seenthis.net->http://seenthis.net/messages/29875] en octobre 2011</P>
+</blockquote>
+
+---------
+
+<https://www.flickr.com/photos/visionscarto/sets/72157648189636319 title="Petit album cartographique sur la situation des enfants dans le monde">
+
+
+<quote>
+<b>Ressources complémentaires :</b>
+
+- Le site de [Kailash Satyarthi->http://www.kailashsatyarthi.net/], prix Nobel de la paix 2014 (avec [Malala Yousafzai->http://www.malala-yousafzai.com/]).
+
+- «[Où vont tous ces enfants~?->http://www.monde-diplomatique.fr/2009/11/BRISSET/18388]», par Claire Brisset, novembre 2009.
+
+- [Lutter contre le travail des enfants : oui, mais...->http://www.cetri.be/spip.php?article2460], par Aurélie Leroy, Centre Tricontinental - CETRI, 3 janvier 2012.
+
+- [Contre le travail des enfants ? Présupposé à débattre->http://www.cetri.be/spip.php?article1101], par Aurélie Leroy, Centre Tricontinental - CETRI, non daté.
+
+- [Contre le travail des enfants ? ->http://www.cetri.be/spip.php?rubrique117], recension du livre d'Aurélie Leroy, Centre Tricontinental - CETRI, janvier 2009.
+
+- [Travail des enfants, les leçons des pays émergents->http://www.monde-diplomatique.fr/carnet/2010-05-10-Travail-des-enfants] par Bénédicte Manier, lundi 10 mai 2010.
+
+- [Les pires formes du travail des enfants ne seront pas éradiquées en 2016->http://www.lalibre.be/actu/international/les-pires-formes-du-travail-des-enfants-ne-seront-pas-eradiquees-en-2016-525444ec3570c13e8fa5955f], La libre Belgique et AFP, 8 octobre 2013.
+
+- [La fin du travail des enfants: Des millions de voix, un espoir partagé ->http://www.ilo.org/global/publications/magazines-and-journals/world-of-work-magazine/articles/WCMS_090183/lang--fr/index.htm], Organisation internationale du travail (OIT), 3 décembre 2007.
+
+- [ Le BIT appelle à relancer la lutte contre le travail des enfants->http://www.un.org/apps/newsFr/storyF.asp?NewsID=21887], dépêche des Nations unies, 10 mai 2010.
+
+- [Les Etats appelés à éliminer les pires formes de travail des enfants d'ici à 2016->http://www.un.org/apps/newsFr/storyF.asp?NewsID=21909&Cr=enfants&Cr1=], dépêche des Nations unies, 12 mai 2010.
+
+- [BIT : trop d'enfants sont impliqués dans des formes de travail dangereux->http://www.un.org/apps/newsFr/storyF.asp?NewsID=25538], dépêche des Nations unies, 10 juin 2011.
+
+- [La Chine asphyxiée par la pollution de l’industrie textile->http://ecologie.blog.lemonde.fr/2011/02/28/la-chine-asphyxiee-par-la-pollution-de-lindustrie-textile/#xtor=RSS-3208], par Audrey Garric, M Blogs, Lundi 28 février 2011.
+
+- [Les pires formes de travail des enfants ->http://www.ilo.org/ipec/Campaignandadvocacy/Youthinaction/C182-Youth-orientated/worstforms/lang--fr/index.htm], Organisation internationale du travail (OIT), non daté.
+
+- [Eliminer le travail des enfants dans le travail domestique et protéger les jeunes travailleurs contre les conditions de travail abusives->http://www.ilo.org/ipec/Informationresources/WCMS_207924/lang--fr/index.htm], Organisation internationale du travail (OIT), 12 juin 2013.
+
+- [L'OIT présente un manuel de formation pour lutter contre les pires formes de travail des enfants->http://www.un.org/apps/newsFr/storyF.asp?NewsID=30940], dépêche des Nations unies, 26 août 2013.
+
+- [Eliminer le travail des enfants dans le travail domestique et protéger les jeunes travailleurs contre les conditions de travail abusives->http://www.ilo.org/ipec/Informationresources/WCMS_207924/lang--fr/index.htm], Organisation internationale du travail (OIT), 12 juin 2013.
+
+- [Le nombre d’enfants qui travaillent dans le monde a reculé d’un tiers depuis 2000, selon l’OIT->http://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_221649/lang--fr/index.htm], Organisation internationale du travail (OIT), 23 septembre 2013.
+
+- [Child labour: the tobacco industry's smoking gun->http://www.theguardian.com/global-development/2011/sep/14/malawi-child-labour-tobacco-industry], par Kristin Palitza, The Guardian, 14 septembre 2011.
+
+- [« Enfants forçats »->http://www.arte.tv/fr/enfants-forcats/6608840.html],  un documentaire d'Hubert Dubois sur le travail des enfants, 2012. Voir aussi [Enfants et forçats : deux mots qu’il faudrait dissocier->http://www.voicesofyouth.org/fr/posts/enfants-et-forcats-deux-mots-quil-faudrait-dissocier] et [215 millions d’enfants contraints de travailler->http://www.unicef.fr/contenu/actualite-humanitaire-unicef/enfants-forcats-un-documentaire-sur-le-travail-des-enfants-2012-05-29].
+
+- [La place d’un enfant n’est pas dans une mine, une usine ou un champ…->http://www.unicef.fr/contenu/actualite-humanitaire-unicef/la-place-d-un-enfant-n-est-pas-dans-une-mine-une-usine-ou-un-champ-2012-05-29], Unicef, 16 mai 2013 - avec une infographie très spectaculaire.
+
+- [Travail des enfants en Bolivie : ni angélisme, ni diabolisation !->http://www.cetri.be/spip.php?article3608&lang=fr], par Aurélie Leroy,Le soir, repris par le CETRI, 18 août 2014.
+
+</quote>
+
+ #enfants #démographie #travail_des_enfants #prix_nobel
+
+
+--------------------------
+
+PS: Si vous souhaitez utiliser les cartes ou le texte de ce billet, ou simplement contacter l’auteur, vous pouvez le faire par mail via [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 12 octobre 2014 12:08

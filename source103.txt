@@ -1,0 +1,205 @@
+
+--------------------------
+
+TITRE:
+Cartographie sensible, émotions et imaginaire 
+
+--------------------------
+
+AUTEUR: 
+- Élise Olmedo
+
+--------------------------
+
+CHAPO:
+<h4 class="text-right">{Par [Élise Olmedo->http://www.parisgeo.cnrs.fr/spip.php?article4719]}</h4>
+<h5 class="text-right">géographe, doctorante en géographie à l'université Paris-1 Panthéon Sorbonne,<br>UMR 8504 « Géographie Cités », équipe ehgo (épistémologie et histoire de la géo).</h5>
+
+
+Élise Olmedo a vécu plusieurs mois avec les femmes d’un quartier défavorisé de Marrakech, en les suivant dans leur vie quotidienne, lors de leurs déplacements dans l'espace domestique et dans la ville. En voulant représenter ces itinéraires sur une carte, elle s’est rendu compte que la cartographie classique ne donnait qu’une image très pâle de la richesse et de la subtilité de leurs pratiques spatiales. La carte conventionnelle ne dit hélas rien des émotions qui sont largement au centre de leur perception urbaine.
+
+Il fallait trouver un mode de représentation plus libre, capable de se fondre dans leurs visions, capable d’exprimer leurs affects et leurs perceptions de ces espaces familiers qu’elles sont contraintes de fréquenter. C'est ainsi qu'est née une « carte sensible ». Un mode de représentation peu commun, qui enfin allait permettre de figurer les « fragrances » de ces espaces vécus dans toutes leurs dimensions. 
+
+Elle cerne ici les contours théoriques et méthodologiques de cet outil, en décrit les étapes de création, et s'interroge sur les impacts, l'utilité et ses limites, à partir de l’expérimentation faite sur le terrain au Maroc, à Marrakech, au printemps 2010.
+
+Ce projet, guidé par Marianne Blidon, Agnès Lambert et Béatrice Collignon, a été publié une première fois en septembre 2011 sur l'ancien site « Visions cartographiques ».
+
+
+--------------------------
+TEXTE:
+
+<h2>Le quartier et les espaces de l'imaginaire</h2>
+
+Comment vivent les femmes issues des classes populaires dans le quartier de Sidi Yusf[[SYBA est l'acronyme utilisé par les administrations pour désigner le quartier de Sidi Youssef Ben Ali. Mais les habitants utilisent toujours le terme vernaculaire Sidi Yusf.]] à Marrakech, et comment utilisent-elles leur espace ? Rendre compte cartographiquement de ce quotidien avec justesse est un double défi : Il faut d'abord, dans la phase d'observation et d'échange, trouver la distance de confiance, ni trop loin pour ne pas risquer de passer à côté de l'essentiel, ni trop près pour ne pas briser l'intimité de la communauté. Puis, imaginer, et éventuellement créer, l'outil « géo-cartographique » approprié qui permettra conjointement d'analyser et de dessiner cet espace vécu pour le caractériser.
+
+<https://farm9.staticflickr.com/8567/16540248870_6f5a8d2424_o_d.jpg size=medium right>
+
+Sidi Yusf date de la fin de l'époque Almohade, aux XIIe et XIIIe siècles, autour du tombeau du Saint Sidi Youssef Ben Ali, d'où le nom du quartier[[Meriem Rodary, {De l'exclusion à la résistance : Femmes, Travail et Classe à partir de Neggafat et de Neqqashat de Sidi Youssef Ben Ali, Marrakech,} Thèse (dir. Yassine Tassadit), Paris, 2010.]]. La densification de la médina a entraîné une crise du logement qui a largement contribué à rejeter les populations pauvres  dans les douars à la périphérie de la ville dont la croissance a été très soutenue dans les années 1960.
+
+Les femmes de ce douar spontané[[Quartier d'habitat spontané et non-réglementé. Il a la forme d'un habitat rural annexé à la ville de Marrakech. En 1958, Sidi Yusf fut annexé à la ville de Marrakech. Sa densité atteint aujourd'hui des densités équivalentes à celles de la médina (125~000~hab/km2 en 2004).]], qui s'est longtemps nourri de l'exode rural, font partie des couches les plus défavorisées de la population de la ville et subissent de nombreuses discriminations dans la vie publique comme dans la vie domestique, lesquelles ont un impact important sur leurs pratiques de l'espace et la vision qu'elles en ont. Leurs itinéraires dans la ville sont conditionnés par une structure sociale fondée sur la domination masculine[[{La Domination masculine} de Pierre Bourdieu, publié au éditions du Seuil en 1998, est un ouvrage qui expose l'inconscient « androcentrique » de la société kabyle. L'apport du terme freudien nous permet de retenir que « l'incorporation » qui désigne la manière dont la société inculque dans les esprits et les corps des modes de conduite, des comportements, des modes de penser qui sont intériorisés durablement par les individus, imprime la mise en place de normes sociales dans le mode de pensée de l'individu, pour former un cadre de pensée homogène et admis par tous. Le statut d'évidence des normes inscrites dans ce cadre justifie leur existence. Il s'agit {« de commencer par dégager tout ce que la connaissance du modèle accompli de « l'inconscient androcentrique » qui est le nôtre et qui se livre ou se trahit, par éclairs, dans les métaphores du poète, ou dans les comparaisons familières, dans leur évidence, à passer inaperçues ».}]].
+
+<blockquote>
+{Pour être franche, il n'y a aucun endroit, à part les jardins, où je pourrais aller. Et même dans les jardins, il y a les regards curieux des hommes. Du coup, je n'y vais pas seule. »}
+</blockquote>
+
+Une réponse ordinaire pour une femme de Sidi Youssef Ben Ali quand on l'interroge sur les lieux qu'elle aime fréquenter. À Sidi Yusf, l'espace public est théoriquement accessible à tous, mais en pratique, l'accès des femmes y est restreint. Elles n'ont pas leur place partout et surtout pas à n'importe quelle heure du jour ou de la nuit. L'espace public de Marrakech, du moins dans ces quartiers, suit une segmentation fondée sur le genre[[Soit la dimension sociale des rapports homme-femme, distinguée de la dimension biologique qui est désignée par le mot sexe.]].
+
+L'espace public est d'abord ressenti comme un espace à risque pour les femmes, qui mettent en place des stratégies de contournement -- par le choix de certains itinéraires et de l'heure à laquelle elles sortiront[[Marylène Lieber, {Genre, violences et espace public}, Les Presses de Sciences Po., Paris, coll. Fait, 2008.]]. Les représentations et les pratiques de l'espace des Marocaines sont sensiblement différentes de celles des Marocains. Cette différenciation est le reflet d'un rapport de domination et d'oppression finalement visible dans l'espace urbain. Définir les rapports sociaux de sexe comme des rapports de domination implique une posture épistémologique qui est loin d'être neutre : les rapports de genre sont ici sous-tendus par des rapports de pouvoir et de domination masculine[[Colette  Guillaumin, {Sexe, race et pratique du pouvoir. L'idée de nature}, Côté Femmes, Paris, 1992 et Pierre Bourdieu, {La Domination masculine}, Le Seuil, Paris, 1998.]].
+
+<h2>De la carte classique à la carte sensible</h2>
+
+Dans l'espace domestique ou dans la ville, cartographier ces mouvements, ces itinéraires parsemés de rencontres multiples, c'est cartographier de la vie, de l'émotion, de la sensibilité, dans des lieux où les femmes se sentent en confiance ou dans d'autres susceptibles de les inquiéter.
+
+<https://farm6.staticflickr.com/5558/14724560338_ba1305df1c_o.jpg size=medium right title="Vieille femme sur le marché de la Msallah" legend="Esquisse : Elise Olmedo, février 2010.">
+
+Ces informations, en d'autres termes ce « matériau sensible », est essentiellement « qualitatif » (par opposition aux informations et données « quantitatives » a priori plus évidentes à représenter graphiquement). Il fallait donc inventer un mode cartographique qui puisse retranscrire toute l'émotion contenue dans leurs récits, semés d'images mentales profondément vécues, et pour cela, nécessairement sortir des sentiers battus de la cartographie conventionnelle. D'où l'idée d'essayer de créer une « carte sensible ».
+
+La « cartographie sensible » est un outil utilisé par les paysagistes : elle garde pour fondement certains principes de la cartographie classique, mais s'en émancipe par d'autres aspects. La création d'une telle carte s'est imposée comme la seule possibilité pour représenter un espace traversé d'affects. Les données, le matériau qui servira de base à la création de cette carte, c'est le vécu des femmes, le récit de ce vécu, de leur perception.
+
+<https://farm4.staticflickr.com/3912/14910811252_a71891f725_o.jpg size=medium right title="Vieille femme devant un étalage de bananes dans le souk Boularbah"legend="Esquisse : Él. Ol. février 2010. ">
+
+Enfin, cette carte inédite doit encore être fidèle à la pratique spatiale multiple de ces femmes qui vivent dans deux univers : d'une part leur espace de référence, avant tout domestique (la maison et la cour), puis les autres lieux du quartier et de la ville. Le cartographe doit donc penser la représentation à deux échelles : le micro-espace privé et intime, et l'espace beaucoup plus grand, public et social. 
+
+Dessiner est une manière de s'immiscer dans le paysage de manière douce, plus douce que de photographier, une manière aussi de produire les manifestations extérieures d'une raison d'être-là[[Lire l'article [« Le croquis comme outil d'enquête : les femmes de Marrakech »->http://cafe-geo.net/archives-le-dessin-du-geographe/], Café-géo.net, novembre 2010.]]. Le croquis recouvre une autre fonction essentielle dans cette étude : lire le terrain. Faire un croquis est une manière de rendre compte du sensible qui se dégage du paysage urbain de Sidi Yusf. La lecture géographique est une lecture raisonnée de ce premier contact. Le géographe propose une description raisonnée du paysage visible et de son pendant invisible. Dessiner, c'est retenir les caractères du paysage qui ont un sens, et sonder la manière dont ils dialoguent entre eux. 
+
+<https://farm6.staticflickr.com/5590/14908103941_5645e18877_o.jpg size=original class=fullwidth title="Vendeurs ambulants devant le Souk Boularbah" legend="Esquisse : Él. Ol. février 2010.">
+
+<https://farm4.staticflickr.com/3905/14911168295_64a5360d06_o.jpg size=original class=fullwidth title="Vendeurs au souk La Msallah"
+legend="Esquisse : Él. Ol. mars 2010. ">
+
+<https://farm9.staticflickr.com/8601/16726570861_f60f218921_o_d.jpg size=original class=fullwidth title="Vendeurs ambulants sur le marché de la Msallah"legend="Esquisse : Él. Ol. février 2010."> 
+
+<h2>La carte sensible, image de pensée</h2>
+
+La « carte sensible » emprunte un peu à la cartographie conventionnelle[[C'est-à-dire la cartographie dans son état actuel, qui aujourd'hui intègre les systèmes de modélisation et gestion de données alphanumériques produites par les systèmes d'information géographique (SIG). On peut aussi la qualifier de « positiviste » ou encore « d'orthodoxe ». Il s'agit de la cartographie qui {« a construit son analyse du point de vue de la précision et de la perfection de la représentation. Celle-ci était jaugée à l'aune de la propension des cartes à exprimer l'exacte localisation des lieux, l'exacte surface des étendues et, quoique dans une moindre mesure, l'exacte représentation des altitudes.} (...) {Elle considérait le projet cartographique du point de vue de son ambition supposée à parvenir à une correspondance parfaite entre la représentation et son référent au point d'être tenté de les confondre »}. (Citation extraite de l'article de Bernard Debarbieux « Carte d'identités, cartes d'altérité : Référence, Rhétorique et Relativité dans la cartographie contemporaine », lui même extrait du livre {Les cartes de la connaissance} codirigé par Pierre-Robert Baduel et Jean-Paul Bord et publié aux éditions Karthala, Paris, en 2004.)]] mais en rejette une de ses dimensions fondamentales : elle désavoue la schématique de la « carte traditionnelle » et affrète l'inventivité comme une de ses perspectives majeures. Le projet de la « carte sensible », c'est « décrire graphiquement l'idée » selon les propres mots de Jean-Marc Besse[[Agrégé de philosophie et docteur en histoire (université Paris 1 Panthéon-Sorbonne), directeur de recherche au CNRS, où il dirige l'équipe EHGO/UMR Géographie-cités (CNRS/Paris~1/Paris~7). Il enseigne l'histoire de la géographie à l'université Paris~1 (Institut de géographie), et l'histoire et la culture du paysage à l'École nationale supérieure du paysage de Versailles.]]. Révélant les mensurations d'une cartographie ouvertement constructiviste, elle bouscule l'idée que la science est hermétique à l'art et vice-versa : elle ouvre une brèche pour sonder leurs accointances. La « carte sensible » permet à la cartographie d'avoir un ancrage dans l'espace vécu. 
+
+Elle propose des solutions de représentation là où la cartographie classique échoue : traiter les données émotionnelles (par essence qualitatives), et représenter les micro-espaces. La « carte sensible » permet d'apporter une réflexion constructive pour contourner ces deux difficultés, et proposer de nouvelles représentations.
+
+Récusant le principe de véracité absolue et exclusive qu'on attribue volontiers aux « cartes scientifiques » des géographes, Gilles Tiberghien affirme :
+
+<blockquote>
+{Nos représentations ne sont jamais si neuves, si informées scientifiquement, qu'elles se donnent vierges de tout archaïsme et dépourvues de tout préjugé. Le caractère scientifique des cartes, les méthodes hautement éprouvées utilisées par les cartographes pourraient nous laisser penser qu'il s'agit d'un “savoir-vrai” nous permettant une représentation toujours plus précise de la réalité, où l'imaginaire tient un minimum de place. Néanmoins, d'une part, des formes de valorisation, ethniques, politiques ou religieuses travaillent souterrainement la fabrication des cartes, et, d'autre part, l'origine sociale et culturelle du cartographe, nombre de ses convictions personnelles, de ses goûts, infléchissent plus ou moins inconsciemment son activité. »}
+
+<p class=small>Gilles Tiberghien, {Finis Terrae, imaginaires et imaginations cartographiques,} Coll. Le rayon des curiosités, Bayard, Paris, 2007.</p>
+</blockquote>
+
+<h2>L'art contre la science ?</h2>
+
+Cette philosophie invite les scientifiques à se pencher sur la production des images du monde. Les artistes qui s'intéressent aux cartes se posent les mêmes questions. Ils cherchent à produire une image en suivant le processus de production cartographique, réinventant chaque fois un ensemble de conventions qui seraient propres à chaque carte. C'est ainsi que des artistes du {Land Art} donnent une dimension géographique à leurs œuvres. Les œuvres étant « à ciel ouvert »[[Christophe Domino, {À ciel ouvert, l'art contemporain à l'échelle du paysage}, Scala, Paris, 2005.]], présentes dans un endroit précis, elle peuvent ainsi en signifier quelque chose, et en faire un lieu-dit ; car l'œuvre n'est pas seulement dressée sur un lieu, elle l'habite ; elle n'est pas là par hasard. Le lieu dit quelque chose de l'œuvre, et se mesurant à lui, l'œuvre dit quelque chose du lieu.
+
+Cela montre qu'on peut produire de la connaissance dans la création artistique. Mais l'association de l'objectivité et de l'imagination ne va pas de soi. Dans l'histoire des sciences, l'imagination, rejetée depuis les Lumières, qualifiée de « folle du logis » depuis Pascal, est encore perçue comme de l'« énergie négative », comme un courant contre lequel il faut s'acharner puisqu'elle entraîne le chercheur à projeter quelque chose sur son terrain. Alors pourquoi ne pas réhabiliter l'imagination… L'imagination au pouvoir, contre le pouvoir de la technique ! Elle pourrait permettre l'ajustement de la cartographie à un terrain particulier tout en s'inscrivant dans une démarche analytique.
+
+Après tout, Saint John Perse voyait le scientifique et l'artiste comme deux types de créateurs :
+
+<blockquote>
+{Au vrai, toute création de l'esprit est d'abord “poétique” au sens propre du mot ; et dans l'équivalence des formes sensibles et spirituelles, une même fonction s'exerce, initialement, pour l'entreprise du savant et pour celle du poète. De la pensée discursive ou de l'ellipse poétique, qui va plus loin et de plus loin ? Et de cette nuit originelle où tâtonnent deux aveugles-nés, l'un équipé de l'outillage scientifique, l'autre assisté des seules fulgurations de l'intuition, qui donc plus tôt remonte, et plus chargé de brève phosphorescence. La réponse n'importe. Le mystère est commun.»}
+
+<p class=small>Saint-John Perse, {Les Prix Nobel en 1960}, Göran Liljestrand [Nobel Foundation], Stockholm, 1961.</p>
+
+</blockquote>
+
+<h2>La carte et le réel</h2>
+
+Un tel outil s'appuie sur plusieurs intuitions. Il y a en premier lieu le hiatus entre la carte et le réel. Gilles Tiberghien dit bien que la cartographie est en « inadéquation » avec la réalité. Une carte est un outil de représentation de la réalité, seulement elle ne la représente -- aujourd'hui comme hier -- que de façon partielle et partiale puisqu'elle n'autorise que l'utilisation de données quantitatives. Les données émotionnelles, de fait qualitatives, non quantifiables, comme sentiments et états d'âme, disent quelque chose d'une société, de ses tabous, de ses coutumes et de son rapport à l'expression des affects. Dès le moment où les données sont autre chose que des statistiques ou des quantités, la cartographie contemporaine s'essouffle. Si la cartographie s'ouvre à d'autres procédés de représentation (éventail élargi de supports possibles, de matériaux), aura-t-on davantage de chances d'obtenir une représentation convaincante de ces données, de ces émotions ?
+
+Deux conditions préalables pour se lancer dans l'invention de la « carte sensible » :
+- considérer la créativité du cartographe comme une énergie positive et non comme une condition d'impuissance (c'est-à-dire, l'autoriser à s'éloigner des règles, des présupposés et des conventions dites obligatoires) ;
+- admettre que la carte est une représentation partielle de la réalité, et donc admettre que le cartographe s'émancipe du réel pour aller vers sa propre vision du monde en recréant éventuellement la forme et le fond de sa carte.
+
+<https://farm4.staticflickr.com/3877/14724617127_41614738ec_o.jpg size=original class=fullwidth title="Inventer et fabriquer une carte sensible"
+legend="Esquisse : Él. Ol. 2011.">
+
+<https://farm4.staticflickr.com/3921/14910827482_100c4511b8_o.jpg size=original class=fullwidth title="Un extrait de la carte sensible"
+legend="Photo : Él. Ol. 2011 ">
+
+<https://farm6.staticflickr.com/5582/14724698729_8ece3b169a_o.jpg size=original class=fullwidth title="Un extrait de la carte sensible"
+legend="Photo : Él. Ol. 2011">
+
+<https://farm6.staticflickr.com/5558/14724675510_0b01c764e8_o.jpg size=original class=fullwidth title="Un extrait de la carte sensible"
+legend="Photo : Él. Ol. 2011">
+
+<https://farm6.staticflickr.com/5563/14911180545_e4e30ac73d_o.jpg size=original class=fullwidth title="Légende de la carte sensible"
+legend="Esquisse Él. Ol. 2011.">
+
+<h2>Femmes à l'intérieur, femmes à l'extérieur</h2>
+
+Suivons par exemple Naima, dans ses faits et gestes, dans son espace de vie ; entrons dans l'intimité de son univers. D'origine rurale, mère de quatre enfants, elle ne sait ni lire ni écrire et habite la partie la plus pauvre du quartier. 
+
+Comme les autres femmes, Naima parle de la ville et de sa vie à travers des images -- innocentes ou inconscientes -- qui tournent autour de deux espaces, le quartier (espace public) et les lieux domestiques (espace privé), entre lesquels son va-et-vient est incessant. C'est son « territoire imaginaire », sa vision du monde[[Nous nous appuyons ici sur l'analyse de André-Frédéric Hoyaux, « Pragmatique phénoménologique des constructions territoriales et idéologiques dans les discours d'habitants », {L'Espace géographique,} n°~3, 2006, pp.~271-285.]], ou plus exactement de son monde, vision bâtie autant sur les perceptions individuelles que collectives. 
+
+Pour comprendre comment s'organise la vie sociale de Naima, comment elle utilise et perçoit son espace, et pour en donner une représentation, il aura fallu beaucoup parler, discuter, dessiner… savoir se taire aussi, pour participer à la vie commune et observer.
+
+La création de cette carte aura nécessité beaucoup d'énergie pour s'extirper du langage cartographique conventionnel acquis depuis les études secondaires… pour laisser son esprit libre d'inventer une toute nouvelle grammaire graphique. 
+
+La carte montre l'imaginaire spatial de Naima, passé par le filtre d'une géographe française. La vision du cartographe est présente uniquement parce qu'il s'agit d'une lecture ; elle est présente « par défaut ». En fait les deux visions cohabitent mais sont loin d'avoir le même statut : l'imaginaire de Naima est l'objet de la carte, l'imaginaire larvé du cartographe se niche dans la carte malgré lui.
+
+Peut-être cette symbiose se serait-elle faite plus facilement dans le cadre d'un atelier de cartographie [sensible] collectif, où chaque participant «fabrique» sa vision du monde, en choisissant librement la manière de le faire (dessin, matériaux, modes d'expression…).
+
+<h2>Une manière de montrer la vie</h2>
+
+<aside class="box">
+
+Ce film de dix minutes montre comment la « carte sensible » de l'espace vécu de Naima a été imaginée, conçue et produite.
+
+~
+
+<https://vimeo.com/28730700 class=large>
+
+</aside>
+
+Parce que c'est un objet mal connu, la « carte sensible » doit être accompagnée d'un discours : expliquer le fonctionnement de l'outil, décoder le résultat.
+
+La « carte sensible » est une synthèse complexe, multidimensionnelle : Elle évoque l'habitat, le quartier, le paysage urbain, les perceptions. Elle emprunte à la géographie du genre ou à la géographie sociale. Elle utilise en symbiose les méthodes de la géographie, de l'anthropologie, de la sociologie et de l'art.
+
+La carte classique, qui reste un des outils les plus importants du géographe, s'adapte mal à une démarche qui donne autant de place à l'émotionnel. La « carte sensible » est donc une des possibilités nouvelles, une des pistes de recherche pour « faire du  nouveau en géographie et en cartographie », tout comme l'artiste Ben se plaisait à dire et à écrire qu'{« il faut du nouveau en art »...}
+
+<aside class="box">
+
+{{Sources et références :}}
+
+- Marie-Haude Caraës et Nicole Marchand-Zanartu, {Images de pensée}, Éditions de la Réunion des musées nationaux, 2011.
+
+-  Augustin Berque, {Ecoumène, introduction à l'étude des milieux humains,} Belin, 1987.
+
+-  Pierre Bourdieu, {La Reproduction}, Minuit, Paris, 1970.
+
+- Bernard Debarbieux, « Le paysage selon Frederic E. Church et la réception de Humboldt parmi les peintres américains », Les carnets du paysage n°~16.
+
+- Patrick Gautier-Dalche, {La Géographie de Ptolémée en Occident (IVe-XVIe siècle)}, coll. Terrarum Orbis, Turnhout, Brepolds, 2009.
+
+- Brian Harley, 1995, {Le pouvoir des cartes}, Anthropos, Paris, 1995.
+
+- Alexandre de Humboldt, {Cosmos. Essai d'une description physique du monde}, Utz, Paris, 1845,  rééd. 2000.
+
+- André-Frédéric Hoyaux, « Pragmatique phénoménologique des constructions territoriales et idéologiques dans les discours d'habitants », L'Espace géographique, n°~3, 2006.
+
+- Christian Jacob, {L'Empire des cartes,} Albin Michel, Paris, 1992.
+
+- Jean–Pierre Lévy, Michel Lussault (dir.), {Dictionnaire de la géographie et de l'espace des sociétés,}  Belin, Paris, 2003.
+
+- Maurice Merleau-Ponty, {L'Œil et l'Esprit,} Gallimard, Paris,  1964.
+
+- Jean-Pierre Olivier de Sardan, {La rigueur du qualitatif. Les contraintes empiriques de l'interprétation anthropologique}, Louvain-la-Neuve, Bruylant, 2008.
+
+- Jean-Pierre Olivier de Sardan, « L'enquête de terrrain socio-anthropologique », Enquête n°~8,  EHESS, Paris, 2001.
+
+- Saint-John Perse, {Les Prix Nobel en 1960}, Stockholm, Göran Liljestrand, [Nobel Foundation], 1961.
+
+- Mohamed Sebti, {Les Douars de Marrakech. Etude de quartiers péri-urbains, }Thèse, (dir. Jean-François Troin), Tours, 1984.
+
+- Mohamed Sebti, [« L'habitat des douars de Marrakech : un héritage compromis. »->http://www.persee.fr/web/revues/home/prescript articlegeo_0003-4010_1985_num_94_521_20301] in Annales de Géographie, t.~94, n°~521.
+
+- Mohamed Sebti, Youssef Courbage, Patrick Festy, Anne-Claire Kurzac-Souali, {Gens de Marrakech. Géo-démographie de la ville Rouge,} Paris, Les Editions de l'INED, 2009.
+
+</aside> 
+
+
+--------------------------
+
+PS: Si vous souhaitez réagir à cette contribution, ou simplement contacter l'auteure, vous pouvez le faire par mail via [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 17 avril 2015 21:34

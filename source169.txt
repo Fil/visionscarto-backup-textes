@@ -1,0 +1,57 @@
+
+--------------------------
+
+TITRE:
+Prix des accès internet dans le monde
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+
+
+--------------------------
+TEXTE:
+
+|{{Titre :}}| Prix des accès internet dans le monde |
+|{{Mots-clés :}} | #Internet #Communication #Informatique #Inégalités #Accès #TIC |
+|{{Apparition(s) :}} | Inédit |
+|{{Motivation:}} | «[Les hackers de La Paz s’organisent pour libérer internet->http://visionscarto.net/hackers-de-bolivie]» |
+|{{Auteur :}} | Philippe Rivière |
+|{{Source des données :}} | Union internationale des télécommunications (UIT), rapport 2015 : «[Mesurer la société de l'information->http://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2015.aspx]». |
+|{{Date de création :}} | Octobre 2015, mise à jour décembre 2015 |
+
+
+<https://farm2.staticflickr.com/1454/24392027114_e3a8bc6b94_h_d.jpg
+ size=original>
+<https://farm2.staticflickr.com/1641/24996314686_23b3289ef4_h_d.jpg size=original>
+<https://farm2.staticflickr.com/1452/24996311686_e33bf4073a_h_d.jpg size=original>
+
+<quote>{{Remarque.}} Selon la définition en cours à l'UIT, le « haut débit » concerne les connexions fixes supérieures à 256 kbit/s — une valeur cent fois inférieure par exemple à celle que donne en 2015 la FCC ([25Mbit/s->https://www.fcc.gov/document/fcc-finds-us-broadband-deployment-not-keeping-pace]).</quote>
+
+~
+
+<div class="ui small fluid accordion">
+ <div class="title">
+   <i class="dropdown icon"></i>
+   Archives 2014
+   </div>
+ <div class="small content">
+<https://farm1.staticflickr.com/701/22138145960_318d690218_o_d.png size=original>
+<https://farm6.staticflickr.com/5783/22330089705_624ec384f7_o_d.png size=original>
+<https://farm6.staticflickr.com/5782/22309751052_4408d33c88_o_d.png size=original>
+</div>
+</div>
+
+
+
+--------------------------
+
+PS: Si vous souhaitez réutiliser ces cartes, ou simplement contacter l'auteur, n'hésitez pas à écrire à l'adresse [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 14 février 2016 16:16

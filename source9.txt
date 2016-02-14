@@ -1,0 +1,197 @@
+
+--------------------------
+
+TITRE:
+Mourir aux portes de l'Europe
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+
+--------------------------
+
+CHAPO:
+Dans l’exposition d’esquisses cartographiques « Cartes en colère », présentée à la Maison des métallos à Paris en octobre 2012, une petite série de documents proposaient une vision - sous différents angles - de la question migratoire dans le monde : quatre esquisses pour tenter de montrer la « véritable stratégie de guerre » mise en œuvre par les pays riches pour contenir les « envahisseurs ». 
+
+<h4 class="text-right">{par Philippe Rekacewicz}</h4>
+<h5 class="text-right">géographe, cartographe et information designer
+_ Toutes les esquisses cartographiques sont de l'auteur.</h5>
+
+
+
+--------------------------
+TEXTE:
+
+Ces cartes ne sont pas des créations nouvelles : nous les avons conçues il y a déjà plusieurs années, et nous les avons fait évoluer en fonction de nos recherches et des nouvelles connaissances acquises entre temps. Les échanges et débats permanents avec des institutions ou ONG telles que {Migreurop} et le {Gisti} en France, {United} à Amsterdam et plus récemment {Vivre ensemble} à Genève, ont aussi permis de les ajuster et de les corriger au cours des années.
+
+Au-delà d'une vision particulière sur la géographie des migrations, c'est aussi un peu de « l'histoire » de la création et de l'évolution de ces cartes que nous souhaitons partager avec vous.
+
+<h2>1. Planète interdite</h2>
+
+C’est étrange, cette peur paranoïaque de l’invasion, cette volonté de se « protéger » coûte que coûte de ces êtres humains qui, chaque année, prennent le chemin de l’exil vers les pays riches qu’ils imaginent terre d’espérance. Mais les riches ont décidé que cette humanité-là était indésirable.
+
+<https://farm8.staticflickr.com/7219/13670405214_2e9cf64e82_k.jpg size=original class=fullwidth caption="Le monde sanctuarisé, novembre 2012.">
+
+Ils renforcent leurs frontières, dressent des barrières, construisent des murs toujours plus hauts. Une véritable stratégie de guerre mise en œuvre pour contenir « l’envahisseur ».
+
+Par un effet d’entraînement, d’autres grands pays comme la Chine, l'Afrique du Sud ou la Russie – et d'une manière plus informelle, le Brésil – mettent aussi en place une « sanctuarisation intérieure » pour limiter les migrations économiques des régions pauvres vers les zones de forte croissance.
+
+Ces obstacles physiques sont des outils efficaces pour criminaliser l’immigration et rendre acceptable l’emploi d’expressions inacceptables : « immigrant illégal ». On fait croire qu’ils transgressent la loi : grâce à ces nouveaux obstacles, juridiques ou physiques, on crée une nouvelle catégorie de délinquants : le migrant.
+
+Au mépris du droit international et des valeurs universelles.
+
+<aside class=box>
+
+{{{Il y a « champs de mines » et « champs de mines », mais les effets restent les mêmes}}}
+
+La toute première version de cette carte de la « sanctuarisation du monde » date de 2006. Depuis, elle a beaucoup circulé, et a été reproduite à de très nombreuses reprises dans la presse, dans des revues et sur Internet.
+
+Dans la version initiale, la carte mentionnait des « champs de mines » à la frontière entre la Grèce et la Bulgarie, et la Grèce et la Turquie. Cette information a été contestée par quelques spécialistes qui ont justement fait remarquer que le système de « barrières de protection » – physiques et virtuelles – installées par l'Europe pour prévenir le flux des migrants ne comportaient absolument pas de variante avec l'installation de mines antipersonnelles.
+
+Si elles existent, comme au Sahara occidental par exemple, elles n'ont rien à voir avec la politique « anti-migratoire » de l'Union européenne. N'ayant pas eu connaissance de références documentées et/ou convaincantes, nous avons décidé de retirer cette mention de la carte, de sorte que cette information n'apparait plus sur toutes les versions publiées entre 2008 et 2014.
+
+Cela dit, n'oublions pas, tout de même, que ces mines disséminées ici ou là dans des régions de transit restent une des causes de décès pour des migrants passant « au mauvais endroit au mauvais moment ». Kathy Tzilivakis écrivait dans un article publié en décembre 2007 sur le site spero news -- [Landmines destroy immigrants lives in Greece->http://www.speroforum.com/a/13013/Landmines-destroy-immigrants-lives-in-Greece] -- que {« des migrants avaient sauté sur des “mines oubliées” entre la Grèce et la Turquie».}
+
+Par ailleurs, en 2012 et 2013, quelques lecteurs se sont indignés de trouver le Brésil dans la catégorie des pays qui pratiquaient une la « sanctuarisation intérieure », c'est-à-dire des rafles et des rapatriements forcés de travailleurs migrants venus des régions pauvres vers les marges actives du pays (comme en Chine ou en Russie).
+
+C'est Alain Morice (du réseau Migreurop) qui nous a donné une réponse très détaillée lorsque nous lui avons posé la question :
+
+<blockquote>
+{La mention faisait référence -- non pas à une politique systématique -- mais à quelques cas isolés et limités dans l'espace et dans le temps. Il y avait un projet de recherche à Bebedouro, capitale de la culture orangère, qui attiraient les migrants du Nordeste. Il n'y avait pas de regroupements forcés ni à proprement parler des rafles : il s'agissait d'une politique dissuasive consistant : d'une part à priver les migrants de toute possibilité d'accéder au logement, à la scolarisation des enfants, à la protection sociale et à tous les bénéfices d'une cité qui veillait jalousement sur sa relative richesse (le maire de la ville le disait clairement) ; et d'autre part, à les remettre plus ou moins de force dans le car quand on les voyait traîner ou coucher à la gare routière sans savoir où aller, en d'autres termes, empêcher tout aspect de fixation.}
+
+{» C'était l'affaire de gardes privés, donc aucune base légale derrière ces événements, mais une autorité répressive de fait : c'est pour cela qu'on pouvait parler de système “para-juridique”. À ma connaissance jamais le Brésil, contrairement à la Russie ou à la Chine, n'a créé officiellement un régime de passeports intérieurs : les “déportations” restaient du domaine de l'informel.}
+</blockquote>
+
+Nous n'avons pas republié la carte après cette discussion, mais dans une éventuelle version ultérieure, nous allons certainement créer une catégorie particulière pour le Brésil qui reprendra les éléments essentiels des réflexions d'Alain Morice.
+
+____________
+
+
+<h2>Naissance d'une carte, quelques étapes...</h2>
+~
+
+<https://farm8.staticflickr.com/7231/14048036421_58fd324555_h.jpg size=medium  class=caption-right
+title="Monde sanctuarisé : esquisse~0.1"
+credit="mai 2005"
+link=https://farm8.staticflickr.com/7305/13964715332_6781f24b6f_b.jpg>
+~
+
+<https://farm8.staticflickr.com/7223/14028086576_9fe4dc1f64_h.jpg size=medium class=caption-right
+title="Monde sanctuarisé : esquisse~0.2"
+caption="Dressée pendant un long entretien avec Alain Morice, du réseau Migreurop"
+credit="mai 2005"
+link=https://farm8.staticflickr.com/7302/13968318984_7cf5dde0c7_b.jpg>
+~
+
+<https://farm8.staticflickr.com/7408/14028064546_ad450ef513_h.jpg size=medium class=caption-right
+title="Monde sanctuarisé : esquisse~0.3"
+caption="Basée sur l'esquisse 0.2, elle reprend l'essentiel des éléments et introduit une proposition de hiérarchie"
+credit="septembre 2005"
+link=https://farm8.staticflickr.com/7108/13968296704_38a057f27d_h.jpg>
+
+~
+
+<https://farm8.staticflickr.com/7228/14047957912_34754b189b_h.jpg size=medium class=caption-right
+title="Monde sanctuarisé : carte~1.0"
+caption="Basée sur l'esquisse 0.3, C'est une première tentative de « digitalisation » d'une carte à priori destinée à être présentée sous forme d'esquisse crayonnée. Elle a été publiée dans l'atlas 2006 du {Monde diplomatique.}"
+credit="février 2006"
+link=https://farm8.staticflickr.com/7182/13968506504_77f332c808_b.jpg>
+~
+
+<https://farm8.staticflickr.com/7404/14071205773_9ecd054c21_h.jpg
+size=medium class=caption-right
+title="Monde sanctuarisé : esquisse~1.0"
+caption="Basée sur l'esquisse 0.3 et la carte 1.0, cette esquisse crayonnée reprend l'essentiel des informations a été présenté à l'exposition {« Frontières »} à Lyon en septembre 2006 et à l'exposition {« Frontières, migrants et réfugiés »} au Mans en mars 2007, dans le cadre des {Carrefours de la pensée.}"
+credit="septembre 2006 et mars 2007"
+link=https://farm8.staticflickr.com/7404/13964894632_f583ea57cd_b.jpg>
+~
+De l'exposition {« Frontières »} de 2006-2007 organisée au musée confluence de Lyon, il reste une petite empreinte sur Internet sous la forme d'un [petit montage audiovisuel->http://www.museum-lyon.org/expo_temporaires/frontieres/premonde_0.php] très touchant
+
+</aside>
+
+<h2>2. Géographie d’une humanité indésirable</h2>
+
+A l’Ouest les copains bienvenus chez nous, le portefeuille bien garni, et à l’Est, les indésirables, le petit peuple du monde trop pauvre pour nous « mériter ». Symétrie presque parfaite : subsistent des îlots de pauvres à l’Ouest, des îlots de riches à l’Est.
+
+<https://farm8.staticflickr.com/7427/13670312273_e46046dd4e_o.jpg size=original class=fullwidth caption="Un monde symétrique">
+
+Manichéen ?
+
+À peine. La géographie politique européenne des visas montre avec une certaine cruauté la vision européenne du monde, si peu généreuse. Il faudra que l’on m’explique ce qu’il y a de logique dans le fait que l’UE exige des ressortissants du Kosovo -- État le plus pauvre de toute l’Europe -- un visa hors de prix pour circuler dans l’espace Schengen.
+
+Il y a de multiples façons de partager le monde, les territoires, les régions. Que ce soit selon le principe des nations, du regroupement de nations, d’indicateurs socio-économiques ou politiques, ils nous rappellent avec cynisme ce que nous n’aimons pas voir de nous-même : notre égoïsme et notre violence. Nous feignons l’aide au développement, nous n’exportons chez les pauvres que des modèles inapplicables et nous leur imposons des visas inaccessibles.
+
+Pourtant l’Afrique pauvre, par exemple, offre aussi de la culture, de la musique et du théâtre. Des diplomates, des professeurs. Des étudiants, des travailleurs. Des écrivains. Autant d’êtres humains que l’Europe renvoie parfois ficelés comme des saucissons dans des avions, quand ce n’est pas dans des linceuls, lorsqu’ils ont échoué à obtenir un visa ou un titre de séjour.
+
+
+<h2>3. Les trois frontières de l’Europe</h2>
+
+Cette carte, nous l’avons dressée pour la première fois en 2003 grâce au méticuleux travail d’Olivier Clochard du laboratoire Migrinter à Poitiers. Nous mettons régulièrement à jour ce document et hélas, à chaque fois, nous devons rajouter des points noirs, grossir toujours plus les cercles rouges.
+
+Le naufrage de Lampedusa en octobre 2013, au cours duquel 366~personnes sont mortes noyées, n'est pas exceptionnel. c'est juste «une tragédie» parmi de nombreuses autres tragédies, quasi quotidiennes, souvent moins spectaculaires, mais tout aussi meurtrières. 366~noms viendront simplement allonger une liste déjà longue de milliers d'autres noms.
+
+Ces migrants ne meurent pas par « hasard » :  ils sont victimes d'une politique migratoire européenne crispée sur le fantasme de l'invasion, qui ferme de plus en plus solidement les portes de son territoire en complète violation du principe de libre circulation.
+
+<https://farm4.staticflickr.com/3793/13670579344_d9bc60bab8_k.jpg size=original class=fullwidth caption="Mourir aux portes de l'Europe">
+
+Le 1er janvier 1993, Gerry Johnson, un citoyen du Liberia -- pays alors dévasté par une guerre civile meurtrière --, est découvert mort étouffé dans un wagon de marchandises à Feldkirch, en Autriche. Le 9 octobre 2012, des passants retrouvent le corps sans vie d'une fillette d'environ 5~ans sur une plage espagnole, vraisemblablement tombée d'une embarcation provenant de Mellila. Entre ces deux dates et ces deux lieux, un peu plus de 17~300~autres migrants selon la liste de [United->http://www.unitedagainstracism.org/campaigns/the-fatal-realities-of-fortress-europe/] qui ne donne pas encore les chiffres pour 2013 -- estimation a minima d’une hécatombe ignorée -- ont perdu la vie en tentant de rejoindre l’Europe, terre de liberté, d'espoir et de droits humain.
+
+<aside class=box>Depuis le début du mois d'avril 2014, [the migrant files->http://www.detective.io/detective/the-migrants-files], est disponible ; un projet porté par les agences de datajournalisme [Journalism++ SAS->http://paris.jplusplus.org/], [Journalism++ Stockholm->http://jplusplus.se/] et [Dataninja->http://www.dataninja.it/], les médias {Neue Zürcher Zeitung, El Confidencial, Sydsvenskan} et {Radiobubble,} ainsi que les journalistes indépendants Jacopo Ottaviani (que nous avons rencontré à Berlin en février 2014 pour de très intéressantes discussions sur la visualisation des données) et Jean-Marc Manach. Il a été soutenu par une bourse de JournalismFund.eu. Seize étudiants du laboratoire de journalisme de données de l’université de Bologne ont contribué à ce projet en vérifiant la validité d’un échantillon d’événements, sous la supervision du professeur Carlo Gubitosa. En croisant deux bases de données, celle de l'ONG [United->http://www.unitedagainstracism.org/campaigns/the-fatal-realities-of-fortress-europe/] à Amsterdam et celle de [Fortress Europe->http://fortresseurope.blogspot.no/] de Gabriele del Grande, les auteurs montré que le chiffre des décès prouvés étaient supérieur à celui connu jusqu'ici (23~000 contre 17~300).</aside>
+
+On meurt aussi en repartant, comme Marcus Omofuma, citoyen nigérian assassiné le 1er mai 1999 par trois policiers autrichiens sadiques dans un avion de la Balkan Air lors de son rapatriement forcé.
+
+Ce projet cartographique est largement basé sur le travail méticuleux de collecte réalisé par {United} au Pays-Bas et {Fortress Europe} en Italie, sans qui cette boucherie resterait largement ignorée.
+
+<h2>4. C'est l'Europe qui s'enferme</h2>
+
+Cette «frise» met en regard deux éléments fondamentaux du monde migratoire. D'une part la longue «litanie» des traités, conventions et directives européennes qui ont, au cours des années, rendu la circulation des migrants de plus en plus difficile, et d'autre part, représenté ici en périodes équivalentes, le nombre connu des migrants qui sont morts en tentant de parvenir sur le territoire européen. Chaque année donc, de nouvelles restrictions, et chaque année, toujours plus de morts.
+
+<https://farm8.staticflickr.com/7118/14014171526_75ef67d720_k.jpg size=original class=fullwidth caption="Voir se fermer les portes de l'Europe">
+
+Les fermetures, les interdictions, le barrières, rien de tout cela n'empêche les flux migratoires. La circulation des migrants est toujours aussi intense, mais ces obstacles forcent les migrants à emprunter des routes plus longues, plus complexes, et surtout beaucoup plus dangereuses.
+
+L'établissement de la frise chronologique est basé sur le minutieux travail d'Alain Morice qui a publié -- et met très régulièrement à jour -- une [chronologie des politiques européennes en matière de migration et d’asile->http://www.migreurop.org/article1917.html] sur le site de [Migreurop->http://www.migreurop.org/]
+
+<aside class=box>
+
+{{Pour aller plus loin sur la question migratoire :}}
+
+« [Comment l’Union européenne enferme ses voisins->http://www.monde-diplomatique.fr/2010/06/MORICE/19190] », par Alain Morice et Claire Rodier, {Le Monde diplomatique,} juin 2010. Cette article publié en double page faisait le point sur les politiques migratoires européennes et dénonçait les accords que les Européens avaient scellés avec leur voisins du sud de la Méditerranée pour tenter de «juguler» le flux des migrants. Il était accompagné d'un ensemble cartographique que l'on peut consulter ici (toutes les cartes ont été mises à jour en juin 2010) :
+
+- [L’Europe des camps d’enfermement->http://www.monde-diplomatique.fr/cartes/externalisation]
+- [Mourir aux portes de l’Europe->http://www.monde-diplomatique.fr/cartes/externalisation4]
+- [Accords en toile d’araignée sur les migrations->http://www.monde-diplomatique.fr/cartes/externalisation2]
+- [L’avancée des frontières européennes->http://www.monde-diplomatique.fr/cartes/externalisation3]
+
+« [Migrations, sauvetage en mer et droits humains->http://blog.mondediplo.net/2009-09-27-Migrations-sauvetage-en-mer-et-droits-humains] », septembre 2009. Secourir les êtres humains en pleine mer est un principe humanitaire fondamental, une obligation. C’est ce que Navi Pillay, haut-commissaire aux droits humains à l’ONU, a toujours rappelé aux gouvernements de nombreux Etats ainsi qu’aux capitaines de certains navires accusés d’avoir ignoré les appels au secours de naufragés en difficulté. Mme Pillay peut être en colère. Car ces naufragés sont parmi les personnes les plus vulnérables de la planète : des migrants clandestins, souvent embarqués sur des rafiots en piteux état menaçant de sombrer à chaque instant.
+
+[Forensic Oceanography->http://www.forensic-architecture.org/investigations/forensic-oceanography/] est une enquête sur les conditions réelles qui ont causé la mort de 1~500~personnes fuyant la Libye par la Mer Méditerranée au printemps 2011 et qui vise à mettre en évidence les graves violations des droits humains dont sont coupables tous ceux qui n'ont pas portés secours à des personnes en danger, dont l'OTAN, organisation contre laquelle un procès a été intenté pour «non assistance à personnes en danger». Ce projet est conduit par Charles Heller et Lorenzo Pezzani, qui sont aussi à l'origine du projet « [Watchthemed->https://watchthemed.crowdmap.com/] ».
+
+Il faut aussi consulter, se perdre dans le site très riche et très bien documenté de [Migreurop->http://www.migreurop.org/] sur lequel vous trouverez notamment des cartes très précises, une description de l'{Atlas des migrants en Europe.}
+
+</aside>
+
+<quote>
+
+{{Ce billet a été traduit :}}
+- en anglais : [Mapping Europe’s war on immigration->http://mondediplo.com/blogs/mapping-europe-s-war-on-immigration]
+- en néerlandais : [Boze kaarten ->https://decorrespondent.nl/207/boze-kaarten-/15385689-e37a0083]
+- en norvégien : [Å møte døden på grensen til Europa->http://visionscarto.net/A-mote-doden-pa-grensen-til-Europa]
+
+</quote>
+
+
+
+
+--------------------------
+
+PS: Ces esquisses, cartes et documents de travail font partie d'un projet de recherche en cours sur la représentation des mouvements migratoires. Ces images sont élaborées en lien étroit avec des institutions universitaires et des ONG avec lesquelles nous échangeons régulièrement. Elles se nourrissent et s'enrichissent des remarques et critiques qui nous arrivent régulièrement.
+
+Si vous souhaitez réagir, contribuer, commenter, utiliser tout ou partie de ce travail, ou simplement contacter l'auteur, nous vous invitons à nous écrire via  [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 9 novembre 2014 22:27

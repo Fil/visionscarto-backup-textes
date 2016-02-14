@@ -1,0 +1,42 @@
+
+--------------------------
+
+TITRE:
+Maksa par interneta pieslēgumu pasaulē
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+- Ieva Rucevska
+
+
+
+--------------------------
+TEXTE:
+
+|{{Nosaukums:}}| Maksa par interneta pieslēgumu pasaulē |
+|{{Atslēgvārdi:}} | #internets #komunikācija #informācija #nevienlīdzība #pieslēgums #IT |
+|{{Autors:}} | Philippe Rivière (Filips Riviers) |
+|{{Tulkotājs:}}| Ieva Rucevska |
+|{{Informācijas avots:}} | Starptautiskā telekomunikācijas savienība, ziņojums “[Par informācijas sabiedrības novērtējumu->http://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2015.aspx]” 2015 g. |
+|{{Datums:}} | Publicēts oktobrī 2015 g., pārpublicēts decembrī 2015 g. |
+
+
+<https://farm2.staticflickr.com/1522/24929330741_94fb010a62_h_d.jpg
+ size=original>
+<https://farm2.staticflickr.com/1648/24904607752_13a3f9abb3_h_d.jpg size=original>
+<https://farm2.staticflickr.com/1642/24904603752_4450893a15_h_d.jpg size=original>
+
+<quote>{{Piezīme.}} Saskaņā ar pašreizējo STS definīciju, “ātrgaitas” pieslēgums attiecas uz fiksēto lejupielādes ātrumu 256 kbits – vērtība 100 reizes mazāka nekā, piemēram, tai, kura bija definēta ar FKK 2015 g. ([25 Mbit/s->https://www.fcc.gov/document/fcc-finds-us-broadband-deployment-not-keeping-pace]).</quote>
+
+
+--------------------------
+
+PS: Contact: [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 14 février 2016 16:24

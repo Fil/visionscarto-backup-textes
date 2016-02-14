@@ -1,0 +1,51 @@
+
+--------------------------
+
+TITRE:
+Logiciels
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+
+
+--------------------------
+TEXTE:
+
+Le site {Visionscarto} fonctionne avec des logiciels libres.
+
+Le socle en est [SPIP->www.spip.net], le système de publication sur Internet auquel nous contribuons depuis 2001.
+
+De nombreux plugins sont utilisés, certains bien connus, d'autres plus obscurs :
+- ZPIP ([z-core->http://zone.spip.org/trac/spip-zone/browser/_plugins_/z-core/] + [zpip_html5->http://zone.spip.org/trac/spip-zone/browser/_plugins_/zpip_html5/]) pour organiser le code des pages ;
+- [adaptive_images->http://contrib.spip.net/4458], pour télécharger les images adaptées à la taille de l'écran ;
+- [ancres_douces->http://contrib.spip.net/Ancres-douces], [bellespuces->http://contrib.spip.net/Belles-puces], [orthotypo->http://contrib.spip.net/Ortho-typographie], pour certaines finitions ;
+- les [crayons->http://contrib.spip.net/Les-crayons], pour faciliter les corrections des textes.
+
+La microtypographie est, pour l'essentiel, confiée à la feuille de styles [tinytypo->http://tinytypo.tetue.net/]. Et pour le menu, on emploie [semantic-ui->http://semantic-ui.com/].
+
+Quelques plugins ont été développés ou renforcés pour les besoins de ce site : 
+- [fragmention->http://seenthis.net/messages/250985], qui permet à chacun de créer une ancre sur n'importe quel fragment de texte situé sur n'importe quelle page du site ([exemple~1->##organiser%20le%20code], [exemple~2->##faciliter%20les%20corrections]);
+- [ressource->http://zone.spip.org/trac/spip-zone/browser/_plugins_/ressource], qui nous permet de gérer les différents formats d'images.
+- [tuile->https://bitbucket.org/recifs/tuile], qui nous permet d'afficher des cartes avec un système de zoom (par exemple [->5]).
+
+Le code spécifique des squelettes et feuilles de style du site est consultable sur notre compte [bitbucket->https://bitbucket.org/recifs/squelettes-visionscarto].
+
+Les polices de caractères sont [Cardo->http://scholarsfonts.net/cardofnt.html] pour le texte (police libre sous licence SIL), et [Nitti Grotesk->http://www.boldmonday.com/fr/nittigrotesk/] (non libre) pour les titres, les légendes (et certains articles comme celui que vous avez sous les yeux).
+
+<p class="text-right caps">Philippe Rivière</p>
+
+
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- titre blanc
+- texte sans-serif
+
+
+--------------------------
+Visionscarto - version du 9 mai 2014 12:56

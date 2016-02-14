@@ -1,0 +1,230 @@
+
+--------------------------
+
+TITRE:
+Forensics Architecture : documenter la violence d'État
+
+--------------------------
+
+AUTEUR: 
+- Eyal Weizman
+- Christina Varvia
+- Lorenzo Pezzani
+- Philippe Mangeot
+- Laure Vermeersch
+
+--------------------------
+
+CHAPO:
+Dans une aile de l’université Goldsmiths à Londres, des architectes, cinéastes, théoriciens des médias et autres artistes inventent une nouvelle discipline, qui contribue à reconfigurer le concept et la politique des droits humains, ainsi que leur formalisation juridique. À l’intersection de la cartographie, de l’expertise judiciaire, de l’archéologie, de l’océanographie, de l’écologie, de l’iconographie, dans tous les lieux où s’exerce une violence d’État contre des citoyens, ils redéfinissent les notions de preuve, de crime, et contribuent à modifier le droit international tout en révélant la violence sous-jacente. 
+
+<h4 class=text-right>Entretien avec Eyal Weizman, Christina Varvia et Lorenzo Pezzani</h4>
+<h5 class="text-right">Eyal Weizman est le fondateur de {Forensic Architecture}, où travaillent également les chercheur·e·s Christina Varvia et~Lorenzo~Pezzani; entretien réalisé par Philippe Mangeot & Laure Vermeersch pour la revue {Vacarme}</h5>
+
+
+--------------------------
+TEXTE:
+
+{{{Le cimetière bédouin d’al-Araqib}}}
+
+{{Eyal Weizman}} La terre est une photographie : elle enregistre et conserve les traces d’un passage ou d’une occupation, quand bien même elles seraient déniées. Voyez le cas du village al-Araqib, dans le désert du Néguev, sur lequel nous travaillons dans le cadre d’une commission publique informelle, « Vérité pour les Bédouins du Néguev ». Les Bédouins disent avoir été chassés de cette terre en 1948. Ils sont revenus s’y installer, à la lisière d’installations militaires israéliennes, tout près d’un cimetière qu’ils revendiquent {(voir le reportage de Marion Lecoquierre, «[Sumoud, le combat et la vie d’al-Araqib->http://visionscarto.net/sumoud]», Visionscarto, avril 2014).} Mais la police israélienne a détruit leur village à plusieurs reprises en invoquant son illégalité : selon elle, ce cimetière serait postérieur à la création d’Israël. C’est cette affirmation que nous nous efforçons de contester. 
+
+Pour ce, nous avons notamment consulté des textes d’orientalistes du XIXe siècle, et reporté sur des cartes les lieux où ils signalent avoir croisé des Bédouins. Untel a emprunté une route, il décrit une colline ou le coude d’une rivière : il s’agit pour nous d’identifier précisément les lieux traversés. Mais nous sollicitons aussi des documents militaires de la Première guerre mondiale. Le cimetière litigieux est situé au beau milieu de ce qui fut le champ d’une bataille entre Britanniques et Ottomans. Or les cartes britanniques comportaient des photos du terrain à destination des soldats, sur lesquelles on identifie des traces d’une activité humaine. 
+
+Voyez aussi cette photo de 1918 [figure 1] prise par les forces aériennes bavaroises. On peut observer dans l’image des marques qui attestent la présence d’animaux. En zoomant, nous reconnaissons des chameaux. 
+
+<https://farm8.staticflickr.com/7736/18036121998_46baf8fcf0_o_d.jpg size=original caption="Figure 1 : Tel Al Sharia, Escadron bavarois 304, 24 août 1918">
+
+<https://farm9.staticflickr.com/8851/18037735119_74f17e07d8_o_d.jpg caption="Figure 1 bis : Tel Al Sharia, Escadron bavarois 304, 24 août 1918">
+
+
+Prenez encore cette photo de l’aviation britannique [figure 2], en 1945 -- soit juste avant la création de l’État d’Israël. Là aussi, les agrandissements permettent d’identifier les marques d’une présence, dont nous avons retrouvé les traces {in situ} quand nous nous sommes rendus sur place. Et là, tout près, un cimetière. En rapprochant les pierres du sol aujourd’hui et les sels d’argent d’une pellicule antérieure à la création d’Israël, nous démontons l’argumentation israélienne. Nous ne pouvons pas prouver absolument que ceci est {notre} cimetière ; au moins pouvons-nous dire que ceci n’est pas « le cimetière ».
+
+<https://farm9.staticflickr.com/7785/18220254482_eaf13872a7_o_d.jpg size=original caption="Figure 2 Royal Air Force Palestine, relevé d’état-major, 5 janvier 1945">
+
+<https://farm9.staticflickr.com/8788/17645770173_28bda465c2_o_d.jpg size=original caption="Figure 2 bis, Royal Air Force Palestine, relevé d’état-major, 5 janvier 1945">
+
+{{{Des guerres du climat}}}
+
+{{E.W. }} Dans ce cas du village al-Araqib, Israël s’autorise d’une curieuse donnée climatique pour spolier les Bédouins. Invoquant la norme agronomique selon laquelle le blé ne pousserait pas dans des zones où la pluviosité annuelle est inférieure à 200 mm, la loi israélienne a décrété « non-viables » les implantations dans ces zones. En vertu de cette loi, les Bédouins du Néguev ne sont donc pas considérés comme des résidents disposant d’un droit, mais seulement comme des itinérants : sous la ligne des 200 mm, la propriété privée est donc proscrite. Or cette ligne des 200 mm se déplace avec le réchauffement climatique. Les photos prises d’une année sur l’autre permettent d’observer ce déplacement.
+
+Les Bédouins sont donc coincés entre deux forces impérieuses. Le conflit du Néguev est aggravé par le changement climatique : la désertification repousse les Bédouins du sud vers le nord ; l’État, qui a l’ambition de « reverdir le désert », les chasse du nord vers le sud. Voyez la carte que nous avons établie [Figure 3] : on y voit clairement que les traces de villages bédouins antérieurs à la création d’Israël sont concentrées dans les zones arides, au sud de la ligne des 200 mm. En 1947, ces mêmes villages étaient répartis de part et d’autre de cette ligne.
+
+<https://farm8.staticflickr.com/7745/18220548722_2242650302_o_d.jpg size=original caption="Figure 3 : Distribution des installations dans le désert du Néguev sur une carte des précipitations annuelles" credit="Jamon Van Den Hoek, Francesco Sebregondi/Forensic Architecure, 2014.">
+
+Or une histoire semblable a eu lieu dans l’Afrique du Nord colonisée : les Anglais, les Français, les Italiens n’ont jamais administré les territoires au-delà de la ligne du désert, mais ils ont constamment tenté de déplacer cette ligne en repoussant le Sahara vers le sud, le long de l’Atlas notamment. Le premier à avoir voulu « faire fleurir le désert » n’est ainsi pas Ben Gourion, mais Mussolini, qui entendait ainsi repousser les Bédouins de la Cyrénaïque. C’est à cette époque qu’est apparue, avec l’aviation, une nouvelle forme de maintien de l’ordre. En deçà de la ligne verte, des formes courantes de gouvernementalité policière s’exerçaient ; au-delà, on procédait à des bombardements aériens contre les chefs de tribus, notamment dans la guerre pour la mainmise sur le gaz.
+
+Aujourd’hui, si on dessine la ligne du désert, telle qu’elle est déterminée par la norme des 200 mm, on la voit longer l’Afrique du Nord, passer par la Palestine et Gaza, la Cisjordanie, la Syrie, le Nord de l’Irak : autant de territoires aujourd’hui ravagés par des guerres civiles. Puis elle rejoint la zone frontalière entre le Pakistan et l’Afghanistan : le Waziristan où des tirs de drones sont perpétrés. Une autre ligne passe par le Sahel et la Somalie. 
+
+Nous avons d’ailleurs établi une carte des tirs de drones au cours des dernières années. Sans surprise, cette carte recoupe celle de la ligne de désertification [Figure 4]. L’histoire de la colonisation des zones désertiques se répète : police en deçà de la ligne verte, bombardements au-delà. Il s’agit pour nous d’objectiver cette répétition en la rendant visible.
+
+<https://farm9.staticflickr.com/8824/18036220990_767fb5e238_o_d.jpg size=original caption="Figure 4 Recoupement de la ligne de désert (précipitations inférieures à 200 mm) et des tirs de drones." class=fullwidth>
+
+
+{{{De {Forensics} à {Forensis} : du technico-légal au politique}}}
+
+
+{{E.W.}} L’exemple d’El-Araquib permet de comprendre la diversité des échelles sur lesquelles nous travaillons. Au niveau micro, nous démentons la thèse d’Israël sur le cimetière du Néguev ; au niveau macro, nous montrons comment la spoliation des Bédouins est aggravée par une gestion politique du désert, où la question du changement climatique occupe une place centrale.
+
+Or à chaque échelle, correspond sa propre épistémologie. Prenez le niveau micro : le projet {Forensic Architecture} ([->www.forensic-architecture.org]) peut se concentrer, ici sur un cimetière, ailleurs sur un bâtiment isolé pour y observer les traces qu’il a conservées d’un tir de missile ou d’un bombardement. Dans ce type de cas, notre problème est juridique, pas politique.
+
+Or pour montrer qu’un crime est politique, il nous faut apporter la preuve de son caractère systématique. L’armée israélienne peut bien mettre quelqu’un en prison au mépris de tout droit, cela sera considéré comme une bavure tant qu’on n’aura pas apporté la preuve de sa répétition dans le temps et dans l’espace : le cas échéant, cela deviendra un crime d’État.
+
+Il y a là pour nous un enjeu essentiel : le passage de {Forensics} (le recours à l’expertise scientifique dans la sphère juridique) à {Forensis. }En latin, ce terme renvoie à la place publique, au fait d’amener une question jusqu’au forum. Il exprime donc une pratique politique. Les deux mots ont la même origine, mais la modernité a réduit le {Forensis} au {Forensics.} Voyez l’anthropométrie judiciaire que Bertillon a développée au tournant des XIXe et XXe siècles. Ce type d’expertise technique est un acte policier, au service du contrôle des individus. Nous essayons, quant à nous, d’en inverser la logique, en observant les crimes d’État d’un point de vue citoyen. Il y a donc une dialectique entre {Forensics }et {Forensis}. Ce que nous appelons {Forensis} est la sensibilité qui oriente ce que nous faisons dans le cadre de {Forensic Architecture.}
+
+
+{{{Cartographier l’occupation israélienne : un tournant spatial}}}
+
+{{E.W. }}Notre travail doit énormément à l’appel inaugural d’Edward Said dans un article intitulé « [Palestinians under siege->http://www.lrb.co.uk/v22/n24/edward-said/palestinians-under-siege] » paru en 2000 dans la {London Review of Books}. Said avait été jusqu’alors l’un des plus fervents critiques de la cartographie comme pratique colonialiste : il avait montré l’imaginaire géographique à l’œuvre dans les stratégies impériales. Or voilà qu’il pointait le déficit de connaissances géographiques de l’Autorité palestinienne dans ses négociations avec Israël : lors des accords d’Oslo, elle n’avait jamais pu faire valoir une carte qui prouve les crimes de l’occupation. Il en appelait donc à un « tournant spatial » ({spatial turn}), comme geste de résistance : il fallait produire une contre-cartographie susceptible de mettre en lumière les stratégies coloniales. Cet article a eu une influence considérable sur toute une génération d’activistes et de chercheurs palestiniens. Il m’a bouleversé alors que j’étais encore un étudiant israélien en architecture.
+
+<https://farm9.staticflickr.com/8833/17603353163_e65627c124_o_d.jpg size=original>
+
+Je me suis donc lancé dans le projet d’établir une carte des implantations israéliennes en Cisjordanie. Onze mois durant, j’ai navigué dans un petit avion pour prendre des clichés aériens. Il s’agissait de créer un outil susceptible de rendre visible la responsabilité pénale des architectes et des planificateurs dans les crimes de l’occupation. Protester contre l’illégalité de l’occupation est insuffisant : il faut donner à voir comment le crime a été conçu dès la table à dessin. En coupant une route, en isolant un village ou un champ, on détruit l’économie locale des Palestiniens. C’est qu’il n’y a pas seulement de la politique dans l’espace, mais aussi par l’espace. {Forensic Architecture} est donc une sorte de réponse technologique moderne à l’appel de Said : nous devions proposer une contre-instruction technico-légale ({counter forensic}).
+
+
+{{{Société civile}}}
+
+
+{{E.W.}} Ce travail de cartographie de l’occupation israélienne a été l’une des premières initiatives en quasi « open source » à laquelle des activistes, tant palestiniens qu’israéliens, ont pu contribuer. La carte initiale que j’avais fabriquée était téléchargeable et modifiable : on pouvait donc lui superposer de nouvelles couches qui permettaient d’observer l’évolution de l’occupation.
+
+Tous nos projets ultérieurs héritent de cette expérience inaugurale : loin de toute ambition de centralisation, il faut diffuser des pratiques citoyennes, essaimer autour d’elles des communautés, constituer des initiatives communes qui traversent les frontières.
+
+Dans notre perspective, les États sont nos adversaires. Or nous ne bénéficions pas des informations dont ils disposent. Il nous faut donc faire preuve de créativité en partant de ce que nous avons : des images. À cet égard, nous revendiquons résolument le fait d’être, non des scientifiques comme le sont les experts technico-légaux institués, mais des artistes au sens large : des architectes, des ingénieurs du son, des réalisateurs, des graphistes. Par notre formation et nos pratiques, nous avons développé une sensibilité esthétique qui nous permet d’interpréter les productions de différents médias. Regarder n’est pas une activité passive, c’est une construction. Les théoriciens des médias nous aident à mettre en question les processus esthétiques et iconographiques qui sont en jeu dans les images du monde où nous cherchons des preuves, mais aussi dans celles que nous produisons. 
+
+
+{{{Nakba days : contre-enquêtes}}}
+
+{{E.W.}} Un procès est toujours l’occasion de confronter des enquêtes technico-légales opposées. Dans l’affaire dite « Nakba Days », nous avons démontré que des soldats israéliens avaient tiré, le 15 mai 2014 à Beitunia, sur deux adolescents palestiniens, lors de la commémoration de la Nakba. L’armée a fait une contre-investigation. Nous sommes retournés devant les tribunaux et l’avons démolie.
+
+<https://www.youtube.com/watch?v=FvkddmXkLFc width=960>
+<https://www.youtube.com/watch?v=umYw2PuMGgw>
+<https://www.youtube.com/watch?v=IhQkes0Mwzg>
+<https://www.youtube.com/watch?v=IAK9mrLF61g>
+
+L’ONG {Defence for Children International} nous avait sollicités au nom des parents des enfants. Le rapport d’expertise indiquait qu’une balle s’était fichée dans le sac à dos de l’un des garçons, ce qui permettait de spéculer sur l’orientation du tir. Il nous fallait construire un modèle. Nous avons commencé par récupérer et analyser différentes vidéos. La première, enregistrée par la caméra de surveillance d’un magasin, montre un garçon tomber, mortellement touché. La seconde, prise par une équipe de CNN, donne à voir des soldats israéliens tirer, dans un endroit non spécifié. Nous avons repéré dans le premier film un homme dont la silhouette et le mouvement figurent également dans le second, ce qui nous a permis de synchroniser les deux vidéos. Or cette synchronisation montre un soldat tirer au moment exact où l’enfant tombe. Un spécialiste du son a confirmé cette intuition. Il nous restait à reconstruire la scène en 3D, avec les moyens graphiques de l’architecture. Et nous avons pu contrecarrer l’argumentation de l’armée selon laquelle les soldats n’avaient pas tiré à balles réelles.
+
+{{{Le témoignage et la preuve}}}
+
+{{E.W.}} Dans le droit tel qu’il est couramment pratiqué, il y a deux champs séparés : le champ humain, avec le témoignage ; celui de l’objet, avec la preuve, qui fait l’objet de l’instruction technico-légale. Nous travaillons au contraire à les intriquer. Nous croyons même que le second peut permettre au premier d’advenir. Ceux qui ont vécu des expériences terribles éprouvent un traumatisme qui peut affecter leurs récits ou leurs souvenirs. 
+
+Je pense à cette femme allemande, dont la maison familiale avait été détruite par un tir de drone américain le 17 mars 2011 à Datta Khel dans le Waziristan du nord. Elle voulait mener une campagne politique contre les tirs de drones, mais sa mémoire était défaillante. Nous avons passé une journée avec elle pour reconstruire un modèle 3D de sa maison. L’idée était de circuler dans cet espace virtuel, parce qu’il y a une relation entre mémoire et architecture. Impossible de savoir à l’avance ce qui déclenchera le souvenir : chaque détail était donc important. En l’occurrence, elle parlait sans cesse d’un ventilateur qu’elle nous demandait de déplacer : elle le voyait au plafond puis sur un pied. Quand nous sommes ensuite retournés dans les ruines de sa maison, elle s’est souvenue que c’est dans les pales du ventilateur qu’elle avait trouvé des lambeaux de chairs humaines.
+
+
+{{{Le projet Gaza : une topographie des médias}}}
+
+
+{{E.W. }} L’architecture est à l’intersection de l’humain et du non-humain, mais aussi de l’espace physique et de sa mathématisation. Les architectes d’investigation ({Forensic architects}) sont des topographes : vous avez été victime d’un préjudice, ils viennent faire des repérages et identifient des preuves à des fins de justice ou d’assurance. Ils savent qu’un bâtiment ne cesse d’évoluer -- avec la température, l’environnement, l’usage, les bombardements, etc. Ils l’envisagent donc comme un capteur, un diagramme des champs de forces qui s’exercent autour de lui.
+
+Or en cas de guerre, il est souvent impossible d’accéder directement au bâtiment. Je n’ai pas le droit d’aller à Gaza. Quant au Waziristan, il est inaccessible. Nous sommes dès lors confrontés à un problème pratique : nous devons nous fier à des vidéos, aux images prises par les téléphones, aux souvenirs et aux témoignages : rien n’étant plus immédiatement disponible, il nous faut reconstruire. Nous sommes donc des topographes qui travaillent à partir de médias.
+
+Notre propre pratique n’a cessé d’évoluer. Quand {Forensic Architecture} a été lancé, en 2008, notre méthode empruntait majoritairement à l’archéologie : nous nous rendions sur les lieux, nous observions les pierres. Depuis, nous avons constitué des fonds d’images vidéo sur lesquelles nous travaillons : des films qui circulent sur les réseaux sociaux, tournés par des citoyens, des journalistes, des militants, et même l’armée. Ces images sont disponibles, elles portent des traces qu’il nous faut lire ! Cela a complètement reconfiguré la méthodologie du militantisme des droits de l’homme. Jusqu’alors, il s’agissait de recueillir {a posteriori} la mémoire de victimes silencieuses. Désormais, les victimes produisent des documents en direct, en suivant leurs propres règles, en formulant leurs propres exigences. Notre tâche est donc aussi de récupérer ces images et de construire minutieusement à partir d’elles des objets cohérents.
+
+À cet égard, nous pouvons nous arrêter sur le travail que Christina Varvia effectue en ce moment avec les réseaux sociaux de Gaza. Il s’agit d’un projet dont les résultats devraient être utilisés par Amnesty International puis par une commission sur la Palestine des Nations Unies, et qui seront produits, {Inch Allah!}, à la Cour internationale de la Haye.
+
+Le 1er août 2014, le Hamas a fait prisonnier un soldat israélien. Israël a alors donné l’ordre le plus ambigu qui soit -- la « directive Hannibal ». Dans sa version écrite, cette directive autorise à mettre la vie du prisonnier en danger pour le reprendre à l’ennemi. Mais elle a pu être comprise, dans sa transmission orale, comme l’exigence de tuer le soldat de son propre camp dès lors qu’il a été fait prisonnier. Ce jour-là, l’armée israélienne a mené une offensive d’une incroyable violence pour détruire les positions du Hamas et tuer le prisonnier. Près de 200 Palestiniens sont morts dans ces bombardements.
+
+Il nous faut comprendre ce qui s’est passé précisément ce jour-là puisque les Israéliens accusent les Palestiniens d’avoir brisé le cessez-le-feu alors que les Palestiniens estiment que ce sont les Israéliens.
+
+{{Christina Varvia. {Sur son écran, un mur de vidéos.} }} Nous avons acheté une image satellite de la ville le 1er août 2014. Nous disposons par ailleurs de quarante vidéos prises le même jour, récupérées sur les réseaux sociaux. Toutes donnent à voir une explosion. Encore nous faut-il montrer qu’il s’agit de la même explosion. Cela exige de détourer, dans chaque film, la forme de la fumée occasionnée par le bombardement, de la modéliser en 3D, puis de vérifier qu’elle coïncide avec celle des autres films [Vidéo 5]. 
+
+<https://vimeo.com/125824458>
+
+Mais cela demande aussi une analyse précise de chaque angle de vue pour identifier le lieu d’où le film a été pris, ainsi qu’un calcul de la longueur des ombres sur le sol pour déterminer leur heure exacte. À partir de là, nous synchronisons les vidéos, et produisons un diagramme qui permet de simuler le déroulement exact des évènements, et de faire des hypothèses sur l’origine du bombardement… Il s’agit de tout réinscrire dans un espace-temps cohérent [Vidéo 5].
+
+
+{{{ {Forensic Oceanography} : les nouveaux régimes de la preuve}}}
+
+
+{{E.W. }} Nous travaillons dans les marges de ce qui est considéré comme « preuve ». D’abord, il est essentiel de faire reconnaître comme « expertise » notre travail de citoyens ce qui ne va pas {a priori} de soi. D’autant que les objets hétérogènes que nous fabriquons excèdent ce qui est normalement produit dans un tribunal. Quel que soit le forum dans lequel nous intervenons, cette façon d’être en excès, relativement à ce qui est attendu, est pour nous un enjeu stratégique. 
+
+À ce titre, le projet {Forensic Oceanography} mené par Lorenzo Pezzani et Charles Heller sur les naufrages en mer Méditerranée est exemplaire : en combinant des entretiens, des observations océanographiques, des éléments de climatologie, des témoignages… il contribue à la transformation de ce qui est habituellement reçu comme une preuve.
+
+{{Lorenzo Pezzani }} Je suis architecte ; Charles Heller est cinéaste. Nous nous intéressions depuis longtemps à la politique des migrations. Or nous avions été frappés par la façon dont {Forensic Architecture} reconfigurait les modalités d’administration de la preuve. Notre projet a démarré en 2011, alors même que la situation en Méditerranée était bouleversée par le début de la guerre en Libye. Un certain nombre de gens prenaient la mer pour rejoindre l’Italie du sud. Ils ne constituaient qu’une faible part de ceux qui fuyaient le pays (la majorité rejoignant d’autres pays d’Afrique ou du Moyen-Orient) mais en Europe, on a alors agité le spectre de l’invasion. 
+
+L’augmentation relative du nombre de ceux qui prenaient le risque de la traversée s’est traduite par celle du nombre de morts. Au même moment, la situation en Tunisie avait bouleversé le régime de contrôle des frontières jusqu’alors en vigueur. La présence militaire dans la Méditerranée avait été renforcée, d’autant que l’embargo contre la Libye avait conduit à un redoublement des contrôles maritimes. Paradoxe : les naufrages mortels de migrants augmentaient alors que la surveillance policière et militaire de l’espace maritime était accrue.
+
+Les associations d’aide aux étrangers, et tout particulièrement Migreurop et le GISTI, avaient lancé plusieurs appels pour alerter l’opinion et les institutions nationales et européennes sur ce paradoxe. Il était inconcevable que des navires militaires en patrouille n’aient pas croisé telle ou telle embarcation de migrants en détresse. Il y avait donc crime, puisque le droit maritime international stipule le devoir d’assistance à personnes en danger.
+
+Nous avons donc offert de contribuer à cet appel en le documentant. Nous sommes partis recueillir des témoignages de migrants survivants d’un naufrage. Il s’agissait d’établir quels bateaux ils avaient vus lors de leur traversée. Nous avons ainsi étayé notre compréhension globale d’un système de non-assistance à grande échelle.
+
+Après en avoir discuté avec les organisations activistes sur le terrain, il a été entendu que le meilleur usage que nous pourrions faire de ces données serait de construire un cas pour le porter devant les tribunaux. C’est ce que nous avons fait avec l’affaire dite {Left to die boat} : 72 migrants étaient morts au large de la Libye alors qu’ils avaient été croisés par différents navires ; un hélicoptère avait approché leur embarcation et offert de l’eau avant de disparaître sans jamais envoyer de secours.
+
+Il s’agissait pour nous de produire une représentation cohérente de ces quinze jours en mer. Nous avons rassemblé de nombreux éléments -- cartes, données océanographiques, photos, etc. -- dans un rapport dans lequel nous instruisions le cas point par point [Figure 8].
+
+<https://farm8.staticflickr.com/7757/17603354443_84b391d51f_o_d.jpg size=original caption="Figure 8 Reconstitution de la dérive du bateau pendant 15 jours (Forensic Architecture).">
+<https://farm8.staticflickr.com/7785/18220252092_31c4d46a25_o_d.jpg size=original caption="Figure 8 Reconstitution de la dérive du bateau pendant 15 jours (Forensic Architecture).">
+
+Les témoignages des survivants étaient bien sûr parcellaires. Nous avons cherché les indices pour les corroborer. Un océanographe a fourni différents relevés météorologiques, grâce auxquels nous avons établi comment l’embarcation avait pu dériver. Avec un spécialiste des capteurs à distance nous avons analysé des images satellites pour tenter de repérer les signes des bateaux militaires. En combinant le diagramme de la dérive du bateau, les images satellites et les relevés géodésiques que les migrants avaient données lorsqu’ils avaient appelé à l’aide, nous avons tenté de reconstruire les faits dans un récit qui met en brèche la version officielle de l’OTAN du « rien vu, rien su ». Nous n’avons malheureusement pas pu établir sous quels pavillons naviguaient les bateaux qui avaient été croisés : les images satellites ne nous l’ont pas permis. Au moins avons-nous prouvé que des bateaux étaient là, qui auraient pu intervenir.
+
+Des plaintes ont alors été déposées dans différents pays -- en France, en Espagne, en Belgique, en Italie, en Grande-Bretagne -- contre les armées qui avaient participé à l’embargo, mais aussi au Canada et aux États-Unis pour atteintes à la liberté de l’information. En France, il y a eu jusqu’à présent deux jugements. Nous avons pu prouver qu’un avion français avait traversé la zone, puisqu’une photo prise de cet avion du bateau à la dérive a été publiée, mais nous n’avons pas pu identifier le pavillon des bâtiments à proximité de l’embarcation. Ironiquement, le juge a argué de l’extrême précision de notre rapport pour estimer qu’aucune preuve définitive ne pourrait donc être apportée. 
+
+C’est en tout cas à partir de ce cas que nous avons élaboré une méthodologie susceptible d’intéresser toutes les parties prenantes du champ des migrations, et d’être reconduite dans d’autres cas dramatiques. Nous avons lancé un site internet {WatchTheMed} ([->watchthemed.net]) qui rend publique cette information et permet aux différents acteurs de compléter les données disponibles, puis, en collaboration avec de nombreuses ONG, {The Alternative Alarm Network}  ([->www.watchthemed.net/index.php/page/index/12]) -- une ligne téléphonique qui facilite la possibilité pour elles de partir à la rescousse de bateaux en difficulté.
+
+
+{{{Le mur de Battir : l’invention de stratégies juridiques}}}
+
+
+{{E.W. }} Nous travaillons régulièrement à la demande de juristes. Avec l’avocat israélien Michael Sfard, nous avons récemment gagné un procès sur le mur de frontière israélo-palestinien. Jusqu’alors, il y avait eu d’un côté des plaintes relevant des droits de l’homme, de l’autre des exigences de l’armée relatives à la sécurité : il s’agissait chaque fois de négocier entre ces attendus contradictoires pour trouver « le meilleur des murs possibles ».
+
+Michael Sfard a eu l’idée, non plus de prendre appui sur les droits de l’homme, mais d’agir au nom d’un plaignant non-humain : l’environnement. Nous avons argué que l’habitat naturel et les vestiges archéologiques étaient menacés par ce mur. Des Palestiniens ont donc inscrit au Patrimoine mondial de l’Unesco les plantations en espalier situées sur le tracé du mur. Et c’est au nom de la défense de ce patrimoine que nous avons suscité une curieuse -- et politiquement explosive -- coalition d’intérêts : des Palestiniens, des activistes écologistes, des colons. De l’autre côté ne restaient plus que l’armée et l’État. Et nous l’avons emporté. Aux abords du village de Battir en Cisjordanie, 15km de mur initialement prévus n’ont pas été construits.
+
+Pendant des années, nous nous étions tapés la tête contre les murs en agissant au nom de droits de l’homme dont personne ne veut entendre parler ; et voilà que nous avons trouvé une issue en faisant valoir qu’Israël porte atteinte à l’intégrité du beau pays biblique de la Palestine ! Or bien sûr, notre plainte est politique : s’il ne doit pas y avoir de mur à Battir, il ne doit y en avoir nulle part.
+
+{{{Environnement et droits humains : un nouveau paradigme}}}
+
+
+{{E.W.}} La loi internationale humanitaire est aveugle aux questions environnementales. Et les différentes commissions internationales qui s’intéressent à l’environnement ne sont pas habilitées à juger ce qui fait violence aux humains. L’essentiel échappe pourtant à chacun de ces forums. Il est donc crucial d’œuvrer à la création de nouveaux cadres probatoires et politiques où puissent s’articuler conflits et environnement. À l’heure actuelle, le changement climatique est encore perçu comme un effet secondaire de ce qui relève de bonnes intentions : la croissance, la prospérité, l’industrialisation, l’échange, la connectivité. Les icebergs fondent, les déserts s’étendent, mais ce sont des « dommages collatéraux ».
+
+Il faut donc proposer une autre analyse. Le changement climatique est le produit d’une histoire concertée. Je le disais tout à l’heure, les administrateurs coloniaux avaient pour horizon le changement climatique lorsqu’ils obéissaient à des mots d’ordre comme : « transformons les jungles et les forêts en champs de soja ! ». Ce n’est pas un bas-côté de l’Histoire, c’est son objectif. Or le climat évolue désormais à la même vitesse que l’Histoire. Dans la description d’un Braudel, l’environnement était le lieu de la permanence et de la cyclicité. On ne peut plus le penser dans ces termes. La violence et les guerres sont aggravées par le changement climatique mais elles en accélèrent aussi le processus. C’est un cercle vicieux.
+
+Tout crime politique est à l’intersection d’actes et d’acteurs multiples. Pour l’établir, il faut rendre compte de ces interactions des causes humaines, politiques, économiques, et de plus en plus souvent désormais, environnementales. Il faut donc s’intéresser à des champs de forces plutôt qu’à des chaînes causales. Cela suppose de comprendre comment la matière s’organise dans le monde, comment elle est soumise à des causalités diverses : il s’agit, en d’autres termes, d’élaborer une plastique politique, au sein de laquelle un évènement singulier peut s’inscrire. 
+
+{{{La violence et le droit}}}
+
+{{E.W.}} La loi humanitaire internationale est un objet élastique. Les règles ont été établies dans le cadre de guerres conventionnelles symétriques. Les conventions et les interprétations sont censées faire bouger la loi. Dans un tel contexte, chaque procès a pour nous deux objets : montrer qu’il y a eu un crime et faire évoluer le droit.
+
+Pour parvenir à ces fins, il s’agit toujours d’œuvrer dans la marge ténue qui sépare ce qui est considéré comme crime et ce qui est tenu pour légal. C’est du reste exactement ce que font les États. Le droit humanitaire est généralement défini par ses violations : si une loi est régulièrement violée par suffisamment d’États, elle cesse de faire loi. Voyez ce qui s’est produit en matière d’exécutions ciblées. Israël a été le premier État à y recourir officiellement au début des années 2000 (même si cela avait commencé bien auparavant), avec le début des tirs aériens et l’utilisation des drones. Tous les avocats anglais ou américains, tous les juristes de Genève les considéraient à l’époque comme illégales. Puis, après le 11 septembre 2001, tous ces pays s’y sont mis et les Nations Unies ont alors cherché à établir des règles : ce n’est plus illégal et cela doit faire l’objet d’une réglementation. Du point de vue de l’État, la loi est donc écrite à partir de sa transgression. De notre point de vue, il importe de révéler la violence de la loi : la violence qu’elle construit comme la violence de l’histoire qui en a accouché -- celle des guerres, de la domination coloniale. La loi crée de la violence comme le crime.
+
+Nous observons une mutation continue du droit : d’un côté, une judiciarisation des droits de l’homme ; de l’autre, un usage croissant par les États du droit international comme cadre de la violence qu’ils exercent. Il nous faut donc ajuster la réponse que nous pouvons lui opposer. L’armée israélienne dispose d’avocats doués qui sont à l’affût des failles du droit international. Ils ont compris, par exemple, qu’on pouvait légalement tuer des civils du moment qu’ils avaient été prévenus. C’est ainsi que des campagnes massives en amont sont désormais menées : « Allo, ici l’Armée Israélienne, nous allons tirer sur votre maison. » Il y a là un usage du droit, non pour contenir la violence mais pour en permettre la prolifération. Cet usage affecte notre propre rapport au droit. Nous savons que les tribunaux peuvent être le meilleur lieu de politisation d’une cause, mais nous ne fétichisons pas la loi: nous n’en sommes ni les défenseurs ni les garants. Il nous faut à la fois travailler avec et contre elle. C’est la raison pour laquelle le technico-légal ({Forensics}) ne va pas sans la mise en question publique ({Forensis}).
+
+
+{{{Représentations : des mosaïques du droit aux zones de non-droit}}}
+
+{{L. P. }} La Méditerranée est un territoire fragmenté -- il y a une prolifération de lois, qui se superposent mal entre elles. La frontière ne détermine pas une distinction entre deux régimes ; on a plutôt affaire à une mosaïque de zones différentes avec des régimes juridiques entrecroisés. La Convention des Nations Unies sur le droit de la mer établit des règles qui concernent les eaux territoriales et les zones d’exclusivité économique. Il y a des règles de protection de la nature qui définissent d’autres zones d’actions. Il y a ensuite des zones qui relèvent de l’extraction minière et pétrolière. Sans oublier le droit de la pêche. Puis, bien sûr, les zones d’intervention des services de recherche et sauvetage (SAR). Cette complexité crée des brèches dans lesquelles une violence d’État peut s’engouffrer en échappant à toute juridiction, chaque État rejetant sur un autre la responsabilité des tragédies quand elles ont lieu. Le conflit entre Malte et l’Italie est de ce point de vue devenu archétypal. Entre la géographie et la définition des règles d’intervention dans les eaux territoriales, chacun des deux pays construit la possibilité d’esquiver ses responsabilités.
+
+C’est peut-être là que notre formation et notre savoir-faire en matière d’image sont les plus précieux. Nous tentons de penser, de réfléchir et de représenter la nature spatiale et picturale -- esthétique au sens large -- de la violence de la surveillance des frontières : ce qu’on a pu appeler la nature scopique de ce régime de surveillance.
+
+{{E.W. }} Nous évoluons par ailleurs souvent dans des cadres où la loi ne s’applique pas, voire dans des lieux où elle n’existe pas. Voyez les pays dans lesquels les tirs de drones ont lieu -- le Waziristan, le Pakistan, le Yemen, l’Afghanistan, le Nord-Mali -- autant de zones hors-la-loi. Quand Israël ne reconnaît pas la Cour pénale internationale de la Haye, quand les États-Unis ne sont eux-mêmes pas justiciables, il faut donc trouver de nouveaux forums dans lesquels ce que nous amenons puisse avoir une efficacité. Là où il n’y a ni loi ni cour, dans les lieux inaccessibles aux journalistes, quand les informations disponibles sont rares et que les images satellites ont une résolution trop faible pour révéler précisément ce que nous cherchons, il devient crucial de travailler avec des penseurs et des théoriciens qui peuvent produire une critique de la loi, de la politique, de l’esthétique -- puisque c’est aussi la question de la représentation qui est en jeu -- mais il s’agit aussi d’être créatifs. Dans tous nos projets, à commencer par {Forensic Oceanography,} l’invention d’une modalité particulière de présentation fait partie de son efficacité.
+
+{{L.P. }} Bruno Latour parle de l’esthétique de la construction des faits. C’est l’une de nos motivations essentielles. Pour établir une argumentation qui puisse inquiéter les rationalités institutionnelles, il nous faut travailler une dramaturgie sophistiquée. La théorie critique a longtemps travaillé à contester le caractère construit de ce qui est tenu pour la vérité. Pour notre part, nous assumons cette construction : il s’agit de savoir comment élaborer une vérité plus juste.
+
+{{{Les armes de l’ennemi ?}}}
+
+{{L.P. }} Nous utilisons des images satellites dont l’origine est la guerre froide ; nous produisons des instructions technico-légales, c’est de la biopolitique ; la cartographie est une pratique initialement impérialiste, nous récupérons les vidéos de surveillance. Nous détournons les armes de ceux que nous affrontons. Nous nous démarquons par là d’une tradition universitaire qui revendique une distance critique sans questionner le caractère politique de cette neutralité. Nous sommes partie prenante des rapports de pouvoir, pour faire évoluer ces rapports de l’intérieur. C’est une ligne de crête risquée, qui retrouve le mot d’ordre de l’opéraïsme italien, « dedans et contre ».
+
+Dans notre travail sur les migrations en Méditerranée, nous avons ainsi estimé que rendre publiques des vidéos que les migrants font eux-mêmes pendant leur traversée, par exemple quand ils croisent un navire militaire, était en soi un acte subversif : non seulement parce que cela permet de faire valoir qu’aucun secours ne leur a été porté, mais aussi parce que c’est une façon de les reconnaître comme les producteurs de leurs propres images, alors que le système de surveillance dont ils sont objet tend à les confiner dans l’ombre. Mais plus récemment, nous avons dû reconnaître que ces mêmes vidéos étaient utilisées par la police italienne pour identifier les « passeurs » et les désigner comme des criminels. Ce type de réappropriation est fréquent, il est l’une des règles du jeu d’un champ de lutte en constante évolution. Et c’est pourquoi il faut exercer une vigilance également constante pour identifier ce qui glisse ou rompt d’une pratique à une autre.
+
+{{E.W.}} Il y a cette maxime féministe : « {The master’s tools will never dismantle the master’s house.} » (Les outils du maître ne peuvent servir à détruire sa maison). Le problème est que tout outil, en tant qu’il est outil, est un outil de domination : tout outil est outil du maître. Mais il y a toujours une marge de manœuvre, il y a toujours la possibilité de réinvestir cet outil, de l’employer en excès de ce pour quoi il a été programmé.
+
+<quote>
+Du 4 juin au 30 août 2015, le BAL (6, Impasse de la défense 75018 Paris) organise une exposition intitulée {Images à charge. La construction de la preuve par l’image}, dont Eyal Weizman est l’un des commissaires. 
+
+http://forensic-architecture.org  ◆ http://watchthemed.net
+</quote>
+
+#cartographie_radicale #droits_humains #migrants #Palestine #images_satellitaires #migrations #asile #al-Araqib #bédouins #Israël #sècheresse #Sahel #drones
+
+
+--------------------------
+
+PS: <img7|left> Entretien publié dans {Vacarme,} n°~71, sous le titre «[Les topographes des droits humains->http://www.vacarme.org/article2751.html]», repris ici avec l'aimable autorisation de la revue.
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- texte sans-serif
+
+
+--------------------------
+Visionscarto - version du 1er juin 2015 09:05

@@ -1,0 +1,57 @@
+
+--------------------------
+
+TITRE:
+À quoi ressemblait la carte du tiers-monde en 1986 ?
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+
+--------------------------
+
+CHAPO:
+C'était il y a presque trente ans...  Il est toujours bon de classer ses archives de temps en temps, pour exhumer des documents qu'on avait complètement oubliés. Et voilà qu'au milieu de vieux papiers poussiéreux apparaît une vision d'un monde ancien...
+
+<h4 class="text-right">{par Philippe Rekacewicz}</h4>
+
+
+
+--------------------------
+TEXTE:
+
+C'était l'époque «d'avant»; avant Freehand (Macromedia), avant Illustrator/Photoshop (Adobe). Les «minutes» préparatoires (c'est-à-dire les esquisses) étaient très précisément dessinées (en voir la légende m'arrache un sourire ému, quand je pense au temps qu'on y passait), et la production même de la carte, c'était du dessin à l'encre de chine sur des calques en plastique talqués. Il fallait plusieurs calques pour séparer les éléments, frontières, symboles, limites diverses (le jour où je retrouverai ce matériel, je le publierai ici).
+
+<https://farm6.staticflickr.com/5556/14854274899_7a2908d70c_o_d.jpg size=original class=fullwidth title="Minute préparatoire">
+
+<https://farm4.staticflickr.com/3876/14854780380_7f58f388c4_o_d.jpg size=original class=fullwidth title="Carte finalisée" caption="Géographie de Terminale, éditions Hatier, 1989">
+
+Cette carte du PIB par habitant date de 1988, je me souviens l'avoir produite avec des chiffres de la Banque mondiale qui représentaient la situation en 1986. Ça n'est pas si loin, et pourtant : le Yémen et l'Allemagne étaient encore séparés, la Tchécoslovaquie et l'Éthiopie ne l'étaient pas encore, l'URSS existait encore -- pour quelques mois seulement.
+
+Je note (avec stupéfaction) que j'avais omis de tracer la frontière entre le Maroc et le Sahara-occidental (impardonnable, mais les éditeurs chez Hatier -- qui vendait beaucoup au Maroc -- en avaient fait une affaire d'État, et m'avaient ordonné «d'oublier» la frontière), ainsi que les frontières de Gaza et de la Cisjordanie (aussi impardonnable). Il est vrai qu'à cette échelle, c'était petit, mais tout de même. Il y avait enfin une belle petite erreur (assez classique) : la partie de la Turquie au nord du Bosphore est purement et simplement exclue...
+
+La carte, qui date aussi d'avant l'apparition du concept de BRIC(S) -- Brésil, Russie, Inde, Chine, et plus tard, Afrique du Sud -- voulait montrer la diversité du monde en voie de développement -- on disait encore «tiers-monde» -- et la persistance de ses limites (lesquelles limites n'ont plus guère de sens aujourd'hui, mais sont encore figurées dans certains manuels scolaires).
+
+Revoir les NPI (nouveaux pays industrialisés) a de quoi nous rendre nostalgique d'un monde «ancien» (quand on pense à l'évolution de ces trois dernières décennies). Quant aux PMA (pays les moins avancés), ce sont aujourd'hui presque les mêmes...
+
+Dans le manuel, il y avait une carte des échanges de produits manufacturés sur laquelle on peut avoir maintenant un regard amusé en observant la taille du symbole pour la Chine et la Corée du Sud :
+
+<https://farm4.staticflickr.com/3920/14855148939_08ed905e21_o_d.jpg size=large title="Géographie terminale, collection Barret-Brignon, Hatier, 1989">
+
+Voilà donc à quoi ressemblait notre vision du monde il y a trente ans, et il est intéressant de s'en souvenir pour pouvoir la comparer à notre vision contemporaine (trouve-t-on encore beaucoup le mot «tiers-monde» dans les manuels scolaires ?).
+
+Proportionnellement, à l'exception de quelques pays, l'écart entre les pays pauvres et les pays riches s'est accentué, mais la vision cartographique -- pour cet indicateur -- reste à peu près la même (toutefois sans les «limites» supposées du tiers-monde). Ce qui a profondément changé, c'est la création d'une multitude de nouveaux indicateurs ou indices, qui ont permis la production d'une cartographie plus riche, plus diversifiée, et fait apparaître des visions du monde nouvelles, tellement surprenantes parfois que les éditeurs scolaires ont encore souvent du mal à y faire référence...
+
+<https://farm6.staticflickr.com/5572/15041220475_920b5996ac_k_d.jpg size=large title="Le revenu par habitant des 15 pays les plus riches du monde comparé à celui des 15 pays les plus pauvres (1970-2010)" caption="Graphique extrait d'un projet en cours de développement (« géographie du plein, géographie du vide »)">
+
+
+--------------------------
+
+PS: Si vous souhaitez réagir, contribuer, commenter, utiliser tout ou partie de ce billet, ou simplement contacter l'auteur, nous vous invitons à nous écrire via  [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 26 août 2014 23:45

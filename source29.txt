@@ -1,0 +1,167 @@
+
+--------------------------
+
+TITRE:
+Otto Neurath and the Politics of Orchestration
+
+--------------------------
+
+AUTEUR: 
+- Sophie Hochhäusl
+
+--------------------------
+
+CHAPO:
+In 1923, with a series of charts displaying the increased urban production of housing, produce, and dairy goods, the life-long endeavor of the philosopher and economist Otto Neurath (1886-1945) in finding a concise visual language of picture statistics began. Exhibited at the “Allotment Garden, Settlement, and Housing Exhibition” (Kleingarten- Siedlungs- und Wohnbauaustellung) which drew almost half a million spectators into Vienna’s City Hall, the statistical charts suggested that settlements and allotment gardens, built in the city over the past five years, had heralded a novel way of cultivating and distributing food in the city. Neurath’s engagement of matters of architecture, urbanism and organization had thus, through the necessity of exhibiting its benefits to the Viennese public, triggered an interest in statistical mapping and visualization through pictograms.
+
+<h4 class="text-right">{by Sophie Hochhäusl}</h4>
+<h5 class="text-right">PhD Candidate, History of Architecture and Urbanism, Cornell University.</h5>
+
+
+--------------------------
+TEXTE:
+
+After devoting more than a decade’s work to inventing a concise graphic language for such depictions (eventually coined Isotype -- the International System of Typographic Picture Education), in the mid 1930s Neurath turned to matters of architecture and urbanism, again, through the preparation of an exhibition.
+
+<https://farm8.staticflickr.com/7390/13950385597_7521c29a72_o.jpg size=medium title="Committee of the « Housing, Settlement and Small Garden. Otto Neurath is the third from the left in the row behind (Vienna, 1923). » Exhibition." caption="Courtesy of the Central Association of Settlers and Small Gardeners Austria.">
+
+This exhibition, titled the “The Functional City,” showcased to international government representatives and the public in Amsterdam in 1935 the results of the fourth Congress of International Modern Architecture (CIAM) which had taken place a few years earlier, in 1933, on the ship {SS Patris} en route from Marseilles to Athens. Neurath had been invited as expert to advise in matters of illustrating statistical information and socio-economic facts and travelled to Greece.
+
+<https://farm3.staticflickr.com/2910/14134106202_4bcab68a81_o.jpg size=medium title="CIAM delegates on the ship SS Patris en route to Athens, 1933. Otto Neurath is one the left, drawing or writing something." caption="Courtesy of ETH Zurich's GTA archive." right>
+
+After discord between Neurath and the architects over content and depiction of the proposed architectural maps emerged however, the exhibition opened without Neurath’s contributions. As counter proposal to the ideas put forward by CIAM, in 1937 Neurath published a series of charts in Architectural Record accompanying the essay “Visual Representation of Architectural Problems.” The depicted series of charts showed as its cover and lead image an urban diagram, reminiscent of the Viennese outskirts, which Neurath had investigated closely for the 1923 “Viennese Housing, Settlement and Small Garden Exhibition.”
+
+It was thus, that at the end of the 1930s Neurath, fully involved in matters of making statistics accessible to the greater public, turned to questions of architecture and urbanism one more time with urgency. Neurath wrote:
+
+<blockquote>
+{“City planning and home planning are concerned with life planning in general, and architects must often cooperate with […] other people who deal with the environment of our social life and private life. The reason for this is that architects are people whose profession it is to make the entire lives of human beings as happy a possible.”}
+</blockquote>
+
+<https://farm6.staticflickr.com/5455/14113868946_7ee0f91320_h.jpg size=medium title="City Planning, as published in Architectural Record, July 1937." caption="Courtesy of the department of typography at the University of Reading (England).">
+
+The essay was not only a call to action for architects and planners, its also embodied through the depicted chart the kernel of an alternative political model; a model that advocated for governance by multiplicity and the acknowledgement of minority opinion as its fundamental essence.
+
+Using one chart of Neurath’s series from 1923 and 1937 as bookends, in this text, I will investigate how Neurath’s thinking about settlements and allotment gardeners on the urban scale transcended into a political attitude that encouraged plurality through the concept of “orchestration.”
+	
+<https://farm3.staticflickr.com/2906/14072878729_cf70ebb437_o.jpg size=medium title="Rootstock of a Settler’s House, Vienna, ca. 1923." caption="Source: T-Files, 198b, University of Reading (England).">
+
+
+After spending several months in prison in 1919, where he had been jailed for the participation in the Bavarian Soviet Republic, Otto Neurath, returned home to Austria. Upon his arrival in Vienna, he became the secretary of the Austrian settlement and allotment garden movement, which, based on self-help building, had grown “wildly” throughout WWI when people in search of food and shelter had started to cultivate small gardens and built provisional barracks on the outskirts of Vienna. After the war the movement counted 100,000~members and more than 250~dispersed, but organized clubs. These were united by Neurath under the umbrella organization Austrian Settlement and Allotment Garden Association (Österreichischer Verband für Siedlungs- und Kleingartenwesen) in 1921 and amounted to 50,000~active member families.
+
+Crucial for the establishment of the organization was a special relationship with the city. During the years of First world war, people had often squatted on fallow land illegally and without resistance. In times of peace however, their communities had become a thorn in the side of many owners of large estates and settlers wanted to see their homes secured. While maintaining the principles of self-help, co-operation and autonomy, settlers rallied for the municipal government’s support strengthening their position. Feasible economic and political commitments were made in April of 1921, when settlers voiced their concerns to the city. On banners they wrote:
+
+<blockquote>
+{“Give us land, wood and stone and we will make bread from it!”}
+</blockquote>
+
+With Austria’s crown lands lost, the latter demand spoke indeed to a major concern of the municipality, which had been unable to supply produce and dairy products for the Viennese population. Allotment gardeners and settlers offered a way out of this predicament. In support of the rally the prominent architect and feature writer, Adolf Loos (1870-1933), issued an article in Neue Freie Presse (New Free Press) underscoring that settlers did not only support themselves through planting produce and raising animals, Loos argued, they prevented unrest and thus also saved the state.
+
+<https://farm6.staticflickr.com/5347/13950405359_9f0edb3ddc_o.jpg size=medium title="“Housing, Settlement and Small Garden” Exhibition." caption="Courtesy of the Central Association of Settlers and Small Gardeners Austria." >
+
+The same day, legislation was passed in the city council ensuring the livelihood of thousands of Viennese through modernizing settlements. The mayor of Vienna, Jakob Reumann (1853-1925) provided an extensive building fund to settlements, ensured quick expropriation proceedings of large estates, distribution of all necessary building materials through the co-operatively owned developer GESIBA (Gemeinwirtschaftliche Siedlungs- und Baustoffanstalt) as well as machines and tools.
+
+In addition, various entities that managed and oversaw construction and organization in settlements were founded in co-operation of settlers’ umbrella organization and the municipality. Amongst others, these included legal advise, insurance and health advise, but also an entity that purchased and leased land, as well as a settlement office where Loos was chief architect and a design entity for furniture where the architect Margarete Lihotzky (1897-2000) was active. The German intellectual and founder of the German Garden City Movement (Deutsche Gartenstadtgesellschaft) Hans Kampffmeyer was responsible for editing settlers’ and allotment gardeners’ periodical as well as organizing exhibitions. Neurath was instrumental in founding and staffing these entities and the structuring of their relationships to one another on a large scale.
+
+But the co-operative and networked relations between these entities extended from organizational systems to built and lived aspects on the ground as well. Settlers soon built club-houses, collectively owned parks, co-operative supermarkets and even kindergartens. In addition, settlers did not only share their finished and built community, in fact, a major part of co-operation began during the building process. Settlers laid down construction infrastructure together, they dug foundations, they even burned bricks from excavations. Skilled workers were assigned to wood and metal shops, but every settler, man and woman, contributed to their settlement 1,500 -- 3,000~hours of work, which eventually granted them a house (according to their families size) and a share to all communal infrastructure. “Not one singular building is the subject of design, but the collectivity of all houses.” Neurath wrote in 1923 on the settlements. “The singular building is like the brick within a house. A new community is created from the class solidarity of the labor-forces.”
+
+In the garden, the logic of co-operation lived on as well. Throughout the building process settlers maintained their vegetable plots, shared knowledge on horticulture and cooking techniques such as canning and pickling. The Austrian Settlement and Allotment Garden Association organized lectures and classes on subjects ranging from intense farming to construction and architecture.
+
+In this manner, by 1923 settlers and allotment gardeners covered the entire green demand of the city and architects and builders had worked out the construction of affordable houses that allowed living close to the garden. In order to promote these achievements to the Viennese public the large “Allotment Garden, Settlement and Housing Exhibition” was held the same year.
+
+In the exhibition, allotment gardeners staged produce competitions and small animal shows, and the settlement office showcased full-scale model homes, so called “core-houses” designed by Lihotzky. On the square in front of City Hall, a club house developed by Lihotzky and the Austrian lumber union with fully functioning irrigation systems for the surrounding gardens was erected as well.
+
+A chart collecting the statistical achievements in and around the garden proved how successful allotment gardeners had been in planting produce and keeping animals. With a total quantity of 6000 train wagons of harvest in 1922, settlers and allotment gardeners had managed to cover the entire green demand of the city. Interestingly and graphically, only the illustration of precisely these train wagons would be the method further employed by Neurath and his future collaborators at the Museum for Society and Economy (Gesellschafts und Wirtschaftsmuseum) which would emerge from a collection of charts first shown at the 1923 “Allotment Garden, Settlement, and Housing Exposition.”
+
+<https://farm3.staticflickr.com/2895/14113880376_2e5592faa6_o.jpg size=medium title="Wiener Kleingärtner, (Viennese Allotment Gardens) -- Allotment Garden, Settlement, and Housing Exposition, Vienna, 1923." caption="Courtesy of the Austrian League of Allotment Gardeners." right>
+
+Despite the public success of the exhibition the triumph was short-lived. Between 1923 and 1925 food distribution in the city had largely been restructured, but housing scarcity was still looming large. Therefore the city was pressed to build higher and denser. Some of the core aspect of allotment gardens, the communal facilities, found their way into the new, larger housing projects of Red Vienna, the {Höfe.} But there inhabitants were not builders, there were no gardens but parks, and co-operation was not necessary.
+
+Although Neurath preferred the settlement over the Höfe typology, he increasingly admitted over the course of the 1920s that community lived in the Höfe as well. Formally differently articulated than in settlements, he stated that in the public dwellings of Vienna’s municipality, too, emerged a new collective life.
+
+<blockquote>
+{“The common courtyard serves the play of children, on summer evenings, young and old possibly even dance to the sound of the loudspeaker.”}
+</blockquote>
+
+Nonetheless Neurath never committed his energies to the large communal housing projects, but he remained interested in issues of urban organization on a large scale. The city was a place where various and pluralistic models of life needed to exist with one another, in practice and in typology. For such an urban culture to come into being however, a population was needed that led an informed discourse on the city, and which debated various path of life, making every citizen a decision maker.
+
+<https://farm6.staticflickr.com/5501/14072889838_526d555ec3_o.jpg size=large>
+
+<https://farm6.staticflickr.com/5080/14259536585_1e74ffa6bd_o.jpg size=large title="Distribution of Settlements and Höfe in Vienna, 1926." caption="Source: Der Aufbau, 1 (1926).">
+
+When the funding for settlements was cut in 1925, the Museum of Society and Economy continued this legacy, adding to the original collection of charts shown at the “Allotment Garden, Settlement and Housing Exhibition,” visual charts with the purpose of explaining complex societal and economic relationships to the public over the course of two years. When the Museum of Society and Economy found its permanent home in Vienna’s City Hall, it became one of the major vehicles in the city to discuss these economic and social relationships in the modern metropolis , but also the modern nation state and the modern world seeking to make them visible in a scientific manner.
+
+<https://farm4.staticflickr.com/3781/14257389792_455840cc32_h.jpg size=medium title="View of Museum for Society and Economy on Vienna’s City Hall, Vienna, ca. 1925." caption="Source: N-Files, 493, University of Reading.">
+
+<https://farm3.staticflickr.com/2933/14259157594_7179e865e9_h.jpg size=medium title="Charts from the Museum of Society and Economy at Allotment Garden Exhibition, Vienna, 1933." caption="Source: Austrian League of Allotment Gardeners.">
+
+Crucial to creating picture statistics in a scientific fashion which were visually accessible to the general population, was the role of the transformer, the artistic and statistical personnel that translated data into arrays of pictograms. In this capacity the Museum of Society and Economy employed experts from multiple backgrounds and fields who collaborated on pictorial statistics.
+
+Amongst these were the graphic designer [Gerd Arntz->http://www.gerdarntz.org/] (1900-1988) and the statistician Marie Reidemeister (1898-1986), the later [Marie Neurath->http://en.wikipedia.org/wiki/Marie_Neurath], but there were sociologists, mathematicians, photographers and cartographers as well.
+
+{Transformation} required specific knowledge in rendering statistical figures into graphic ones, because visual comprehension was crucial; to facilitate this comprehension, which could potentially transgress borders and class status, the Museum developed the Vienna Method of Pictorial Statistics (Wiener Methode der Bild Statistik) later coined [Isotype->http://isotyperevisited.org/1975/01/the-significance-of-isotype.html] The method was characterized by displaying statistical facts through arrays of symbols in comparable quantities. Further, it mandated that changes and alterations in statistical information could be easily traced and that crucial information entered the eye at first sight. Secondary and tertiary information should be understood at second and third sight.
+
+A shift in method occurred in the early 1930s when symbols started to be paired. Until then “factory” and “shoe” for example, were represented as two separate symbols and had two separate meanings and indicated by multiplication simple quantities. By the early 1930s however, symbols started to appear in pairs, and the merge of shoe and factory indicated, “shoe factory.” This shift fundamentally defined Isotype which was now a system with a syntax that could be developed into a vocabulary.
+
+Exhibited at Berlin’s “Building Exposition” of 1930, during which a preparatory meeting for the fourth CIAM congress (CIAM~IV) titled “The Functional City” took place, architects grew interested in the work of the Museum of Society and Economy. The architectural historian Sigfried Giedion (1888-1968) suggested to CIAM’s chairman Cornelis Van Eesteren (1897-1988) to collaborate with the specialist Neurath in preparing three model maps that would become the basis for dozens of charts that would map 33 cities in the world.
+
+Neurath was attracted by CIAM as a platform, because it represented an opportunity to launch his interdisciplinary pictorial language on a large scale. In addition, Neurath shared many objectives with CIAM’s left wing members, such as Hans Schmidt (1893-1973) and Hannes Meyer (1896-1992), who had drafted its initial declaration. It stated:
+
+<blockquote>
+{“The idea of modern architecture includes the link between the phenomenon of architecture and that of the general economic system. Town planning is the organization of the functions of collective life.”}
+</blockquote>
+
+Over the course of CIAM~IV Van Eesteren and in particular the famous Le Corbusier (1887-1965) would however conceive of the aims of the congress much differently. They were increasingly interested in laying down rules upon which large urban development projects could be advanced and funds from governments obtained. The influence of CIAM’s left wing was at the same time about to wane.
+
+<https://farm4.staticflickr.com/3760/14256222691_3fdf2979d7_b.jpg size=medium title="Otto Neurath in conversation with Sigfried Giedion on board of the {Patris.}" caption="Courtesy of ETH Zurich's GTA archive.">
+
+On the ship {SS Patris,} this rift between the architects themselves already became clear; while Cornelis Van Eesteren seriously addressed the urban analyses’ effective illustration and their translation into design proposals in his speech “Methods of Functional City Planning,” Le Corbusier, stressed that the analytical maps had to be translated into quick and concrete design conclusions.
+
+<https://farm6.staticflickr.com/5470/13950415690_3b9509e155_o.jpg size=medium title="Le Corbusier in front of some of the CIAM maps on the ship SS Patris." caption="Courtesy of ETH Zurich's GTA archive." right>
+
+Since the maps were already modeled upon Le Corbusier’s four functions of housing, leisure, work and transportation, such conclusions – which would later be laid out in the Le Corbusier’s Athens Charter – seemed easily attainable. The English delegation however, subjected to such hasty decision making and insisted that questionnaires should be distributed to all participating architects questioning the accuracy of the methods employed.
+
+Neurath’s speech titled “Town Planning and Lot Division in terms of Optical Representation Following the Viennese Method” advocated for yet another method, the simplification of the maps, which in his view, should rather depict social relations plainly, than suggesting premature design conclusions. Based on reduced cartograms the Museum for Society and Economy had produced, Neurath suggested to work with simple wallpaper cut outs and simplified symbols. This was disappointing to the architects who had spent days and weeks mapping cities’ specificities and complex spatial relationships. Nonetheless, Neurath was elected to serve on a publication commission and invited to participate in the preparation of the ”Functional City’s” exhibition.
+
+<https://farm4.staticflickr.com/3665/14279712743_f4dcf81259_h.jpg size=large title="Pages from Transcript of Neurath’s Lecture as published in Technika Chronika." caption="Courtesy of ETH Zurich's GTA archive.">
+
+Although Neurath was willing to restructure his charts for a planned exhibition in Amsterdam to the public, he could not compromise on the question of transformation. Early in 1935 he wrote to Van Eesteren:
+
+<blockquote>
+{“Everything can be solved given some consideration, but neither is it only a graphic task nor is it solely that of an architect; it requires an intermediary …TRANSFORMATION… But this is an old song I have already whistled and jingled to you in different variations.”}
+</blockquote>
+
+“The Functional City” exhibition in Amsterdam opened in July of 1935. Neurath was never credited anywhere, although some charts were modeled after his suggestions.
+
+Two years later, however Neurath’s essay “Visual Representations of Architectural Problems,” published in Architectural Record in 1937 returned to the questions CIAM sought to address putting forward Neurath’s own objectives; first, the insistence on communicating through maps simply, and secondly, on engaging the conversation on city planning with the public in a pluralistic manner.
+
+The city represented in the chart itself, in addition, embodied that pluralism as well; it was an abstracted cut out, a fragment of a city, that advocated for the urbanism Neurath had envisioned: as small town by the water, fifty percent greenery, fifty percent urban fabric, reminiscent of the Viennese outskirts and the endeavors with the settlement movement.
+
+In addition, the chart stressed the city’s important cultural, social and economic institutions as well as working areas, leisure and housing zones, and systems of transportation. They all were perforated with hospitals, kindergartens and playgrounds as well as factories, harbors and railway stations. Neurath advocated for an urbanism that was fluid and vivid, an urbanism that encouraged street live, the house and the apartment as individual unit and that embraced such units in the larger network of the city.
+
+In great contrast to modern architects of his generation he conceived of the city as unity of architecture and organization, which was structured around community. Although he had conceived of these ideas and had put them in operation already in Vienna in the 1920s, CIAM architects would not arrive at similar conclusions until 1953 and the works of Team 10, which were aimed at plurality and the incorporations of functions of social life.
+
+<https://farm8.staticflickr.com/7307/13950364867_42e37e917d_o.jpg size=large title="City planning." caption="Courtesy of the department of typography at the University of Reading (England).">
+
+Similarly, to his ideas on architecture, Neurath was also much ahead of his time when it came to governance and the orchestration of opinion. In 1941, he wrote:
+
+<blockquote>
+{“Orchestrating includes, that in principle opinions and attitudes of each individual can be accepted by the community. In this fashion, it could even occur that the assertion of a majority vote against a strong opposition remains an exception. Orchestration can sometimes be achieved is settling between the extremes or also in that both extremes are recognized by the other. For example when city planning is discussed and one third of the population wants small houses with gardens, but two thirds want large apartments, why should this be decided by a majority vote? Why not build for one third as small houses, and the other two-thirds large apartments?”}
+</blockquote>
+
+The lessons learned from the pluralism on Vienna encourage in the 1920s were unfortunately never explored. Neurath himself fled from Vienna early in 1934, first to The Hague and then further to England.
+
+But his views on the city and on governance seem more important than ever, when despite typological diversification, stratification of society becomes increasingly blatant. In addition, Neurath’s conception of settlements and his views on “orchestration” might still bare relevance in thinking about the mechanisms of democracy in general.
+
+After Neurath, one might ask, should not democracy, if not in the 20th century, then certainly in the 21st century have outgrown the principle of majority, and negotiate multiplicity?
+
+
+
+--------------------------
+
+PS: If you wish to comment on this article or contribute with additional information, or simply contact the author, please use the following email address : [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 21 November 2014 23:46

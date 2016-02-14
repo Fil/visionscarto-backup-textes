@@ -1,0 +1,43 @@
+
+--------------------------
+
+TITRE:
+Mapping Cholera
+
+--------------------------
+
+AUTEUR: 
+- Sonia Shah
+- Dan McCarey
+
+--------------------------
+
+CHAPO:
+<h4 class="text-right">{by Sonia Shah}</h4>
+<h5 class="text-right">Science journalist</h5>
+
+
+--------------------------
+TEXTE:
+
+Ebola may be the latest never-before-seen pathogen spreading out-of-control in impoverished communities devastated by conflict and environmental catastrophe—but it’s not the first. Four years ago this week, a similarly virulent pathogen, expert at preying upon societies where poor sanitation, crowding, and mistrust reign, devastated an island-nation just 800 miles off the coast of Florida, in an out-of-control epidemic that continues to this day. 
+
+{Vibrio cholerae} hadn’t been reported in Haiti in over a hundred years when it struck in October 2010, ten months after a magnitude 7 earthquake hit Port-au-Prince. The bacterial pathogen caused one of the most deadly and rapidly killing diseases known to humankind: cholera. Without rapid treatment, cholera could kill 50 percent of its victims in a matter of hours, draining their bodies of its life-giving fluids. From a few early cases, the outbreak soon exploded, as each infected victim spread the disease to at least 6 others, three times the rate of Ebola’s exponential growth. Deadly riots broke out. Twelve months later, cholera had sickened more than 450,000 Haitians, nearly 5 percent of the population. More than 6,000 were dead. The pathogen spread into Dominican Republic, Cuba, Bahamas, Puerto Rico, and Mexico. The world has failed to tame this epidemic. It continues to plague Haiti to this day, infecting 30 people daily. 
+
+Cholera is one of the world’s most successful pathogens, the culprit behind no fewer than seven global pandemics. Haiti is its most recent conquest. One of its first was New York City, in 1832. Using newly geocoded maps and never-before-plotted data, “Mapping Cholera” tells the story of these two notorious—and forgotten—epidemics that punctuate the long tenure of one of the world’s most terrifying, and difficult to tame, pathogens.
+
+
+<div class=fullwidth><iframe id="appli" src="http://visionscarto.net/maps/choleramap/?lang=en" scrolling="no" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="100%" frameborder="0" height="600"></iframe>
+<html><script>setInterval(function(){ $('#appli').css('height', $('#appli').width()*2/3);}, 500);</script></html>
+</div>
+
+
+--------------------------
+
+PS: Visionscarto has translated this project in French and helps its circulation in the media. To contact the author, republish the map or translate it in other languages, please contact us: [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 29 January 2016 08:41

@@ -1,0 +1,51 @@
+
+--------------------------
+
+TITRE:
+Où se trouvent les spatioports ?
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+
+
+--------------------------
+TEXTE:
+
+Déjà une réalité pour une poignée de précurseurs -- tel Mark Shuttleworth, le millionnaire sud-africain fondateur du système informatique Ubuntu --, le tourisme spatial, avec ses vols commerciaux sub-orbitaux, commence à s'élargir.
+
+Des sociétés privées (SpaceX, Blue Origin, XCOR, Space Adventures, Orbital Sciences, Virgin, etc.) multiplient les annonces et les essais. Bien sûr, comme dit l'auteur cyberpunk William Gibson : {The future is already here — it's just not very evenly distributed.} (« L'avenir est déjà là — mais il n'est pas réparti très équitablement. »)
+
+Ce marché, qui en est à ses balbutiements, commence à se structurer autour de spatioports, mis en concurrence les uns avec les autres par des transporteurs. À la différence de la navigation aérienne classique, les transporteurs sont pour la plupart aussi concepteurs et fabricants des engins. Et l'histoire de la conquête spatiale publique (et militaire) reste bien présente dans le secteur.
+
+L'impact économique de ces investissements pourrait à terme être colossal ; la localisation du futur spatioport britannique fait ainsi [l'objet d'annonces visant à dissuader l'Écosse de voter pour l'indépendance au prochain référendum du 18 septembre 2014->http://seenthis.net/messages/275754].
+
+Quant à Elon Musk, le patron de SpaceX -- une personnalité faisant figure de super-héros pour bien des ingénieurs --, [il vient d'annoncer le 4~août 2014->http://www.bloomberg.com/news/2014-08-04/billionaire-musk-chooses-south-texas-site-for-spacex-launchpad.html] la création d'un spatioport privé au Sud du Texas, à la limite de la frontière mexicaine, pour des vols prévus en 2018.
+
+Pour réussir à visualiser cette actualité nous avons commencé à établir, à partir de la [liste->http://en.wikipedia.org/wiki/List_of_spaceports] de Wikipédia, une carte de position de ces spatioports. Certains sont en activité depuis des dizaines d'années, d'autres en projet. La carte pour l'instant indique seulement leur emplacement, mais le fichier contient des éléments supplémentaires.
+
+<https://farm4.staticflickr.com/3873/14838413985_6c07210a9d_o_d.png size=original title="Position des spatioports (Travail en cours)" legend="Données: https://github.com/visionscarto/spaceports">
+
+<p class=box>À voir aussi : [->38]
+
+#espace #transport #infrastructures #avenir #tourisme #tourisme_spatial
+</p>
+
+
+--------------------------
+
+PS: Ceci est un travail en cours. Vous pouvez trouver le tableau de données (au format geojson) sur notre nouveau compte github, et l'exploiter de la façon qui vous siéra (merci le cas échéant de nous le signaler). Et vous êtes invités à y participer en proposant des ajouts, corrections et modifications:
+- https://github.com/visionscarto/spaceports
+
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- titre blanc
+
+
+--------------------------
+Visionscarto - version du 24 novembre 2014 00:52

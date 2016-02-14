@@ -1,0 +1,165 @@
+
+--------------------------
+
+TITRE:
+Otto Neurath et « l'orchestration » de la politique urbaine
+
+--------------------------
+
+AUTEUR: 
+- Sophie Hochhäusl
+
+--------------------------
+
+CHAPO:
+En 1923, la publication d'une série de figures montrant l'évolution de la construction de logements et la production de produits laitiers constitue le premier acte d'un projet que le philosophe et économiste Otto Neurath (1886-1945) mènera toute sa vie : trouver une manière efficace de représenter des données statistiques grâce à un langage visuel concis. Un demi-million de visiteurs se pressèrent à l'hôtel de ville de Vienne (Autriche) pour l'exposition «~Aménagement urbain, quartiers communautaires et jardins familiaux~» où étaient présentées ces figures. Il y était suggéré que la façon dont les jardins et quartiers de Vienne s'étaient développés au cours des cinq années précédentes préfigurait une nouvelle manière de cultiver, et surtout de distribuer la nourriture en milieu urbain. C'est à travers l'architecture, l'urbanisme et la planification urbaine qu'Otto Neurath s'est passionné pour la cartographie statistique et la visualisation des données basée sur l'utilisation de pictogrammes.
+
+<h4 class="text-right">{par Sophie Hochhäusl}</h4>
+<h5 class="text-right">Doctorante en histoire de l'architecture et de l'urbanisme, université Cornell (État de New-York).</h5>
+
+
+--------------------------
+TEXTE:
+
+Au milieu des années 1930, après avoir consacré une bonne dizaine d'années à inventer un langage graphique (qui prendra plus tard le nom d'Isotype) permettant de créer de telles représentations, la préparation d'une exposition donne à Otto Neurath l'occasion de se tourner à nouveau vers l'architecture et l'urbanisme.
+
+<https://farm8.staticflickr.com/7390/13950385597_7521c29a72_o.jpg size=medium title="Comité d'organisation de l'exposition « aménagement urbain, quartiers communautaires et jardins familiaux ». Otto Neurath est le troisième à partir de la gauche dans la dernière rangée. Vienne, 1923." caption="Avec l'aimable autorisation de l'Association centrale des quartiers communautaires et jardins familiaux en Autriche.">
+
+Organisée à Amsterdam en 1935 et intitulée « La ville fonctionnelle », cette exposition était destinée au grand public autant qu'aux représentants gouvernementaux venant de plusieurs pays. Ses promoteurs voulaient rendre publics les résultats du quatrième congrès d'architecture moderne internationale (CIAM~IV) qui s'était déroulé en 1933 à bord du navire {Patris,} lequel avait navigué pour cette occasion de Marseille à Athènes. Convié comme expert, Otto Neurath conseillait le congrès sur la manière d'illustrer par l'image l'information statistique et les faits socio-économiques.
+
+<https://farm3.staticflickr.com/2910/14134106202_4bcab68a81_o.jpg size=medium right title="Délégués du CIAM sur le bateau {SS Patris} en route pour Athènes (1933). Otto Neurath est sur la gauche, dessinant ou écrivant." caption="Avec l'aimable autorisation de l'école d'architecture de Zurich (ETH -- archive GTA).">
+
+Suite à une querelle entre Otto Neurath et les architectes, portant sur le contenu et la présentation des cartes architecturales, l'exposition ouvrit sans les contributions de Neurath. Pour contrer les idées du CIAM, Otto Neurath publia alors dans la revue {Architectural record} une série de figures, avec un article intitulé « Représentation visuelle des problèmes architecturaux ». En couverture, l'image principale représentait un « diagramme urbain » [en fait un plan de ville abstrait] très ressemblant à la périphérie de Vienne où Neurath avait beaucoup travaillé pour préparer l'exposition de 1923.
+
+C'est ainsi qu'à la fin des années 1930, Otto Neurath, pleinement dédié à ses recherches pour rendre les statistiques accessibles au grand public, sentit qu'il était très important de revenir sur la question de la représentation en architecture et urbanisme. Neurath explique :
+
+<blockquote>
+{« L'aménagement urbain et la conception des habitations sont en étroite relation avec la manière dont on conçoit le style de vie et le type de société dans lesquelles on veut vivre, et les architectes doivent souvent coopérer avec [...] d'autres professionnels qui s'occupent d'organiser notre vie sociale et notre vie privée. La raison de ce lien est que les architectes ont pour profession de rendre la vie des gens aussi heureuse que possible. »}
+</blockquote>
+
+<https://farm6.staticflickr.com/5455/14113868946_7ee0f91320_h.jpg size=medium title="Plan d'un « aménagement urbain », {Architectural Record}, juillet 1937." caption="Avec l'aimable autorisation du département de typographie de l'université de Reading (Royaume-Uni).">
+
+Le texte de Neurath n'était pas seulement un appel destiné aux architectes et aux urbanistes, c'était aussi -- à travers ce plan de ville -- le noyau d'une proposition nouvelle pour un modèle politique alternatif ; un modèle dont l'objectif fondamental était de plaider en faveur d'une gouvernance plurielle tenant compte de l'opinion des minorités.
+
+Sur la base d'une des figures publiées en 1923 et 1937, je voudrais montrer comment la pensée d'Otto Neurath et son concept «~d'orchestration urbaine~» (à propos de l'organisation des quartiers communautaires et l'attribution des jardins familiaux en milieu urbain) a transcendé les attitudes politiques de l'époque pour encourager une vraie pluralité.
+	
+<https://farm3.staticflickr.com/2906/14072878729_cf70ebb437_o.jpg size=medium title="Origine des biens et services nécessaires au fonctionnement d'une unité d'habitation à Vienne aux alentours de 1923." caption="Source: T-Files, 198b, université de Reading.">
+
+Revenons à février 1920. Condamné à 18~mois de prison avec sursis pour sa participation à la brève République soviétique de Bavière, Otto Neurath est libéré après quelques mois de préventive, et revient à Vienne, qu'il avait quittée après la mort de sa première femme. À son arrivée, il participe à la {«~Österreichischer Verband für Siedlungs-und Kleingartenwesen~»} (fondation de l'association autrichienne pour les quartiers communautaires et les jardins familiaux). Basé sur le principe d'autogestion, ce mouvement s'était développé pendant la Première guerre mondiale alors que nombreux étaient ceux qui, à la recherche d'un toit et de nourriture, s'étaient mis à cultiver des petits jardins et avaient construit des baraquements provisoires dans la périphérie de Vienne. À la fin de la guerre, le mouvement comptait 100~000~membres et plus de 250~clubs, bien organisés, dispersés ça et là. Dès 1921, Neurath, en qualité de secrétaire de l'organisation, « mutualise » ces clubs, qui réunissaient alors environ 50~000~familles.
+
+Il fallait pour cela une relation très particulière avec la cité. Pendant les années de la Première guerre mondiale, les gens avaient souvent squatté illégalement des terres en jachère, sans rencontrer de véritable résistance. Mais, la paix revenue, ces communautés représentaient une menace pour les propriétaires de grands domaines. Il devenait donc urgent de « sécuriser » -- ou « légaliser » -- leurs habitations. Tout en maintenant les principes d'autogestion, de coopération et d'autonomie, les habitants des communautés organisèrent des manifestations pour obtenir le soutien de l'administration municipale. Des engagements économiques et politiques assez réalistes avaient été promis en avril 1921. On pouvait lire sur les bannières :
+
+<blockquote>
+{« Donnez-nous des terres, du bois et des pierres, et nous en ferons du pain ! »}
+</blockquote>
+
+Avec les territoires perdus par la couronne d'Autriche, le manque de nourriture et de logements préoccupait grandement la municipalité, qui n'était pas en mesure, entre autres, de fournir des produits alimentaires et laitiers pour la population viennoise. Les habitants des quartiers communautaires, avec leurs jardins familiaux, disposaient d'un moyen de sortir de cette situation. Pour soutenir les revendications des habitants, l'éminent architecte et chroniqueur Adolf Loos (1870-1933) publia dans la {Neue Freie Presse} un article soulignant que {« les habitants des quartiers communautaires n'avaient pas seulement su se prendre en charge grâce à leurs potagers et à l'élevage d'animaux, mais qu'ils avaient aussi contribué à éviter les tensions politiques et donc, d'une certaine manière, sauvé l'État ».}
+
+<https://farm6.staticflickr.com/5347/13950405359_9f0edb3ddc_o.jpg size=medium title="Exposition «~aménagement urbain, quartiers communautaires et jardins familiaux~»." caption="Avec l'aimable autorisation de l'Association centrale des quartiers communautaires et jardins familiaux en Autriche." >
+
+Une loi sur la modernisation des quartiers communautaires fut rapidement adoptée par le conseil municipal pour assurer la subsistance de milliers de Viennois. Le maire de Vienne, Jakob Reumann (1853-1925), mobilisa d'importantes ressources financières pour accélérer l'expropriation des grands domaines, et la distribution, par le biais de la coopérative {GESIBA (Gemeinwirtschaftliche Siedlungs-und Baustoffanstalt)}, de matériaux, de machines et d'outils nécessaires à la construction.
+
+En outre, diverses entités ayant supervisé la construction dans les quartiers furent fondées en coopération avec la municipalité et l'organisation principale des habitants : conseils juridiques, infrastructures de santé, ainsi qu'une structure financière permettant d'acheter et de louer des terres, un studio d'urbanisme dirigé par Adolf Loos, et, enfin, un atelier qui s'occupait de la conception du mobilier, où travaillait l'architecte Margarete Lihotzky (1897-2000). L'intellectuel allemand Hans Kampffmeyer, fondateur du {«~Deutsche Gartenstadtgesellschaft~»} (Mouvement des jardins urbains en Allemagne), s'occupait de l'édition du périodique de l'organisation ainsi que de l'organisation d'expositions. Otto Neurath a joué un rôle fondamental en coordonnant et en animant les échanges entre toutes ces entités.
+
+Les relations de coopération entre ces groupes se sont renforcées, les réseaux se sont étendus, et sur le terrain, apparurent les premières réalisations concrètes. Rapidement, les habitants des quartiers communautaires créèrent des {club-houses,} des parcs collectifs, des supermarchés coopératifs et des jardins d'enfants. Les membres de la communauté ne se contentaient pas de mettre en commun toutes ces infrastructures une fois terminées. En réalité, la partie la plus importante commençait au tout début du processus de construction : ils décidaient ensemble de la forme des infrastructures, ils creusaient et créaient les fondations. Les travailleurs qualifiés étaient assignés au travail du bois ou du métal, et tout le monde, homme ou femme, contribuait à l'édification de la communauté à raison de 1~500 à 3~000~heures de travail, ce qui leur permettait d'acquérir une maison dont la surface dépendait de la taille de la famille, et le droit d'utiliser toutes les infrastructures communales. {«~Ce ne sont pas les bâtiments individuels qui sont des objets de design, mais la collectivité entière qui regroupe toute les maisons. Le bâtiment individuel en lui-même est comme “la brique d'une maison”. Une nouvelle communauté émerge par la solidarité de classe et la mise en commun de la force de travail. »}
+
+Dans les jardins familiaux, cette logique de solidarité était aussi très vivace. Pendant la construction, les habitants travaillaient aussi sur les parcelles où ils cultivaient des légumes, partageaient leur savoir en horticulture et leur connaissance technique pour faire des conserves et des marinades. L'association qui regroupait ces habitants organisait des conférences et des ateliers sur des sujets aussi variés que l'agriculture intensive ou les méthodes de construction et l'architecture.
+
+C'est ainsi qu'en 1923, les habitants de ces quartiers communautaires avaient réussi à couvrir entièrement les besoins en nourriture, et les architectes, épaulés par les ouvriers, avaient de leurs côté achevé la construction de logements à des prix abordables, situés à deux pas des jardins familiaux. C'est pour promouvoir cette réussite que l'association organisa alors la grande exposition à l'hôtel de ville de Vienne.
+
+Lors de cette exposition, les membres de l'association avaient organisé des concours de produits agricoles et de petits spectacles avec des animaux. Ils présentaient aussi des « maisons modèles » grandeur nature (qu'ils appelaient « maisons de base ») conçues par Lihotzky, lequel avait aussi installé avec l'aide du syndicat du bois autrichien, à l'extérieur de l'hôtel de ville, un {club-house} avec un système d'irrigation complet et fonctionnel pour les jardins adjacents.
+
+Une grande illustration statistique montrait les remarquables résultats de ces jardins familiaux pour les légumes et les petits animaux. En 1922, les habitants de ces quartiers avaient rempli l'équivalent de plus de 6~000~wagons de marchandises en produits divers issus de leur récolte, ce qui couvrait largement les besoins de la capitale. Ce graphique, avec les wagons de train, allait préfigurer le procédé que Neurath et ses futurs collaborateurs du {«~Gesellschafts und Wirtschaftsmuseum~»} (musée économique et social) allaient développer pendant deux décennies.
+
+<https://farm3.staticflickr.com/2895/14113880376_2e5592faa6_o.jpg size=large title="Petits jardins familiaux -- Exposition «~aménagement urbain, quartiers communautaires et jardins familiaux~», Vienne, 1923." caption="Avec l'aimable autorisation de l'Association centrale des quartiers et jardins familiaux en Autriche.">
+
+Malgré le succès public de l'exposition, le triomphe fut de courte durée. Entre 1923 et 1925, le système de distribution alimentaire de Vienne avait été largement restructuré, et le manque de logement se faisait encore durement ressentir. Il était devenu urgent de construire plus, et plus dense. Les concepts de jardins et d'équipements collectifs furent partiellement intégrés dans les nouveaux projets urbains du {Höfe} («~Vienne la Rouge~»). Mais dans ces nouveaux plans, les habitants n'étaient plus les «~constructeurs~ », des parcs remplaçaient les jardins familiaux, et la solidarité et la coopération avaient fait long feu.
+
+Bien que Neurath préférait les quartiers communautaires aux grands ensembles, il fini par admettre que les communautés qu'il avait contribué à créer s'adapteraient aussi bien au {Höfe.} Bien que ces grands ensembles fussent articulés d'une manière très différente des quartiers communautaires, il dut reconnaître qu'une « nouvelle vie collective » pouvait aussi émerger de ces logements publics de la municipalité de Vienne.
+
+<blockquote>
+{« Les soirs d'été, la cour commune sert de terrain de jeu pour les enfants, jeunes et vieux dansent ensemble au son des haut-parleurs. »}
+</blockquote>
+
+Si Otto Neurath ne s'est jamais vraiment impliqué dans ces grands projets de logements municipaux, il est toujours resté intéressé par la planification urbaine. Il considérait la cité comme un endroit où des modes de vie très divers devaient coexister. Pour qu'une telle culture urbaine puisse s'imposer, il fallait qu'existent des citoyens convaincus, ayant une approche éclairée, capables de comprendre et mettre en place une politique plurielle tenant compte de toutes les composantes humaines de la ville, le rêve ultime étant que chaque habitant se transforme en décideur.
+
+<https://farm6.staticflickr.com/5501/14072889838_526d555ec3_o.jpg size=large>
+
+<https://farm6.staticflickr.com/5080/14259536585_1e74ffa6bd_o.jpg size=large title="Localisation des quartiers communautaires à Vienne et dans le Höfe, 1926." caption="Source: Der Aufbau, 1 (1926).">
+
+Lorsque le financement pour les quartiers communautaires fut supprimé en 1925, le Musée économique et social hérita des figures de l'exposition de 1923, et commença à ajouter à la collection originale de nombreux autres cartes et graphiques produits par la suite. Resté dans les locaux de l'hôtel de ville, le musée, désormais permanent, etait devenu un lieu de discussions, non seulement sur la société et l'économie dans les métropoles modernes, mais encore sur l'État-nation et le monde contemporain ; l'idée de ces débats étant de trouver des moyens de rendre « visibles » ces thématiques et ces tendances, de manière scientifique.
+
+<https://farm4.staticflickr.com/3781/14257389792_455840cc32_h.jpg size=medium title="Musée économique et social, hôtel de ville de Vienne, vers 1925." caption="Source: N-Files, 493, University of Reading.">
+
+<https://farm3.staticflickr.com/2933/14259157594_7179e865e9_h.jpg size=medium title="Figures exposées au Musée économique et social, à l'exposition sur les jardins familiaux, Vienne, 1933." caption="Avec l'aimable autorisation de l'Association centrale des quartiers et jardins familiaux en Autriche.">
+
+Pour créer scientifiquement des figures statistiques tout en restant visuellement accessible pour le grand public, Neurath mettait l'accent sur le rôle central des « transformateurs », qui devaient posséder des compétences statistiques (scientifiques) aussi bien qu'artistiques (pour la visualisation). À ce titre, le Musée économique et social avait recruté des experts venus d'horizons très variés pour collaborer à ce grand projet de visualisation statistique.
+
+Parmi eux se trouvait le {graphic designer} [Gerd Arntz->http://www.gerdarntz.org/] (1900-1988) et la statisticienne Marie Reidemeister (future Marie Neurath, 1898-1986), ainsi que des sociologues, des mathématiciens, des photographes et même des cartographes !
+
+Pour effectuer la « transformation » des statistiques en représentations visuelles, il fallait être doté de compétences très spécifiques, très larges, pour transgresser les frontières des disciplines, bouleverser « l'ordre des disciplines », aventure dans laquelle s'est lancé le Musée social et économique avec le projet [Isotype->http://isotyperevisited.org/1975/01/the-significance-of-isotype.html]. Acronyme de {« International System of Typographic Picture Education »} (en français « Système international d'éducation par les images typographiques), le projet est aussi connu sous le nom allemand de {« Wiener Methode der Bild Statistik »} (méthode viennoise). Cette approche radicalement moderne était basée sur le principe suivant : remplacer des données statistiques par des symboles visuels en «~quantités comparables~» aux chiffres. La méthode exigeait que les changements et les altérations induits par cette « transformation » soient facilement traçables, mais aussi, et surtout, qu'elle «~frappe au premier coup d'œil~». Au deuxième et troisième regards, les informations de deuxième et troisième niveaux devaient se révéler.
+
+Assez rapidement, un changement radical intervint dans la méthodologie imaginée par Neurath. Jusqu'ici, « usine » et « chaussure » étaient représentés par deux symboles distincts puisqu'ils avaient deux significations différentes qui indiquaient côte à côte des quantités simples. Au début des années 1930, les symboles commençaient à apparaître en «~paires~». Ils fusionnaient pour devenir, dans cet exemple, «~usine de chaussure~». Ce changement fondamental est ce qui a ensuite caractérisé la méthode Isotype : un système, pour ne pas dire un langage, avec une syntaxe et un vocabulaire.
+
+En 1930, lors de « l'exposition sur l'architecture moderne » de Berlin se tint une réunion préparatoire au quatrième congrès du CIAM (CIAM~IV) dont le thème était la « ville fonctionnelle ». Les architectes étaient de plus en plus intéressés par le projet du Musée social et économique de Vienne. L'historien de l'architecture Sigfried Giedion (1888-1968) suggéra au président de la CIAM, Cornelis Van Eesteren (1897-1988), d'engager une coopération avec Otto Neurath pour préparer trois modèles de cartes pouvant servir de socle à la cartographie de 33~villes dans le monde.
+
+Neurath était enthousiaste à l'idée de collaborer avec la plate-forme du CIAM, car il y voyait une manière de concrétiser et développer plus largement Isotype dans un cadre inter-disciplinaire. De plus, il avait des intérêts communs avec les membres les plus à gauche du CIAM, comme Hans Schmidt (1893-1973) et Hannes Meyer (1896-1992), qui avaient d'ailleurs rédigé le texte fondateur de l'organisation :
+
+<blockquote>
+{« Dans le concept d'architecture moderne est inclus un lien étroit entre le phénomène architectural en lui-même et le système économique en général. La planification urbaine est l'organisation de tout ce qui fait de la ville un espace de vie collective. »}
+</blockquote>
+
+Au cours du CIAM~IV, Cornelis Van Eesteren, et surtout Le Corbusier (1887-1965), déjà très célèbre, avaient exprimé une conception très différente des objectifs du congrès. Ils souhaitaient supprimer les lois qui fixaient les règles de développement des grands projets urbains ainsi que les conditions d'attribution des subventions gouvernementales. Peu à peu, l'influence de « l'aile gauche » du CIAM s'affaiblissait.
+
+<https://farm4.staticflickr.com/3760/14256222691_3fdf2979d7_b.jpg size=medium title="Otto Neurath discute avec Sigfried Giedion à bord du {Patris.}" caption="Avec l'aimable autorisation de l'école d'architecture de Zurich (ETH -- archive GTA).">
+
+Au cours de la croisière sur le {Patris,} le fossé entre architectes était déjà très marqué ; tandis que, dans sa présentation intitulée {« Méthodes pour un aménagement urbain fonctionnel »}, Cornelis Van Eesteren expliquait que les analyses urbaines devaient avoir une traduction graphique et illustrative, Le Corbusier soulignait de son côté que ces cartes d'analyse devaient être traduites rapidement et concrètement « en un système logique de {design} ».
+
+<https://farm6.staticflickr.com/5470/13950415690_3b9509e155_o.jpg size=medium title="Le Corbusier devant quelques cartes du CIAM à bord du {Patris.}" caption="Avec l'aimable autorisation de l'école d'architecture de Zurich (ETH -- archive GTA)." right>
+
+Puisque les cartes avaient déjà été modélisées sur la base des « quatre fonctions » de Le Corbusier (logement, loisirs, travail et transport), qui allaient être décrites dans sa « Charte d'Athènes », ce « système de {design} » semblait facile à réaliser. Toutefois, la délégation anglaise à qui l'on avait imposé hâtivement cette décision fit valoir que les questionnaires auraient dû être distribués à tous les architectes participants pour qu'ils puissent donner leur avis sur la validité des méthodes employées.
+
+La présentation de Neurath, intitulée « Planification urbaine et partage de lotissements vus graphiquement selon la méthode viennoise », présentait une tout autre approche : la simplification des cartes, à son avis, devait décrire clairement les systèmes des relations sociales, plutôt que d'élaborer des conceptions de {design}, prématurées. En prenant l'exemple de cartogrammes simplifiés produit par le Musée social et économique, Neurath suggérait de travailler sur de grandes feuilles de papier collées sur les murs, en employant des symboles graphiques simples. Pour les architectes qui avaient passé des jours et semaines à élaborer les «~spécificités et les relations spatiales complexes~» des milieux urbains, c'était une proposition très décevante. Malgré cela, on avait demandé à Neurath de siéger dans une commission pour préparer une publication, et surtout l'exposition sur la « ville fonctionnelle » qui devait avoir lieu à Amsterdam.
+
+<https://farm4.staticflickr.com/3665/14279712743_f4dcf81259_h.jpg size=large title="Quelques pages de la transcription de la présentation d'Otto Neurath telles qu'elles ont été publiées par {Technika Chronika.}" caption="Avec l'aimable autorisation de l'école d'architecture de Zurich (ETH -- archive GTA).">
+
+Autant Neurath était prêt à reconsidérer la conception de ses figures pour l'exposition, autant il refusait de transiger sur la question de la «~transformation~». Au début de l'année 1935, il écrit à Cornelis Van Eesteren :
+
+<blockquote>
+{« Tout problème peut trouver une solution si l'on fait l'effort d'en considérer tous les aspects, mais ici, il ne s'agit pas d'une fonction graphique unique et isolée d'une part, ni d'une tâche uniquement menée par un architecte d'autre part. Il faut une action intermédiaire... la TRANSFORMATION... Mais c'est quelque chose que je vous ai déjà répété sur tous les tons ».}
+</blockquote>
+
+L'exposition « La ville fonctionnelle » ouvrit à Amsterdam en juillet 1935. Neurath n'y était cité nulle part, bien que certaines figures avaient été élaborées d'après ses suggestions.
+
+Deux ans plus tard, en 1937, Neurath publie son essai «~Représentations visuelles des problèmes architecturaux~» dans {Architectural Record}, et revient sur les questions qu'il avait soulevées lors du CIAM~IV et qui étaient pour lui des objectifs importants : en premier lieu, communiquer par le biais de cartes, simplement, et ensuite, engager un dialogue avec le public, d'une manière pluraliste, sur la manière de planifier la ville.
+
+Neurath avait dressé une carte urbaine, ou plutôt une sorte de fragment un peu abstrait, dans lequel était représentée la ville elle-même ainsi que cette pluralité à laquelle il tenait tant. Elle figurait l'urbanisme tel qu'il le rêvait : une petite ville au bord de l'eau, à moitié verte de parcs et de bois, à moitié urbaine avec un mélange d'habitations et d'espaces professionnels. Une évocation qui rappelle bien sûr la périphérie de Vienne à l'époque du mouvement des quartiers communautaires et des jardins familiaux...
+
+Dans cette carte, Neurath souligne que les infrastructures culturelles, sociales et économiques sont aussi importantes que les zones de travail, de loisir et de logement ou le système de transport. La ville est parsemée d'hôpitaux, de jardins d'enfants, de terrains de jeux, de petites usines, de ports et de gares qui complètent la matrice. Il plaidait pour un urbanisme «~fluide et vif~», un urbanisme qui encourage des «~rues vivantes~», des maisons et des appartements conçus comme des unités individuelles, mais parfaitement intégrées dans la cité et ses infrastructures.
+
+A l'opposé des architectes « modernes » de sa génération, Neurath concevait la ville comme la réunion de l'architecture et de la communauté des habitants. Alors qu'il avait déjà expérimenté ce concept en grandeur nature dans les faubourgs de Vienne dans les années 1920, il faudra attendre 1953 pour que les architectes du CIAM arrivent à une approche similaire avec les travaux de la {[Team~10->http://fr.wikipedia.org/wiki/Team_X]}, qui préconisait la pluralité et donnait une place importante à la vie sociale.
+
+<https://farm8.staticflickr.com/7307/13950364867_42e37e917d_o.jpg size=large title="Planification urbaine." caption="Avec l'aimable autorisation du département de typographie de l'Université de Reading.">
+
+Comme pour ses idées sur l'architecture, Neurath était aussi très en avance sur son temps sur la question de la gouvernance, et sur ce qu'il appelait «~l'orchestration~ » de l'opinion. En 1941, il écrivait :
+
+<blockquote>
+{« “L'orchestration”, c'est d'abord la tolérance, l'idée que les opinions et modes de vie individuels soient acceptés par la communauté. Dans ce contexte, un vote majoritaire contre une puissante opposition devrait rester exceptionnel. L'orchestration est un milieu, avec des extrêmes qui sont capables de se reconnaître et se respecter. Par exemple, lorsqu'un plan de développement urbain est discuté et qu'un tiers de la population veut des petites maisons et des jardins familiaux alors que deux tiers veulent des immeubles avec des grands appartements, pourquoi faudrait-il se décider soit pour une solution, soit pour l'autre ? Pourquoi ne pas simplement construire des petites maisons pour un tiers et de grands appartements pour les deux tiers restants ? »}
+</blockquote>
+
+Cette expérience pluraliste dans la Vienne des années 1920 a malheureusement été complètement oubliée. Neurath dut fuir Vienne en 1934 pour La Haye. Il s'installera ensuite en Angleterre.
+
+Ses concepts en matière d'urbanisme et sur les questions de gouvernance restent d'une grande actualité, alors même que la ville, en dépit de sa diversité, reste un lieu de ségrégation et se trouve de plus en plus stratifiée. L'approche de Neurath sur les quartiers communautaires et sur «~l'orchestration~» gardent toute leur pertinence dans le débat actuel sur les mécanismes démocratiques.
+
+Près d'un siècle après Otto Neurath, on peut se demander s'il ne serait pas temps que la « démocratie urbaine » parvienne enfin à dépasser le principe de « majorité » pour négocier la « multiplicité ».
+
+
+--------------------------
+
+PS: Si vous souhaitez commenter cet article, contribuer avec des informations complémentaires ou simplement contacter l'auteure (en anglais ou en allemand); vous pouvez utiliser l'adresse courriel [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 25 novembre 2014 14:21

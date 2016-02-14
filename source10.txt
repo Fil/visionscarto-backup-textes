@@ -1,0 +1,174 @@
+
+--------------------------
+
+TITRE:
+Guide de styles
+
+
+
+--------------------------
+
+CHAPO:
+Ci-dessous une liste de codes spécifiques à ce site, notamment pour les images. Toute la microtypographie du texte est traitée dans la [charte typo->18].
+
+
+--------------------------
+TEXTE:
+
+<h2>Chapô - titraille</h2>
+<p class=off>L'image sous le titre s'installe dans le surtitre. Il faut qu'elle soit de couleur relativement foncée pour que le titre blanc se voie bien.
+
+Voici le code pour la signature de Marion :
+<code>
+<h4 class="text-right">{par Marion Lecoquierre}</h4>
+<h5 class="text-right">géographe, doctorante à l'Institut universitaire européen de Florence (Italie)
+_ Toutes les photographies sont de l'auteure.</h5>
+</code>
+
+On retrouve éventuellement la signature en bas de page, à droite et en petites caps, avec un gimmick graphique si l'on veut :
+<code><p class="text-right caps">↬ Marion Lecoquierre.</p></code>
+
+{adapt at will…}
+
+<h2> Texte </h2>
+
+<p class=off>Toute la microtypographie du texte est traitée dans la [charte typo->18?var_mode=preview].
+
+Quelques ajouts pour ce site :
+- <code><p class=in></code> : mettre des petites caps sur la première ligne de ce paragraphe introductif ;
+- <code><p class=off></code> : désactiver les petites caps sur ce paragraphe ;
+- <code><div class=tight></code> resserrer les paragraphes entre eux, à la manière du formatage d'un livre classique.
+
+<h2> Images </h2>
+
+<p class=off>Pour les (belles) images de ce site, on tente une expérience, qui consiste à installer les fichiers sur notre [compte Flickr->https://www.flickr.com/photos/120248843@N05/]. Pour les afficher, on emploie le «raccourci ressource», qui est simplement l'URL de l'image, mise entre crochets <code><https://farm8.staticflickr.com/7385/14002391166_f3dd98152b_c.jpg></code>.
+
+Des options permettent de préciser si l'image doit être affichée en grand, très grand, en moyen ou petit, avec une légende à droite, etc.
+
+Pour l'{{image « plein pot »}} utiliser le code <code>class=fullwidth</code> :
+<code><https://farm8.staticflickr.com/7385/14002391166_f3dd98152b_c.jpg size=original class=fullwidth></code>
+
+Pour les {{images géantes}}, qu'on veut traiter avec {{leaflet}} (système avancé de mise à l'échelle, zoom etc), on utilisera le raccourci
+<code><leaflet|href=https://farm4.staticflickr.com/3700/13568014115_a47b12278e_b.jpg></code>
+{(pas encore parfaitement au point)}
+
+Pour une {{image de taille moyenne positionnée à droite}} du texte, utiliser <code>right</code> :
+<code><https://farm8.staticflickr.com/7385/14002391166_f3dd98152b_c.jpg size=medium right></code>
+
+Pour une {{grande image avec une légende}}, utiliser <code>size=large</code> :
+<code><https://farm4.staticflickr.com/3700/13568014115_a47b12278e_b.jpg size=large caption="Khaled"></code>
+
+Pour une {{image de taille moyenne avec une légende sur la droite}}, utiliser <code>class=caption-right</code> :
+<code><https://farm8.staticflickr.com/7349/13568083315_ea507a7222_b.jpg size=medium caption="Les arbres du Fonds national juif sur les terres d'Al-Araqib" class=caption-right></code>
+
+Pour rendre une {{image clicable}}, il faut lui définir un lien <code>link</code>, par exemple ainsi (exemple complet) :
+<code>
+<https://farm8.staticflickr.com/7404/13964894632_f583ea57cd_b.jpg
+size=medium class=caption-right
+title="Monde sanctuarisé : esquisse~1.0"
+caption="Basée sur l'esquisse 0.3 et la carte 1.0, cette esquisse crayonnée qui reprend l'essentiel des informations a été intégré à un dispositif cartographique de vingt esquisses qui formait l'exposition {Frontières, migrants et réfugiés} présenté pour la première fois à l'université du Mans en mars 2007, dans le cadre des {Carrefours de la pensée.}"
+credit="mars 2007"
+link>
+</code>
+
+<https://farm9.staticflickr.com/8779/18306302092_892208ed44_o_d.jpg size=medium  class=caption-right
+title="« Autoroute terroriste » : esquisse~0.0"
+credit="Novembre 2007."
+link>
+
+<small>À noter, il est {possible} (mais rarement souhaitable) de mettre autre chose dans l'attribut <code>link</code> que l'image de départ, en précisant son adresse sous la forme <code>link=https………</code></small>
+
+Pour les {{titre, légende et crédit}}, on utilisera les options suivantes :
+<code> … title="Titre." caption="Légende." credit="Ph. R." … </code>
+
+Penser à rester minimaliste sur ce point : si plusieurs images ont le même crédit, et sauf avis contraire de l'auteur·e, faire un crédit commun est plus léger. De même, éviter les titres longs.
+
+<h2>Galeries d'images</h2>
+
+<p class=off>Une galerie d'images, façon portfolio, doit être préparée sur Flickr, puis on se contente d'indiquer l'adresse du portfolio entre chevrons :
+<code><https://www.flickr.com/photos/120248843@N05/sets/72157643306208733 title=" "></code>
+
+À noter ci-dessus, on a explicitement demandé qu'il n'y ait pas de titre (<code>title=" "</code>), car par défaut le titre donné dans Flickr s'affiche. 
+
+Pour modifier le titre du portfolio, le plus simple est de le modifier dans Flickr. Mais parfois c'est impossible car ce titre est déjà utilisé ailleurs (par exemple dans une traduction) ; on utilisera alors <code>title="Quelque chose de bien"</code>
+
+<h2> Parties & Intertitres </h2>
+
+<p class=off><code><h2>………</h2></code> définit une partie, comme ci-dessus ; un intertitre normal se fait avec le raccourci SPIP classique <code>{{{ ……… }}}</code>, ce qui donne ceci :
+
+{{{Intertitre}}}
+ 
+et la suite du texte…
+
+Le raccourci intertitre permet aussi de créer une temporisation, avec des étoiles ou des caractères rigolos qu'on trouve dans le menu “Édition > Caractères spéciaux” du Mac. Mais la plupart du temps on voudra les centrer ; il faudra alors coder :
+- <code><h3 class=text-center>* * *</h3></code>
+- <code><h3 class=text-center>✪ ✪ ✪</h3></code>
+- <code><h3 class=text-center> ❦ </h3></code>
+
+Autre possibilité de temporisation, placer sur une ligne au moins quatre tirets : <code> ---- </code> ; ça crée un filet, comme suit. Je n'ai pas trouvé comment vraiment faire joli.
+
+----
+
+À noter ce filet n'est {pas} destiné à créer autre chose qu'une séparation dans un texte : il n'est pas recommandé de l'utiliser pour essayer d'habiller une image ou un paragraphe.
+
+<h2> Blocs, citations et encadrés </h2>
+
+<p class=off>Pour créer un encadré on peut utiliser
+<code><quote>Un encadré de type QUOTE</quote></code>
+
+<quote>Un encadré de type QUOTE</quote>
+
+Ou bien encore :
+
+<code><aside class="box">Un encadré de type BOX</aside> </code>
+
+<aside class="box">Un encadré de type BOX</aside>
+
+Pour une citation, utiliser <code><blockquote></code> et <code><cite></code> pour indiquer la source :
+<code><blockquote>On devrait pouvoir comprendre que les choses sont sans espoir,
+et cependant être décidé à les changer...
+<cite>Francis Scott Fitzgerald</cite></blockquote></code>
+<blockquote>On devrait pouvoir comprendre que les choses sont sans espoir,
+et cependant être décidé à les changer...
+<cite>Francis Scott Fitzgerald</cite></blockquote>
+
+Pour créer un accordéon :
+
+<code>
+<div class="ui small fluid accordion">
+  <div class="title">
+    <i class="dropdown icon"></i>
+    Sources pour la carte
+  </div>
+  <div class="small content">
+-* United for Intercultural Action, « [The Fatal Realities of Fortress Europe}->http://www.unitedagainstracism.org/campaigns/the-fatal-realities-of-fortress-europe/]
+-* [Migreurop, observatoire des frontières->http://www.migreurop.org/rubrique266.html] et en particulier le remarquable [Atlas des migrants en Europe -- édition 2012->http://www.migreurop.org/article2271.html] 
+</div>
+</div>
+</code>
+
+<div class="ui small fluid accordion">
+  <div class="title">
+    <i class="dropdown icon"></i>
+    Sources pour la carte
+  </div>
+  <div class="small content">
+-* United for Intercultural Action, « [The Fatal Realities of Fortress Europe}->http://www.unitedagainstracism.org/campaigns/the-fatal-realities-of-fortress-europe/]
+-* [Migreurop, observatoire des frontières->http://www.migreurop.org/rubrique266.html] et en particulier le remarquable [Atlas des migrants en Europe -- édition 2012->http://www.migreurop.org/article2271.html] 
+-* Le blog de Gabriele Del Grande [Fortress Europe->http://fortresseurope.blogspot.no/]
+-* [The migrant files->http://www.detective.io/detective/the-migrants-files], un projet porté par [Journalism++ SAS->http://paris.jplusplus.org/], [Journalism++ Stockholm->http://jplusplus.se/] et [Dataninja->http://www.dataninja.it/], les médias {Neue Zürcher Zeitung, El Confidencial, Sydsvenskan} et {Radiobubble,} ainsi que Jacopo Ottaviani et Jean-Marc Manach.
+-* Agence européenne pour la gestion de la coopération opérationnelle aux frontières extérieures ([Frontex->http://frontex.europa.eu/]).
+</div>
+</div>
+
+
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- titre blanc
+
+
+--------------------------
+Visionscarto - version du 1er octobre 2015 12:47

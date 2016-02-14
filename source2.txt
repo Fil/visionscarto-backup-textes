@@ -1,0 +1,66 @@
+
+--------------------------
+
+TITRE:
+Pour nous suivre
+
+
+
+--------------------------
+
+CHAPO:
+Pour suivre l’actualité du site Visionscarto, plusieurs possibilités sont ouvertes :
+
+
+--------------------------
+TEXTE:
+
+<div class="two column doubling ui grid">
+<div class="column">
+<div class="ui teal segment">
+{{{Seenthis}}}
+<p class="text-left">Ce réseau social libre et autogéré a notre préférence ; peu -- mais bien -- fréquenté, il donne lieu à des débats d’une grande qualité. C’est dans cet espace que nous réalisons l’essentiel de notre veille d’actualité.
+<p class="right ui teal button"><i class="ui no-icon">“</i> <a href="http://seenthis.net/people/visionscarto">seenthis</a></p>
+<br class="clear" />
+</div>
+</div><div class="column">
+<div class="ui piled segment">
+{{{Réseaux sociaux}}}
+<p class="text-left">L’actualité du site est aussi répercutée sur nos pages :
+<div class="ui tiny buttons"><div class="ui twitter button"><i class="ui twitter icon"></i><a href="http://twitter.com/visionscarto">twitter</a></div>
+<div class="ui facebook button"><i class="ui facebook icon"></i><a href="http://facebook.com/visionscarto">facebook</a></div>
+</div>
+</div>
+</div>
+<div class="column basic segment">
+<div class="ui icon message">
+  <i class="rss icon"></i>
+  <div class="content">
+    <div class="header">
+      Flux RSS
+    </div>
+    <p class="text-left">Le site offre un <a href="feed">flux RSS</a> avertissant des nouveautés lors de leur mise en ligne. À~utiliser avec un logiciel spécialisé.</p>
+  </div>
+</div>
+</div>
+  <div class="column">
+<div class="ui  segment">
+{{{Email}}}
+<p class="text-left">Pour recevoir, de temps à autre, des mises à jour par courrier électronique, vous avez la possibilité d'ajouter votre adresse à notre liste de diffusion.
+<ul><li class="ui teal button"><i class="ui inbox icon"></i><a href="http://listes.rezo.net/mailman/listinfo/visionscarto">s’inscrire</a></li></ul>
+</div>
+</div>
+</div>
+
+
+
+--------------------------
+
+PS: S’il y a d’autres espaces que vous souhaiteriez voir alimenter en images, sons, ou vidéos, faites-nous signe.
+
+
+
+
+
+--------------------------
+Visionscarto - version du 23 juin 2014 09:43

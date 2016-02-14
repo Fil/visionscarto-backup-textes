@@ -1,0 +1,238 @@
+
+--------------------------
+
+TITRE:
+Terrorisme, insurrection ou résistance : cartographier et nommer « l'internationale djihadiste »
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+
+--------------------------
+
+CHAPO:
+<h4 class="text-right">{par Philippe Rekacewicz}</h4>
+<br>
+<h5 class="text-left">Ce billet a été conjointement publié sur le site d'[OrientXXI->http://orientxxi.info/magazine/cartographie-du-djihadisme-international,0927].</h5>
+
+
+--------------------------
+TEXTE:
+
+Depuis la fin des années 1990, on a vu naître et se développer des mouvements islamistes fondamentalistes transnationaux sans vraiment pouvoir en faire une cartographie plus précise que d’indiquer de vagues localisations géographiques où ces groupes opéraient, ou encore les lieux des attentats qui leur étaient attribués.
+
+Ces mouvements qui semblaient disparates et agir indépendamment les uns des autres, à l'exception d'Al-Qaida, se sont structurés petit à petit, tout au long des années 2000, et surtout après le début des révoltes arabes en 2011. Ils se sont transformés en organisations politiques, idéologiques et militaires, qui commencent à tisser entre elles des liens étroits.
+
+Depuis 2013, elles ont même entrepris de se « territorialiser » - avec plus ou moins de succès (certaines tentatives de territorialisation sont « contrariées » par des interventions militaires occidentales). Les djihadistes en voie de recrutement – mais aussi les armes, les techniques ou les idéologies – circulent d’un continent à l’autre.  Ils établissent des bases, consolident des positions (traits rouges sur la carte ci-dessous). Les implantations territoriales, même embryonnaires, tissent entre elles des liens politiques (traits gris) - allégeance, création de franchise, conseils politiques ou militaires.
+
+<https://farm9.staticflickr.com/8734/16739190739_0739a2dd03_o_d.jpg size=original class=fullwidth>
+
+Le fonctionnement et la logistique de ces organisations se superposent aux États-nations traditionnels pour la plupart issus de la décolonisation. Soit elles prennent le contrôle des espaces abandonnés par des États en déliquescence, soit elles utilisent les infrastructures existantes d’États affaiblis avec lesquels elles entrent parfois violemment en contact et qui sont incapables de les contrôler.
+
+Cet « empilement » fait penser à la création d’une sorte de « frontière verticale » où au moins deux formes d’organisations politiques « coexistent » et fonctionnent sur un territoire de manière « frictionnelle ».  
+
+C’est cette nouvelle « visibilité » géographique qui permet de proposer une visualisation cartographique de la logique spatiale de ce réseau complexe.
+
+Alain Gresh, animateur du site [Orient XXI->http://orientxxi.info/], ajoute à cette approche :  {« Au-delà de la territorialisation, ce qui est important est le fait que ces organisations s'inscrivent désormais dans une perspective globale de “guerre mondiale” où tout est lié, du Nigeria à l’Irak et au Pakistan. Elles ont acquis la capacité d’unifier (presque) sous un même drapeau des luttes extrêmement variées et créer, en somme, un seul front capable d'attirer des jeunes de toutes les régions du monde au sein du mouvement djihadiste. »}
+
+------------
+
+Cette carte, publiée dans le journal suisse [La Cité->http://www.lacite.info/] en mai 2015, est la dernière version d'une représentation sur laquelle nous réfléchissons avec Alain Gresh depuis 2007. En huit ans, nous l'avons publiée plusieurs fois en faisant évoluer parallèlement les modes de représentation visuels, les symboles, les légendes et la terminologie...
+
+En novembre 2007, nous produisions la première visualisation de cette approche en forme « d'autoroute » avec ses carrefours et ses ramifications.
+
+<https://farm9.staticflickr.com/8779/18306302092_892208ed44_o_d.jpg size=medium  class=caption-right
+title="« Autoroute terroriste » : esquisse~0.0"
+credit="Novembre 2007"
+link=https://farm9.staticflickr.com/8779/18306302092_892208ed44_o_d.jpg>
+
+Cette toute première approche ignorait tout de ce qui se passait au sud du Sahara. Dans la première tentative de légende pour qualifier les voies de circulation les plus importantes, nous avions choisi le mot « terrorisme ». L'Autoroute du terrorisme... C'est déjà un mot compliqué à utiliser dans les textes, mais dans les cartes, c'est pire.
+
+Qu'est-ce qu'un terroriste ? Les membres de l'Irgoun qui décident d'utiliser la violence contre les civils palestiniens, qualifiés de terroristes par les autorités britanniques dans les années 1940 ?  Les Résistants français de la Seconde guerre mondiale, qualifiés de terroristes par les nazis ?
+
+Et si on appelle « terrorisme » la barbarie de l'État islamique, comment qualifier les États occidentaux, États-Unis en tête, qui ont imposé à l'Irak un embargo causant la mort de centaines de milliers d'enfants ou les campagnes d'attaque de drones qui ont décimé des milliers de civils au Pakistan ou au Yémen ?
+
+Après discussion, nous avons pensé ce « mouvement armé international » plus comme un phénomène de résistance que comme des actes de violence aveugles, sans signification, raison pour laquelle nous avons décidé d'en faire une « autoroute insurgée ». Et c'est sous ce titre que paraîtra finalement cette carte.
+
+<https://farm6.staticflickr.com/5452/16950862644_e25f0ea02f_k_d.jpg size=medium  class=caption-right
+title="« Autoroute insurgée » : esquisse~1.0"
+credit="Novembre 2007"
+link=https://farm6.staticflickr.com/5452/16950862644_e25f0ea02f_k_d.jpg>
+
+Mais ce n'est pas fini... L'esquisse publiée en novembre 2007 a été reprise dans l'Atlas « Un monde à l'envers » en 2009 avec quelques petites adaptations pas trop anodines : Le front de la « guerre contre le terrorisme » a été étendu à l'Iran (absent de la première carte) et le titre a encore changé, le terme de  « résistance » ayant été préféré à celui d' « insurgé » !
+
+<https://farm9.staticflickr.com/8771/17687413954_04591a8ff5_o_d.jpg size=medium  class=caption-right
+title="« Autoroute des résistances » : digitalisation de l'esquisse~1.0 de 2007"
+credit="Février 2009"
+link=https://farm9.staticflickr.com/8771/17687413954_04591a8ff5_o_d.jpg>
+
+On a donc dans cette carte un subtil mélange de qualificatifs : entre guillemets, l'appellation américaine  de « guerre contre le terrorisme » (sans commentaire sur l'utilisation du mot terrorisme), « insurrection » et enfin « résistance ». Une synthèse des contraires, en somme.
+
+-----------
+
+Nous avons laissé reposer cette approche cartographique quelques années, durant lesquelles ont éclaté les révoltes arabes, et dans le sillage de ce mouvement, les guerres en Syrie, en Libye, au Yémen, mais aussi au Mali et en Centrafrique, alors qu'en même temps s'aggravaient les guerres en Irak et au Soudan du Sud.
+
+En 2013, nous avons décidé de reprendre le même concept cartographique et de le développer, de l'adapter à cette situation nouvelle et inédite.
+
+<https://farm8.staticflickr.com/7751/18129550130_52eb2dfe7d_o_d.jpg size=medium  class=caption-right
+title="« Autoroute du djihadisme international » : esquisse première~0.0"
+credit="Septembre 2013"
+link=https://farm8.staticflickr.com/7751/18129550130_52eb2dfe7d_o_d.jpg>
+
+La carte est devenue un peu plus complexe, avec l'introduction d'une tentative de qualification - pour chaque pays - de sa situation politique. C'était un exercice risqué puisque d'une part, ça peut changer assez vite (c'est d'ailleurs pourquoi il est très important de dater clairement ces documents lorsqu'on les reprend ultérieurement dans des publications [[Le Monde diplomatique, dans son numéro 140 de {Manière de voir} intitulé « Vous avez dit terrorisme ? », a par exemple republié en 2015 la carte de 2007 sans même en informer l'auteur, et sans commentaire particulier sur l'approche, ce qui, dans le contexte actuel, n'a absolument aucun intérêt pour les lecteurs.]]), et d'autre part les critères sur lesquels on détermine qu'un État est déliquescent, défaillant ou affaibli, sont assez « subjectifs » et difficiles à choisir.
+
+<https://farm6.staticflickr.com/5446/17386951949_8325f417e1_o_d.jpg size=medium  class=caption-right
+title="« Autoroute du djihadisme international » : esquisse finalisée~1.0"
+credit="Septembre 2013"
+link=https://farm6.staticflickr.com/5446/17386951949_8325f417e1_o_d.jpg>
+
+L'autre nouveauté, c'est l'introduction d'une nouvelle donnée : la représentation des interventions militaires dites « étrangères » depuis 2001. C'était une information très importante à « glisser » dans la carte étant un des éléments - mais pas le seul bien sûr - qui peut expliquer cette « géographie du chaos ».
+
+Il y a deux catégories : les interventions militaires conventionnelles (je ne suis pas sûr que ce soit le bon terme mais je l'utilise à défaut de mieux) et les campagnes plus ou moins permanentes d'attaques de drones – cela rappelle les conflits de «basse intensité» menés par l'administration du président Ronald Reagan contre les guérillas en Amérique latine ou en Afrique australe. Dans la carte de 2015, en tête de ce billet, ces deux catégories ont été regroupées. L'intervention militaire saoudienne au Yémen, trop récente, n'y figure pas (encore).
+
+Le champ géographique s'est étendu, allant désormais jusqu'au sud du Sahara. Fred Halliday, dans son livre {L'URSS et le Monde arabe}, publié aux éditions Le Sycomore en 1982, parle d'un « arc des crises » qui à l'époque allait de l'Éthiopie à l'Iran, en référence à un concept inventé par l'orientaliste Bernard Lewis et repris par  l'américain Zbigniew Brzeziński en 1978.
+
+En 2015, « l'arc de crises » s'étend du Mali (certains le font même commencer en Mauritanie) au Pakistan, en englobant l'Afrique du Nord, le Sahel, l'Afrique de l'Est, les États du Golfe, le Proche-Orient, l'Iran et l'Afghanistan – ce qui correspond en gros au «Grand Moyen-Orient» défini par George W. Bush... Il faudra sans doute, dans la prochaine version, l'étendre jusqu'aux Philippines et à l'Indonésie.
+
+En 2013, le Nigeria est encore en dehors de la zone, mais fait son entrée en 2015 avec le renforcement du groupe islamiste Boko Haram et sa déclaration d'allégeance à l'État islamique.
+
+<quote>
+
+{{Comment nommer l’État islamique ?}}
+
+En juin 2014,  est annoncé le rétablissement du califat sous la direction d’Abou Bakr Al-Baghdadi. Désormais, les communiqués émanant de son organisation sont signés « État islamique ». Les médias arabes hostiles vont utiliser pour le désigner l’acronyme en arabe Daech pour {Dawla islamiyya}. Cette formulation est clairement péjorative et c’est pour cela qu’elle est utilisée en français par Laurent Fabius.
+
+Mais faut-il accepter le terme « État islamique » ? Plusieurs médias français, dont l’{Agence France presse} et {Le Monde diplomatique} ont adopté la terminologie de « organisation de l’Etat islamique », affirmant que cette structure n’était pas un État et, pour certaines, qu’elle n’était pas islamique. Près de deux ans après sa formation, on peut toutefois s’interroger. Les structures mises en place ont plusieurs caractéristiques d’un État, avec le contrôle d’un territoire, des fonctionnaires, la collecte d’impôts, la gestion de la vie quotidienne des habitants.
+
+En revanche  il ne dispose d’aucune reconnaissance internationale. Quant à son caractère « islamique » il est toujours difficile de se prononcer. Si cette qualification favorise des amalgames dangereux, surtout en Occident, qui est habilité à juger dans ce domaine ? 
+
+L’Iran, le Pakistan ou la Mauritanie s’intitulent officiellement « république islamique », sont-ils ou non islamiques ? Ils sont reconnus comme tels par la communauté internationale et l’Organisation de la coopération islamique (OCI).
+
+Pour ajouter une note d’humour, il fut un temps, celui des colonies, où la France se revendiquait « puissance musulmane ». 
+
+<p class="text-right caps">↬ Alain Gresh</p>
+
+</quote>
+
+Cette carte a été digitalisée, légèrement adaptée et « mise à jour » pour être publiée sous le titre « Connexions djihadistes » dans le mini-atlas de {L'État du Monde 2014} consacré aux conflits dans le monde (La Découverte).
+
+<https://farm6.staticflickr.com/5457/17387012509_5237a9b64d_o_d.jpg size=medium  class=caption-right
+title="« Connexions djihadistes » : carte digitalisée d'après l'esquisse finalisée~1.0"
+credit="Septembre 2014"
+link=
+https://farm6.staticflickr.com/5457/17387012509_5237a9b64d_o_d.jpg>
+
+---------
+
+Sur les mêmes thèmes, nous pouvons remonter un peu plus loin dans le temps.
+
+En 2005 et en 2006, nous avions enfin décidé de nous lancer dans une recherche cartographique sur la question du terrorisme international. Jusqu'alors, nous n'étions pas très chaud pour cartographier ce sujet difficile. Il y avait beaucoup de pièges : céder à la tentation d'une représentation spectaculaire, oublier des événements importants ou, pire, les interpréter à l'envers.
+
+Nous avons finalement plongé, en essayant d'abord d'accumuler sur la carte « ce que nous savions », et ensuite combler les lacunes petit à petit avec ce qui manquait et « ce que nous ne savions pas (encore) ».
+
+En 2005, pendant la production d'un atlas géopolitique qui devait paraître en 2006, nous travaillions sur la représentation du terrorisme entre 1960 et 1990.
+
+L'esquisse était incomplète, il y avait des manques, mais elle montrait déjà quand même une configuration géographique intéressante. Pourtant, cette carte ne sera jamais publiée...
+
+Je me demande si, au fond, cette image ne nous dérangeait pas. C'était la première visualisation « concrète » d'une période de l'histoire et d'un thème sur lequel nous avions beaucoup lu, mais dont la logique géographique nous échappait. Cela restait très abstrait pour ne pas dire « a-géographique ». Elle appelle à une réflexion fondamentale vraiment difficile à mener sur la « justification de la violence » : Dans la carte il y a la légende, et la légende ce sont des mots, et les mots sont importants, on ne choisit jamais par hasard entre «terrorisme » et « résistance». 
+
+Cette carte est donc toujours un « chantier » ouvert pour la recherche (avis aux amateurs).
+
+<https://farm8.staticflickr.com/7739/16952927483_4c5f51cbbc_o_d.jpg size=medium  class=caption-right
+title="Terrorisme dans le monde des années 1960 à la fin des années 1990 : esquisse première~0.0"
+credit="Octobre 2005"
+link=
+https://farm8.staticflickr.com/7739/16952927483_4c5f51cbbc_o_d.jpg>
+
+En revanche, nous avons eu beaucoup moins de mal lorsque nous nous sommes lancés sur la piste du terrorisme « post-septembre 2001 ». Nous avons opté pour la facilité. Là, on établissait un catalogue...
+
+<https://farm6.staticflickr.com/5461/17385487368_e168cf1a83_o_d.jpg size=medium  class=caption-right
+title="Terrorisme récent : les années Al-Qaida : esquisse première~0.0"
+credit="Octobre 2005"
+link=
+https://farm6.staticflickr.com/5461/17385487368_e168cf1a83_o_d.jpg>
+
+Cela dit, dans sa version digitalisée, nous avions intégré des informations sur le type de relations et d'accords plus ou moins transparents que certains pays entretenaient avec les États-Unis. N'oublions pas qu'ici, on ne couvre que quatre années d'action : 2001-2005.
+
+<https://farm9.staticflickr.com/8830/17699382403_89ff0c2337_o_d.jpg size=medium  class=caption-right
+title="Terrorisme récent : les années Al-Qaida : carte digitalisée d'après l'esquisse première~0.0"
+credit="Février 2006"
+link=
+https://farm9.staticflickr.com/8830/17699382403_89ff0c2337_o_d.jpg>
+
+Puisque nous parlons de « terrorisme » et de « résistance », il faut aussi évoquer ce projet né à la même période (2005). L'idée était d'essayer de réunir sur une même carte ce que le monde en général et les continents en particulier faisaient pour résister aux tentatives hégémoniques des États-Unis. Je vous laisse prendre connaissance de la légende dans laquelle, j'avoue, nous avons un peu tout mélangé... C'est sans doute nos prémices de cartographie radicale !
+
+<https://farm8.staticflickr.com/7794/17385708270_dc7d2fba33_o_d.jpg size=medium  class=caption-right
+title="Un monde entré en résistance contre la tentative hégémonique américaine : esquisse première~0.0"
+credit="Septembre 2005."
+link=
+https://farm8.staticflickr.com/7794/17385708270_dc7d2fba33_o_d.jpg>
+
+La carte digitalisée présente peu de différences avec l'esquisse. Nous avons juste inversé les modes de représentation visuelle pour deux critères : « Les pays dans lesquels l'image des États-Unis s'est dégradée entre 2001 et 2005 » sont passés d'une représentation surfacique à une représentation ponctuelle, et « les pays de la coalition » d'une représentation ponctuelle à une représentation surfacique.
+
+<https://farm9.staticflickr.com/8727/17385837630_3c81651da0_o_d.jpg size=medium  class=caption-right
+title="Les formes diverses de la résistance : carte digitalisée d'après l'esquisse première~0.0"
+credit="Février 2006"
+link=
+https://farm9.staticflickr.com/8727/17385837630_3c81651da0_o_d.jpg>
+
+---------
+
+Il faut revenir en 2009 pour faire état d'une autre « carte catalogue » que nous avons publiée dans l'atlas de 2009 « Un monde à l'envers », et qui nous avait été proposée à l'époque par la géographe Béatrice Métaireau.
+
+<https://farm9.staticflickr.com/8835/18132924618_7f7e80c435_o_d.jpg size=medium  class=caption-right
+title="Ils voient des terroristes partout : carte élaborée par Béatrice Métaireau."
+credit="Février 2009"
+link=
+https://farm9.staticflickr.com/8835/18132924618_7f7e80c435_o_d.jpg>
+
+La carte ne montrait rien de vraiment très fracassant sur les logiques géographiques des mouvements dits terroristes, sauf que ce n'était pas les mêmes qui étaient désignés comme tels par les Européens et par les Américains. Mais en 2009, il n'y a pas si longtemps donc, Boko Haram, Al-Qaida au Yémen et l'Etat islamique n'existaient pas encore...
+
+<aside class="box">
+
+{{La cartographie du mouvement djihadiste international sur d'autres sites :}}
+
+- [The Institute for the Study of War->http://www.understandingwar.org/] propose des mises à jour cartographiques sur la situation en [Irak->http://www.understandingwar.org/iraq] et en [Syrie->http://www.understandingwar.org/syria-blog], ainsi qu’en Afghanistan et en Libye. C’est la « source d'inspiration » principale de la plupart des journaux lorsqu’ils veulent illustrer leurs articles sur les guerres en cours dans la région.
+
+- [The New York Times->http://www.nytimes.com/interactive/2014/06/12/world/middleeast/the-iraq-isis-conflict-in-maps-photos-and-video.html] a créé une page de cartes interactives avec des mises à jour régulières sur la situation en Irak et en Syrie. 
+
+- [How ISIS Expands->http://www.nytimes.com/interactive/2015/05/21/world/middleeast/how-isis-expands.html], toujours du New York Times qui propose ici une remarquable et très complète synthèse cartographique de l'évolution de l'État islamique et de ses ramifications.
+
+- [Le Temps->http://www.letemps.ch/interactive/2015/djihad/] a publié une grande carte interactive figurant les principaux groupes affiliés à Al Qaida et à l’EI du Mali au Pakistan.
+
+- [The Washington Post->http://www.washingtonpost.com/world/middle_east/the-islamic-state-caliphate-is-in-danger-of-losing-its-main-supply-route/2015/02/18/eaaabd5a-9045-11e4-a66f-0ca5037a597d_story.html] a aussi créé une carte qui est régulièrement mise à jour. Elle est principalement utilisée pour illustrer les articles sur la situation en Syrie et Irak.
+
+- [Le service cartographique du monde->https://www.facebook.com/lemondeencartes] publie régulièrement des cartes très détaillées sur l'évolution de la situation en Syrie et en Irak, notamment avec des informations fournies par des correspondants sur place.
+
+{{Un texte important à lire pour mieux comprendre l'État islamique :}}
+
+Jean-Hervé Bradol, [Comment les humanitaires travaillent face à Al-Qaïda et l’Etat islamique->http://www.mediapart.fr/journal/international/010215/comment-les-humanitaires-travaillent-face-al-qaida-et-letat-islamique], Mediapart, 1er février 2015.
+
+{{Sur Seenthis.net : pour consulter le résultat de la revue de presse collective sur la représentation cartographique de l'État islamique :}}
+
+- [Isis + Visualisation->http://seenthis.net/recherche?recherche=isis+visualisation]
+
+- [Isis + Cartographie->http://seenthis.net/recherche?recherche=isis+cartographie]
+
+- [terrorisme + Cartographie->http://seenthis.net/recherche?recherche=terrorisme+cartographie]
+
+{{Et sur l'Etat islamique en général :}}
+
+- [IS+ISIS+Irak+Syrie->http://seenthis.net/recherche?recherche=is+isis+irak+syrie]
+
+- [Daech->http://seenthis.net/recherche?recherche=daech]
+
+Les recherches avec différentes combinaisons de mots clés donnent des résultats différents, il faut donc un peu « explorer », mais au final, seenthis.net renvoie une très grande diversité d'articles, de signalements divers et parfois des commentaires ou des débats fort intéressants.
+</aside> 
+
+
+--------------------------
+
+PS: Si vous souhaitez contacter l'auteur, apporter une précision, réagir à cette contribution, vous pouvez le faire en utilisant le mail  [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 9 janvier 2016 11:14

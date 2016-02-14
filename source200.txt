@@ -1,0 +1,126 @@
+
+--------------------------
+
+TITRE:
+Aux Nations unies, qui vote avec qui ?
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+--------------------------
+
+CHAPO:
+Après l'Assemblée générale des Nations unies, l'analyse des résolutions sur le désarmement et la sécurité internationale permet, en regardant qui vote avec qui, de mettre en évidence des coalitions de fait et les principaux clivages.
+
+<h4 class=text-right>{Par Philippe Rivière}</h4>
+
+
+--------------------------
+TEXTE:
+
+<https://farm2.staticflickr.com/1605/23713602409_ffb1ab73b1_o_d.png size=original title="Aux Nations unies, qui vote avec qui ?" credit="Visualisation : Philippe Rivière, décembre 2015.">
+
+Les Nations unies viennent, le 23 décembre 2015, de terminer leur 70e session. Comme le rappelle son secrétaire général Ban Ki-Moon, l’organisation compte désormais quatre fois plus de membres que lors de sa création en 1945. Ce sont 193 États qui, réunis en Assemblée générale (UNGA), prennent position sur des sujets allant de crises précises (la Syrie, le sida) à des thèmes généraux (les droits humains ou l’exploration spatiale).
+
+L’UNGA comporte plusieurs grandes commissions; la première ({First Commitee}) est chargée des questions de désarmement et de sécurité internationale. Elle travaille sur des résolutions, lesquelles peuvent être adoptées directement en commission (à l’unanimité), ou faire l’objet d’un vote des États-membres.
+
+Ces votes tiennent parfois de la science-fiction, comme par exemple la question de la « prévention d’une course aux armements dans l’espace » (indexée sous la cote A/C.1/70/L.3 : Assemblée générale, Commission~1, 70e~session, projet de résolution numéro~3). Sur cette question, on observe qu'il y a deux camps : d’un côté, les États-Unis et Israël, qui s’abstiennent) ; de l’autre, 179 États, qui votent pour. (Quelques pays n'ont pas pris part au vote.)
+
+Cette question précise peut faire l'objet d'une étude complète : qu’appelle-t-on précisément l’« espace » ? Suffit-il d’interdire d’être le premier pays à y envoyer des armes ? Comment construire un traité international solide ? etc. (Lire [le rapport de Reaching Critical Will->http://www.reachingcriticalwill.org/resources/fact-sheets/critical-issues/5448-outer-space].)
+
+Mais ces votes sont également intéressants parce qu’ils font émerger des coalitions de pays qui votent régulièrement dans le même sens. Ainsi, si l'on fait abstraction du contenu, si l'on regarde uniquement qui vote avec qui, on peut tenter de distinguer des familles stratégiques.
+
+Pour faire ce travail nous avons commencé par coder proprement tous les votes, à partir des fichiers PDF distribués par les Nations unies et repris par l'ONG [Reaching Critical Will->http://reachingcriticalwill.org/disarmament-fora/unga/2015/resolutions] (de manière surprenante, ces données sont assez difficiles à obtenir).
+
+Le résultat est disponible à l’adresse https://github.com/visionscarto/un-session-70 ; il se présente sous la forme d'une matrice, avec un vote par colonne, un pays par ligne (avec son identifiant [ISO-3166->https://fr.wikipedia.org/wiki/ISO_3166]). Chaque choix de vote est codé par <span class=caps>Y</span> (oui), <span class=caps>N</span> (non), <span class=caps>A</span> (abstention) ou <span class=caps>X</span> (n’a pas pris part au vote). Ce fichier est du domaine public, et nous vous invitons à l’utiliser pour vos propres projets.
+
+
+{{{Diagonalisation Bertin}}}
+
+<https://farm6.staticflickr.com/5629/23785757660_9ede5ee649_o_d.png link right title="Diagonalisation Bertin" credit="Ph. Rivière avec bertifier.com">
+La première tentative d’analyse que nous faisons à partir de cette matrice est une diagonalisation (ou réorganisation) à la manière de Jacques Bertin. L’idée est d’ordonner les lignes et les colonnes de cette matrice, en rapprochant celles qui se ressemblent le plus visuellement.
+
+Dans notre cas, si des pays votent souvent ensemble, on déplace les lignes correspondantes de manière à les regrouper. De même, si des votes provoquent des clivages similaires dans les choix des pays, on rapproche les colonnes correspondantes.
+
+Ces manipulations (qui peuvent se faire dans un tableur ou même sur [un modèle en bois->http://www.aviz.fr/diyMatrix/]), sont grandement facilitées par l’emploi du logiciel spécialisé [bertifier.com->http://bertifier.com/], proposé sous forme de site Internet par les chercheurs de l’INRIA Charles Perin, Pierre Dragicevic et Jean-Daniel Fekete.
+
+Une fois la matrice préparée —~il faut d’abord coder les <span class=caps>Y, N, A</span> et <span class=caps>X</span> en valeurs numériques, et ajouter des pseudo-votes de référence pour que chaque ligne dispose de toutes les valeurs~—, on la charge dans le site, et après quelques manipulations, on obtient une diagonalisation, qui permet de voir apparaître des groupes de pays, et des groupes de questions.
+
+Tout en haut de la matrice, on distingue un groupe asiatique : Inde (IND) — Corée du Nord (PRK) — Pakistan (PAK) — Chine (CHN).
+
+Tout en bas, un groupe occidental: Israël (ISR) — États-Unis (USA) — Royaume-Uni (GBR) — France (FRA).
+
+La Russie (RUS), qu’on a placée sur la première ligne, est une exception : éloignée de tous les autres pays, elle se rapproche presque autant du groupe asiatique que du groupe occidental… on aurait donc pu au contraire la placer tout en bas. La Russie apparaît en tout cas, dans cette partie, comme un joueur isolé.
+
+Les neuf États que nous venons de citer, et qu’on a isolés exclusivement à partir de leurs votes à l’UNGA~70, sont — mais est-ce un hasard ? — les neuf pays dotés de la bombe atomique ! Ils sont aussi ceux qui votent contre ou s’abstiennent le plus souvent dans cette session de l’ONU. Regroupés en trois pôles bien distincts (groupe asiatique, groupe occidental, Russie), leurs positions extrêmes sont partiellement partagées par d’autres pays, ce qui permet de déterminer des zones d’influence, ou tout du moins de congruence.
+
+Sans grande surprise peut-être, ces zones sont l’Europe (occidentale et orientale), qui « suit » les États-Unis ; un peu plus loin, le Japon, et les pays d’Europe du Nord.
+
+D’autres groupes géographiques ou politiques se retrouvent à travers cette méthode de pure diagonalisation des votes : pays arabes ; pays de la gauche latino-américaine, etc. De manière surprenante, le « débat » aux Nations unies épouse étroitement la géographie. On n’en demandait pas tant !
+
+
+{{{Classification automatique}}}
+
+Une analyse en composantes principales permet de réduire la dimension de notre matrice (80 choix par pays) à deux « axes principaux », c'est-à-dire ceux qui expriment le mieux les clivages statistiquement présents dans les données.
+
+Pour les couleurs, nous avons d'abord essayé un partitionnement en [k-moyennes->https://fr.wikipedia.org/wiki/K-moyennes] (en anglais {K-Means clustering}), pour distinguer des groupes plus ou moins homogènes, à partir de [cet exemple de classification des votes des sénateurs américains->https://www.dataquest.io/blog/plotting-senators/]. Mais cette colorisation s'est révélée redondante avec la classification spatiale, et il a semblé plus informatif de donner une couleur correspondant aux [groupes régionaux officiels->http://www.un.org/fr/hq/dgacm/regionalgroups/] au sein de l'UNGA.
+
+Pour mieux explorer et « sentir » les données, nous les avons aussi projetées en trois dimensions (grâce au logiciel libre [three.js->http://threejs.org/]), sur les trois premiers « axes principaux » de l'analyse ACP (à tester [ici->http://delicious-crime.surge.sh/Particles.html] avec un navigateur moderne).
+
+<https://farm2.staticflickr.com/1640/24055445356_b460975a92_o_d.png size=original title="Visualisation exploratoire en 3D" credit="Ph. Rivière avec three.js">
+
+<h3 class=text-center>✪ ✪ ✪</h3>
+
+Restait à construire, à partir de ces éléments et calculs, une visualisation qui les restitue de manière aussi compréhensible que permis, et si possible esthétique.
+
+<https://farm6.staticflickr.com/5668/23998807371_731dd2fb56_m_d.jpg right legend="Solitude des gladiateurs" credit="André Fougeron (1931-1998)">
+Notre source d’inspiration sera {Solitude des gladiateurs,} une œuvre d’André Fougeron exposée à Dunkerque, au Lieu d'Art et Action contemporaine ([LAAC->http://www.musees-dunkerque.eu/nous-connaitre/laac/]), où l'on lit la complexité des rapports entre les gladiateurs qui se mêlent et s'enlacent dans leur lutte au corps-à-corps.
+
+La répartition des pays sur la surface de la visualisation s'est faite à partir de l'analyse en composantes principales ci-dessus, qui révèlait des « axes », c'est-à-dire des clivages statistiquement visibles, correspondant aux votes déjà identifiés avec la diagonalisation Bertin.
+
+Les axes mettent en évidence les résolutions les plus clivantes.
+
+{Axe 1. Armement nucléaire} — résolutions:
+- L15 “Follow-up to the 2013 high-level meeting of the General Assembly on nuclear disarmament”
+- L38 “Humanitarian pledge for the prohibition and elimination of nuclear weapons”
+- L40 “Ethical imperatives for a nuclear-weapon-free world”
+- L44 “Nuclear disarmament”
+- L51 “Follow-up to the advisory opinion of the International Court of Justice on the legality of the threat or use of nuclear weapons”
+
+{Axe 2. Armes chimiques et bombes à sous-munitions} — résolutions:
+- L26 “United action towards the total elimination of nuclear weapons”
+- L27 “Implementation of the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction”
+- L49 “Implementation of the Convention on Cluster Munitions”
+
+
+Ce qui nous a permis de créer la légende suivante:
+
+{{Principaux points de clivage entre les nations :}}
+-- 1. En bas à droite : consensus, pays votant “oui” à la quasi-totalité des résolutions;
+-- 2. Vers la gauche : pays occidentaux, plutôt opposés aux résolutions sur le désarmement nucléaire;
+-- 3. Vers le haut : pays plutôt opposés aux résolutions sur les armes chimiques et les bombes à sous-munitions;
+-- 4. En haut à gauche : dissensus, pays votant “non” ou s’abstenant plus que les autres.
+
+<p class="text-right caps">↬ Philippe Rivière.</p>
+
+~
+
+<quote>
+Pour aller plus loin :
+- Erik Voeten, professeur à l'université de Georgetown, propose un jeu de données sur l'ensemble des votes (à l'exception des années les plus récentes) : [->https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/12379] ; du même auteur lire «[The US is still lonely at the United Nations->https://www.washingtonpost.com/news/monkey-cage/wp/2013/09/25/the-u-s-is-still-lonely-at-the-united-nations/]».
+- la thèse de doctorat du géographe Laurent Beauguitte, «[L'Assemblée générale de l'ONU de 1985 à nos jours : acteur et reflet du Système-Monde. Essai de géographie politique quantitative->https://tel.archives-ouvertes.fr/tel-00634403/]» comporte de nombreuses visualisations des votes.
+- «[La Palestine, État observateur non-membre auprès de l’ONU->http://visionscarto.net/la-palestine-etat-observateur-non]», visionscarto.net
+</quote>
+
+
+--------------------------
+
+PS: Cet article et cette visualisation font partie d'une recherche ouverte sur la paix et les conflits ; si vous souhaitez les réutiliser, commenter, suggérer des améliorations ou tout simplement contacter l'auteur, n'hésitez pas à envoyer un message à l'adresse [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 5 janvier 2016 10:21

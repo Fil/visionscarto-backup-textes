@@ -1,0 +1,101 @@
+
+--------------------------
+
+TITRE:
+Des anges et des échelles
+
+--------------------------
+
+AUTEUR: 
+- Marion Lecoquierre
+
+--------------------------
+
+CHAPO:
+<h4 class="text-right">{par Marion Lecoquierre}</h4>
+<h5 class="text-right">géographe, doctorante à l'Institut universitaire européen de Florence (Italie)
+
+
+
+--------------------------
+TEXTE:
+
+<h3>Habiller la carte</h3>
+
+Le corps, le nom, le cadre, la légende, les sources, et... l'échelle. Ainsi est costumée la carte, objet composite. On sous-estime trop souvent l’importance que peut avoir l’« habillage », c’est-à-dire tous les éléments qui « enveloppent » la carte comme autant de guides pour que le lecteur comprenne où le cartographe a voulu en venir. Choisir un titre évocateur, préciser la date, la source de manière claire, légender intelligiblement et... mentionner l’échelle, sans laquelle l'espace figuré n'existe pas.
+
+<https://farm4.staticflickr.com/3860/14910368122_e39290b4ed_o.jpg size=large>  
+
+C’est souvent la légende qui retient l’attention et fait l’objet de tous les soins. Et l’échelle, cette échelle mal-aimée, souvent négligée ou oubliée par les cartographes eux-mêmes ? 
+
+La représentation de l’échelle pose autant de problèmes aux concepteurs de la carte, qui doivent l’indiquer -- voire la créer~--, qu’à ses utilisateurs, qui doivent (réussir à) la lire. Elle est souvent considérée comme inutile, au point qu’elle est souvent absente. C'est le « vilain petit canard » de la production cartographique. 
+
+L’échelle est une formule mathématique, un rapport qui s’exprime sous une forme graphique ou numérique. Lorsqu’elle est « graphique », le rapport entre la distance sur la carte et la distance réelle est indiqué de manière visuelle, illustré, et est donc facilement compréhensible. 
+
+<https://farm6.staticflickr.com/5585/15058879151_a49f291abd_o_d.jpg size=medium right>
+
+Lorsqu’elle est numérique, en revanche, elle exige une contorsion intellectuelle un peu plus délicate… C’est la fameuse échelle qui  fait appel à l’esprit mathématique du lecteur, avec tant de zéros alignés qu'il faut s'y reprendre à plusieurs fois pour être sûr qu'on a lu le bon chiffre. Si une carte est construite au 1:1~000~000 -- c'est-à-dire qu'un centimètre sur la carte représente dix kilomètres (soit 1 000 000 centimètres) sur le terrain, c'est au lecteur d’imaginer un trait de X~centimètres s’il veut savoir la distance qui sépare un point A d’un point B.
+
+Il faut dire aussi que la terminologie ne nous aide pas beaucoup. C’est une source constante de moquerie et surtout de confusion -- y compris chez les géographes : on dit d’une carte représentant un immense territoire qu’elle est à « petite échelle » (un continent), et d’une carte représentant un espace de taille restreinte (une ville, un quartier) qu’elle est à « grande échelle ». On distingue ainsi l’échelle cartographique et l’échelle géographique, laquelle  correspond à la perception et au discours « grand public » de ces rapports de taille, chacun revendiquant de défendre le bon sens !
+
+Ce petit détail technique d’ajouter l’échelle à l’« habillage » est en réalité d’une importance fondamentale : elle n'est pas, comme l'on croit, un « accessoire » facultatif -- et souvent considéré comme superflu~--, mais bien un élément nécessaire à l’harmonie de l’ensemble pour que le lecteur retrouve son chemin sur le territoire. C’est à cette condition seulement que la description du monde figurée par la carte prend tout son sens.
+
+L’échelle est un outil qui permet de lire et comprendre une carte, le seul lien tangible entre l’espace réel et celui que la carte représente, entre leurs proportions respectives. Elle convertit la feuille en espace, y introduit la notion de distance : le titre et la toponymie sont des indices, qui, sans échelle, restent lettre morte, simple énumération de noms propres, épaves géographiques plaquées sur une vague esquisse… Elle transforme un ensemble de lignes, de points, de symboles, en espace lié à l’expérience humaine. Elle relie celui-ci au monde extérieur, au « réel ». Enrichie par la notion de distance, la carte devient un paysage parcouru ou à parcourir. 
+
+Ne pourrait-on pas – ou ne devrait-on pas ?~-- considérer l’échelle comme le symbole de ce que la carte invite à faire : s’évader et découvrir? Alors, pourquoi ne pas le montrer ? Et donner un peu de fantaisie à cet élément si formel et si froid pour qu’il prenne toute sa place sur la carte ?
+
+<h3>Habiller l’échelle ?</h3>
+
+<https://farm6.staticflickr.com/5589/14723971007_895570704b_o.jpg size=medium right>
+
+Ces {putti} (qu’on appellerait en France des amours) affichent ici un air sérieux qui contraste avec leurs batifolages habituels : privés d’ailes, point d’escapades dans les nuages ou de concerts célestes. Ce sont des chérubins terrestres, qui se livrent, par ailleurs, à une occupation bien sérieuse : ils écrivent… Et leur table de travail est particulière : ils écrivent, avec application, en prenant appui sur une curieuse barre graduée. 
+
+Ces petits personnages, cousins de ceux de la célèbre galerie des cartes du Vatican [[La galerie des cartes géographiques du musée du Vatican comporte quarante cartes des régions italiennes et des diverses possessions de l'église à l'époque du pape Grégoire~XIII (1572-1585). Ces cartes, en plus de leur minutie quant à la représentation des paysages terrestres, sont accompagnées de créatures marines, de vaisseaux sous voiles, de personnages mythologiques embarqués sur des chars... Les échelles sont également accompagnées parfois d'angelots ou d'un monstre.]], peuplent les grandes fresques murales du château d’Este, cœur de la petite ville de Ferrara (Italie), à quelques kilomètres au nord de Bologne la Rouge. Ils se trouvent dans la Salle {Marchesana}, aussi appelée {[delle Geografie->http://www.castelloestense.it/it/il-castello/alla-scoperta-del-castello/primo-piano/la-sala-delle-geografie-o-marchesana]}, c’est-à-dire « des Géographies ». Les peintures de cette pièce - recouvertes en 1824 - ont été récemment restaurées et la pièce réouverte au public. Chacune des belles cartes qu’elle contient présentent leur échelle respective accompagnée de ces petits anges joufflus. 
+
+<https://farm4.staticflickr.com/3848/14911364385_3d16424042_o.jpg size=original class=fullwidth>
+
+<https://farm6.staticflickr.com/5591/14908325951_1aa195ba95_o.jpg size=original class=fullwidth>
+
+L'échelle, exprimée en {pertiche ferraresi}, ou « perches de Ferrara » [[La {pertica} ou perche est une unité de mesure déjà en usage sous les romains (équivalent à dix pieds romains). Le terme renvoie également à une mesure de superficie.]], renvoie aux vieilles unités de mesure locales utilisées en Italie jusqu'à l'unification du pays en 1861. La {pertica} était la mesure agraire légale jusqu'à la fin du XIXe siècle dans la plupart des régions italiennes, mais avec des valeurs différentes selon les endroits. Ainsi la {pertica} de Ferrara équivalait à précisément 4,038544~mètres, tandis que la {pertica} turinoise en valait 6,165192 [[Sources : [Wikipédia->http://fr.wikipedia.org/wiki/Pertica] et [{The first applications of the metric system in Italy}->http://www.2iceshs.cyfronet.pl/2ICESHS_Proceedings/Chapter_16/R-8_Borgato.pdf ], Maria Teresa Borgato (PDF).]].
+
+
+La salle « des géographies »… Le nom de l’ensemble n’est pas innocent. Les six panneaux muraux présents dans cette pièce, peints à la main entre 1709 et 1710 par le {quadraturista}[[Peintre spécialisé dans les perspectives et le trompe l’œil.]]  Anton Felice Ferrari (Ferrara 1667-1720), d’après des dessins du cartographe et arpenteur Giuseppe Tomaso Bonfadini, présentent différentes zones de l’Emilie-Romagne.
+
+Le pluriel est évocateur : la {géo-graphie} est littéralement écriture du monde. Sur chacun de ces panneaux, c’est comme si la carte émanait directement de l’esprit du petit bonhomme qui tient la plume, sorte de pays rêvé aux couleurs pastel et estompées, matérialisé au fil de la description… Chaque carte est une géo-graphie, la description d’une région, l’évocation d’un paysage, d’un mode d’aménagement et d’habitat. Plus que la carte, pour laquelle ils représentent surtout un détail esthétique, ces angelots mettent en valeur l’échelle.
+
+<https://farm4.staticflickr.com/3857/14910334842_d45edc0379_o.jpg size=large>
+
+
+Et si « les géographies » renvoyaient justement à ces petits personnages? On pourrait en effet les considérer comme une représentation allégorique - comme on dit « les amours », ou «la liberté». Ces quelques angelots figureraient « La Géo-graphie » au sens propre du terme, et la barre graduée compenserait les ailes perdues...  L’échelle serait l’élément central, décisif, de la représentation, l’allégorie de la discipline géographique, l’attribut figurant son essence, à savoir l’espace.
+
+<https://farm4.staticflickr.com/3926/14724717070_3b63884e33_o.jpg size=large>
+
+L’échelle, ou le changement d’échelle, est également une expérience qui se vit. Tout comme M. Jourdain faisait de la prose sans le savoir, chacun de nous fait de la géographie et expérimente directement sa dimension concrète. Cette dimension est étudiée, en géographie, à travers l’« approche scalaire ».
+
+<https://farm6.staticflickr.com/5581/14911364135_e9d4c925a2_o.jpg size=medium>
+
+En avion, exemple banal sans doute, ce « saut d’échelle » permet de voir en quelques minutes les hommes et les objets se réduire jusqu’à devenir à peine perceptibles. Les quelques milliers de kilomètres parcourus en quelques heures font en général ressentir de manière aiguë la réalité de l’échelle. Comme l’écrit Italo Calvino: {« Voler est le contraire du voyage : tu traverses une discontinuité de l’espace, tu disparais dans le vide, tu acceptes de n’être plus en aucun lieu pour une durée qui est elle-même une espèce de vide dans le temps ; puis tu réapparais, dans un lieu et à un moment sans aucun rapport avec le où et le quand dans lesquels tu avais disparu »} [[Italo Calvino, {Se una notte d’inverno un viaggiatore}, 1979, Einaudi ({Si par une nuit d’hiver un voyageur}, 1981, Seuil).]]. Le train est au contraire considéré comme un mode de transport « à échelle humaine », qui correspond à un rythme, une vitesse, et surtout à une distance que l’esprit peut se représenter, un intervalle parcouru plus facile à assimiler qu’en avion.
+
+La carte est une représentation, une image qui fait appel en grande partie à l’imagination de l’utilisateur. L’échelle, avec son côté métrique, angulaire, scientifique, est un gage de sérieux. Elle concrétise la référence à quelque chose ayant une existence « objective ». Son aspect numérique donne une prise sur le réel à travers le papier. 
+
+Et puis… L’échelle, à l’origine, dans son sens prosaïque, est un objet visant à faciliter le mouvement. L’ascension. Les échelons de l’échelle cartographique sont autant de pas, d’étapes. C’est une invitation à avancer dans l’espace, dans cet espace figuré par la carte, dans l’espace physique, fait de distance et de kilomètres concrets qui nous attendent sur le pas de notre porte : l’échelle est effectivement un seuil. A la fois ce qui fait le lien mais aussi ce qui permet d’accéder à la route, qui relie par exemple un espace de vie quotidienne à l’espace plus large du voyage.
+
+La distance représentée ainsi, avec ses graduations, c’est la route, le voyage et ses arrêts, ses détours aussi. Et également, pourquoi pas, avec un peu d’imagination, les rails et traverses de la voie ferrée…   
+
+<https://farm4.staticflickr.com/3841/14724202439_f2d1d3a5ea_o.jpg size=medium title="Question d'échelle : l'ère du pétrole, un court moment dans l'histoire de l'humanité" caption="petit croquis par Philippe Rekacewicz">
+
+---------
+
+<p class=small>Cet article est une reprise de celui publié sur le blog « Visions cartographiques »  en janvier 2010.</p>
+
+
+
+--------------------------
+
+PS: Si vous souhaitez réagir à cette contribution, ou simplement contacter l'auteur, vous pouvez le faire par courriel via [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 9 septembre 2014 14:56

@@ -1,0 +1,47 @@
+
+--------------------------
+
+TITRE:
+À propos de Visionscarto
+
+
+
+
+
+--------------------------
+TEXTE:
+
+<p class="in">Bienvenue sur « Visionscarto », nouvel espace d'expression de nos recherches et de nos enthousiasmes. On aimerait tant qu'il soit tout à la fois qu'il est difficile de savoir par quel bout commencer.
+
+« Visionscarto » est le lieu où pourront s'exprimer tous ceux qui aiment penser et inventer des représentations du monde ; un lieu de recherche et d’expérimentation sur les mille et une façons de visualiser et de « dessiner » le monde, non pas tel qu'il est, mais tel qu'on le voit, tel qu'on le perçoit, tel qu'on le comprend.
+
+Nous tenterons d’en faire un caravansérail animé et foisonnant, où s'épanouissent et s'échangent idées, savoirs et projets. Espace de rencontre fréquenté par les voyageurs étrangers, où l'on trouve presque tout, et où l’on peut rester dormir…
+
+Les représentations du monde, de la géographie des territoires, ce n'est pas seulement des cartes ou des graphiques. C’est aussi des photos, du son, des films, des œuvres d'art, de la littérature, de la bande dessinée… autant de formes d'expression qui font dialoguer réalité et imaginaire.
+
+« Visionscarto » est un lieu où doivent se sentir à l'aise toutes les personnes qui souhaitent réfléchir sur des concepts originaux de cartographie — comme la cartographie participative, la cartographie radicale ou la cartographie narrative – et de tenter d'en enrichir le champ. Un lieu où l’on met en partage des projets en gestation, des idées ou des analyses rapidement brouillonnées ou esquissées. Y seront publiés des travaux en cours, des chantiers en recherche d'un œil attentif : ceux des étudiants, chercheurs, enseignants, artistes, illustrateurs, journalistes, citoyen·ne·s engagé·e·s… 
+
+
+<h2>Et aussi…</h2>
+
+Des ateliers et des ressources pour mieux connaître les outils — du crayon gras au logiciel professionnel –, réfléchir au statut des données quantitatives et qualitatives, penser les méthodes de création cartographique, rappeler l'intérêt de réalisations anciennes, rendre disponible une grande collection de cartes thématiques…
+
+Il y aura donc du SIG, du drone et du robot autant que d'esquisses crayonnées, d'œuvres d'art, de narration ou d'exploration de livres anciens.
+
+<h3 class="text-right">Philippe~Rekacewicz &~Philippe~Rivière
+<br /><small>animateurs du site Visionscarto</small></h3>
+
+Qui que vous soyez, nous vous invitons à venir à la rencontre de nouveaux domaines, à découvrir ces croisements entre représentation carto(graphique), art, science et politique.
+
+« Visionscarto » se veut, plus que tout, le lieu d’interaction et de rencontre des esprits curieux.
+
+
+--------------------------
+
+PS: Pour nous contacter, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 22 août 2014 15:50

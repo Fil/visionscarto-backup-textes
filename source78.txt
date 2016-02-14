@@ -1,0 +1,83 @@
+
+--------------------------
+
+TITRE:
+Accaparement de terres : la Chine, l'Inde et les États-Unis aussi...
+
+--------------------------
+
+AUTEUR: 
+- Agnès Stienne
+
+--------------------------
+
+CHAPO:
+<h4 class="text-right">{Par Agnès Stienne}</h4>
+<h5 class="text-right">artiste et cartographe.</h5>
+
+
+
+
+
+
+--------------------------
+TEXTE:
+
+Lors d’une présentation au cours de laquelle je parlais de la série de cartes des appropriations de terres à l’étranger par les entreprises européennes, quelqu'un dans le public me posa cette question :
+
+<blockquote>
+{Vous évoquez les pays européens, soit, mais et la Chine en Afrique, et les milliers de paysans chinois qui s’installent en Afrique, vous en dites quoi ? »}
+</blockquote>
+
+La Chine fait peur, à tort ou à raison, mais avec tous ses Chinois, elle fait peur.
+
+Les Chinois, donc, sont nombreux. Avec l’élévation du niveau vie, la demande en viande a explosé alors que les terres arables du pays ne représentent toujours qu’environ 8~% ou 9~% du territoire chinois. Comme les pays développés, la Chine s’est elle aussi lancée dans la conquête de terres fertiles hors de ses frontières. Mais son avidité en terres arables est comparativement moins agressive que celle de l’Italie, des Pays-Bas ou du Royaume-Uni compte tenu de sa population bien plus importante.
+
+Alors que j'établissais la liste des pays convoités par la Chine, je me disais qu’il serait intéressant de faire quelques recherches exploratoires du côté de l’Inde et des États-Unis. Je n’ai pas été déçue.
+
+Une fois les données recueillies depuis le portail dédié à l'appropriation des terres ({land grabbing} en anglais) [« Land Matrix »->http://landportal.info/], j’ai identifié quelques lacunes.
+
+Par exemple, les 300~000~ha que le groupe Karuturi exploite en Éthiopie n’étaient pas référencés dans les contrats conclus. J’ai alors ressorti le document édité par Grain en 2012 [« Land grab deals »->http://www.grain.org/article/entries/4482-grain-publie-un-tableau-de-donnees-sur-plus-de-400-cas-d-accaparement-des-terres-dans-le-monde] puis recoupé et vérifié les infos des deux sources sur Internet, notamment sur le site [Farmlandgrab->http://farmlandgrab.org/] : il manquait des données importantes pour la Chine, l'Inde et les États-Unis. Pour ces pays, seuls les contrats conclus ont été retenus et, pour garder la cohérence, l’échelle des carrés proportionnels est identique à celle utilisée pour les cartes des pays européens.
+
+---------
+<p class=small>À consulter : [L’Europe à l’assaut des terres agricoles mondiales->40]</p>
+---------
+
+<h2>La Chine</h2>
+
+Les contrats sont pour la plupart conclus par des entreprises des secteurs de l’agroalimentaire, de l’agrobusiness, de l’énergie, de la construction, ou du gouvernement chinois. Quelques deals sont ficelés par le secteur de la finance, mais ils sont très peu nombreux. Contrairement à ce qu'on croit, ce n’est pas en Afrique que les Chinois investissent le plus.
+
+<https://farm3.staticflickr.com/2943/15422136415_ec1bd187f5_o_d.jpg size=original class=fullwidth title="Accaparement des terres par la Chine" credit="Agnès Stienne, 2014.">
+
+
+<h2>L'Inde</h2>
+
+Les investisseurs indiens sont peut-être un peu plus portés sur le business que leurs voisins chinois, mais dans l’ensemble, on retrouve les mêmes secteurs d’activité, sauf celui de la finance, et du public gouvernemental.
+
+<https://farm3.staticflickr.com/2942/15422141765_d9c1fde50b_o_d.jpg size=original class=fullwidth title="Accaparement des terres par l'Inde" credit="Agnès Stienne, 2014.">
+
+<h2>Les États-Unis</h2>
+
+C’est vertigineux. Plus de 10~millions d’hectares de terres étrangères ont été accaparées pour le compte de firmes américaines. 3~347~200~ha, soit 32,2 % des contrats, appartiennent au secteur de la finance : fonds d’investissements, fonds de pensions, assurances… 
+
+<https://farm3.staticflickr.com/2946/15235588797_fd21d95727_o_d.jpg size=original class=fullwidth title="Accaparement des terres par les États-Unis" credit="Agnès Stienne, 2014.">
+
+
+
+<p class=box>{{À lire:}}
+— «[L’Europe à l’assaut des terres agricoles mondiales->http://visionscarto.net/accaparement-des-terres]», 6~août~2014.
+—  «[Vol de terres en Éthiopie->http://visionscarto.net/vol-de-terres-en-ethiopie]», 19~juin~2015.
+— «[Conquête coloniale et concentration de terres->http://visionscarto.net/conquete-et-concentration]», 5~octobre~2015.
+</p>
+
+
+
+--------------------------
+
+PS: Ce texte fait partie d'une recherche en cours sur [des terres et des territoires->http://visionscarto.net/des-terres-et-des-territoires]. Si vous souhaitez utiliser tout ou partie de cette contribution, ou simplement contacter l’auteure, vous pouvez le faire par mail via [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 1er janvier 2016 17:22

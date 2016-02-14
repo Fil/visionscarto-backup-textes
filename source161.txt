@@ -1,0 +1,508 @@
+
+--------------------------
+
+TITRE:
+« Dessine-moi une île ! »
+
+--------------------------
+
+AUTEUR: 
+- François Arnal
+
+--------------------------
+
+CHAPO:
+François Arnal mène depuis plusieurs années une expérience originale avec ses élèves : cartographier et dessiner un paysage, un lieu imaginaire, et se servir de ces représentations pour y appliquer le « raisonnement géographique ». Quelles sont nos perceptions spatiales individuelles ou collectives ? Peut-on leur appliquer les grilles d'analyse classiques de la géographie ? Comment mieux comprendre -- à travers cet exercice -- ce qu'est un objet géographique ?
+
+<h4 class="text-right">{texte de François Arnal}</h4>
+<h5 class="text-right">professeur agrégé de géographie, enseignant en classes préparatoires aux grandes écoles (lettres supérieures et BCPST) au lycée Claude Fauriel de Saint-Etienne (Loire).</h5>
+
+
+--------------------------
+TEXTE:
+
+Cet exercice de « cartographie mentale » est proposé en tout début d’année, en classe d'hypokhâgne (lettres supérieures), afin -- avant de se lancer dans l'étude des programmes --, de faire découvrir aux élèves le poids des représentations, de la subjectivité et, ce n'est pas le moins important, de l’imaginaire géographique. C'est l’occasion de déconstruire les représentations spatiales et l’image classique de la géographie afin d'ouvrir plus largement le champ des outils possibles et les concepts de la géographie.
+
+<https://farm6.staticflickr.com/5734/21646984829_7ca4968068_o_d.jpg
+  size=large title="L’île du Coin." credit="Alban.">
+
+<h2>1 - Le contexte de l'exercice</h2>
+
+C'est donc dès la deuxième séance que nous nous sommes attelés à « l’exercice cartographique et paysager ». 
+
+<https://farm1.staticflickr.com/610/21646848769_8ee353c27a_o_d.jpg
+  size=large title="La solitude." credit="Guillaume.">
+
+En septembre 2015, il y avait 49 élèves (bac ES/S/L) -- 13~garçons et 36~filles. En 2012 je leur proposais une promenade en montagne, en 2013 une balade sur la plage, et en 2014 et 2015 le détour par une île.
+
+<blockquote>
+{Dessinez-moi une île ! Oui, juste une île, sur cette simple feuille blanche de format A4 en orientation... « paysage » justement ! Vous pouvez fermer les yeux, penser, imaginer, puis dessiner rapidement la première image qui vous vient à l'esprit. Ce sera votre “[image de pensée->http://www.fabula.org/revue/document7135.php]”. Surtout n'effacez rien ! Dessinez à l’encre ou en couleur, ne regardez pas votre voisin ! Indiquez toutes les informations et les éléments qui peuvent peupler le lieu que vous avez imaginé. Enfin, donnez un nom à “votre” île. »}
+</blockquote>
+
+<https://farm1.staticflickr.com/770/21646871139_5b99b5b548_o_d.jpg size=medium class=caption-right title="L'île Bounty." credit="Clara." link>
+
+Puis, j'ai demandé aux élèves qu'ils me « racontent» aussi leur île, qu'ils me la décrivent -- sur une feuille à part -- avec ses aménagements, ses formes, ses caractéristiques, pour que je puisse, comme lecteur/spectateur, mieux comprendre le croquis.
+
+Pendant que les élèves dessinent, le professeur rédige une liste de mots, et la remet retournée à une élève.
+
+<https://farm6.staticflickr.com/5748/21212672393_84b26570a6_o_d.jpg
+  size=small title="Liste du professeur -- recensement des archétypes spatiaux." right>
+
+Les croquis sont photographiés et téléchargés sur [un site de partage->https://www.pinterest.com/franz42/insularit%C3%A9-il%C3%A9iti%C3%A9-insularisme-des-%C3%AEles-et-des-rep/]. Ils seront analysés par l’enseignant qui va faire un travail de synthèse en regroupant les similitudes, en identifiant les originalités, les techniques de réalisation pour aider les élèves -- en rebondissant sur leur dessin -- à mieux comprendre ce qu’est un lieu et comment fonctionne le raisonnement géographique.
+
+Les enseignants en hypokhâgne disposent d’une relative liberté pédagogique qui permet d’innover en terme de didactique et de mobiliser l’imaginaire spatial, puisque l’objectif principal est de se familiariser avec la discipline, connaître les outils de la géographie, ses méthodes, accéder à ses concepts et maîtriser ses outils (carte ou paysage…).
+
+<https://farm6.staticflickr.com/5720/21210993684_97c62635d9_o_d.jpg size=medium class=caption-right title="« Raconte moi ton île »." credit="Victor." link>
+
+<blockquote>
+{L’enseignement de la géographie en classe préparatoire de lettres première année a pour objectif de permettre aux étudiants d’acquérir les bases d’une culture générale géographique solide et, pour les optionnaires, de se préparer aussi à la poursuite d’études universitaires. L’acquisition de cette culture géographique suppose que l’intérêt des étudiants et leur curiosité pour la géographie soient stimulés ».}
+
+<small>L’enseignement de la géographie en hypokhâgne, objectifs de formation de la première année des classes préparatoires de lettres.</small>
+</blockquote>
+
+<https://farm1.staticflickr.com/782/21796083356_f4b1e7371f_o_d.jpg
+  size=large title="L’enseignement de la géographie en hypokhâgne -- extraits du programme de 2007 : objectifs de formation de la première année des classes préparatoires de lettres Annexe VI.">
+
+Cet exercice cartographique -- auquel nous demandons aux élèves de se « frotter » en début d’année -- s’inspire d'approches usuelles en géographie culturelle ou en géographie des représentations, comme celles développées, par exemple, par ces deux immenses géographes qu'étaient Jacques Béthemont et Peter Hagett.
+
+<https://farm1.staticflickr.com/631/21649494869_97bed66d05_o_d.jpg
+  size=medium title="Manuel de géographie de la classe de seconde, page 9." credit="Sous la direction de Jacques Béthemont, 1981." link right>
+
+Jacques Béthemont, dans les pages d'introduction du manuel de géographie de seconde publié chez Nathan en 1981, questionnait la géographie :
+
+<blockquote>
+{Pourquoi la géographie ? On peut répondre à cette question de façon très simple, en définissant la démarche et les objectifs de la géographie à partir d’un document banal : une carte postale de Saint-Martin dans les Antilles... »}
+</blockquote>
+
+Il insistait sur les rapports nature/culture/région. Il montrait ainsi l’aspect « systémique » de la géographie. Après l’inventaire, vient le classement, puis la mise en relation (on pourrait presque dire d'ailleurs la « mise en réseau »). Enfin, l’ensemble étudié est mis en relation (connecté) avec des ensembles plus vastes. En 1981, on ne parle pas encore vraiment de mondialisation, ni de géographie des représentations ou d’imaginaire spatial.
+
+Peter Hagett, géographe britannique, posait la question en 1983 dans sa synthèse moderne de la géographie[[Peter Hagett, {Geography: A modern synthesis}, Harper International Edition, New York, 1983 (troisième édition) -- « des nouveaux outils, de nouvelles méthodes, de nouveaux concepts »]]. Le premier chapitre de son ouvrage s'intitule « On the Beach ».
+
+<https://farm1.staticflickr.com/594/21821877152_064438b7b7_o_d.jpg
+  size=medium title="Geography, a modern synthesis -- l’île tropicale est en couverture." credit="Peter Hagett, 1983." link right>
+
+Pour expliquer ce qu'était pour lui la « géographie humaine » , Peter Haggett proposait, dès les années 1960, de se projeter (de s'imaginer), un jour d’été, sur une plage bondée. Partant de cet exemple, il développait les méthodes de recherches des géographes, leurs instruments et documents géographiques, puis enfin les thèmes de réflexion.
+
+Une plage et une île. Il n'en fallait pas plus pour que je me décide, en 2007, d'expérimenter une nouvelle forme de géographie basée sur la création et l'interprétation de cartes mentales ou de dessins de paysages. L’île se prête bien au jeu de l’imaginaire, ses représentations font assez facilement ressortir les représentations individuelles ou collectives. À chaque rentrée je renouvelle l’exercice, je l’enrichis et je change de thème.
+
+<https://farm6.staticflickr.com/5789/21836805435_070382f9e6_o_d.jpg
+  size=medium title="L’île paradisiaque, réserve naturelle." credit="Léa, 2014." link right>
+
+Le contexte de la géographie environnementale et systémique de Jacques Béthemont ou celui de la « nouvelle géographie anglo-saxonne » ont été des berceaux à partir desquels les géographies humaniste, critique ou culturelle ont pu s'épanouir. La prise de conscience du poids des représentations dans l’action des sociétés sur leur territoire, ou dans l’acquisition de connaissances géographiques me semble être une étape incontournable pour des étudiants quittant la géographie scolaire pour s'immerger dans la géographie universitaire.
+
+Mais partir de l'imaginaire permet-il de comprendre la relation qui se noue entre un individu, une société et son territoire ? Cette relation n'est jamais objective, elle est marquée par des représentations qui sont le fruit d'une culture, d'un vécu et d'une appropriation individuelle ou collective. L'espace littoral a différentes vocations et le regard que porte la société sur cet espace a varié dans le temps, entraînant des aménagements et des mesures de protection « diversement » vécues.
+
+<https://farm1.staticflickr.com/750/21825023102_97fb5a6346_o_d.jpg
+  size=medium title="L’île de Ré en 2099." credit="Aïssa, 2014." link right>
+
+L’aménagement d’un territoire comme l’île renvoie à des acteurs qui vivent le lieu différemment et tiennent compte des atouts ou des contraintes du lieu. L’imaginaire permet de mettre en avant la notion d’aménité.
+
+Les îles donnent à voir une spatialité « archétypale » qui tient à la fois du « locus amœnus » et de son importance dans l’apprentissage de l’espace[[Christophe Meunier, 2012]].
+
+Les données naturelles ne sont jamais figées ou déterminantes : tout dépend du regard que porte la société et l'individu sur son territoire, ou des moyens techniques et financiers dont la société dispose pour transformer et aménager ce lieu. L’imaginaire géographique est révélateur de ce regard que porte la société et de ses intentions.
+
+
+<quote>
+
+{{L'île est un « locus amœnus ».}}
+
+{Expression latine composée de “locus” signifiant “lieu” et de “amœnus” signifiant “agréable”.}
+
+{De nos jours, on l'utilise pour qualifier tout lieu paradisiaque. Que désigne cette notion, théorisée dès Horace et pratiquée encore plus tôt par Homère ?}
+
+{Comme l’indique l’adjectif, le lieu est aimable, et présente un certain nombre de caractéristiques toujours identiques, dictées largement par le contexte méditerranéen. On recherche l’ombre, la fraîcheur, propices au dialogue philosophique et à l’échange poétique : arbres, grottes, gazons, sources et fleurs y sont les bienvenus. Nymphes et bergers souvent jouissent de cette Arcadie retrouvée, et les humains peuvent également en bénéficier, pour leur plus grand bonheur.}
+
+<small>Christine Dupouy, {La question du lieu en poésie}, 2006.</small>
+
+</quote>
+
+<https://farm6.staticflickr.com/5710/21833732345_16eb85d5cb_o_d.jpg
+  size=large title="Isola." credit="Tommy.">
+
+<https://farm6.staticflickr.com/5667/21833721285_325770a529_o_d.jpg
+  size=medium title="L’inégalité sociale à Haïti." credit="Mathilde." link right>
+
+Parfois les aménagements, les transformations de ce milieu fragile et clos qu’est une île entraînent des événements spatiaux, des crises ou des catastrophes qui nécessitent un nouveau regard sur les usages, de nouvelles stratégies d'aménagement et l'analyse des conflits ou des enjeux sociaux spatiaux.
+
+L’île, ou l'espace qui le borde (à savoir la plage dans les représentations archétypales), est un objet de désir de convoitise. Ces objets géographiques ou ces territoires peuvent déboucher sur des conflits d'acteurs, des crises environnementales dont la solution passera par l'« aménagement durable » ou encore la « gestion intégrée » de ces lieux.
+
+<quote>
+{{Structure, fonction et symbole}}
+
+{« La complexité de notre relation aux lieux, mise en lumière par les travaux de “microgéographie”, nous oblige à concevoir tout espace mental comme organisé en fonction de trois aspects : structurel, fonctionnel et symbolique.}
+
+{L'aspect structurel, bien mis en valeur par Lynch, permet de saisir la manière dont les structures du milieu sont utilisées par les individus dans leurs pratiques spatiales.}
+
+{L'aspect fonctionnel privilégie la contrainte espace- temps pour expliquer les problèmes d'accessibilité et les capacités économiques des lieux.}
+
+{Quant à l'aspect symbolique, moins souvent abordé, sauf en géographie des représentations, il révèle la variété des connotations spatiales et le faisceau des relations qui unissent homme- société-lieux.}
+
+{Cette triple distinction permet de considérer l'espace comme plus qu'un simple support ».}
+
+<small>Antoine Bailly, « L'imaginaire spatial. Plaidoyer pour la géographie des représentations », In Espaces Temps, pp. 40-41, 1989. Géographie, état des lieux. Débat transatlantique. pp. 53-58.</small>
+
+</quote>
+
+<h2>2- L’analyse des cartes et dessins réalisés entre 2013 et 2015</h2>
+
+<https://farm6.staticflickr.com/5778/21651677778_d2f0bb414c_o_d.jpg size=large title="Première classification.">
+
+Un premier classement fait ressortir différentes catégories d’îles : souvent une île peut rentrer dans plusieurs catégories, mais pour faciliter la tâche, j'ai proposé six grands ensembles :
+
+<https://farm1.staticflickr.com/565/21827972892_f4a6fe72ba_o_d.jpg size=mediul title="Essai de typologie.">
+
+{{1. L’île perdue ou isolée}}
+
+<blockquote>
+{La littérature a largement exploité la différenciation équivoque des îles qui invite l'imagination des hommes à surenchérir sur la nature en s'amusant à incarner sur leur territoire tous les fantasmes possibles de l'imagination, poussés jusqu'à l'absurde dans une seule direction. N'a-t-on pas inventé l’île des cyclopes, l'île des Amazones, l'île des sages, l'île des tortues, l'île des singes, l'île des délices…  La mythologie est remplie de ces délires insulaires. »}
+
+<small>Françoise Péron, 1993.</small> 
+
+</blockquote>
+
+
+L’île perdue ou isolée rappelle le mythe de Robinson, repris par la littérature ou le cinéma. Toutes les formes de l'imaginaire insulaire ont en commun la rupture avec le continent, qui symbolise l’en deçà, notre monde, l’ici.
+
+Nathalie Bernardie-Tahir distingue trois grands types de représentation : les îles qui servent de support à un imaginaire du passage (îles de l'escale, de l'odyssée marine), les îles qui sont des lieux de destination finale où l’on peut rencontrer le bonheur et le plaisir (île au trésor et des îles paradis) d'autres enfin incarnent l'imaginaire de l'effroi, de l'abominable et de l'enfer (les îles des monstres, des fantômes, les îles maudites et damnées).
+
+<blockquote>
+{Dans l’imaginaire collectif, l’île renvoie à des valeurs extrêmement positives, mêlant indistinctement douceur, exotisme, harmonie, aventure, sensualité, protection, rêve, etc. D’où ce désir d’île qui habite chacun de nous et qui pousse autant de touristes voyageurs  à s’embarquer vers elles pour leurs vacances. »}
+
+<small>Nathalie Bernardie-Tahir, {L’usage de l’île}, Editions Pétra , 2011.</small> 
+
+</blockquote>
+
+<https://farm1.staticflickr.com/599/21807610356_ca706c292f_o_d.jpg size=medium class=caption-right title="Île perdue." credit="Elisa." link>
+
+<https://farm6.staticflickr.com/5731/21645695010_55a127568c_o_d.jpg size=medium class=caption-right title="Le paradis dans sa bulle." credit="Clara." link>
+
+<https://farm1.staticflickr.com/749/21212689003_50989bf17f_o_d.jpg size=medium class=caption-right title="Perdu en mer." credit="Alexiane." link>
+
+<https://farm1.staticflickr.com/582/21645896458_0ff645e6a2_o_d.jpg size=medium class=caption-right title="Naubi." credit="Antoine." link>
+
+<https://farm6.staticflickr.com/5828/21645897368_cfcca3ec42_o_d.jpg size=medium class=caption-right title="Une île." credit="Alexia." link>
+
+<https://farm6.staticflickr.com/5792/21211000074_068b393171_o_d.jpg size=medium class=caption-right title="Isolation -- La carte." credit="Léa." link>
+
+<https://farm1.staticflickr.com/664/21645894248_409722aec5_o_d.jpg size=medium class=caption-right title="Isolation -- Le texte." credit="Léa." link>
+
+<https://farm1.staticflickr.com/636/21796085976_3ca4a90ef5_o_d.jpg size=medium class=caption-right title="Les toponymes donnés par les élèves à l’île isolée." link>
+
+<https://farm6.staticflickr.com/5811/21814253096_4257c3d992_o_d.jpg size=medium class=caption-right title="Le nuage de mots de l’île isolée -- mots clés récoltés dans les descriptions des îles par les élèves." credit="mise en forme sur Wordle">
+
+{{2. L’île organisée}}
+
+L’île organisée, c’est en général une représentation cartographique modélisante, l’île est vue de haut, dans sa totalité. L’élève utilise les codes « usuels » de la cartographie en construisant parfois une légende organisée et hiérarchisée. Ces îles comprennent des éléments permettant la mobilité ou les activités (tramway, port, aéroport, train, plage aménagée, spot de kite-surf, station de ski, habitations, commerces). L’élève -- apprenti géographe -- s’éloigne peu de la réalité, et même s’il imagine une île, son imagination emprunte les chemins d’un raisonnement scientifique et rationnel.
+
+<https://farm1.staticflickr.com/604/21646853989_081799d123_o_d.jpg size=medium class=caption-right title="L'île pensée." credit="Claire." link>
+
+<https://farm1.staticflickr.com/655/21645878488_80b904c87c_o_d.jpg size=medium class=caption-right title="Starland." credit="SK." link>
+
+<https://farm1.staticflickr.com/604/21646853989_081799d123_o_d.jpg size=medium class=caption-right title="L'île-État." credit="Victor." link>
+
+<https://farm1.staticflickr.com/667/21833747895_9b3fbda46b_o_d.jpg size=medium class=caption-right title="L'île Calypso." credit="Safa." link>
+
+<https://farm6.staticflickr.com/5712/21635356339_fe9c2417d5_o_d.jpg size=medium class=caption-right title="Les toponymes donnés par les élèves à l’île organisée." link>
+
+<https://farm1.staticflickr.com/718/21841036195_ae6294feb1_o_d.jpg size=medium class=caption-right title="Le nuage de mots de l’île organisée -- mots clés récoltés dans les descriptions des îles par les élèves." >
+
+<blockquote>
+{C’est dans l’irréductible écart entre les cartes et le monde que s’exerce l’imaginaire de ceux qui les fabriquent, comme de ceux qui les consultent. »}
+
+<small>Gilles A. Tiberghien, Finis Terrae. Imaginaires et imaginations cartographiques, 2007, 4e de couverture</small>
+
+</blockquote>
+
+{{3. L’île laboratoire}}
+
+L’’île laboratoire est l’île de l’expérience, de l’utopie, du rêve ou du délire imaginatif. Ce sont les œuvres des élèves qui ont osé pousser l’exercice à son maximum en s’éloignant des attentes scolaires du cours de géographie.
+
+<https://farm6.staticflickr.com/5821/21210987194_252fa17182_o_d.jpg size=medium class=caption-right title="In nomine patris." credit="Massimo." link>
+
+<https://farm6.staticflickr.com/5718/21210997464_78e0cee328_o_d.jpg size=medium class=caption-right title="Fort fort lointain." credit="Adam." link>
+
+<https://farm6.staticflickr.com/5665/21645879768_8fe1d162e1_o_d.jpg size=medium class=caption-right title="Archipel 3000." credit="Aurélien." link>
+
+<https://farm6.staticflickr.com/5833/21646862619_a1f43b90b5_o_d.jpg size=medium class=caption-right title="L'île suspendue." credit="Marine." link>
+
+<https://farm6.staticflickr.com/5721/21821881142_a21c1b9970_o_d.jpg size=medium class=caption-right title="Koigo -- La carte." legend="Marie a imaginé une île flottante, Koigo, une île mère des Caraïbes, un « ilorganisme » vivant semi immergé se déplaçant dans les mers à 5 nœuds." credit="Marie." link>
+
+<https://farm1.staticflickr.com/748/21843336701_f9d1b72083_o_d.jpg size=medium class=caption-right title="Koigo -- Le texte." credit="Marie." link>
+
+<https://farm1.staticflickr.com/592/21796077396_2caf5c374c_o_d.jpg size=medium class=caption-right title="Les toponymes donnés par les élèves à l’île laboratoire." link>
+
+<https://farm1.staticflickr.com/718/21841036195_ae6294feb1_o_d.jpg size=medium class=caption-right title="Le nuage de mots de l’île laboratoire -- mots clés récoltés dans les descriptions des îles par les élèves.">
+
+{{4. L’île aménagée}}
+
+<https://farm1.staticflickr.com/595/21843310111_abd3b31945_o_d.jpg size=medium class=caption-right title="le dynamisme d’une terre isolée." credit="Manon." link>
+
+<https://farm1.staticflickr.com/774/21645858998_ecee779694_o_d.jpg size=medium class=caption-right title="L'île sur pilotis." credit="CL." link>
+
+<https://farm6.staticflickr.com/5703/21843303161_9aa69f4ffe_o_d.jpg size=medium class=caption-right title="Globalisation." credit="MB." link>
+
+<https://farm1.staticflickr.com/773/21211012044_97a1b9c082_o_d.jpg size=medium class=caption-right title="Une île où la nature est préservée." credit="Léa." link>
+
+<https://farm6.staticflickr.com/5638/21831766291_3a6944334f_o_d.jpg size=medium class=caption-right title="Les toponymes donnés par les élèves à l’île aménagée." link>
+
+L’île aménagée est un hybride entre l’île organisée, l’île utopique et archétypale. La société insulaire a fait preuve d’une grande capacité à transformer le milieu. Les activités maritimes sont très présentes.
+
+{{5. L’île archétypale}}
+
+L’île archétypale est la catégorie la plus importante (44 % des occurrences), elle correspond à peu près à la grille des mots clés établis par le professeur au début de l’exercice, elle permet de comprendre ce qu’est un imaginaire collectif, un mythe insulaire.
+
+<https://farm6.staticflickr.com/5831/21807608066_2556874668_o_d.jpg size=medium class=caption-right title="La terre immergée" credit="Léonie." link>
+
+<https://farm1.staticflickr.com/689/21635739869_259ab90a9d_o_d.jpg size=medium class=caption-right title="Une île." credit="Alexia." link>
+
+<https://farm6.staticflickr.com/5728/21821310172_d7defbefca_o_d.jpg size=medium class=caption-right title="L'île Tropicalaloha" credit="Anne-Flore." link>
+
+<https://farm6.staticflickr.com/5683/21210469994_2df43916e5_o_d.jpg size=medium class=caption-right title="L'île du volcan" credit="Louise." link>
+
+<https://farm6.staticflickr.com/5652/21645863188_5e0d195024_o_d.jpg size=medium class=caption-right title="Vue satellitaire d'une île" credit="Marion." link>
+
+<https://farm6.staticflickr.com/5694/21199869514_a3b9e5053d_o_d.jpg size=medium class=caption-right title="Luxa" credit="Marie." link>
+
+Parfois le château construit sur l’île reprend un autre archétype abordé dans d’autres exercices (« Dessine-moi un château ») avec son pont-levis, ses tours crénelées et ses drapeaux qui flottent au vent.
+
+<https://farm1.staticflickr.com/589/21796078946_13fa86e109_o_d.jpg size=medium class=caption-right title="Les toponymes donnés par les élèves à l’île archétypale." link>
+
+<https://farm1.staticflickr.com/764/21843594865_cb5cc4954c_o_d.jpg size=medium class=caption-right title="Le nuage de mots de l’île archétypale -- mots clés récoltés dans les descriptions des îles par les élèves.">
+
+<blockquote>
+{La géographie enquiert depuis quelques temps des marques de l’imaginaire sur le territoire. Ce terme imaginaire appliqué la géographie mais emprunté la philosophie et la psychologie demeure un concept pluriel aux contours indéterminés. Tel que l’entend Bailly (1989) il comprend toutes sortes de représentations, images de symboles de mythes même, porteurs de sens et formant ensemble des référents constitutifs qui unissent les sociétés et se projettent dans l’espace. Les lieux, les trajets, les territoires se présentent ainsi imprégnés de la conscience, de l’intentionnalité humaine, de l’identité ».}
+
+<small>Gilles Sénécal « Aspects de l'imaginaire spatial : identité ou fin des territoires ? » In Annales de Géographie, 1992, t. 101, n°563. pp. 28-42.</small>
+
+</blockquote>
+
+{{6. L’île marginale}}
+
+Dans cette dernière catégorie sont classées toutes les îles qui ne pouvaient rentrer dans les catégories précédentes. Ici, les élèves ont fait preuve d’originalité, d’audace et parfois d’engagement ou d’esprit critique pour ne pas dire rebelle…
+
+L’île marginale, inclassable, regroupe les îles extraordinaires, non conformes aux clichés et stéréotypes.
+
+Un élève rend une page blanche…
+
+<https://farm6.staticflickr.com/5698/21807582556_a0cb45c82b_o_d.jpg size=medium class=caption-right title="Le Monde est une île" credit="Jérémy." link>
+
+Jérémy explique :
+
+<blockquote>
+{Une feuille vierge interloque, le monde est une île, la difficulté de saisir l’idée de l’île, fil rouge entre Japon, Atlantide, Robinson Crusoé, comment l’imagination peut elle être libre si on l’enferme dans une représentation géographique si minime soit elle ? La planète n’est elle pas une île sphérique ?
+Je ne me sens pas apte à dessiner une île. Le spectateur ne peut raconter son île si je lui impose la sienne. »}
+</blockquote>
+
+<https://farm1.staticflickr.com/665/21210994844_23d8e0ebd5_o_d.jpg size=medium class=caption-right title="L'absurdité de l'existence" credit="Camille." link>
+
+<https://farm6.staticflickr.com/5756/21645877808_4efea01bec_o_d.jpg size=medium class=caption-right title="Les creux." credit="Mélusine." link>
+
+<https://farm1.staticflickr.com/641/21822212975_549311e560_o_d.jpg size=medium class=caption-right title="Les toponymes donnés par les élèves à l’île marginale." link>
+
+
+<h2>3 - Des cartes mentales de lieux imaginaires pour mieux comprendre l’intérêt des représentations en géographie</h2>
+
+Les exercices de représentations spatiales sont de véritables outils pédagogiques ou didactiques. Ils permettent de comprendre un double processus cognitif. La représentation peut être graphique ou iconique, on représente l'espace par un dessin, par une carte ou par une photographie (le paysage). Mais on se représente aussi l'espace dans lequel on vit, où l'on se projette mentalement. La représentation est alors mentale, sociale et renvoie à l'image que l'on se fait d'un lieu, d'un espace d'un territoire.
+
+La carte mentale permet d'accéder à l'imaginaire géographique et à l'espace vécu ou perçu par nous-mêmes. Quel est aujourd'hui l'intérêt d'une telle pratique, et en quoi l'analyse des représentations de la géographie permettait de comprendre la relation qui se noue entre la société et l'espace ?
+
+La carte mentale est produite par un individu sur un support vierge sans référence cartographique. On demande à une personne ou un groupe, de dessiner la carte ou le paysage d’un lieu réel (par exemple l'île de Groix ou l'île d'Ouessant) ou d’un lieu imaginaire (une île, une montagne, un château…).
+
+Ce dessin à main levée fait appel à la mémoire ou à l’imaginaire. Il est forcément déformé, parfois maladroit mais en tout cas révélateur par ses mentions ou par ses omissions des lieux qui nous marquent ou qui nous sont indifférents. Cette attirance pour les lieux (qualifiée de « topophilie » par le géographe Yi FuTuan) ou cette répulsion — « la topophobie » — peut apparaître dans les cartes mentales. De tels documents intéressent au plus haut point le géographe qui n’aime rien moins que se mouvoir dans des espaces « fortement différenciés ».
+
+La carte mentale est révélatrice de l'espace perçu (tel qu'un individu se l'imagine ou se le représente) et de l'espace vécu (tel que l'auteur de la carte a voulu le restituer en fonction de sa propre expérience). Une carte mentale restitue un parcours, une fréquentation de l'espace avec des stratégies de rapprochement (les lieux convoités) ou de détournement (les lieux délaissés).
+
+Aujourd'hui la géographie peut se rapprocher de la philosophie, de l'art, de la psychologie, de la culture ou de la religion. Cette géographie à dominante humaine est qualifiée d'humaniste ou de géographie culturelle. Dans tous les cas elle demeure une science sociale.
+
+L'usage de la carte mentale est significatif de la façon dont les humains interagissent avec l'espace ou avec leur environnement -- un environnement physique : la nature, ou un environnement social : la société, « l'anthroposphère ».
+
+Dans l’ouvrage {Îles: vivre entre ciel et mer} (1997, sous la direction de JD Vigne), la géographe Françoise Perron témoigne d'une recherche réalisée avec des insulaires à l'île de Groix et à l'île d'Ouessant en Bretagne. La comparaison des deux cartes mentales permet de souligner des logiques différentes de perception de l'espace. À Ouessant, les éléments du territoire sont juxtaposés sans réels liens entre eux. Les lieux sont isolés, comme peuvent être isolés les Ouessantins tentés par un repli sur soi, un sentiment d'« iléité ». Les îles par-delà les caractères objectifs qui les définissent (une terre entourée d'eau) génèrent aussi chez leurs habitants, des représentations mentales, un vécu spécifique qui renvoie à l'isolement, la menace ou le repli sur soi. C'est dans le cadre de petites îles, souvent, que l'iléité se manifeste le plus.
+
+<https://farm6.staticflickr.com/5811/21656555998_5884f60827_o_d.jpg
+  size=large class=caption-right title="L’île perdue." credit="Youri." link>
+
+<blockquote>
+{La littérature et le cinéma prêtent souvent aux îles des destins fabuleux d'aventures, de gloires, de misères et de périls . Cette force d'évocation réside dans la capacité de l'île de représenter un ailleurs, un lieu résolument autre auquel l'imaginaire par sublimation confère
+différentes vertus.} (…) {En tant que construction imaginaire, l’île devient un théâtre où sont mis en scène les passions, les angoisses et les espoirs des hommes. »}
+
+<small>Guy Mercier, « Étude de l'insularité », in Norois, n°145, 1990 -- Iles et sociétés insulaires -- pp. 9-14.</small>
+
+</blockquote>
+
+Au-delà de la carte mentale, cet exercice a révélé les stéréotypes, les représentations collectives et le vécu d'un groupe de personnes assez proches et d'une vision consensuelle. En cas de conflit (une zone de guerre ou des projets d'aménagement modifiant l'environnement) l'usage des cartes mentales peut être révélateur et riche d'enseignements.
+
+<quote>
+{{L’imaginaire et la géographie}}
+
+{« Une extraordinaire faculté à sécréter de l’imaginaire : c’est sans aucun doute là que réside la principale spécificité de l’île que l’on ne retrouve pas, ou du moins pas avec une telle intensité, dans d’autres types de lieux ou d’objets géographiques. Territoire pourtant bien réel, aux prises avec les logiques de la globalisation et du développement moderne, les îles n’en finissent pas de distiller du mythe, envers et contre toute réalité. »}
+
+<small>Nathalie Bernardie-Tahir, {L’usage de l’île}, Editions Pétra, 2011, p. 341</small>
+
+</quote>
+
+<h2>4 - Pertinence des cartes mentales « imaginaires » pour l’enseignement de la géographie de l’école au supérieur</h2>
+
+La carte mentale est une activité pédagogique pratiquée dans d'autres disciplines ou dans d'autres pays en particulier dans la géographie anglo-saxonne. Le contexte de la ville, de la frontière, de la guerre peuvent être mis à contribution. Ainsi, Xavier Leroux (dans Echogéo, 2012) se demandait comment des enfants de 8 à 13~ans se représentaient l'objet frontière, quelle idée ils en avaient. Et de les faire dessiner et remplir un questionnaire (qui permettait de dresser une typologie) pour prendre la pleine mesure de la capacité d'abstraction de ce public scolaire. Dans une autre dimension et dans d'autres espaces, Bénédicte Tratnjek a utilisé des cartes mentales, des « dessins de territoires vécus » pour mieux comprendre la géographie des conflits en Ex-Yougoslavie.
+
+Ainsi la carte mentale ou le dessin imaginaire permettent de comprendre la dimension subjective et affective de la relation de l'individu à son environnement spatial. Ces exercices permettent de saisir les modalités de l'habiter, du territoire, de l'attachement au lieu, de l’ancrage territorial ou encore de faire émerger à l'opposé des stratégies d'évitement, des phénomènes de rejet : la topophobie confrontée à la topophilie.
+
+L'usage traditionnel de la carte du paysage dans un contexte scolaire renvoie aux opérations de repérage, de localisation, d'inventaire, de simple illustration, de contemplation. L'usage imaginaire de la carte et du paysage, le travail sur les représentations permettent de développer un langage symbolique non verbal, une prise de conscience d'un ailleurs imaginaire et d'une relation affective à l'espace. Cette géographie affective issue de la géographie imaginaire nous permet de déboucher sur une géographie plus objective plus construite et va permettre ainsi de saisir la relation de l'individu à l'espace où la relation d'un élève à la géographie.
+
+<https://farm1.staticflickr.com/663/21635354589_05fcc327a6_o_d.jpg
+  size=large ="De l’imaginaire géographique au savoir géographique.">
+
+Ce type d'exercice permet une remise en cause du primat classique de la réalité du monde dans lequel « ce qui est vu est réel, objectif et légitime ». On prouve ainsi qu'il existe une dimension affective, esthétique ou subjective du rapport au monde qu'il soit réel ou rêvé. Pour l'élève, les représentations photographiques ou cartographiques du monde semblent évidentes, transparentes sans contestation critique possible. Le paysage c'est ce qui est vu, c'est ce qui est dans la réalité, et la carte, c'est le terrain, ou le territoire dessiné objectif. 
+
+La carte mentale montre que la perception spatiale n'est pas neutre et prouve que les perceptions individuelles, les représentations spatiales collectives influencent notre relation à la géographie. Les cartes mentales reflètent notre conception de l'espace du territoire.
+
+Paul Claval affirmait en 1996 :
+
+<blockquote>
+{Les sciences sociales étudient des acteurs dont les décisions ne sont pas prises en fonction du réel, mais en raison de l'image qu'ils s'en font. »}
+
+<small>{La géographie comme genre de vie : un itinéraire intellectuel,} Éditions L'Harmattan, 1996, p. 78</small>
+</blockquote>
+
+Dans les nouveaux programmes de géographie au lycée ou au collège, la question de « l'habiter » se pose. Catherine Biaggi, inspectrice générale l'explique de cette manière : {« La démarche géographique vise la compréhension de ce qui se passe dans ce lieu, à travers les modes d’habiter des habitants qui le pratiquent au quotidien, l’aménagent. C’est une manière d’aborder l’espace dans ses différentes dimensions et ses échelles, qui se combinent dans ce lieu et qualifient son degré d’ouverture. »} La démarche géographique cherche ainsi les relations qui unissent l'être humain à son territoire ; ces relations peuvent être matérielles (flux de transport ou migrations) ou idéelles en travaillant sur les relations affectives ou imaginaires. Ce concept d’imaginaire ou de représentation prend alors tout son sens : comment les individus s'imaginent-ils les lieux ? Comment pratiquent-ils ces lieux ? Comment se les approprient ils ?
+
+La métaphore de l'île permet de comprendre des fonctions spatiales élémentaires : se déplacer, produire, se nourrir, aménager, se divertir, se récréer, bref, « habiter ». Le lieu devient un espace ou un territoire lorsqu'on appréhende les dimensions spatiales et temporelles mais également les pratiques les usages et représentations. La distance par exemple, n'est plus seulement euclidienne et objective elle devient affective, émotionnelle. Un exercice comme celui du dessin de l’île ou de tout autre espace imaginaire faisant rêver permet en début d'année de mettre en place des concepts essentiels à la compréhension de notre discipline comme l’espace, le lieu ou le territoire.
+
+La mise en système spatial du lieu imaginaire comme l’île ou encore la plage permet de construire des relations, permet à partir d’objets concrets (la ville la mer, la montagne, l’hôtel, l’aéroport, le port) ou encore des acteurs (le pêcheur, le touriste, le sauvage, Robinson) de faire surgir des concepts comme le lieu, l’altérité, l’exotisme, l’urbanité, la ressource, l’interface, le flux, la distance, l’aménité, la forme, la fonction…
+
+L'entrée par l'imaginaire des lieux permet d'accéder à la complexité. On montre la démarche de recherche en géographie par l'accès à l'information, et cet accès se fait par l'analyse d'images (le dessin, le croquis, le schéma, le bloc-diagramme, le paysage, l'image satellite, la carte, la coupe...) ou par l'analyse de textes, de discours -- le texte de l'élève « raconte-moi ton île », le texte du roman {Robinson Crusoé} de Daniel Defoe, ou {Vendredi ou les limbes du Pacifique} de Michel Tournier, le texte du géographe Joël Bonnemaison, Élisée Reclus, Nathalie Bernardie-Tahir...
+
+<h2>5 - Épilogue : de l’imaginaire à la réalité reconstruite</h2>
+
+En classe, l’élève va s’approprier les différents types de cartographie : le dessin, la carte, le modèle avec un degré progressif d’abstraction. On passe ainsi d’un espace rêvé, à un espace construit, organisé, normé et enfin à un espace formel, modélisé ou théorique. La démarche est opérationnelle et permet de recouvrir différents champs de la géographie selon une approche empirique ou heuristique ou une approche théorique « hypothético-déductive ».
+
+L’élève comprend que tout objet géographique, une montagne, une campagne, une ville ou un littoral est marqué par la subjectivité. Au delà de la charge onirique d’un lieu, la question du rapport au monde et de l’habiter est ainsi posée. Les îles ne représentent pas seulement des territoires, elles sont devenues au fil du temps des objets géographiques participant à l’élaboration d’une pensée géographique. C’est dans ce contexte que l’imaginaire géographique est opérationnel.
+
+<https://farm6.staticflickr.com/5657/21831761001_a07b7418f1_o_d.jpg
+  size=large class=caption-right title="Du dessin au modèle : la construction de l’espace géographique et cartographique." link >
+
+La société occidentale, par l'imaginaire qu'elle véhicule (nourri par les médias, la culture et les mythes) porte un regard extérieur sur les îles.
+
+Ce regard extérieur, repris par le dessin de l'île en général « vue depuis la mer », s'est développé dans un contexte d'exotisme, d’altérité, de colonialisme, de découverte du monde. Il a permis aux sociétés insulaires de connaître parfois l'innovation. Les géographes naturalistes découvraient et décrivaient les îles qui étaient ensuite reprises et décrites par les auteurs littéraires : Jules Verne s'inspire ainsi du récit de l'Astrolabe en Nouvelle-Zélande en 1827 pour décrire l’île Lincoln dans son {Île Mystérieuse} (voir Bouron, 2010).
+
+Ce regard extérieur peut être compris par les représentations des élèves ou de la société. Il est confronté au regard intérieur : l’île vue par les îliens depuis leur île en direction de l'océan et vers le continent autour d'eux. Ce regard intérieur nourrit l’iléité, c'est celui de l'indigène, de l'autochtone, du peuple premier, appelé ou perçu par la société occidentale comme un « bon sauvage » dans l'imaginaire collectif et les robinsonnades. Le regard extérieur sur les îles, le regard des sociétés dominantes (capitalistes et occidentales) est un moteur de l'aménagement, un moteur nourri par l'imaginaire.
+
+<https://farm6.staticflickr.com/5708/21796087496_b1eb2cf645_o_d.jpg
+  size=large ="Le regard porté par la société sur les îles.">
+
+Ainsi les aménagements touristiques comme les îles artificielles de Dubaï ou les îles de l'Océan Pacifique ou de l'Océan Indien sont marquées par cet imaginaire qui reconstruit et artificialise à son image, selon ses représentations, les espaces insulaires. 
+
+L'exercice de l'île fait comprendre à l'élève cette relation entre l'imaginaire et le réel. Le détour par l'imaginaire spatial est ensuite confronté avec le réel reconstruit. Le territoire insulaire ne peut être compris que si l'on analyse et l'on intègre les mentalités, les représentations de ceux qui l’habitent ou de ceux qui le désirent (les touristes).
+
+L’exercice cartographique de l’île ne prendra tout son sens si le cours de géographie aborde ensuite des espaces insulaires réels (L’île de Groix, La corse, la Sicile, La Réunion…) avec l’intensité de leur insertion dans la mondialisation, et leurs perspectives de développement durable.
+
+<p class="text-right caps">↬ François Arnal.</p>
+
+{{Pour aller plus loin}}
+
+<div class="ui small fluid accordion">
+  <div class="title">
+    <i class="dropdown icon"></i>
+    Bibliographie sélective sur les questions d'imaginaire spatial, imaginaire géographique, insularité et iléité
+  </div>
+  <div class="small content">
+
+-* André, Y et al. Représenter l'espace : l'imaginaire spatial à l'école, 1989, Anthropos, Paris, 229 pages.
+
+-* Bailly, A. (ss dir.), Géographie régionale et représentations, Anthropos economica, 1995.
+
+-* Bailly A.S., et Debarbieux, B., « Géographie et représentations spatiales ». In Bailly, A.S. (coord.), Les concepts de la géographie humaine. Masson, 1984, p1 57-­‐164.
+
+-* Bailly, A.S. (coord.), Les concepts de la géographie humaine. Masson, 1984, 205 p.
+
+-* Mario Bédart, Jean-Pierre Augustin et Richard Desnoilles (dir.). L’imaginaire géographique. Perspectives, pratiques et devenirs. PUQ, 2012.
+
+-* Bernardie-Tahir, N. L’usage de l’île. Editions Pétra, Paris, 2011.
+
+-* Bethemont, J. (dir). Manuel de géographie Seconde Editions Bordas, Paris 1981
+
+-* Brunet, Roger, La carte, mode d’emploi, Paris, Fayard, 1987.
+
+-* Bureau, Luc, Géographie de la Nuit, Hexagone, Quebec, 1997.
+
+-* Claval, Paul. La géographie comme genre de vie : un itinéraire intellectuel. Editions l'Harmattan, 1996.
+
+-* Debarbieux, Bernard, « L’exploration des mondes intérieurs », in Rémy Knafou (dir.), L’État de la géographie. Autoscopie d’une science, Paris, Belin, 1997, p. 371‐384.
+
+-* Debarbieux, B (1995) "Le lieu, le territoire, et trois figures de rhétorique" L'Espace géographique, 24, 2, p 97-112.
+
+-* Debarbieux, B, « Imagination et imaginaire géographiques », in Antoine Bailly, Robert Ferras & Denise -Pumain (dir.), Encyclopédie de géographie, Paris, Economica, 1995, p. 875- 888.
+
+-* Dupuy Lionel & Puyo Jean-Yves (dir.), L’imaginaire géographique. - N°1 Collection Spatialités Entre géographie, langue et littérature. (colloque organisé en 2011 à Pau sur l’imaginaire géographique ). Presse de l’Université de Pau et des pays de l’Adour, collection “Spatialités”, 2015.
+
+-* Dupuy L, Puyo JY, (dir) De L’imaginaire géographique - N°2
+Spatialités n°2 - De L'Imaginaire géographique aux géographies de l’imaginaire, Écritures de l’espace  Presse de l’Université de Pau et des pays de l’Adour, collection “Spatialités”, 2015.
+
+-* Haggett, P. Geography A modern synthesis Harper International Edition New York 1983, 3° édition.
+
+-* Péron, F. Des îles et des hommes. L’insularité aujourd’hui. Editions Ouest France Rennes, 1993.
+
+-* Raffestin Claude (1983). L’imagination géographique. Géotopiques, n° 1, p. 25‐43.
+
+-* Raffestin, Claude, Racine, Jean Baptiste (dir.), L’ imagination géographiques, les nouveaux indicateurs territoriaux, la marginalité, l’économie submergée, Géotopique N°2, Université de Genève, Université de Lausanne, 1985.
+
+-* Soubeyran Olivier, Imaginaire, science et discipline, Paris, L’Harmattan, 1997. Cham's . Université d'été (01 ; 1988) Représenter l'espace : l'imaginaire spatial à l'école Paris : Anthropos : diff. Economica , 1989, 227 p.
+
+-* Vigne, JD, (dir). Îes vivre entre ciel et mer. Editions Nathan et Museum d’Histoire Naturelle, Paris France, 1997.
+
+-* Wunenburger Jean-Jacques (2003). L’imaginaire. Paris : Presses Universitaires de France, 125 p.
+
+-* Yi FuTuan, Topophilia : A Study of Environmental Perception, Attitudes, and Values, Columbia University Press; Reprint edition (November 20, 1990).
+
+-* Argounes Fabrice,  Bernardie-Tahir Nathalie, [« Du bon usage des îles en géographie »->http://gc.revues.org/234], Géographie et cultures [En ligne], 81 | 2012, mis en ligne le 19 mai 2013.
+
+-* Bailly Antoine (1989). [L’imaginaire spatial, plaidoyer pour une géographie des représentations->http://gc.revues.org/234] Espaces Temps, n°40-41, p. 53-58.
+
+-* Bailly Antoine. [L'imaginaire spatial. Plaidoyer pour la géographie des représentations->http://www.persee.fr/doc/espat_0339-3267_1989_num_40_1_3461] In  Espaces Temps, 40-41, 1989. Géographie, état des lieux. Débat transatlantique. pp. 53-58.
+
+-* Bernardie-Tahir N, [« Immobiles îles »->http://gc.revues.org/1647 ;
+DOI : 10.4000/gc.1647], Géographie et cultures [En ligne], 75 | 2010, mis en ligne le 05 mars 2013.
+
+-* Biaggi, Catherine,. Habiter, concept novateur dans la géographie scolaire ? Annales de Géographie 2015/4 (N° 704).
+
+-* Bouron, JB, [Cartographier l’imaginaire :  un  exercice géographique->http://www.lecfc.fr/new/articles/205-article-2.pdf] Comité Français de Cartographie, CFC (N°205 - Septembre 2010).
+
+-* Claval, P., La géographie et la perception de l'espace. L'Espace géographique. Vol. 3. n°3. 1974, p. 179-1 87.
+
+-* Debarbieux, B (2004),[ Imaginaire spatial->http://www.hypergeo.eu/spip.php?article208#], in Hypergéo.
+
+-* Lageiste Jérôme, [« La plage, un objet géographique de désir »->http://gc.revues.org/1002 ; DOI : 10.4000/gc.1002], Géographie et cultures [En ligne], 67 | 2009, mis en ligne le 19 mai 2013. 
+
+-* Rieucau Jean et Lageiste Jérôme, [« La plage, un territoire singulier : entre hétérotopie et antimonde  »->http://gc.revues.org/995 ; DOI : 10.4000/gc.995], Géographie et cultures [En ligne], 67 | 2009, mis en ligne le 30 décembre 2012.
+
+-* Sénégal G. [Aspects de l'imaginaire spatial : identité ou fin des territoires ?->http://demo.persee.fr/doc/geo_0003-
+4010_1992_num_101_563_21064] In Annales de Géographie, t. 101, n°563, 1992. pp. 28-42. 
+
+-* Tratnjek Bénédicte, 2014, [«Mémoricides dans  les espaces post-yougoslaves : de la destruction de la mémoire à la ré-écriture d’une mémoire excluante»->https://hal.archives-ouvertes.fr/halshs-01054043/document]
+
+-* Grégory Cattanéo (dir.), 2014, Guerre, mémoire, identité, Nuvis, Paris.
+
+-*  Le blog [Les territoires de l'album->http://lta.hypotheses.org/]
+Espaces et spatialités dans les albums pour enfants. Christophe Meunier Docteur en géographie ENS-LSH de Lyon UMR 5600 Environnement, Ville et Société ESPé Centre Val de Loire - Université d'Orléans.
+
+</div>
+</div>
+
+{{Quelques liens complémentaires}}
+
+- [L'imaginaire géographique->http://www.pearltrees.com/t/epistemologie-geographie/l-imaginaire-geographique/id13356471], un pearltrees crée par François Arnal.
+
+- [Insularité, iléitié, insularisme : des îles et des représentations en géographie->https://www.pinterest.com/franz42/insularit%C3%A9-il%C3%A9iti%C3%A9-insularisme-des-%C3%AEles-et-des-rep/], site Pinterest dédié aux thématiques abordées dans le programme d'hypokhâgne.
+
+- [Géographie : les dernières nouvelles de la toile->http://www.scoop.it/t/geographie], un des sites « scoop it » animés par François Arnal.
+
+
+
+#Imaginaire #Géographie #Représentations #Paysage #Cartographie #Carte_mentale, #Insularité, #Iléité
+
+
+
+
+
+
+--------------------------
+Visionscarto - version du 2 octobre 2015 20:49

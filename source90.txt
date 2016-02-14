@@ -1,0 +1,201 @@
+
+--------------------------
+
+TITRE:
+Pourquoi les Nations Unies échouent en matière de santé
+
+--------------------------
+
+AUTEUR: 
+- Dominique Kerouedan
+- Bruno Dujardin
+
+--------------------------
+
+CHAPO:
+<h4 class="text-right">{par Bruno Dujardin et Dominique Kerouedan}</h4>
+<h5 class="text-right">respectivement professeur de santé publique à l’université libre de Bruxelles, et maître de conférences et conseillère scientifique des enseignements de santé mondiale à l’École des affaires internationales de Paris (Sciences Po)</h5>
+
+<h5 class="text-right">Les cartes et les graphiques sont de Philippe Rekacewicz</h5>
+
+
+--------------------------
+TEXTE:
+
+<https://farm8.staticflickr.com/7502/15880841241_36e66e246a_o_d.png size=medium title="Définition des objectifs du millénaire pour le développement (OMD)" caption="Source : ONU, OMD, 2014" right>
+
+Depuis l’an 2000, et le lancement des Objectifs du millénaire pour le développement (OMD, programme phare de l’ONU) pour le début du XXIe siècle, les conférences mondiales sur l’efficacité de l’aide se sont multipliées : Monterrey 2002, Rome 2003, Paris 2005, Accra, 2008 et enfin Busan fin 2011. Le but est toujours le même : la recherche de nouvelles orientations pour maximiser l’efficacité de l’aide au développement, dont les volumes, publics ou privés, ont considérablement augmenté, notamment en faveur de la santé et de la lutte contre le sida.
+
+L’initiative solidaire (et généreuse) des OMD avait pour objectif d’« éliminer » l’extrême pauvreté et de réduire les inégalités sociales entre le Nord et le Sud. Depuis plus d’une décennie, les OMD font l’objet d’un véritable engouement chez les partenaires du développement : institutions internationales, régionales, coopérations bilatérales, universitaires et ONG. La plupart de ces institutions ont même réorienté leurs politiques et leurs stratégies en fonction de cette initiative, qui mobilise des ressources humaines et financières sans précédent.
+
+Cependant, en dépit de l’engagement solennel pris en 2000 par 191 pays, les résultats obtenus sur le terrain sont plutôt maigres.
+
+<https://farm8.staticflickr.com/7552/15695269088_51531a8744_o_d.jpg size=large title="Source : Nations unies, PNUD, OMD, 2013.">
+
+Les observateurs sur le terrain lancent des cris d’alarme. À quelques exceptions près, la situation ne s’améliore pas dans les pays du Sud : elle s’aggrave même dans nombre d’entre eux, surtout en Afrique sub-saharienne, ce qui fait craindre, malgré la bonne volonté politique et l’importance des ressources mobilisées, des résultats désastreux. Il faudrait pouvoir, pour vraiment prétendre améliorer la situation dans les années qui viennent, changer nos comportements et adopter d’autres stratégies pour assurer enfin un développement réaliste et soutenable.
+
+Dans notre impatience à obtenir des résultats quantifiables et visibles, nous avons oublié que le développement est un enjeu complexe qui repose avant tout sur la volonté politique des principaux acteurs. Mais nous proposons des solutions essentiellement techniques (médicaments, vaccins) et financières qui favorisent les industries pharmaceutiques du monde riche, sans vraiment nous intéresser aux attentes et aux besoins des acteurs des pays en voie de développement : patients, familles, communautés, enseignants, médecins… 
+
+Vouloir assurer le développement par la seule injection de techniques et de ressources n’est certainement pas ce qui fera progresser les pays dans ce domaine. Si la crise économique mondiale ne peut pas être ignorée, elle ne doit pas servir d’alibi pour justifier la limitation des aides, pourtant en croissance sur la période 2000-2010.
+
+Le constat est préoccupant non seulement dans le domaine de la santé, mais aussi pour d’autres secteurs tels que l’éducation, la justice ou l’« africulture ».
+
+Pour mieux faire comprendre la logique de notre analyse et de nos propositions, quelques explications s’imposent.
+
+Dans la déclaration des OMD, trois objectifs concernent spécifiquement la santé : 
+
+- Objectif 4 : « Réduire la mortalité des enfants de moins de 5 ans »
+
+- Objectif 5 : « Améliorer la santé maternelle »
+
+- Objectif 6 : « Combattre le VIH/sida, le paludisme et les autres maladies »
+
+Bien entendu, d’autres objectifs concernent indirectement la santé, comme la réduction de 50 % de l’extrême pauvreté et de la faim, l’éducation primaire pour tous, ou encore l’accès aux médicaments essentiels.
+
+<https://farm8.staticflickr.com/7498/15866576712_eda9b549dc_o_d.jpg size=large>
+
+<https://farm8.staticflickr.com/7537/15681053917_7d8d60de61_o_d.jpg size=large>
+
+<https://farm9.staticflickr.com/8597/15679477320_4310eebe9d_o_d.jpg size=large caption="Sources : PNUD, OMD, OMS (extraction des données en novembre 2014).">
+
+{{{Première observation :}}}
+
+Les objectifs santé des OMD sont centrés sur le contrôle de trois maladies transmissibles spécifiques -- VIH-Sida, tuberculose, paludisme -- et sur l’amélioration de la santé de deux groupes particuliers : les femmes enceintes et les enfants de moins de 5~ans. Autrement dit, si vous vivez dans un pays pauvre et si vous souffrez d’une appendicite aigüe, d’une fièvre typhoïde, d’un traumatisme, d’un diabète décompensé, d’une hémorragie ou de blessures suite à une agression ou un conflit, d’un accident cardiovasculaire, d’un empoisonnement alimentaire ou d’une intoxication par des pesticides, de maladies chroniques ou d’un cancer ou d’une quelconque pathologie infectieuse autre que le sida, la tuberculose et le paludisme, ou encore, si vous êtes victime d’un accident de la route, votre problème ne sera pas considéré comme prioritaire. 
+
+Si en plus vous êtes une femme, mais pas enceinte ou encore un homme de plus de 5~ans, vous n’avez aucune de chance que la communauté internationale s’intéresse à vous... 
+
+La santé, l’éducation, la satisfaction des besoins vitaux (lutte contre la pauvreté et la faim) sont des droits humains fondamentaux inscrits dans la charte des Nations Unies, et concernent l’ensemble des êtres humains. Les OMD centrés sur la lutte contre la pauvreté et la faim (OMD~1) et la promotion de l’éducation (OMD~2) bénéficient à l’ensemble des populations, mais ce n’est pas le cas pour la santé.
+
+Pourquoi donc cette approche tellement réductrice des problèmes de santé ? Pour assurer une visibilité et « objectiver » des résultats quantifiables ?
+
+Il était possible de proposer un objectif santé plus équitable, comme par exemple un OMD plus global qui aurait pu être formulé de la façon suivante : 
+
+<blockquote>
+{Assurer pour tous l’accès à des soins de santé de qualité afin que les chances de salut soient les mêmes pour tous quelque soit soit l’âge ou le sexe.}
+</blockquote>
+
+{{{Deuxième observation :}}}
+
+Même pour les trois OMD santé tels que définis actuellement, différentes étapes auraient dû être correctement réalisées pour permettre une lutte efficace contre les trois maladies retenues et une meilleure santé maternelle et infanto-juvénile. En effet, pour être efficace, il faut pouvoir : 
+-- induire des comportements de santé positifs de la part des individus et communautés ;
+-- assurer un accès aisé aux services et aux structures (centres de santé et hôpitaux), tant du point de vue géographique que financier;
+-- réaliser un diagnostic précoce et correct;
+-- offrir un traitement efficace et d’un coût abordable;
+-- enfin, mettre en place un suivi de qualité pour assurer la guérison complète.
+
+Les principaux enseignements de cette brève analyse peuvent être résumés 
+ainsi : 
+
+-- L’équité, la qualité et l’efficacité de la prise en charge des patients dépendent du fonctionnement correct de l’ensemble du système de santé (y compris les communications et le transport) et notamment des différents acteurs qui composent et font vivre ce système. 
+
+-- La qualité des soins et des services de santé dépend avant tout des compétences, des qualifications et de l’engagement humain des acteurs qui dispensent ces soins et organisent les services : professionnels (infirmiers et médecins généralistes et spécialistes, laborantins, pharmaciens,…) des secteurs publics et privés, mais aussi des planificateurs et des responsables politiques des systèmes de santé. 
+
+-- Tout cela sans oublier le principal acteur : les citoyens et leurs communautés qui finalement vont décider ou non d’utiliser les services qui leurs sont offert !
+
+<https://farm8.staticflickr.com/7488/15690355229_4e8fe94e69_k_d.jpg size=large caption="Sources : ONUSIDA, OMS (extraction des données en 2011).">
+
+~
+
+<https://farm8.staticflickr.com/7541/15690609947_979d32ea79_k_d.jpg size=large credits="Sources : ONUSIDA, OMS (extraction des données en novembre 2014)." legend="De nombreux pays — et pas des moindres — ont disparus des statistiques onusiennes en 2013 (par exemple Russie, Chine, Nouvelle-Zélande, Allemagne, France, Argentine, Canada et Finlande) alors qu'ils figuraient sur celles de 2008 et 2009. Nous n'avons pas encore trouvé d'explications sur les raisons de ces « disparitions » dans les dernières publications d'ONUSIDA, mais il y a certainement des explications sur lesquelles nous reviendrons. Nous publions donc ici deux cartes : celle du nombre des personnes séropositives (produite en 2010 avec des données de 2007 à 2009) et celle de la prévalence (données de 2013) sur laquelle de nombreux pays ont « disparu ».">
+
+~
+
+<https://farm9.staticflickr.com/8617/15690344839_4309730f20_k_d.jpg size=large caption="Sources : OMS (extraction des données en novembre 2014).">
+
+~
+
+<https://farm8.staticflickr.com/7488/15256724713_f88445e4ea_k_d.jpg size=large caption="Sources : OMS (extraction des données en novembre 2014).">
+
+La lutte efficace contre les trois pathologies retenues dans les OMD nécessite donc de renforcer l’ensemble du système de santé et de disposer d’acteurs professionnels à la fois compétents et responsables. C’est également vrai pour les autres problèmes de santé et pour les soins à assurer pour les populations à plus haut risque.
+
+Que faire pour y arriver ? En d’autres termes, quels sont les facteurs positifs et négatifs qui vont déterminer le bon ou mauvais fonctionnement des systèmes de santé (ou du système éducatif, judiciaire, agricole…) ? Les enjeux macro-économiques et politiques et les inégalités des rapports de pouvoir entre pays riches et pays pauvres sont particulièrement cruciaux à considérer, ces deux aspects ayant un impact important sur le fonctionnement quotidien des systèmes de santé.
+
+Nous avons identifié différents facteurs que l’on retrouve d’un projet à l’autre, d’un pays à l’autre et qui, en tout ou en partie, représentent les causes les plus fréquentes de nos échecs. En voici quatre qui sont particulièrement d’actualité. [[Une analyse détaillée est proposée dans le livre {Politiques de santé et attentes des patients : vers un nouveau dialogue.} Bruno Dujardin, Ed Karthala et Charles léopold Mayer, Paris 2003, ou encore dans l‘ouvrage dirigé par Dominique Kerouedan, {Santé internationale : les enjeux de santé au Sud}, éditions les Presses de Sciences Po, Paris, janvier 2011.]] 
+
+<https://farm9.staticflickr.com/8617/15689050270_1a0eac499e_h_d.jpg size=medium caption="Sources : ONU, OMD." right>
+
+{{1. La perte de l’éthique professionnelle et de la morale individuelle}}
+
+Les conséquences sociales et culturelles des ajustements structurels imposés par la Banque mondiale dans les années 1980, la perte de pouvoir de l’État, la décentralisation précipitée, les politiques néo-libérales du tout au privé et la recherche d’une efficience maximale comme seule vision politique ont mis à mal les mécanismes d’autorégulation des systèmes de santé avec pour conséquences une croissance anarchique du privé lucratif, informel et illégal, la disparition du pouvoir régulateur de l’État, la perte de l’éthique et de la morale professionnelle (corruption, malversations…).
+
+Actuellement, chaque acteur développe un comportement essentiellement individualiste centré sur sa survie immédiate : l’autre est perçu comme un concurrent potentiel ou comme une proie qu’il faut se dépêcher de dépouiller… Or le fonctionnement correct d’un système complexe dépend de la qualité du comportement et des interactions de ses différents acteurs. Il est donc urgent de reconstruire l’éthique, la morale et l’estime de soi des différents acteurs, et les ordres professionnels pourraient y contribuer. 
+
+{{2. Des acteurs sans pouvoir, non reconnus dans leurs compétences}}  
+
+Une des plaintes les plus fréquemment exprimées par les acteurs sur le terrain et par les bénéficiaires est le manque de considération de leurs besoins et de leurs attentes. Ils doivent se plier aux décisions, aux priorités définies au niveau national ou international et simplement exécuter ce qu’on leur propose de faire. Dans la définition des priorités, des politiques et des programmes de santé, les acteurs de terrain (prestataires de soins, patients et communautés) ont de moins en moins droit à la parole. Il en résulte une planification de haut en bas, composée de stratégies normatives, qui répondent rarement aux attentes et besoins des acteurs du terrain.
+
+<https://farm9.staticflickr.com/8662/15693684507_6a4a627636_o_d.jpg size=medium title="Objectif du millénaire pour le développement numéro 7" caption="Source : ONU, OMD, 2014" right>
+
+
+Ces derniers, non reconnus et donc conduits à la passivité, vont courber le dos en attendant que le projet passe… et que le suivant arrive !  Or la qualité d’un système de santé dépend avant tout de la motivation de ses prestataires de soins. Il est urgent d'adopter une autre logique : nous devons apprendre à faire confiance aux acteurs et aux organisations citoyennes et à développer de réels projets participatifs. Attendre que la demande vienne des acteurs, la susciter, mais ne pas la forcer, ni l’induire. 
+
+{{3. Le développement nécessite un appui continu et dans la durée}}
+
+Faire évoluer un système de santé peut prendre une bonne dizaine d’années. C’est le temps qu’il faut pour améliorer de façon pérenne la qualité des soins, pour rendre les acteurs responsables... En fait pour tout objectif qui implique un changement de comportement des acteurs et des bénéficiaires. Des projets ou des interventions qui s’étalent sur une période de 3 ou 4 ans n’ont pratiquement aucune chance d’aboutir à des résultats mesurables, probants, et on parlera d’échec alors qu’il aurait suffit d’avoir un peu plus de temps. Pourtant la majorité des interventions, notamment celles financées par l’Union européenne, le premier bailleur de fonds pour le développement, doivent être réalisées en trois ans seulement...
+
+La plupart des autres agences d’aide bilatérale ou les fonds mondiaux suivent les mêmes exigences de calendrier et les mêmes critères de mesure de la performance, essentiellement fondés sur des données quantitatives managériales et financières. Les programmes du Fonds mondial sur le terrain, quant à eux, doivent être performants en deux ans.
+
+La stratégie fût-elle pertinente, son impact sur la morbidité ou la mortalité n’est tout simplement pas mesurable dans ces délais de mise en œuvre. Lorsqu’il s’agit d’interventions complexes, comme en santé, il nous paraît tout aussi capital de se donner les moyens et de trouver les méthodes pour mesurer la dimension qualitative des résultats obtenus. 
+
+{{4. Les salaires des professionnels du Sud : une urgence absolue}}
+
+Le problème du niveau et du financement des salaires des prestataires est un bel exemple de notre étonnante capacité à nous détourner des réels enjeux.  Ce problème est tellement important qu’il vaut largement une analyse plus détaillée. Un système de santé n’a de valeur -- et ne peut atteindre sa finalité -- qu’en mesure de la qualité de ses prestataires de soins et de leurs interactions avec les patients et les communautés. Qualité qui repose aussi sur une rétribution équitable. À de rares exceptions près, des prestataires trop mal payés n’offriront jamais des soins et des services de qualité.
+
+<https://farm8.staticflickr.com/7475/15259681853_a63d343a70_o_d.jpg size=large caption="Sources : OMS (extraction des données en novembre 2014).">
+
+Rappelons-nous qu'entre 1993 et 1995, au milieu de la crise économique, les médecins camerounais ont vu leur salaire divisé par quatre. Pour pouvoir continuer à élever décemment leurs enfants, ces médecins ont été dans leur majorité obligés d’adopter des « comportements malhonnêtes » dans leur profession.
+
+Quand pourrons-nous espérer une conférence et un mouvement international pour la juste rétribution financière des professionnels, des prestataires qui ont encore le courage d’investir dans les systèmes sociaux : santé, éducation, justice ? Combien de projets sont-ils centrés sur cette évidence et acceptent de négocier un juste contrat ? Les autorités sanitaires le demandent avec force. Comment dès lors, continuer de rester sourd à cette attente légitime ? Les conférences mondiales sur les enjeux de ressources humaines, réunies à Kampala puis à Bangkok, n’ont pas suffisamment et concrètement abordé ces sujets.
+
+<aside class="box">
+
+[Les médecins qui manquent à l’Afrique->http://visionscarto.net/ces-medecins-manquent-a-l-afrique]
+
+C'est un ensemble cartographique assez ancien - il date de 2007 et a été créé à l'aide de données du début des années 2000 - mais qui reste toujours pertinent aujourd'hui. Visionscarto recherche les données pour le mettre à jour.
+~
+<https://farm8.staticflickr.com/7471/15878806152_0af8f25e8f_z_d.jpg
+size=small link=http://visionscarto.net/ces-medecins-manquent-a-l-afrique>
+
+</aside>
+
+Ignorer ces évidences, c’est renforcer la corruption, favoriser la fuite des cerveaux et le désengagement des prestataires : plus personne ne voudra tenir le bistouri ou soigner les patients ; tous les médecins voudront se réorienter vers l’épidémiologie et la santé publique, domaines qui permettent une carrière plus agréable et des revenus complémentaires : missions et consultations internationales, participation à des congrès, davantage de pouvoir et de reconnaissance, etc. La santé publique, autrefois dévalorisée, a pris le pas sur le médical. 
+
+<h3 class=text-center>❦</h3>
+
+À la lumière de ces explications, on comprend mieux que l’initiative -- pourtant généreuse -- des OMD n’est qu’une solution illusoire aux défis posés par le développement puisque nous n’avons pas le courage d’en accepter la complexité et de répondre aux vraies attentes et aux urgents besoins des acteurs des pays en voie de développement, patients comme professionnels.
+
+<p class="text-right caps">↬ Bruno Dujardin et Dominique Kerouedan.</p>
+
+
+<aside class="box">
+
+<h2>Ebola et l'effondrement sanitaire</h2>
+
+- [Ebola, et ensuite?->https://lejournal.cnrs.fr/billets/ebola-et-ensuite] par Yannick Jaffré, CNRS le journal, 13 novembre 2014. Ebola n’est pas la seule maladie infectieuse à toucher l’Afrique. La persistance d’autres épidémies témoigne d'une situation sanitaire critique. L’anthropologue Yannick Jaffré revient sur les faiblesses structurelles [et l'effondrement des services de santé] qui minent le continent. 
+
+- [Ebola: Washington appelle le FMI à alléger la dette des pays touchés->https://fr.news.yahoo.com/ebola-washington-appelle-fmi-%C3%A0-all%C3%A9ger-dette-pays-150649674--finance.html], dépêche AFP du 12 novembre 2014. Les Etats-Unis appellent le FMI à effacer près d'un cinquième de la dette des trois pays ouest-africains les plus touchés par l'épidémie d'Ebola, a indiqué leur secrétaire au Trésor Jacob Lew...
+
+
+<h2>Sur la question de la santé publique :</h2>
+
+- [L'Afrique prend soin de l'Europe->http://ddc.arte.tv/nos-cartes/l-afrique-prend-soin-de-l-europe] : corpus cartographique d'une émissions du {Dessous des cartes} diffusée la première fois en janvier 2009.
+
+- [Comment la santé est devenue un enjeu géopolitique->http://www.monde-diplomatique.fr/2013/07/KEROUEDAN/49326], par Dominique Kerouedan, Le Monde diplomatique, juillet 2013.
+
+Ni l’altruisme ni la philanthropie n’expliquent la préoccupation des grandes puissances pour la santé mondiale. Mais plutôt des intérêts tantôt sécuritaires, tantôt économiques ou géopolitiques. Néanmoins, l’Europe pourrait mieux utiliser les fonds octroyés aux institutions internationales. La priorité revient à l’Afrique francophone, où se concentrent les défis des décennies à venir.
+
+</aside>
+
+#sida #paludisme #démographie #enfance #enfants #médecins #mortalité #inégalités #mortalité_infantile #ODM #système_de_santé
+
+
+
+--------------------------
+
+PS: Si vous souhaitez commenter, utiliser le texte ou les cartes et graphiques de cet article, ou simplement contacter les auteur·e·s, nous vous invitons à le faire via l'adresse mail [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 9 mai 2015 09:41

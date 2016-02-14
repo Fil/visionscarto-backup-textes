@@ -1,0 +1,215 @@
+
+--------------------------
+
+TITRE:
+Nègres, Noirs... Du bon usage des mots en cartographie
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+- Peggy Pierrot
+
+--------------------------
+
+CHAPO:
+<h5 class="text-left">Ce billet a été initialement publié le 17 mai 2007 sur l'ancien site "Visions cartographiques".<br>
+Nous en proposons ici une version mise à jour et augmentée.<br>
+L'image du bandeau représente un détail d'un tableau du peintre burkinabé Hippolyte Delavolta<br>(collection privée, Libreville, gabon).</h5>
+
+Il est utile de ressortir nos vieux atlas et d’en faire cette lecture comparative qui réserve parfois d’étonnantes surprises...
+
+<h4 class="text-right">{par Peggy Pierrot et Philippe Rekacewicz}</h4>
+
+
+--------------------------
+TEXTE:
+
+On peut, par exemple, ouvrir et comparer trois éditions (1959, 1970 et 1994) de l’atlas autrichien « Hölzel [[Maison d'édition autrichienne spécialisée dans les Atlas, fondée en 1844 par Eduard Hölzel, père du peintre moderniste Adolf Hölzel.]]», publié en France depuis le début des années 1950 par les éditions Bordas (connu sous le nom {d’Atlas général Bordas} dont les auteurs étaient Pierre Serryn, René Blasselle, Marc Bonnet et Henri Bordas, tous agrégés d'histoire et de géographie).
+
+La première chose qui frappe est la grande similarité des cartes thématiques de géographie physique et humaine du début de l’ouvrage : langues, religions, densité de population, mais aussi températures et précipitations. Elles sont identiques à quelques exceptions près, comme si le monde était figé : mêmes contours, mêmes couleurs, même aspect, mêmes légendes. Ou presque.
+
+Attardons-nous un peu plus sur la carte du peuplement dans le monde, ici intitulée « races ». Les éditions de 1959 et de 1970 présentent exactement la même carte : sur l’atlas le plus ancien: le papier a un peu vieilli et les teintes sont un peu plus fades, mais pas d’erreur, il s’agit bien du même document. Faites un petit exercice comparatif et rendez-vous un peu plus bas dans quelques secondes.
+
+<https://farm4.staticflickr.com/3881/14908293331_87a2b82235_o.jpg size=large title="Carte mondiale des races 1959.">
+
+<https://farm4.staticflickr.com/3907/14724750738_4ba7a00c19_o.jpg size=large title="Carte mondiale des races 1970.">
+
+Et c'est la collision.
+
+Entre ces deux cartes s’engage dès 1960 le grand mouvement de décolonisation de l’Afrique. Le terme « Nègre », apparemment acceptable avant 1959, ne l’est plus en 1970 et est remplacé par le terme « Noirs », qui apparaît dès le 18e siècle, comme dans le nom du groupe abolitionniste {la Société des amis des Noirs}, mais n'est vraiment utilisé que depuis la seconde moitié du 20e.
+
+<https://farm6.staticflickr.com/5574/14911357975_62223f8786_o.jpg size=medium title="Légende détail de la carte mondiale des races 1959." right>
+
+<https://farm4.staticflickr.com/3849/14724799367_dddde0c6cb_o.jpg size=medium title="Légende détail de la carte mondiale des races 1970." right>
+
+Pourtant, dans cette deuxième moitié du 20e siècle, on est en plein débat sur le refus et, finalement, l’abandon par la plupart des anthropologues de la notion de « race humaine » et sur la recherche d’autres critères (par exemple religieux, ethnique, culturel). L’édition de 1970 ignore totalement ce débat, lacune apparemment comblée - mais avec beaucoup de retard -  puisque, dans l’édition de 1993, la carte des « races » a finalement été supprimée.
+
+Une autre particularité de cette carte, c’est la présence de cette catégorie très incertaine des zones vertes légendées « races en voie d’extinction » couvrant le Caucase, les côtes namibiennes en Afrique australe et le nord de l’île d’Hokkaido au Japon. Cette carte fut créée il y a environ soixante ans et il n’est plus possible d’interroger les auteurs, mais saura-t-on un jour de quelles « races » il s’agissait vraiment ? Il faut rappeler, tout de même, qu’une génération entière de collégiens et lycéens a appris la géographie à l’aide de cet atlas.
+
+<https://farm6.staticflickr.com/5576/14888368676_95a6b8f0a8_o.jpg size=medium title="Légende détail de la carte mondiale des races 1959.">
+
+
+Pour compléter cette « dégustation cartographique verticale » et revenir sur la question sémantique, exhumons un ouvrage d’André Demaison[[André Demaison (1883-1956), commerçant en Afrique avant la première guerre mondiale, écrivain et journaliste, fut nommé directeur de la Radiodiffusion Nationale à Vichy en 1942. Il était membre du Conseil national. Condamné par la justice pour collaboration après la seconde guerre mondiale, il fut finalement amnistié.]] datant de 1936 - véritable caricature de la littérature coloniale - intitulé {La vie des Noirs d’Afrique }(Editions Bourrelier, Paris). Extrait :
+
+<blockquote>
+
+{Je dois à l’Afrique et à ses Noirs les plus belles heures de ma vie de jeune homme […] en face de la nature vraie et d’êtres plus ou moins primitifs.}
+
+{Mes derniers voyages à travers ces peuples d’Afrique noire m’ont démontré que des changements s’étaient opérés : maintenant, c’est l’indigène qui envahit l’existence des hommes blancs tandis que ceux-ci, pourtant répandus grâce à l’automobile, semblent vivre en dehors de la vie des Noirs. »} 
+
+</blockquote>
+
+<https://farm4.staticflickr.com/3904/14724679090_8cabaa9616_o.jpg size=medium title="Couverture du livre d'André Demaison." right>
+
+<blockquote>
+{On pourrait élargir et évoquer la vie de tous les Noirs de l'univers. Il nous faudrait alors faire mention des nègres australiens, demeurés dans les plus bas degrés de l’humanité […], les mélanésiens, les Papous d’Océanie, tous fort anciens dans la race noire.}
+
+{Devant l’impossibilité matérielle de suivre dans leur pays ces variétés de Noirs, restons en Afrique, leur plus grande patrie.}
+
+{Les Noirs ne furent pas les premiers occupants de l’Afrique [qui] était habitée [avant] par des hommes rougeâtres, petits […], qu’on a appelés Pygmées, puis Négrilles.»}
+
+</blockquote>
+
+André Demaison évoque aussi dans ce livre « sa » géographie des races, partiellement figurée sur la carte de l’Atlas Hölzel :
+
+<blockquote>
+
+{Les Noirs peuvent être groupés en trois grands clans : les Bantous, qui se répandirent dans le Sud ; les Noirs mélangés de Sémites qui demeurèrent dans l’Est de l’Afrique […] et les vrais Nègres qui remplissent […] l’espace immense compris entre le Nil et l’Océan Atlantique. »}
+
+</blockquote>
+
+<https://farm4.staticflickr.com/3850/14908288361_a401e61cef_o.jpg size=large title="Photo extraite du livre d'André Demaison.">
+
+Ici, toute la gamme terminologique possible est employée : Nègres, Négrilles, Noirs, Sauvages, Indigènes (appellation péjorative en français mais admise aujourd'hui en anglais - {Indigenous people}). Voilà pour le passé, mais quelle évolution terminologique le présent nous offre-t-il ? Que nous reste-t-il de cette époque obsédée par les classifications et la hierarchisation ?
+
+L’examen des catégorisations, termes et définitions, de leur pouvoir structurant, de leur efficacité sociale et politique, s'avère complexe à cause des balancements permanents de la langue. 
+
+Le terme « nègre », péjoratif s'il en est, a connu des utilisations variées : après des heures à « prétention scientifique » quand il était utilisé par les philosophes et classificateurs des Lumières, puis par les théoriciens des races, il reste aujourd'hui une expression stigmatisante, violente et réductrice, sauf dans quelques contextes culturels très précis.
+
+La désignation de peuples très différents par un terme générique se référant à une couleur de peau fantasmée (trouvez-moi un Noir vraiment noir) ne se comprend qu'en suivant le mouvement de justification de la mise à l'index d'une partie des êtres humains, de leur renvoi à la périphérie de l'humanité, voire de la négation de leur humanité même, accentuée par la traite transatlantique qui voit la définition de nègre et celle d'esclave fusionner [[Cf Dominic Thomas, {Black France}, Indiana, Bloomington, 2007.]].
+
+<https://farm8.staticflickr.com/7518/15786476885_2361867b70_o_d.png size=large title="Une époque obsédée par les classifications." caption="Détail extrait de Atlas-géographie ou Nouveau manuel de géographie générale : cours supérieur. E. Vitte (Lyon), 1901 - Bibliothèque nationale de France, [Gallica http://gallica.bnf.fr/ark:/12148/bpt6k6550067z">
+
+	 
+
+
+La pensée fourre-tout derrière le « nègre-Noir »  est en spirale : noir est le terme générique désignant ce qui est mauvais,  comme dans l’expression la « noirceur de l'âme ». Les nègres, les Noirs sont mauvais par essence, on peut justifier un peu tout ce qu'on leur fait. Par où on commence et où on s'arrête ? La Bible et sa « malédiction des fils de Cham » ou les pâtisseries chocolatées dites « têtes de nègre », le « nègre violeur » ou le « nègre ambianceur » né ? Indissociable de la pensée esclavagiste, l'expression « nègre » désigne toujours le tâcheron comme celui qui, derrière l'écrivain, souque à fond de cale pour écrire les livres à sa place.
+
+Sont méconnues, surtout en France métropolitaine, les multiples variations que prirent au cours de la colonisation et principalement dans les Antilles françaises les différentes appellations alambiquées utilisées pour désigner les « Noirs », encadrant une organisation sociale et hiérarchique de la noirceur [[Lire à ce sujet : Jean-Luc Bonniol, {La Couleur comme maléfice, Une illustration créole de la généalogie des Blancs et des Noirs},  Albin Michel, 1992.]]. Des termes comme métis, quarteron, mulâtre, octavon, câpre, griffe, chabin, mamelouque, marabou,  sacatra... permettaient de distinguer le bétail humain, et de rapprocher du maître les plus clairs du cheptel. La classification établie par Louis-Élie Moreau de Saint-Méry dans sa monographie de l'île de Saint Domingue en propose 128 variations [[Louis-Élie Moreau de Saint-Méry, {Description topographique, civile et historique de la partie française de l’isle de Saint-Domingue}, 1798]].
+
+<https://farm4.staticflickr.com/3903/14724792547_f066b84b3e_o.jpg size=large>
+
+C'est le « pouvoir des mots »[[ Sur ce sujet lire aussi bien : Pierre Bourdieu, {Ce que parler veut dire, l'économie des échanges linguistiques} , Fayard, 1982, rééd. {Langage et pouvoir symbolique}, Seuil, 2001, que Judith Butler, {Le pouvoir des mots, politique du performatif}, Amsterdam, 2004, qui abordent tous les deux la question des mots «agissants», de l'efficacité du langage, mais en proposent des analyses différentes.]] : le langage décrit une réalité (ici les tonalités de la couleur de peau) et dans le même mouvement contribue à la structurer et à la figer. Les métis et mulâtres sont progressivement devenus des catégories sociales aisées et instruites, d’abord au service du maître dans les maisonnées et sur les plantations, puis au service de l’État, fournissant des générations de contremaîtres puis d’instituteurs et de fonctionnaires, etc. Ces classifications (plus on est clair, plus on est haut dans la société) ont eu des conséquences profondes sur des générations de « Noirs », par exemple lorsque, étudiants dans les métropoles européennes, de jeunes et fringants mulâtres finissaient par n'être que des nègres dans le regard de leurs compagnons d'études. Dans la préface de l'entretien avec le grand chercheur anglais d'origine jamaïcaine Stuart Hall [[Mark Alizart, {Stuart Hall}, Amsterdam, 2007.]], Eric Macé et Eric Maigret nous expliquent l'importance qu'a eue pour Hall d'être le « plus noir de sa famille », tout en étant éduqué pour être un  « Anglais d'Oxford », et comment son expérience de se découvrir « Noir chez les Blancs » a influencé sa pensée des identités mouvantes.
+
+Dans leur ouvrage, {[« Sorting things out »->http://mitpress.mit.edu/books/sorting-things-out]}, Bowker et Leigh Star explorent  l'histoire, l'architecture et le rôle social des systèmes de classification dans des domaines aussi variés que la santé ou les systèmes de documentation. Ils évoquent aussi le cas particulièrement douloureux des catégorisations raciales du système de développement séparé de l'Apartheid sud-africain [[{Sorting things out, classification and it's consequences}, G.C.Bowker, S.Leigh Star, MIT Press, 1999.]]. Chaque sud-africain se devait d'être rattaché à l'une des quatre catégories raciales Blanche, Noire (Africaine), Asiatique (incluant les Indiens) ou de Couleur (pour les Métis). L'impossibilité de figer en un système les différences de couleur de peau ont poussé les tribunaux de l'apartheid chargé de régler les cas de catégorisation douteuse ou sanctionner les contrevenants à déclassifier puis reclassifier de nombreuses personnes. Bowker et Leigh Star évoquent ce cas fameux de Vic Wilkinson qui, au cours du règne de l'apartheid, a été changé cinq fois de catégorie raciale et de certificat de naissance. Dans son errance taxonomique, il n'est qu'une catégorie qui ne lui a jamais été attribuée, celle de Noir. 
+
+Même la {Négrophilie} du Paris des années 20, la fascination pour [Joséphine Baker->http://www.tandfonline.com/doi/pdf/10.1080/0966369X.2014.885885] et l'Art Nègre des surréalistes et autres avant-gardes, est traversée d'ambiguités héritées de la longue traine de l'imaginaire colonial et du fétichisme ethnographique. [[Lire Petrine Archer-Straw, {Negrophilia, Avant-Garde Paris and Black Culture in the 1920's.},Thames & Hudson, 2000.]] 
+
+Le cafre est devenu cafard, et, malgré tout, les «  nègres », depuis les années cinquante, prennent le stigmate et le renversent (E.Goffman) pour en faire un étendard : de la négritude de Senghor et Césaire, au « I’m Black and I’m proud » des années 70 puis au « Niggaz with Attitude » [[ « NWA »,  Niggaz with attitude, est un groupe de rap de la fin des années 80, qui, par ses paroles provocantes, valorisant le crime et le sexe facile tout en dénonçant les bavures policières, a balisé le genre « Gangsta rap ». Ice Cube poursuit une carrière solo de chanteur et d’acteur de comédies populaires, et Dr Dre est devenu un grand « producteur », lançant entre autre le « rappeur blanc » controversé Eminem.]] de Dr Dre et de Ice Cube, le « nègre » désigne en créole et en argot américain un « mec », un « type » , voire un « pair », un ami...
+
+{« To all the Niggers in the house »}, scandé à l'assemblée hip hop, tant et si bien que  petits Blancs et Latinos finissent par tous s'appeler « nigger » ou « nigga » par signe de reconnaissance, exactement comme en France, où dans les quartiers populaires, tous les jeunes finissent par se frapper la poitrine pour se saluer.
+
+Le Noir devient « Black » dans les années 80 en France par euphémisme hypocrite des années d'illusion « black blanc beur », et entre récemment dans la catégorie « racaille », dans les années du « diviser pour mieux régner »,  à défaut d'être vraiment devenu quelqu'un à part entière. L'abondante littérature publiée sur la « nouvelle question noire française»  donne le tournis, tant incompréhensions, amalgames et relégation pointent toujours derrière les mots, comme avant sur la carte. 
+
+Notons par exemple, dans ce maelström editorial, le magnifique ouvrage graphique [{La France Noire}->http://www.editionsladecouverte.fr/catalogue/index-La_France_noire-9782707169211.html] qui explore trois cent ans de présences « noires » dans l'héxagone[[{La France Noire}, Collectif, La découverte, Hors collection Essais & Documents, 2011.]], 
+
+Du Code Noir aux révolutionnaires républicains, des députés de la fin du 18e aux tirailleurs africains, de l'affranchi au sauvage, des expositions coloniales aux Nègres, du Black au Citoyen, de l'euphorie métisse aux organisations de sans papiers, l'ouvrage explore trois cents ans d'appelations et de representations. Un travail iconographique exceptionnel qui rend  hommage à quinze générations de politiciens, de syndicalistes d'étudiants, de militantes, d'intellectuels, de militaires, d'artistes ou d'ouvriers {nègres noirs}.
+
+<http://www.the-plumebook-cafe.com/wp-content/uploads/2010/02/LeCriDesNegres-1931.jpg size=large title="Revue {le Cri des Nègres} fondée en 1931 par Tiemoko Garan Kouyaté, militant révolutionnaire originaire du Soudan Français (Mali actuel) décédé en 1942 dans une geôle nazie.">
+
+
+<aside class="box">
+
+<h2>Compléments documentaires :</h2>
+
+- [Ces zoos humains de la République coloniale->http://www.monde-diplomatique.fr/2000/08/BANCEL/14145], Le Monde diplomatique, août 2000.
+
+- [Une loi contre l’histoire->http://www.monde-diplomatique.fr/2005/04/LIAUZU/12080], Le Monde diplomatique, avril 2005.
+
+- [Marc benoemt 's morgens de dingen->http://cas1.elis.rug.ac.be/avrug/forum/bambi14.htm] de Bambi Ceuppens, en néerlandais, ou sa traduction en anglais ([pdf à télécharger ici->http://www.constantvzw.com/downloads/marc.pdf]). Cet article traite de l'utilisation, en néerlandais, des mots « neger » et « zwarte». Une version raccourcie du texte de la chercheuse belge est parue dans le journal {De Standaard}, accompagnée, de manière exceptionnelle pour ce journal, d'une photographie de l'auteure. Dans une réaction non publiée par le quotidien, la chercheuse [revient sur ce que signifie->http://cas1.elis.ugent.be/avrug/forum/bambi15.htm], en termes de disqualification de son discours, le fait de l'accompagner d'une telle photographie.
+
+- [The N-world - An interactive project exploring a singular word ->http://www.washingtonpost.com/wp-dre/features/the-n-word], The Washington Post, novembre 2014. Signalé par Jean Abbatieci @abbatieci sur [seenthis->http://seenthis.net]: Dialogues autour du « N-Word » (que l'on peut traduire par « Nègre » ou « Négro »), à la fois si tabou et si courant aux Etats-Unis. 
+
+- [Negro? Prieto? Moreno? A Question of Identity for Black Mexicans ->http://www.nytimes.com/2014/10/26/world/americas/negro-prieto-moreno-a-question-of-identity-for-black-mexicans.html?smid=nytcore-iphone-share&smprod=nytcore-iphone&_r=1], The New York Times, 25 octobre 2014. Signalé par Cristina Del Biaggio @cdb_77 sur [seenthis->http://seenthis.net] : Black Mexico: An Isolated and Often Forgotten Culture.
+
+- [Bécassine – Banania, destins croisés ->http://seenthis.net/messages/307041], The New York Times, 25 octobre 2014. Signalé par Le Bougnoulosophe @le_bougnoulosophe sur [seenthis->http://seenthis.net]. On peut télécharger le [fichier PDF ici->http://www.hommes-et-migrations.fr/docannexe/file/1647/dossier_1260_dossier_1260_21_28.pdf] : {« “C’est le Nègre de la France”, c’est ainsi que l’Assiette au beurre décrivait le Breton au début du XXe siècle. L’exposition “Bécassine – Banania, destins croisés” confronte les imageries coloniales du Noir africain et l’image du Breton, provincial arriéré repérable à sa coiffe, parues dans la presse populaire illustrée des XIXe et XXe siècle. »}
+
+- [Frantz Fanon, {Peaux noires, masques blanc}->http://seenthis.net/messages/302000], éd. du Seuil, coll. La condition humaine, 1952, pp. 225-228. Signalé par La revue Vacarme @vacarme sur [seenthis->http://seenthis.net] : {« N’ai-je donc sur cette terre autre chose à faire qu’à venger les Noirs du XVIIe siècle ? Je n’ai ni le droit ni le devoir d’exiger réparation pour mes ancêtres domestiqués. Il n’y a pas de mission nègre ; il n’y a pas de fardeau blanc.}
+
+- [Du réductionisme européen->http://seenthis.net/messages/203273], Aimé Césaire , {Discours sur la Négritude}. Signalé par Le Bougnoulosophe @le_bougnoulosophe sur [seenthis->http://seenthis.net] : {« « La Négritude, à mes yeux, n’est pas une philosophie. La Négritude n’est pas une prétentieuse conception de l’univers. C’est une manière de vivre l’histoire dans l’histoire : l’histoire d’une communauté dont l’expérience apparaît, à vrai dire singulière avec ses déportations de populations, ses transferts d’hommes d’un continent à l’autre, les souvenirs de croyances lointaines, ses débris de cultures assassinées. Comment ne pas croire que tout cela qui a sa cohérence constitue un patrimoine ?
+En faut-il davantage pour fonder une identité ?»}
+
+- [Au cœur de la race->http://www.laviedesidees.fr/Au-coeur-de-la-race.html]. Michel Agier recense dans « La Vie des idées » le livre d'Achille Mbembe, {Critique de la raison nègre}, Paris, La Découverte, 2013. {« En puisant dans l’histoire ainsi que dans l’inconscient littéraire, Mbembe identifie trois contextes de fabrication de l’identité nègre : l’esclavage, la colonisation et l’apartheid. Il déconstruit ainsi le discours qui a entraîné, tout autant que masqué, les douleurs de la violence raciale. »}
+
+- [« Je suis un homme-noir-qui interroge »->http://www.journalzibeline.fr/programme/je-suis-un-homme-noir-qui-interroge/]. Un entretien avecv Pap N'Diaye de novembre 2014 : il nous parle, parmi d’autres choses, de l’approfondissement relativement récent de sa relation à l’Afrique, des questions liées à l’identité noire, et à l’expérience d’être noir, de la Marseille de Claude McKay et des marins soninkés, de Césaire, Glissant et Chamoiseau, de son attention pour les mondes minoritaires, du racisme aujourd’hui en France, et des luttes contre les discriminations.
+
+- [Lettre à Jimmy, à l'occasion du vingtième anniversaire de ta mort->http://alainmabanckou.net/essais/57-lettre-a-jimmy.html]. Hommage à l'écrivain noir américain James Baldwin, qui consacra sa vie à proclamer l'amour du prochain et la liberté de l'individu. Né à Harlem en 1924, mort à Saint-Paul de Vence en 1987, noir, bâtard, homosexuel, écrivain, James Baldwin a combattu sans relâche la ségrégation raciale. Alain Mabanckou salue en Baldwin l'esprit libre qui refusa, en littérature comme en politique, que sa lutte mène au repli communautaire.
+
+<quote>
+
+Christiane Taubira, lors des débats préalables au vote de la loi pour le mariage pour tous en janvier et février 2013, cite un extrait de « Black label » du poète guyanais Léon-Gontran Damas (1912-1978)  :
+
+Nous les gueux
+
+nous les peu
+nous les rien
+nous les chiens
+nous les maigres
+nous les Nègres
+
+Nous à qui n’appartient
+guère plus même
+cette odeur blême
+des tristes jours anciens
+
+Qu’attendons-nous
+pour jouer aux fous
+pisser un coup
+tout à l’envi
+contre la vie
+stupide et bête
+qui nous est faite
+à nous les gueux
+à nous les peu
+à nous les rien
+à nous les chiens
+à nous les maigres
+à nous les nègres
+
+</quote>
+
+<h2>Sites à consulter :</h2>
+
+- [DiversCités->http://www.diverscites.org/]
+
+- [L’Article « Nègre » sur l’encyclopédie en ligne Wikipédia->http://fr.wikipedia.org/wiki/N%C3%A8gres]. Consultez en particulier dans cet article la reproduction d’une page (dont la lecture fait froid dans le dos) d’un manuel scolaire de cours préparatoire et de CM1 de 1926 ({La géographie vivante}, d’Onésime Reclus, frère du grand géographe anarchiste Elisée Reclus…) et la citation de l’article « Nègre » tirée du Grand Dictionnaire Universel du XIXe siècle Larousse de 1872.
+
+<h2>Documentaire :</h2>
+
+- [Lumières Noires->http://www.dailymotion.com/video/xxgwbd_infrarouge-lumieres-noires-docu_webcam], un documentaire de Bob Swaim (2006) : Il y a cinquante ans, surmontant obstacles et préjugés, une poignée de créateurs noirs revendiquant avec fierté l’appellation de « nègres » parvenait à rassembler à Paris, à la Sorbonne, de nombreux artistes et écrivains venus du monde entier pour un premier Congrès des intellectuels noirs. À la tribune, Alioune Diop, Léopold Sédar Senghor, Aimé Césaire, Richard Wright, Frantz Fanon.Le documentaire raconte comment et pourquoi un tel événement a pu voir le jour, comment et pourquoi les autorités ont cherché à perturber ce colloque, en dénigrer les conclusions, en étouffer la portée.
+
+<h2>Cartographie complémentaire :</h2>
+
+- [Le Hold-up colonial->88]
+
+<https://farm8.staticflickr.com/7461/15587775409_f372cb1e37_o_d.jpg size=medium link=http://visionscarto.net/88>
+
+- [La décolonisation et les nouveaux territoires->89]
+
+<https://farm6.staticflickr.com/5613/15588799970_3f208b595d_o_d.jpg size=medium link=http://visionscarto.net/89>
+
+<p class=small></p>
+
+</aside>
+
+
+--------------------------
+
+PS: Si vous souhaitez réagir à cette contribution, ou simplement contacter les auteur·e·s, vous pouvez le faire par mail via [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 21 novembre 2014 21:44

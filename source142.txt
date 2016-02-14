@@ -1,0 +1,110 @@
+
+--------------------------
+
+TITRE:
+États-Unis : le mythe du~melting-pot
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+
+--------------------------
+
+CHAPO:
+<h4 class="text-right">{par Philippe Rekacewicz}</h4>
+<br>
+<h5 class="text-left">Ce billet publié en août 2008 sur l'ancien blog « Visions cartographiques » a été remis à jour (et augmenté de nouvelles figures -- cartes et graphiques) en juin 2015. Certains documents très anciens ont été republiés pour leur intérêt historique.</h5>
+
+
+--------------------------
+TEXTE:
+
+En août 2008, le Bureau du recensement américain publiait des projections d'évolution démographique, lesquelles montraient pour la première fois que la population dite « blanche non hispanique » des États-Unis passerait sous la barre des 50 % en 2042, et deviendrait alors... minoritaire.
+
+Ces changements dans la composition de la population seraient donc plus rapides qu'intialement prévu, puisque les estimations publiées quatre ans plus tôt (et disponibles sur le [site Internet->http://www.census.gov] de l'agence gouvernementale) montraient un basculement en 2050, soit un décalage de huit ans par rapport à la nouvelle estimation.
+
+<https://farm4.staticflickr.com/3840/14910359062_5c506fccfb_o.jpg size=medium title="Projections des changements dans la composition de la population des États-Unis"
+legend="Toutes les figures sont de Philippe Rekacewicz." class=caption-right>
+
+La population blanche non hispanique, qui représentait en 2008 environ 65 % de la population, ne sera plus que de 46 % en 2050. La population noire passerait de 12 % en 2008 à 15 % en 2050, et la population d'origine asiatique de 5 % en 2008 à 10 % en 2050. La progression la plus spectaculaire est celle de la population d'origine hispanique, qui passerait de 15 % à 30 %. 
+
+<https://farm4.staticflickr.com/3838/14724035360_3a9648d493_o.jpg size=large title="Cent ans d'évolution de la population américaine"
+legend="Figure publiée dans {L'Atlas} du {Monde diplomatique} 2003 et complétée manuellement en 2011 avec les estimations du Bureau du recensement des États-Unis." class=caption-right>
+
+La population des États-Unis était en 2008 d'environ 305~millions d'habitants et, selon ces projections, aurait atteint un peu moins de 400~millions de personnes en 2050. Elle « devait » considérablement vieillir, puisqu'on estimait alors que les plus de 65~ans passeraient de 12 % aujourd'hui à 20 % en 2050, soit de 40~millions à 90~millions !
+
+En mars 2015, le bureau du recensement a publié de nouvelles projections qui couvrent la période 2014-2060 et qui rectifient légèrement celles parues en 2008 : en 2015 la population américaine totale est de 321 millions et atteindrait 417 millions en 2060. Si les tendances se poursuivent (déclin sensible de la fertilité et déclin léger de l'apport migratoire), l'accroissement de la population devrait ralentir.
+
+Selon ces projections (2015), c'est en 2044 que la « majorité blanche » non-hispanique représentera 50 % de la population totale, pour devenir ensuite une « majorité-minorité » -- puisque la définition du concept de « minorité » dans les rapports du bureau du recensement américain recouvre « tous les groupes autres que les blancs non-hispaniques ». Cette « majorité-minorité » blanche non-hispanique ne représenterait plus alors que 44 % en 2060... La population hispanique passerait de 17 % à 28 %, la population asiatique toujours de 5 % à 9 % tandis que la population noire resterait à peu près stable, de 12 % à 13 %.
+
+<https://farm1.staticflickr.com/540/19050694445_84a51c8c07_o_d.jpg size=large title="Nouvelles projections : évolution de la population américaine, 2014 - 2060"
+legend="Source : US Census Bureau, 2015.">
+
+Ce qui fera la différence, c'est l'immigration -- qui reste importante -- et les taux de natalité plus forts au sein des minorités. La population américaine est de plus en plus diverse, mais les communautés restent relativement peu mélangées : peu de mariages mixtes.
+
+<https://farm1.staticflickr.com/506/18430028953_63e04ba529_o_d.jpg size=medium title="Les mariages aux États-Unis"
+legend="Figure publiée dans {L'Atlas} du {Monde diplomatique} 2003, sur la base du recensement de 2000, et complétée en 2015 avec les données du recensement de 2010" class=caption-right>
+
+Et une étonnante concentration de la distribution géographique de la population par origine, ce qui met à mal l'image trop souvent véhiculée d'une Amérique du melting-pot : ce mythe de la fusion des populations ne résiste pas à l'analyse géographique et statistique.
+
+<https://farm4.staticflickr.com/3897/14724740189_e655c6c162_o.jpg size=large title="Distribution géographique de la population d'origine hispanique" legend="Figure publiée dans {L'Atlas} du {Monde diplomatique} 2003 sur la base du recensement de 2000.">
+
+<https://farm4.staticflickr.com/3852/14724833297_837304784c_o.jpg size=large title="Distribution géographique de la population noire"
+legend="Figure publiée dans {L'Atlas} du {Monde diplomatique} 2003 sur la base du recensement de 2000.">
+
+<https://farm6.staticflickr.com/5568/14888374246_3f9530a456_o.jpg size=large title="Distribution géographique de la population blanche"
+legend="Figure publiée dans {L'Atlas} du {Monde diplomatique} 2003 sur la base du recensement de 2000.">
+
+<aside class="box">
+
+Pour poursuivre la réflexion sur la question des discrimination et de la ségrégation aux États-Unis, vous pouvez aussi consulter une série de cartes et graphiques dans la section « collection cartographique » de ce site :
+
+- [Géographie des revenus par foyer et par comté aux États-Unis en 2013->http://visionscarto.net/geographie-revenus-comte-foyer]
+
+<https://farm1.staticflickr.com/559/18341831904_7875edb7af_o_d.jpg
+size=medium link=http://visionscarto.net/geographie-revenus-comte-foyer>
+
+- [Géographie des revenus par foyer et par État aux États-Unis en 2013->http://visionscarto.net/geographie-revenus-2013]
+
+<https://farm1.staticflickr.com/476/18953965001_468a5d911c_o_d.jpg size=medium link=http://visionscarto.net/geographie-revenus-2013>
+
+- [Évolution du revenu moyen par foyer aux États-Unis->http://visionscarto.net/evolution-revenu-moyen-1967-2013]
+
+<https://farm1.staticflickr.com/377/18425236453_c38014cda9_o_d.jpg
+size=medium link=http://visionscarto.net/evolution-revenu-moyen-1967-2013>
+
+- [En 2010, les 10 % les plus riches captaient 46 % du revenu national->http://visionscarto.net/revenus-et-population]
+
+<https://farm1.staticflickr.com/306/18341981564_7c6822d8bb_o_d.jpg
+size=medium link=http://visionscarto.net/revenus-et-population>
+
+- [Géographie de la pauvreté aux États-Unis en 2013->http://visionscarto.net/geographie-de-la-pauvrete-aux-etats-unis]
+
+<https://farm1.staticflickr.com/340/19048975301_8dfea3be40_o_d.jpg
+size=medium link=http://visionscarto.net/geographie-de-la-pauvrete-aux-etats-unis>
+
+- [Seuil de pauvreté aux États-Unis en 1995->http://visionscarto.net/seuil-de-pauvrete-aux-etats-unis]
+
+<https://farm4.staticflickr.com/3882/19029932522_125194c26c_o_d.jpg
+size=medium link=http://visionscarto.net/seuil-de-pauvrete-aux-etats-unis>
+
+- [Mortalité infantile aux États-Unis en 2000 et 2010->
+http://visionscarto.net/mortalite-infantile-aux-etats-unis]
+
+<https://farm4.staticflickr.com/3682/18424470413_e4f7329106_o_d.jpg
+size=medium link=http://visionscarto.net/mortalite-infantile-aux-etats-unis>
+
+
+</aside> 
+
+
+--------------------------
+
+PS: Si vous souhaitez commenter, utiliser le texte ou figures, ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse email [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 23 juin 2015 07:21

@@ -1,0 +1,123 @@
+
+--------------------------
+
+TITRE:
+À Bornéo, des drones cartographiques contre l’accaparement des terres
+
+--------------------------
+
+AUTEUR: 
+- Patrick Meier
+- Aude Vidal
+
+--------------------------
+
+CHAPO:
+Quand les cartes sont produites par des consultants privés et par des services de l'État qui privilégient un « développement » agro-industriel aveugle, les victimes sont les villageois qui se voient spoliés de leurs vergers et de leurs terres communes. Mais certains résistent, et parmi leurs armes figurent les photos aériennes prises avec des drones qu’ils ont eux-mêmes construits. À Bornéo, partons à la découverte de deux initiatives de contre-cartographie. Tout d'abord, dans le Kalimantan, la partie indonésienne de l'île de Bornéo, avec Patrick Meier ; en complément, un entretien avec le musicien et militant Jok Jau Evong, au Sarawak (Malaisie), rapporté par Aude Vidal.
+
+
+--------------------------
+TEXTE:
+
+<https://farm1.staticflickr.com/570/22816220973_7155cbdc38_o_d.jpg size=medium right link title="L'Île de Bornéo, divisée entre trois États" legend="En bleu, les deux villages cités" credit="Diana Rizzolio et Philippe Rekacewicz, 2006.">
+
+<h2>Kalimantan, province indonésienne de l'île de Bornéo</h2>
+
+<h4>{par Patrick Meier}</h4>
+
+Vous prendrez bien un morceau d'Indonésie ? Le gouvernement de ce pays vient de mettre sur pied un {« programme de développement accéléré »} qui prévoit d’{« assigner à chaque province un pôle de développement différent »}, comme {« l'alimentation et l'énergie en Papouasie occidentale, la production d'huile de palme au nord de Sumatra, les activités minières dans le Kalimantan central} (Bornéo), {etc. »}
+
+Certains dénoncent {« un programme d'accaparement des terres à l’échelle nationale mené par l’État ».} Une composante importante de ce plan est {« la marchandisation des terres à travers l'aménagement du territoire »}, procédure {« censée être ouverte, transparente et participative ».} La réalité est toute autre : {« Les cartes sont faites par des consultants et par des services de l'État qui favorisent les intérêts du capital et des élites locales. »} Conséquence, {« les concessions sont la plupart du temps accordées sans le consentement (et parfois à l'insu) des communautés locales ».}
+
+Ces citations sont extraites d'une brillante étude ([ici en PDF->http://www.iss.nl/fileadmin/ASSETS/iss/Research_and_projects/Research_networks/LDPI/CMCP_80-Radjawali_and_Pye.pdf]) récemment publiée par Irendra Radjawali et Oliver Pye. Les auteurs décrivent l'utilisation de drones pour {« créer des cartes de qualité sous le contrôle des communautés capables de s'opposer à l'aménagement du territoire par en-haut} (…)  {une révolution pour le mouvement de résistance cartographique en Indonésie ».}
+
+<https://farm1.staticflickr.com/628/23310243251_933df8585b_o_d.png size=original title="Photo aérienne : on distingue les hameaux et les vergers">
+
+{« S'attaquer au pouvoir de l'État sur les cartes et ses catégories d'usage des terres en produisant une cartographie des revendications autochtones et locales sur le territoire, voilà qui a donné lieu à un mouvement important en Indonésie. »} [NdT: ce mouvement que l’on appelle en anglais {counter-mapping} -- depuis [les travaux de Nancy Peluso->http://ourenvironment.berkeley.edu/people_profiles/nancy-lee-peluso/] publiés sur le Kalimantan en 1995 -- peut se traduire en français par les mots de résistance ou contestation cartographique / contre-cartographie / cartographie alternative ou subversive.]
+
+Comme les auteurs de cette étude le constatent : {« La cartographie doit être comprise comme un processus politique plutôt qu'un simple outil technique. La cartographie, ce n'est pas simplement la façon de produire des cartes, il faut aussi se poser la question de qui produit les cartes, comment les gens y ont accès et comment elles peuvent être utilisées avec des visées émancipatrices. »} La résistance cartographique est donc elle aussi un processus politique. Et ce mouvement teste l'usage de drones du peuple (ou drones communautaires) pour étayer leurs actions politiques.
+
+Le premier drone employé par les activistes en Indonésie leur a servi à se procurer des {« données spatiales de haute qualité là où l'accès était restreint par les compagnies de sécurité et la police ».} Où se sont-ils procuré ce drone ? Ils l'ont fabriqué eux-mêmes, à partir de rien : {« Irendra Radjawali a construit son premier drone, sans suivre de formation, en s’informant sur Internet et les forums en ligne. Il s'est procuré la plupart du matériel d'occasion via Ebay. »} L'avantage de cette approche do-it-yourself, c'est le coût réduit. Ce drone, couplé à une caméra pour la cartographie, a coûté au final à peine plus de 500 dollars.
+
+<https://farm6.staticflickr.com/5701/23310244551_f03891aff4_o_d.png size=original title="L'équipe prépare le drone">
+
+Irendra et son équipe ont ainsi pu survoler les plantations de palmiers à huile sur des terres dont une partie avaient été enlevées à des communautés locales -- sans que ces communautés aient même été informées de la cession. L'équipe a pu faire voler le drone {« au-dessus de plusieurs lieux, prendre} [des images] {de terres communautaires qui avaient été accaparées par l'entreprise, y compris des terres coutumières ».} Il faut mettre en avant le fait que {« les membres des communautés ont rarement accès aux documents d'aménagement et donc ne peuvent quasiment jamais participer activement aux processus d'aménagement du territoire. La possibilité de produire des cartes précises et de bonne qualité est comprise par ces membres des communautés comme une opportunité pour revendiquer et réclamer leurs terres ».}
+
+L'équipe a également survolé un territoire {« affecté par l'extension d'une vaste mine de bauxite à ciel ouvert ».} L'eau de la rivière n'était plus propre à la consommation, les zones de pêche avaient disparu, le lac attenant était asséché. Les communautés locales avaient beau enchaîner les manifestations contre la destruction irréversible de leur écosystème, cela n'empêchait pas les compagnies minières d'étendre leurs activités.
+
+<https://farm6.staticflickr.com/5654/23284393322_260597edb8_o_d.png size=original title="Photo aérienne">
+
+Irendra et son équipe sont parvenus à prendre des photographies aériennes des zones affectées. Une des {« cartes précises et de bonne qualité »} qu'ils ont été capables de produire a depuis {« été utilisée comme preuve pour mettre à jour l'exploitation de bauxite par une compagnie minière en-dehors de sa concession ».} Ces cartes aériennes auto-produites servent donc à prouver les méfaits des compagnies minières et à appuyer les efforts des communautés pour la protection des terres et des forêts.
+
+Une approche directe et qui répond aux besoins des communautés, voilà comment Irendra et ses collègues voient ces projets de résistance cartographique : {« Les membres de la communauté contribuent à initier le projet de drone et décident de qui prendra en charge cette activité.} (…) {L’organisation et la stratégie sont discutées lors de réunions de village, avec chaque fois des défis et des contextes différents. Une partie des réunions de village consiste en entraînement à la cartographie et aux drones ; les participants sont formés aux techniques de cartographie comme à la manœuvre de drones pour pouvoir rapidement participer à la résistance cartographique et produire des données spatiales de qualité. Une réunion de village à Subah a décidé le financement de la cartographie par une contribution mensuelle de 50 dollars par hameau. »}
+
+Au final, pour Irendra et Olivier, l'usage des drones crée de l'{empowerment,} une prise de conscience par la population de sa capacité d'agir. {« Le sentiment de puissance et de réussite quand des membres de communautés opèrent eux-mêmes le drone est considérable. Savoir que ces images sont de meilleure qualité que les cartes des concessions officielles, et que cela a été reconnu par la Cour constitutionnelle, est encore plus puissant. »}
+
+<https://farm6.staticflickr.com/5749/23024865759_40e6b5df80_o_d.png size=original title="Traitement des informations collectées dans un système d'informations géographiques (SIG)">
+
+Il est intéressant de noter que les cartes d'occupation des sols des autorités d'aménagement et des entreprises ont été faites {« sur la base d'imagerie satellite »,} ce qui suppose que {« les petits hameaux n'y sont pas visibles. Dans la cartographie d'État, les hameaux ont disparu, perdant à l'occasion leurs droits sur la terre. En fournissant des images de haute résolution, les drones redonnent de la visibilité aux aires résidentielles ou cultivées, aux vergers d'arbres fruitiers et autres usages à long terme de la terre. En outre, les communautés locales emploient les cartes de haute résolution pour clamer leur propriété des zones résidentielles qui, “officiellement”, ont été offertes en concessions aux entreprises. Ces cartes servent à appuyer leurs plaintes pour l'arrêt des nouvelles attributions de concessions minières et de plantations de palmier. »}
+
+Sans surprise, peut-être, {« le processus de cartographie alternative a également mis à jour des conflits territoriaux larvés ».} Dans l'un de ces conflits, {« il est apparu que la frontière non stabilisée d'un village posait problème ».} Irendra et son co-auteur Oliver écrivent que {« l'un des objectifs des drones communautaires est de cartographier certains villages} (…) {et d'en établir la frontière ».}
+
+L'usage des drones a donné lieu à plusieurs victoires politiques qui ont dépassé le cadre local. Une carte alternative a été utilisée comme preuve légale dans un procès à la Cour constitutionnelle en septembre 2014, {« ouvrant à l'avenir la possibilité pour les drones de résistance cartographique d'être reconnus par le système juridique indonésien ».} Dans une autre affaire, des cartes alternatives ont été adjointes à d'autres preuves pour {« forcer le gouvernement provincial à accepter les demandes des organisations de la société civile. Quelques-unes de ces demandes ont été acceptées, parmi lesquelles : (1) la reconnaissance de la gestion communautaire de certaines terres, (2) la reconnaissance de droits coutumiers communautaires et (3) une participation active des communautés locales dans le processus d'aménagement du territoire ».} Ces demandes n'avaient pas été exprimées auparavant. Et dans une troisième affaire, {« des cartes produites à l'aide de drones ont été utilisées pour appuyer} (…) {des controverses au sujet des impacts environnementaux et sociaux des activités minières. Poussant la Cour constitutionnelle à statuer contre des compagnies minières en affirmant l'obligation pour ces entreprises d'installer des fonderies et de traiter les minéraux bruts et le charbon avant de les exporter ».}
+
+<https://farm1.staticflickr.com/739/23284394602_8bb6fef3a3_o_d.png size=original title="Photo aérienne des eaux polluées par la mine">
+
+Ces projets ayant suscité un intérêt croissant pour les drones, l’[Institut Swandiri->http://www.swandiri.org/news/13/drone-kayu-untuk-pemetaan-das-dan-hutan-ala-swandiri-institute] a récemment ouvert une « école de drones » dans laquelle {« les organisations de la société civile et les militants des communautés qui sont intéressés par leur usage pour la cartographie et le plaidoyer peuvent s'inscrire et participer ».} Une deuxième école de drones a été ouverte par d'autres partenaires pour {« promouvoir l'usage de drones dans les villages pour les cartographier et en établir les frontières ».}
+
+Les auteurs concluent que {« l'appropriation de cette technique par les militants dans les communautés a tout pour améliorer la situation en termes d'inclusion, de transparence et de capacitation} [empowerment]. (…) {De nos jours, les jeunes membres des communautés locales savent se servir des objets informatiques. Après un vol cartographique, les images et les vidéos peuvent être directement chargées sur un ordinateur portable, ce qui offre une transparence immédiate aux réunions de village pendant le processus de cartographie. La résolution est si élevée que les maisons individuelles, les arbres, etc. peuvent être identifiés clairement, cela augmentant la transparence et le potentiel pour inclure chacun dans les discussions au sujet des terres ».}
+
+Il faut tout de même rappeler une évidence : les drones ne sont pas un remède miracle ou {« une baguette magique qui peut dissiper les hiérarchies et les structures de pouvoir au niveau local ou dans la société ».} Irendra et son équipe n'ont pas réussi à utiliser les drones {« dans les zones où les élites locales étaient compromises avec les industries minières et de plantation, contrôlaient les institutions traditionnelles comme les conseils coutumiers et où l'opposition était marginalisée ».} Dans d'autres zones, {« les dominations de genre,} (…) {les dynamiques de pouvoir et les conflits territoriaux étaient reproduits dans le processus cartographique ».} En même temps, la révolution des drones a un véritable potentiel -- avec l'aide de campagnes et de pressions politiques -- pour faire accepter les cartographies alternatives produites par les communautés. À cette fin, {« s'il est associé à une action politique, l'usage de drones peut révolutionner les résistances cartographiques et devenir une arme efficace pour lutter contre l'accaparement de terres ».} Et dans ce contexte, {« les drones communautaires de contre-cartographie pourraient devenir une technique du peuple, par le peuple et pour le peuple ».}
+
+<p class="text-right caps">↬ Patrick Meier.</p>
+<p class=text-right>{Auteur du livre [Digital Humanitarians->http://www.digital-humanitarians.com/] qui explore les liens entre innovation technologique et organisations d'urgence.}</p>
+
+~
+
+
+<h2>Sarawak, partie malaisienne de Bornéo</h2>
+
+<h4>{par Aude Vidal}</h4>
+
+
+{« Ils arrivent avec leurs bulldozers, ils s'en fichent : “Nous avons une licence” »,} se rappelle Jok Jau Evong, quand on évoque les premières mobilisations villageoises, à la fin des années 1980, contre les compagnies  venues abattre la forêt au Sarawak.
+
+Fondateur de la branche de Bornéo des Amis de la Terre Malaisie (Sahabat Alam Malaysia) et de l'association des résidents d’Uma Bawang, Jok est une figure emblématique de la lutte contre la déforestation. Défenseur de la culture des peuples kayan et des forêts humides de Bornéo, il a publié en 1999 un disque de {sape}, instrument dont il joue parfois devant un public international.
+
+<http://huaylas.com/lr/catalog/jj/jok2.mp3 title="Extrait de “Music for the Forest”, de Jok Jau Evong" legende="http://huaylas.com/lr/catalog/jj/jj.htm">
+
+Aujourd'hui c'est le militant qui nous reçoit dans son bureau, où la seule musique est le ronronnement du ventilateur. Les premières mobilisations villageoises, se rappelle-t-il, sont nées de ce choc avec les compagnies d'exploitation du bois qui débarquaient sans ménagement et dépossédaient les communautés autochtones de leurs droits coutumiers de propriété, les {native customary rights} (NCR).
+
+Accablées par la destruction, les populations se sont progressivement mobilisées, et de plus en plus combatives, ont commencé à bloquer les routes menant aux sites d'exploitation. Parallèlement, elles ont pu former des recours en justice pour faire valoir leurs droits sur leurs terres. Mais quelles terres ? Comme ici tout est affaire de cartes, Jok dessine un plan sommaire des habitats autochtones, ces {longhouses} (maisons communautaires) où chaque famille a un appartement, mais dont le vestibule est commun et abrite la vie sociale. Il peut y avoir jusqu'à trente « portes » à une même maison.
+
+Les peuples natifs de Bornéo, la plupart réunis sous le nom de Dayak, bâtissent leur maisons aux confluences ({long}) des rivières, de part et d'autre de la frontière entre la Malaisie (au nord) et l'Indonésie, qui exerce son autorité sur le sud de l'île. Ils ont un pied dans la {temuda,} les terres qu'ils cultivent (riz, légumes et fruits), et un autre dans le {pulau galau,} la forêt où ils chassent et cueillent.
+
+En 1958, l'administration britannique a mis sur pied ce système de droits coutumiers des peuples autochtones, qui leur accorde la propriété des terres dont ils font usage. Pas seulement les terres cultivées, mais aussi la forêt dont ils tirent le reste de leur subsistance, un ensemble qu'on appelle la {pemakai menua}. Elles sont propriété individuelle ou collective, mais toujours incessibles à des non-membres de la communauté. Les Britanniques ont initié la mise en cartes du territoire, tracé les limites entre les terres des différents villages, noté les terres tombées en déshérence et obligé chaque village à déclarer un changement de résidence. Peu à peu, les rivières ont été cartographiées, et il est alors entendu que tout ce qui n'est pas utilisé par les différents villages à cette date est propriété de l'État. Ces droits coutumiers figurent encore, après les indépendances, dans la constitution du Sarawak, ainsi que dans celle de la fédération de Malaisie.
+
+Mais depuis quelques décennies, alors que l'exploitation de la forêt remonte toujours plus en amont des rivières, la définition de ces droits fait l'objet de graves conflits entre les peuples autochtones et l'État, qui tente de restreindre les NCR aux seules terres cultivées. On en rigole parfois dans les mobilisations : {« L'État, lui, on ne lui demande pas de cultiver la terre pour prouver qu'elle est à lui ! »}
+
+Pour faire valoir les droits coutumiers sur l'ensemble des terres, les militants s'attachent dans un premier temps à cartographier le territoire par des enquêtes auprès des habitants et sur le terrain. Il recensent les traces de peuplement (tombes, arbres fruitiers, etc.) qui permettent de prouver l'usage des terres avant 1958, et donc leur propriété.
+
+À l'initiative de Jok, au milieu des années 1990, le Borneo Project de l'université de Berkeley met à la disposition des communautés locales des moyens matériels, et forme des militants à la cartographie. Ce travail de fourmi accélère avec l'emploi du GPS. Mais la forêt recule plus vite qu'elle n'est mise en cartes. 
+
+Une fois les connaissances établies sur les droits de propriété, il faut encore les faire valoir auprès des tribunaux à chaque projet de mise en coupe ou de plantation. Les affaires remontent souvent jusqu'à la capitale fédérale puisque l'État du Sarawak, qui exerce sa compétence sur les ressources naturelles, est juge et partie dans les affaires. Officiellement, les redevances versées à l'État sont insignifiantes, bradées à des compagnies qui sont, selon les allégations des militants locaux, liées au gouvernement.
+
+<p class="text-right caps">↬ Aude Vidal.</p>
+<p class=text-right>{Animatrice du blog [Écologie politique->http://ecologie-politique.eu/] et auteure de la série de reportages [Petite écologie de la Malaisie->http://blog.ecologie-politique.eu/post/Petite-ecologie-de-la-Malaisie].}</p>
+
+
+~
+
+
+#Bornéo #Indonésie #Malaisie #drones #contre-cartographie #résistance #cartographie_radicale #cartographie_participative #accaparement de #terres 
+
+
+--------------------------
+
+PS: L'article de Patrick Meier, [Counter-Mapping the State with UAVs->http://irevolution.net/2015/08/04/counter-mapping-with-uavs/], publié le 4 août 2015, a été traduit pour Visionscarto.net par Aude Vidal. Si vous souhaitez commenter ou réutiliser ces articles, n'hésitez pas à nous écrire à l'adresse [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 1er janvier 2016 17:35

@@ -1,0 +1,56 @@
+
+--------------------------
+
+TITRE:
+Broadband prices in the world
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+
+
+--------------------------
+TEXTE:
+
+|{{Title:}}| Broadband prices in the world |
+|{{Keywords:}} | #Internet #Communication #Computers #Inequity #Access #ICT |
+|{{Author:}} | Philippe Rivière |
+|{{Data Source:}} | International Telecommunication Union (ITU), “[Measuring the Information Society Report 2015->http://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2015.aspx]”. |
+|{{Creation Date:}} | November 2015, updated December 2015 |
+
+<https://farm2.staticflickr.com/1648/24727108100_ce2ba66989_h_d.jpg size=original>
+<https://farm2.staticflickr.com/1537/24929338631_d50b20ded1_h_d.jpg size=original>
+<https://farm2.staticflickr.com/1477/24392030104_09d3c1e487_h_d.jpg size=original>
+
+<quote>{{Note.}} According to the current ITU definition, “broadband” designates fixed lines with a minimum download bandwidth of 256 kbit/s — a hundred times less for example than the definition given in 2015 by the FCC ([25Mbit/s->https://www.fcc.gov/document/fcc-finds-us-broadband-deployment-not-keeping-pace]).</quote>
+
+Thanks to: [Hacklab La Paz->http://hacklab.org.bo] & [themapsmith->http://www.mapsmith.net/].
+
+
+~
+
+<div class="ui small fluid accordion">
+ <div class="title">
+   <i class="dropdown icon"></i>
+   Archives 2014
+   </div>
+ <div class="small content">
+<https://farm6.staticflickr.com/5712/22462318137_c9d49478ab_o_d.png size=original>
+<https://farm6.staticflickr.com/5783/22880669815_f5b14a8e84_o_d.png size=original>
+<https://farm6.staticflickr.com/5813/22880668755_fc29cb95b9_o_d.png size=original>
+</div>
+</div>
+
+
+
+--------------------------
+
+PS: If you wish to comment on or reuse these maps, or to contact the author, please write to [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 14 February 2016 16:18

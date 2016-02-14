@@ -1,0 +1,56 @@
+
+--------------------------
+
+TITRE:
+Prisen å betale for internettilgang i ulike deler av verden
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+
+
+--------------------------
+TEXTE:
+
+|{{Tittel:}}| Prisen å betale for internettilgang i ulike deler av verden |
+|{{Nøkkelord:}} | #Internett #Kommunikasjon #Informatikk #Ulikhet #Tilgang #IKT |
+|{{Utgivelse:}} | Uutgitt |
+|{{Kartograf:}} | Philippe Rivière |
+|{{Kilde:}} | Den Internasjonale Unionen for Telekommunikasjon (ITU), “[Measuring the Information Society Report 2015->http://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2015.aspx]” (Målinger av informasjonssamfunnet, rapport 2015). |
+|{{Opprettelsesdato:}} | November 2015, oppdatert Desember 2015 |
+|{{Oversettelse:}} | Fransk til Norsk - Marianne Slotta (Arendal, Norge) |
+
+<https://farm2.staticflickr.com/1578/24996305346_d84d22f976_h_d.jpg size=original>
+<https://farm2.staticflickr.com/1481/24655014149_832e7ebe9c_h_d.jpg size=original>
+<https://farm2.staticflickr.com/1497/24929333301_dd251812ff_h_d.jpg size=original>
+
+<quote>{{Merknad:}} i følge ITU’s definisjoner omfatter “høy hastighet” fast internettilgang med høyere hastighet enn 256 Kb/sek. – En hastighet hundre ganger lavere enn for eksempel Federal Communications Commission (FCC) minimumshastighet for 2015 ([25 Mb/sek->https://www.fcc.gov/document/fcc-finds-us-broadband-deployment-not-keeping-pace]).</quote>
+
+
+
+~
+
+<div class="ui small fluid accordion">
+ <div class="title">
+   <i class="dropdown icon"></i>
+   Arkiv 2014
+   </div>
+ <div class="small content">
+<https://farm1.staticflickr.com/695/22641714884_a76d38bc8d_o_d.png size=original>
+<https://farm6.staticflickr.com/5656/22643014643_aa051e1fd7_o_d.png size=original>
+<https://farm1.staticflickr.com/603/23270139905_89cfe06504_o_d.png size=original>
+</div>
+</div>
+
+
+--------------------------
+
+PS: Om dere ønsker å kommentere eller å bruke disse kartene, vennligst ta contact med [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 14 février 2016 16:25

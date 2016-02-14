@@ -1,0 +1,56 @@
+
+--------------------------
+
+TITRE:
+Precio mundial de una conexión a internet
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+
+
+--------------------------
+TEXTE:
+
+|{{Título:}}| Precio mundial de una conexión a internet |
+|{{Motivación:}} | «[Los hackers de La Paz se organizan para liberar internet->http://visionscarto.net/los-hackers-de-la-paz-se-organizan]» |
+|{{Autor:}} | Philippe Rivière |
+|{{Fuente de los datos:}} | Unión Internacional de Telecomunicaciones (UIT): «[Measuring the Information Society Report->http://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2015.aspx]», 2015. |
+|{{Fecha de creación:}} | Octubre 2015, actualizado Diciembre 2015 |
+
+
+<https://farm2.staticflickr.com/1677/24655007859_a4fbd7f244_h_d.jpg size=original>
+<https://farm2.staticflickr.com/1559/24727114400_3adf86d379_h_d.jpg size=original>
+<https://farm2.staticflickr.com/1567/24996309166_3888c842f7_h_d.jpg size=original>
+
+<quote>{{Nota.}} Según la definición corriente de la UIT, «banda ancha» designa las conexiones fijas superiores a 256 kbit/s — un nivel cien veces inferior por ejemplo a la que da, en 2015, la FCC ([25Mbit/s->https://www.fcc.gov/document/fcc-finds-us-broadband-deployment-not-keeping-pace]).</quote>
+
+
+
+~
+
+<div class="ui small fluid accordion">
+ <div class="title">
+   <i class="dropdown icon"></i>
+   Archivo 2014
+   </div>
+ <div class="small content">
+<https://farm1.staticflickr.com/677/22300955600_55f1ae9ebd_o_d.png size=original>
+<https://farm6.staticflickr.com/5758/22300959230_764de390d5_o_d.png size=original>
+<https://farm1.staticflickr.com/670/22475937432_5f28632dea_o_d.png size=original>
+</div>
+</div>
+
+
+
+--------------------------
+
+PS: Si quiere reutilizar los mapas o simplemente contactar el autor, por favor escriba a la dirección [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 14 de febrero de 2016 16:22

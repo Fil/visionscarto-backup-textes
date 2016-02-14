@@ -1,0 +1,65 @@
+
+--------------------------
+
+TITRE:
+Une Ukraine multinationale
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+
+--------------------------
+
+CHAPO:
+Depuis le début de la crise ukrainienne, j'ai vu passer de nombreuses cartes qui figuraient plus ou moins bien le caractère multinational de la population. J'en ai créé quelques-unes, mais avec une petite dose de frustration, ayant été obligé de travailler avec des sources trop générales et mal géolocalisées.
+
+<h4 class="text-right">{par Philippe Rekacewicz}</h4>
+<h5 class="text-right">géographe, cartographe et information designer
+
+
+--------------------------
+TEXTE:
+
+<H2>Une Ukraine multinationale</H2>
+
+J'ai donc repris les chiffres du dernier recensement disponible, malheureusement très ancien (il date de 2001) pour expérimenter une méthode de visualisation -- assez classique en fait -- en bandes alternées. Le principe est très simple : chaque bande est proportionnelle au pourcentage d'une nationalité dans une région. Chaque séquence représente 100 % de la population ; on la reproduit autant de fois que nécessaire pour couvrir l'ensemble du territoire de la région. Comme il n'était pas possible à cette échelle de représenter toutes les nationalités, je n'ai retenu que les deux, trois ou quatre premières et regroupé le reste dans une catégorie « autres nationalités ».
+
+C'est un peu ennuyeux parce que ces communautés très peu nombreuses sont celles qui sont le plus discriminées. La prochaine étape sera de reprendre la carte, et d'explorer des modes de représentation visuelle pour faire apparaître ces populations (par exemple les Gagaouzes, Moldaves, Azerbaïdjanais, Grecs, Arméniens, Slovaques, ou Polonais).
+
+Du point de vue méthodologique, le [glossaire du recensement->http://2001.ukrcensus.gov.ua/eng/information/dictionary/] indique que {« la nationalité} (non pas au sens de la citoyenneté, mais de l'appartenance “ethnique”) {a été enregistrée d'après les déclarations des “répondants”, sans qu'il y ait de confirmation écrite. La nationalité des mineurs a été définie par les parents. Pour les enfants dont les parents sont de nationalités différentes, la préférence a été donnée à la nationalité de la mère».}
+
+Cette carte donne cependant déjà des informations assez détaillées ; les commentaires sur ce qu'elle fait apparaître de nouveau ou sur la force ou les faiblesses d'une telle représentation sont bienvenus (l'adresse courriel de contact est située au bas de cette page).
+
+<https://farm8.staticflickr.com/7438/13944912928_142c113058_o.jpg size=original class=fullwidth>
+
+D'après le [comité statistique d'État de l'Ukraine->
+http://2001.ukrcensus.gov.ua/eng/results/general/nationality/] qui a coordonné le dernier recensement officiel en 2001, la population du pays (à la date du recensement, c'est à dire il y a un peu plus d'une décennie) était composée de plus de 130~nationalités et groupes ethniques.
+
+La comparaison des chiffres pour l'ensemble du pays (y compris la Crimée) et pour les deux derniers recensement de 1989 et 2001 est très intéressante. La population ukrainienne passe de 72,7 % en 1989 à 78,8 % en 2001, tandis que la population russe passe de 22,1 % en 1989 à 17,3 %  en 2001. 
+
+Depuis l'implosion de l'URSS et l'indépendance de l'Ukraine en 1991, les mouvements migratoires entre la Russie et l'Ukraine ont été parmi les plus soutenus au monde. Il est donc possible que beaucoup de Russes aient décidé (comme dans les autres ex-républiques soviétiques) de migrer et de s'installer en Russie ; mais il est aussi possible qu'une partie de ceux qui se sont déclarés Russes en 1989 se soient identifiés comme Ukrainiens lors du recensement de 2001.
+
+Ensuite, le recensement de 2001 donne aussi des chiffres intéressants sur la [structure de la population selon la langue->http://2001.ukrcensus.gov.ua/eng/results/general/language/] : chaque citoyen avait la possibilité de déclarer quelle était sa langue maternelle : parmi les 78,8 % qui se sont identifiés comme Ukrainiens, 14,8 % ont déclaré que leur langue maternelle était le russe (et 85,2 l'ukrainien). Parmi les 17,3 % qui se sont identifiés comme Russes, 3,9 % ont déclaré que leur langue maternelle était l'ukrainien (95,9 le russe).
+
+Et enfin, les chiffres de la [Division population du département des affaires économiques et sociales des Nations unies->http://esa.un.org/unpd/wpp/unpp/panel_population.htm] permettent de remettre dans le contexte démographique général l'évolution de ces pourcentages : la population ukrainienne est passée de 51,6~millions d'habitants en 1990 à 49~millions en 2001 ; c'est une baisse vraiment considérable.
+
+<https://farm8.staticflickr.com/7368/13943679678_24cb0d4048_c.jpg size=original>
+
+Pour télécharger les statistiques et les fichiers cartographiques, produire votre propre carte (et éventuellement me la renvoyer...), c'est ici :
+|{{Fichier statistique :}} |<doc3|left>|
+|{{Fichier vecteur de la carte des nationalités :}} |<doc4|left>|
+|{{Carte d'Ukraine muette :}} |<doc5|left>|
+
+Et si vous souhaitez débattre ou présenter des documents en relation avec cet expérimentation, vous pouvez le faire en vous connectant sur seenthis.net : d'autres cartes d'Ukraine multinationales [ici->http://seenthis.net/messages/254758]
+
+
+--------------------------
+
+PS: Si vous souhaitez donner des informations sur le même sujet, commenter, utiliser ces documents ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 26 août 2014 12:30

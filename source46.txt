@@ -1,0 +1,252 @@
+
+--------------------------
+
+TITRE:
+Le transport maritime et les rivages de la mer
+
+--------------------------
+
+AUTEUR: 
+- Jean-Marie Miossec
+
+--------------------------
+
+CHAPO:
+<h4 class="text-right">{par Jean-Marie Miossec}</h4>
+<h5 class="text-right">Professeur à l'université Paul Valéry-Montpellier </h5>
+
+
+
+
+--------------------------
+TEXTE:
+
+<h2>Mer invisible, mer nourricière</h2>
+
+L’événement est passé inaperçu, comme souvent en France lorsqu’il s’agit des « choses de la mer ». Le 4 juin 2013, la compagnie internationale CMA-CGM (troisième opérateur mondial de transport maritime par conteneurs, environ 10 % du marché) inaugurait son porte-conteneurs « Jules Verne », à ce jour le plus grand du monde, et en profitait pour fêter son trente-cinquième anniversaire. François Hollande, en chemin pour l'inauguration de « Marseille, capitale de la culture 2013 »,  avait même fait une rapide escale pour prononcer un discours (très) rapide et (fort) convenu.
+
+<https://farm6.staticflickr.com/5555/14900216880_b421d95bf1_o_d.jpg size=original class=fullwidth title="Transport par conteneurs en 2010" caption="Par Philippe Rekacewicz (carte extraite du rapport « UNOSAT Global Report on Maritime Piracy, a geospatial analysis 1995-2013)">
+
+Cet événement n'a guère été couvert par les médias nationaux. Seule la revue {Esprit} a livré un cahier sur [« la mondialisation par la mer »->http://www.esprit.presse.fr archive/review/detail.php?code=2013_6] ; Emmanuel Desclèves y explique : {« Quand on regarde la télévision en Grande Bretagne, en Norvège ou au Portugal, les thèmes liés à la mer y sont omniprésents. »}
+
+En France, selon le mot d’Eric Tabarly, {« la mer est ce que l’on trouve derrière soi lorsqu’on regarde la plage ».} Mais dans l’interview de Jean Viard, vice-président de la communauté urbaine Marseille-Provence-Métropole, qui se considère comme « l’homme-clef du projet du Vieux Port », pas un mot sur la CMA-CGM, principal opérateur privé de la ville-port…
+
+L’économie maritime irrigue le monde depuis la plus haute Antiquité avec les premières thalassocraties, phéniciennes, carthaginoises, étrusques, grecques (dont Phocée) et extrêmes orientales. La mer est doublement nourricière, non seulement par l’apport de ses ressources halieutiques, mais surtout par l’acheminement sur toutes les mers du globe, des produits nécessaires aux sociétés humaines. C’est la mer qui « porte » la quasi totalité du commerce international de marchandises : alimentation, vêtements, cosmétiques, tabac, électroménager, téléphones, ordinateurs, climatiseurs, quincaillerie, énergie, véhicules, ameublement, matériaux de construction, panneaux solaires… presque tout vient par voie de mer.
+
+<h2>Gigantisme et standardisation</h2>
+
+L’histoire maritime du monde est une illustration de l’adaptation permanente des hommes aux mutations. Les techniques et les outils de navigation, le droit de la mer et des littoraux, les sociétés ripuaires [[André Vigarié, « L’Europe ripuaire », Cahiers de Sociologie économique, 1972.]], les conditions de travail du personnel navigant, les navires, les ports et villes-ports [[Jean-Paul Rodrigue, {The Geography of Transport System}, Routledge, 2013.]] n’ont cessé de se modifier alors que mers et océans prenaient de plus en plus de place dans le fonctionnement de l'économie de plus en plus mondialisée [[Jacques Guillaume, {Les transports maritimes dans la mondialisation}, L’Harmattan, 2008.]].
+
+<https://farm4.staticflickr.com/3882/15076623525_30bb957f6c_k_d.jpg size=medium title="Évolution du transport maritime, 1950-2014" caption="Source : Images économiques du monde (publication annuelle) ; Journal de la Marine Marchande.">
+
+Avec l’orientalisation du monde -- l’essor japonais, celui des « dragons » et l’éveil de la Chine --, le centre de gravité du monde a basculé vers les rivages pacifiques de l’Asie. L’allongement des échanges sur les faisceaux Europe--Asie, Asie--Amérique, Moyen-Orient--Europe et Asie d'une part, et l’accroissement de la demande en énergie, minerais et bien d’usage et de consommation d'autre part ont « précipité » deux révolutions de la circulation maritime : le gigantisme et la standardisation [[Christian Verlaque, {Géographie des transports maritimes}, Doin, 1975.]].
+
+La réponse à la très rapide évolution du transport maritime a été la spécialisation (pétroliers, minéraliers, porte-conteneurs, etc.) et le gigantisme. En 1960, la flotte pétrolière se satisfaisait de navires de 10~000 à 20~000~tonnes de port en lourd~(TPL) ; les Very Large Crude Carrier (VLCC) de 300~000~TPL apparaissent en 1965, les Ultra Large Crude Carrier (ULCC) pouvant atteindre 550~000~TPL dès 1969.
+
+Dans le domaine des croisières, l’{Oasis of the Seas} de la Royal Caribbean Cruise est une véritable ville flottante de 220~000~tonneaux de jauge brute~(TJB) qui peut transporter 5~400~passagers et 2~000~membres d’équipage. Dans les années 1960, les porte-conteneurs chargeaient environ 1~000~unités d’EVP (équivalent vingt pieds, en anglais TEU : twenty equivalent unit). La dernière génération des navires de la compagnie danoise Maersk en emporte plus de 18~000 !
+
+Les ports ont suivi cette double tendance en glissant des estuaires et des havres exigus (et à faible tirant d’eau) vers des plate-formes artificialisées, livrant des espaces de milliers d’hectares, dévolus au stockage et à l’implantation d’usines, étirant leur linéaire de quais, se dotant de bassins en eau profonde et en multipliant les engins de levage, de pompage et d’évacuation hyperpuissants susceptibles d’accueillir et de desservir des navires de 12 à 20~mètres de tirant d’eau (de plus de 30 pour les pétroliers géants). Les terminaux -- pétroliers, gaziers, conteneurs --, gérés par des villes-ports ou concédés (de type {Built Operate Transfer}, BOT) à des opérateurs privés se sont ainsi développés de par le monde.
+
+<h2>Mettre le globe en boîte</h2>
+
+« L’unitisation » de charge, sous la forme de boîtes (l’EVP mesure 5,90~m × 2,35~m × 2,39~m, ce qui donne un volume de 33,1~mètres cubes) susceptibles d’être empilées et clavetées, suppose la fabrication de navires en forme d’auge. En coupe, c’est un mur carré de 21~boîtes les unes sur les autres et de 21~rangées de boîtes juxtaposées : en longueur, il s'agit de 46~parallélépipèdes [[Le nombre total de boîtes n’est pas égal aux 21~166 théoriques, car vers la proue, la capacité de cale est réduite de l’espace dévolu à la machinerie et de la courbure de la coque. Sur le pont, vers la proue, les EVP sont en dégradé pour ménager la visibilité à partir de la passerelle.]]. C'est, en d'autres termes, {« une boîte de sucre en morceaux géante ».}
+
+<https://farm6.staticflickr.com/5575/14897282350_2e22889269_o_d.jpg size=original class=fullwidth title="Profil et coupe du CMA-CGM Marco Polo" caption="Reproduit avec l'aimable autorisation de la CMA-CGM">
+
+Dans les temps anciens, la même logique avait contribué au modelage de navires effilés et galbés, adaptés à l’agencement d’élégantes amphores, conteneurs de l’époque. Déjà l'éternelle bataille entre la droite et la courbe...
+
+Désormais, le transport par conteneurs ressemble à un système de « poupées russes » avec une technique de rangement par palettes -- elles aussi standardisées -- pour optimiser l’occupation de l’espace. Si l’on remonte la chaîne depuis l’entrepôt dans les zones dites « dynamiques » : les cartons ou produits stockés sont « colisés » sur les palettes par PCB (produit par combien) ou SPCB (sous-produit par combien) ; ces palettes sont stockées soit au sol, soit sur des racks construits à la dimension standard des palettes ; les palettes sont « filmées » (certaines peuvent être gerbées, c'est-à-dire superposées les unes sur les autres), puis disposées dans les conteneurs, lesquels sont finalement empilés dans un porte-conteneurs.
+
+Le fonctionnement d’un jeu de « Lego » aussi complexe implique une organisation logistique hors de pair. La traçabilité nécessite l’élaboration de manifestes standardisés : certificat de circulation des marchandises (de type EUR.1) visé par les douanes du pays de provenance, {« bill of loading »}, facture, liste de colisage (packing list). La programmation de l’implantation des boîtes à bord doit se faire en fonction de leur poids, de leur destination pour garantir un déchargement rapide, de leur type (marchandise sous température dirigée, marchandise dangereuse). Le rechargement doit suivre les mêmes principes d’ordonnancement. 
+
+<aside class=box>
+
+Quelques références à consulter :
+
+- Le magnifique documentaire [« The forgotten space »-> http://www.theforgottenspace.net/] (2010).
+
+- Le reportage de la BBC Four [« The box that changed britain »->http://www.bbc.co.uk/programmes/b00scpzn], 2013.
+
+- Le livre téléchargeable en ligne [« Soudain, un inconnu vous offre un conteneur : transport maritime & production mondiale »->http://reposito.internetdown.org/cahiers/transport-maritime/], 2012.
+
+- Le livre [{The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger}->http://press.princeton.edu/titles/9383.html], par Marc Levinson, Princeton University Press, 2006.
+
+- La brochure [«Du supermarché à la tombe, en passant par les navires
+porte-conteneurs»->http://sortirdeleconomie.ouvaton.org] (tout en bas de la page, ou télécharger le fichier pdf directement [ici->http://sortirdeleconomie.ouvaton.org/brochure-porte-conteneurs.pdf]) Le transport maritime conteneurisé, épine dorsale de l’invention de la société économique mondialisée. À télécharger sur le site « Sortir de l'économie » (Bulletin critique de la machine-travail planétaire).
+
+- A voir éventuellement, le film {Capitaine Phillips}, réalisé en 2013 par Paul Greengrass avec dans les rôles principaux Tom Hawks et Barkhad Abdi. Le film est une version « très romancée» de l'histoire réelle de la prise en otage, en 2009, du porte conteneur {Maersk Alabama} par des pirates somaliens. Le {Maersk Alabama} assurait la liaison Salalah-Djibouti-Mombasa en tant que « feeder » (porte-conteneurs « nourriciers ») du hub de Salalah. Mais les membres de l'équipage ont publiquement expliqué que, dans le film, la réalité avait été profondément travestie. Lire à cet effet [Tom Hanks, Captain Phillips and the “True Story” of Somali Piracy->http://africasacountry.com/tom-hanks-captain-phillips-and-the-true-story-of-somali-piracy/] et [Crew members: “Captain Phillips” is one big lie->http://nypost.com/2013/10/13/crew-members-deny-captain-phillips-heroism/].
+
+</aside>
+
+On a du mal à imaginer la complexité et la rigueur informatique de ce méga-agencement qui doit répondre, en amont comme en aval, aux logiques spécifiques de la chaine logistique dans son ensemble (acheminement et évacuation des EVP par route, fer, air et par de plus petits porte-conteneurs « nourriciers »). 
+
+Ce ne sont donc plus de fines silhouettes hydrodynamiques, tels les clippers d’antan, qui relient aujourd’hui les rivages du monde, mais des boîtes géantes qui contiennent elles-mêmes énormément de boîtes plus petites. Elles circulent sur les mers mondialisées ainsi « mises en boîte ».
+
+<https://farm4.staticflickr.com/3918/14918136940_499d5b1778_o_d.jpg
+ size=medium title="La quadrature du cercle : la globalisation en boite" caption="Illustration de Jean-Marie Miossec">
+
+La valeur de ces « cavernes d’Ali Baba » flottantes atteint des sommets. Un porte-conteneurs géant transporte, à lui seul et à dix-sept nœuds en moyenne… environ un milliard d’euros. Or, les trois grands du transport cellulaire, le danois APM Maersk [[Antoine Frémont, « Maersk et le conteneur, l’émergence d’un réseau mondial », {in} Guillaume, 2008, pp 124-134.]], l’italo-suisse MSC et le français CMA-CGM possèdent ou affrètent 1~496~navires sur les 4~976~porte-conteneurs en circulation sur l’océan (chiffres d'août~2013). Leur part en VLCS ({Very Large Cellular Ships} : porte-conteneurs de 7~500 à 10~000~EVP) et ULCS ({Ultra Large Cellular Ships} : porte-conteneurs de plus de 10~000~EVP) est encore supérieure, ce qui s’explique puisqu’ils sont les premiers à assurer les lignes « tour du monde » ou de rangées à rangées, dont les trois lignes clés du globe sont Asie-Europe, trans pacifique et transatlantique.
+
+Ce transport de marchandises est (unitairement) très peu coûteux : à titre d’exemple, modulable selon les lignes et les transporteurs, en 2013, le transport d’un conteneur chargé de 2~697~colis totalisant 27~tonnes et occupant 60~mètres cubes (environ 2 EVP) revient à moins de mille~euros sur un parcours de quelque 3~500~km, soit 1~centime la tonne par kilomètre.
+
+Ce coût modique se répartit ainsi :
+
+- THC (Terminal Handling Charge : frais de la manutention du conteneur) : 18,65%
+- Frais fixes : 8,29%
+- Inspection fee : 4,15%
+- ISPS (International Ship and Port Security : taxe relative au Code international pour la sûreté des navires et des installations) : 1,55%
+- Positionnement conteneurs : 43,53%
+- Formalités en douane : 10,36%
+- Taxable (à 20% - depuis le 1er janvier 2014) : 10,57%
+- Autres taxes : 2,90%  
+
+<p class=small>Source : enquête personnelle de l'auteur auprès d’une société d’import-export de la région toulonnaise.</p>
+
+<h2>Du haut de la passerelle : l’archipel vrai</h2>
+
+La planète bleue est vue, du haut de la passerelle (au 24ème étage), comme un archipel vrai [[L’archipel (archi-pelagos), la mer Egée des Grecs, est une grande nappe liquide constellée d’îles. Le terme désigne aujourd'hui « une série d’îles, une poly-nésie » (de {nesos}, île). Le monde est, sans doute, structuré en archipel, non pas dans le sens commun du terme mais plutôt à l’inverse selon l’étymologie.]], c’est-à-dire une nappe liquide saupoudrée d’îles et de « têtes de terre » (Penn ar Bed).
+
+Cinq « îles » majeures structurent cet archipel mondial irrigué par les routes maritimes :
+
+- Ce qu’il convient d’appeler la Rangée Nord ({Northern Range} en Anglais, mais on utilise aussi l'expression «façade»), témoignage de la réussite des rivages du Nord-Ouest de l’Europe, du Havre et Rouen à Hambourg, avec Dunkerque, Zeebrugge, Anvers, Rotterdam, Amsterdam, Brême et Felixstowe, Londres et Southampton.
+
+- Lui fait face, outre-Atlantique, la Megalopolis américaine [[Jean  Gottman, {Megalopolis}, MIT Press, 1961.]], bien affaiblie aujourd’hui.
+
+D’autres méga-interfaces ont émergé dans le dernier demi-siècle :
+
+- La mégalopolis japonaise (de Tokyo à Osaka);
+
+- Les rangées orientales, chinoises (Chine continentale et Taïwan) et coréennes, qui font face à...
+
+- ...la Côte Ouest américaine, elle aussi en croissance.
+
+Les ports de ces « rangées », parmi les premiers du monde, sont des ports d’hinterland, innervant leurs arrière-pays continentaux. La Rangée Nord illustre, tout comme la rangée chinoise, les connexions avec un avant-pays marin (foreland) et un hinterland diversifié : la puissance des ports scaldéo-rhénans [[André Vigarié, {Les grands ports de commerce de la Seine au Rhin} (avec un atlas), Sabri, 1964.]] est due en grande partie à leur bonne position comme tête de terre, à partir de l’Atlantique, de la Manche et de la Mer du Nord et aux relations multimodales (fleuve, rail, route, tubes, air) avec un intérieur européen puissant [[Jean-Marie Miossec, {Rivages d’Europe. Personnalité et avenir d’un continent ouvert}, L’Harmattan, 2013.]] ; Hambourg, depuis peu, récupère et étend son hinterland en Europe centrale tandis que le Havre, en bout de chaîne, peine à dynamiser l’axe de la Seine.
+
+Ces ports sont aussi des ports de transbordement, des ports off-shore parmi lesquels une partie de la marchandise qui transite est redistribuée vers d’autres horizons maritimes. Tous les grands opérateurs mondiaux s’y pressent. Mais pour relier ces ensembles séparés les uns des autres par des milliers de milles (le mille nautique mesure 1~852~mètres), il ne suffisait pas de créer des lignes directes. Une nouvelle organisation de l’espace maritime mondial s’est mise en place dans les vingt dernières années, celle de ce que j’appelle les « roues de la fortune » (dans le sens de « fortune de mer »).
+
+<h2>«Les roues de la fortune»</h2>
+
+En analyse spatiale des réseaux, trois solutions existent pour relier deux points :
+- la ligne directe, qui minimise la distance et maximise les coûts ;
+- la ligne en zig-zag qui relie tous les points intermédiaires, maximisant la distance et minimisant les coûts ;
+- un niveau intermédiaire avec un ou quelques nœuds, jalons de la voie principale, et nourrissant en étoile leur environnement. 
+
+Ainsi s’échelonnent des ports d’éclatement à très forte fonction de transbordement, parfois sans le moindre hinterland : c’est la logique du {« hub and spoke »}, du nœud et des rayons des « roues de la fortune ».
+
+S’implanter sur une route maritime mondiale en un lieu où l’on peut redistribuer à la ronde une partie du transit et nourrir, à partir de cet environnement, l’axe majeur, est la stratégie adoptée par tous les grands transporteurs. Cet axe majeur aimanté par les méga-interfaces est contraint par les quatre passages intercontinentaux obligés : Panama, Gibraltar, Suez et Malacca. Aux cinq méga-rangées se sont donc ajoutées cinq « roues de la fortune » affichant chacune plusieurs millions voire plusieurs dizaines de millions d’EVP par an.
+
+La plus importante est celle du détroit de Malacca avec trois hubs majeurs : Singapour (où opère principalement MSC), Tanjung Pelepas (Maersk) et Port Kelang (CMA-CGM).
+
+Suivent l’aire de la péninsule arabique et celle du golfe arabo-persique : Salalah (Maersk), Khor Fakkan (CMA-CGM) et Jebal Ali (MSC).
+
+La Méditerranée comporte deux polarisations de « roues de la fortune » :
+- l'une en Méditerranée centrale et orientale avec Malte (CMA-CGM), Gioia Tauro (Maersk et MSC), Port Said, et, demain peut-être, Le Pirée (Cosco). En 2008 China Ocean Shipping (Group) Company (COSCO), cinquième armateur cellulaire mondial après les trois européens et le taïwanais Evergreen, a obtenu pour 35~ans, contre 3,8~milliards d’euros, la concession du terminal~II du port du Pirée. Le trafic qui avait chuté à moins de 500~000~EVP en 2008 a atteint près de 2,5~millions d’EVP en 2013. Avec la concession du terminal~III au même opérateur, en novembre 2013, les prévisions tablent sur 4~750~millions d’EVP en 2017.
+- l’autre en Méditerranée occidentale avec Valencia (MSC), Algeciras (Maersk) et Tanger Med (CMA-CGM et Maersk).
+
+- Enfin, une dernière en Caraïbe-isthme américain avec Miami (Maersk), Kingston (CMA-CGM), Freeport Bahamas (MSC) et Panama.
+
+<https://farm4.staticflickr.com/3876/15083921245_acbe1a333a_k_d.jpg size=large title="Le hub de Malte au cœur de la «roue de la fortune» de la Méditerranée centrale et orientale">
+
+La ligne « amiral » de la CMA-CGM, la [FAL~1 (French Asia Line~1)->http://www.cma-cgm.fr/produits-services/lignes-maritimes/flyer/FAL] symbolise cette « colonne vertébrale » du monde. C’est un circuit continu Shanghai-Hambourg-Shanghai, avec au départ du premier port du monde (Shanghai, 32 millions d'EVP), un cabotage en Chine du Sud, un « toucher » à Port Kelang en Malaisie, puis une traversée directe jusqu’à Tanger-Med puis Southampton et Hambourg et, en retour (ou à l’aller), un cabotage le long de la rangée et une traversée directe vers les trois roues de la fortune de Malte, Khor Fakkan (avec un crochet à Jebel Ali) et Port Kelang avec un aboutissement à Ningbo, et enfin Shanghai.
+
+En partenariat avec d’autres armateurs, le géant français des mers y affecte ses plus gros navires sur 7 services en parallèle entre Asie et Europe du Nord. Sa capacité hebdomadaire en sortie d’Asie est de plus de 20~000~EVP chaque semaine et un trafic annuel de l’ordre de la moitié du trafic d’ensemble de la flotte.
+
+<https://farm4.staticflickr.com/3912/14917532137_be11e26505_k_d.jpg size=large title="La «French Asia Line 1» de la CMA-CGM">
+
+L’économie-monde, en basculant vers ce que les Européens appellent « l’Extrême-Orient », tire vers l’est les relais essentiels à son fonctionnement : le trafic des « roues de la fortune » diminue au fur et à mesure que l’on va vers l’ouest. La circulation transatlantique, jadis première voie de circulation, est aujourd’hui déclassée.
+
+Ce basculement du monde impose un nouveau regard, une nouvelle représentation, traduite ici par une carte élaborée avec l’aire Malacca, point central et pivot du monde.
+
+<https://farm6.staticflickr.com/5554/14897291050_b5b2f9d260_o_d.jpg size=original class=fullwidth title="Circulation maritime et l’organisation de l’espace-Monde" caption="Carte de Jean-Marie Miossec">
+
+Les lignes Asie-Europe-Asie expriment un renouvellement complet
+des pratiques de transaction, d’un cosmopolitisme accentué. Elles confortent les territoires qui s’en approchent. Elles sont le résultat de l’action menée par les opérateurs depuis trois décennies : ouverture sur l’Asie et mise en place des grands terminaux de transbordement. La structuration n’est sans doute pas achevée mais elle est déjà bien élaborée. On se tourne maintenant vers des horizons pionniers, des avants-pays marins de défrichement, des marchés stratégiques de « niche » pour utiliser la terminologie des opérateurs globaux.
+
+L’hémisphère Sud et, au delà même, tous les territoires au sud du tropique du Cancer, sauf en Asie du Sud-Est insulaire, sont en grande partie à l’écart d’une globalisation basculée au septentrion. L’ouverture des «Suds» s’effectue timidement par des chapelets de ports desservis par cabotage.
+
+Deux grandes séries de lignes se font face de part et d’autre de l’Atlantique central et méridional : l’Amérique du Sud, du Venezuela à l’Argentine, et l’Afrique, du Sénégal à l’Afrique du Sud. De part et d’autre se trouvent des dizaines de ports aux structures souvent mal adaptées, aux techniques peu satisfaisantes, médiocrement gérés et sans bonne connexion avec un hinterland qui demeure presque exclusivement national voire infra-national. Les volets pacifique de l’Amérique du Sud et indien de l’Afrique orientale sont encore moins bien desservis. Seule exception, le harnachement du littoral oriental de l’Australie.
+
+Mais les signes d’ouverture se multiplient avec des lignes dont les fréquence et les capacités sont encore relativement réduites, mais des « branchements » à l’espace-monde sont désormais significatifs à partir des « roues de la fortune ».
+
+Il en va ainsi, par exemple, des lignes Asie-côte Est de l’Amérique du Sud, depuis les rangées orientales jusqu’au Brésil et au Rio de la Plata via Port Kelang et Durban/Port Elizabeth (Ngqura) et Walvis Bay, comme des lignes Asie-côte Ouest des Amériques du centre et du Sud, depuis la mégalopolis japonaise et les rangées orientales, avec un rebond à Balboa.
+
+Le monde est ainsi structuré autour d’un axe vertébral en chapelet, desservant au nord les méga-interfaces, des sous-ensembles en transition tout au long de son parcours est-ouest est (east westbound), et, au sud, des « pénétrantes de défrichement ». Des cinq pays émergents, seule la Chine s’est totalement intégrée au système. La Russie et l'Inde demeurent encore peu branchées malgré la puissance du transit dans l’Océan Indien.
+
+Bien que très éloignés, l'Afrique du Sud et le Brésil ont commencé à se connecter, et l’Atlantique Sud, jadis polarisé par les États-Unis et l’Europe, se branche aussi à partir de Malacca. Viendra le jour où le seuil d’émergence d’un hub sud-atlantique sera atteint. Sur la ride médio-Atlantique, l’île d’Ascension est en position idéale, médiane, comme Malte en Méditerranée, mais son choix est peu probable. Lors de son voyage autour du monde, Darwin parcourut l’île du 19~juillet au 6~août~1836, et il notait déjà :
+
+<blockquote>
+{« Les seuls habitants sont des troupes de marine […]. Il n’y a pas un seul particulier dans l’île »}
+
+Charles Darwin, {Voyage aux origines de l’espèce. Voyage d’un naturaliste autour du monde}, Cercle du bibliophile, 1845.
+</blockquote>
+
+Possession britannique utilisée comme base arrière lors du conflit des Malouines entre l’Argentine et le Royaume-Uni (1982), l’île d’Ascension est une des bases (américaine et anglaise) de surveillance électronique planétaire. L’accès à cette « île-base militaire » est strictement contrôlé : les permis d'entrer sont délivrés exclusivement par la RAF depuis le Royaume-Uni ou par l’US Air Force à partir de la base aérienne Patrick en Floride…
+
+En provenance de Malacca, de Walvis Bay à San Pedro, voire Dakar, plusieurs autres sites seraient possibles sous réserve des aménités logistiques, économiques et politiques nécessaires, à moins que le choix ne se porte sur un port brésilien…
+
+L’hémisphère sud (Australie, Nouvelle Zélande, Brésil, Argentine, Afrique du Sud) monte en puissance, et tôt ou tard apparaîtront sur les rivages de ces mers australes une ou plusieurs « roues de la fortune » ; le pronostic de Darwin est, aujourd’hui, encore plus vrai qu’hier .
+
+<blockquote>
+{« Quand on considère l’état actuel de l’hémisphère austral, on ne peut qu’avoir le plus grand espoir relativement à ses progrès futurs »}
+</blockquote>
+<https://farm4.staticflickr.com/3866/14897368707_1911061ce1_o_d.jpg size=large title="Schématisation de l’organisation de l’espace maritime mondial" caption="Chorême de Jean-Marie Miossec">
+
+<h2>Le risque de mer : à la recherche de la combinaison la plus rentable</h2>
+
+L’organisation du transport maritime apparaît sans faille. Aux sièges sociaux des entreprises et dans les représentations sur le terrain s’affairent des dizaines de milliers d'employés, de toutes nationalités. Telle une tour de contrôle aérienne, au 12e~étage du siège de la CMA-CGM, le {« Fleet Navigation Center »}, où opèrent 24~heures sur 24 plusieurs commandants de navire, assure en direct le suivi et toute assistance aux navires de la flotte. La « roue de la fortune » peut tourner, mais la fortune de mer, par définition, connaît ses aléas. 
+
+La mer et le commerce maritime sont le domaine du risque. Tout comme la {fortuna}, le risque (dont l’origine vraisemblable vient de l’arabe «riz»), est une providence, une chance, qui peut être bonne ou mauvaise. Un navire solide, une société maritime à capital puissant et dégageant des bénéfices sont de « bons risques ». Mais les évolutions économiques, les aléas hydro-climatiques, les violences politiques, les conflits armés et la piraterie altèrent le fonctionnement d’une circulation qui ne se fait pas toujours sur une mer d’huile.
+
+------------------
+
+<h4 class="text-left">À consulter : [->48]</h4>
+<p class=small>{par Philippe Rekacewicz}</p>
+
+<https://farm4.staticflickr.com/3896/15084209481_bbd20f235b_b_d.jpg>
+
+------------------
+
+Conforter la structuration des firmes est un premier impératif, qui se traduit par des associations principalement horizontales, par rachat ou association avec d’autres opérateurs. Il n’en reste pas moins que la perturbation majeure provient des turbulences économiques. Le commerce mondial ne cesse d’augmenter mais en dents de scie. Or, la programmation de la modernisation des flottes ne peut anticiper les creux de vague brutaux qui génèrent une surcapacité (selon Barry Rogliano Sales, en 2013, la capacité inutilisée était de 810~000~EVP).
+
+L’adaptation passe par le désarmement de centaines de navires et par le ralentissement de la circulation en adoptant le {slow steaming} (Alphaliner applique les niveaux suivants de réduction de la vitesse : 24~nœuds, pleine vitesse, 21~noeuds, première réduction, 18~nœuds, Extra Slow Steaming (ESS), 15~nœuds, Super Slow Steaming (SSS), ce qui permet de réaliser jusqu’à 57 tonnes/jour d’économie de carburant et une diminution de rejets de CO<sub>2</sub> déjà limités (70~CO<sub>2</sub>g/EVP-km pour les flottes équipées des dernières technologies environnementales).
+
+Elle passe aussi par la fermeture temporaire ou définitive de lignes non rentables et par la solidarité entre armateurs travaillant au sein de conférences (sur les marchés non européens). Ainsi depuis l’aube de la conteneurisation les armateurs ont-ils adopté des accords d’exploitation en commun de type VSA (Vessel Sharing Agreement) et SCA (Slot Charter Agreement) sur certaines lignes : la mise en commun de moyens permet la démultiplication de l’offre commerciale pour une mise de fonds réduite.
+
+La navigation s’ancre dans des ports et ceux-ci ont généré des villes. Mais la symbiose ville-port, opérationnelle jadis [[Jean-François Gay, « Ports, Places, Polis, Villes et Ports », Préfecture de Région et Conseil Régional de Haute-Normandie, 1988.]], s’est disloquée. Les terminaux, en quête de vastes espaces et de chaine logistique sans corset se sont éloignés des sites initiaux, le « patriciat » des villes-ports a cédé la place à des acteurs locaux, nationaux et internationaux. 
+
+<quote>
+
+<h2>Réconcilier les villes et leurs ports : l'exemple de Marseille</h2>
+
+Les villes ont tourné le dos aux choses de la mer. Sur les plans urbanistique, économique, social et de la gouvernance, les temporalités ne sont pas les mêmes, la sphère privée et l’action publique, menée par des opérateurs aux finalités parfois divergentes, ne poursuivent pas les mêmes objectifs. Nombreuses sont les villes-ports à engager une politique de restructuration des fronts d’eau (water front) [[Martin Pries, « Waterfronts im Wandel », Mitteilungen des Geographischen Gesellschaft in Hamburg, 2008.]] après avoir vu s’évaporer leur activité portuaire traditionnelle au profit d’installations géantes, dévoreuses d’espaces qu’elles n’étaient plus en mesure d’offrir.
+
+A Marseille, la restructuration du Vieux Port et des bassins de la Joliette, obsolètes, naguère constellés de friches, passe par une politique de rénovation urbaine et portuaire. Lancé en 1995, le projet Euroméditerranée est une opération majeure de « réhabilitation-requalification-rénovation » qui concerne 480~hectares, à densifier et à équiper, depuis la gare Saint-Charles et la porte d’Aix jusqu’à l’ensemble du littoral Nord, du Vieux Port à l’Estaque. 
+
+À côté de multiples chantiers d’amélioration de l’habitat, qui nécessitent une gouvernance tout en doigté sur des tissus sociaux fragilisés, Euromed commence à aligner des résultats sur le plan de l’urbanisme et des infrastructures. Les autoroutes ont été enterrées, dégageant la cathédrale et l’esplanade de la Major, les docks ont été entièrement rénovés, la nouvelle silhouette du front de mer de Marseille se dessine avec les tours de bureaux de l’Euromed Center en construction à Arenc.
+
+Le tertiaire culturel a été conforté par l’implantation, au pied du fort Saint-Jean, rénové, du MuCEM, le Musée des Civilisations de l’Europe et de la Méditerranée, inauguré dans le cadre de Marseille-Provence 2013. Grand cube de béton voilé sur deux pans d’une résille noire qui lui donne l’apparence de la Kaaba et qui jure avec les édifices voisins (Fort Saint-Jean, La Major, Musée Regards de Provence, centre de congrès Villa Méditerranée), le MuCEM est relié au quartier du Panier et au Vieux Port par des passerelles à l’esthétique controversée mais qui ont le mérite de l’ouvrir à la ville.
+
+L’ouverture du port à la ville (un premier centre commercial vient de s’y implanter) et des digues à la promenade des Marseillais est une demande en cours.
+
+La réalisation majeure qui se dresse actuellement dans la silhouette de la ville, c’est la tour de la CMA-CGM, siège de l’entreprise, conçue par l’architecte irako-britannique Zaha Hadid et livrée en 2010 : les 147~mètres de ce gratte-ciel deviennent presque le répondant de la Bonne Mère, la basilique de Marseille... La tour CMA-CGM se dresse dans un quartier encore en pleine métamorphose, face à l’Hôpital Nord, symbole des quartiers fruits de l’immigration et du social, face à Notre Dame de la Garde.
+
+</quote>
+
+<h2>La primauté des littoraux, l’importance des choses de la mer</h2>
+
+Le contact mer-terre ne se résume pas aux organismes portuaires et aux villes-ports. Il ne s’agit que de points, de nœuds, sur un linéaire. L’attrait des rivages par l’urbanisation et l’humanisation pérennes, par le tourisme et l’occupation temporaire de loisirs, est devenu, au XXe siècle, un fait de civilisation généralisé à l’ensemble des pays maritimes du monde. Trois chiffres clés : la frange littorale occupe, dans le monde, 10~% des terres émergées, concentre 25% de l’humanité, et réalise 40~% du produit économique mondial.
+
+Cet autre basculement avec ses conséquences sur la dynamique des territoires et la modification de leur environnement (érosion des plages, atteinte à la biodiversité, menace sur les zones humides) et sur la stratification des sociétés nécessiterait une politique littorale et de la mer.
+
+Le bon fonctionnement des territoires littoraux, ces minces liserés côtiers, où se conjuguent, dans des milieux étroits et fragiles, sans réelle articulation, des activités essentielles et une demande sociale forte, attend toujours sa gouvernance. 
+
+
+--------------------------
+
+PS: Si vous souhaitez commenter, utiliser le texte ou les cartes de cet article, ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 20 octobre 2014 11:28

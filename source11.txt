@@ -1,0 +1,229 @@
+
+--------------------------
+
+TITRE:
+La guerre et le droit, inventaire cartographique
+
+--------------------------
+
+AUTEUR: 
+- Agnès Stienne
+
+--------------------------
+
+CHAPO:
+C’est vers la fin du XIXe siècle qu'apparaissent les premiers traités internationaux visant à protéger les populations civiles lors des conflits armés : droit pénal, protection des personnes, interdictions d'armes spécifiques, méthodes de combat. Depuis lors, le constat des atrocités des conflits armés a conduit les nations à inventer une multitude d'instruments légaux visant à endiguer les actions qui ne servent pas directement les buts de la guerre, ou jugées contraires à un respect minimal de l'humain. En onze cartes, Agnès Stienne propose ci-dessous un grand tour d'horizon des accords internationaux destinés à protéger les civils dans les conflits armés.
+
+<h4 class="text-right">{par Agnès Stienne}</h4>
+<h5 class="text-right">artiste</h5>
+
+
+--------------------------
+TEXTE:
+
+Cet article est le troisième volet d'un triptyque sur la guerre, réalisé en 2010 et mis à jour en 2014 pour le nouveau « Visions cartographiques ». Les deux premiers volets se trouvent dans nos archives :
+
+-[Viols en temps de guerre, le silence et l'impunité->
+http://blog.mondediplo.net/2011-02-14-Viols-en-temps-de-guerre-le-silence-et-l-impunite] publié en février 2011.
+
+-[Ces enfances qu’on (dés)arme->
+http://blog.mondediplo.net/2011-08-05-Ces-enfances-qu-on-des-arme] publié en août 2011.
+
+<h2>La justice et le règlement des différends</h2>
+
+La première Conférence de la Paix s’est tenue à l’initiative du Tsar de Russie, Nicolas II, le 29 juillet 1899 à La Haye. Elle réunit 26~pays, venus de quatre continents, déterminés à fonder une paix durable pour les peuples et d'en finir avec la course aux #armements. Elle se conclura sans accord sur la limitation des #armes, mais débouchera sur la création de la [Cour permanente d’arbitrage (CPA) pour le règlement pacifique des conflits internationaux entre États->http://www.pca-cpa.org/showpage.asp?pag_id=1026].  Son rôle sera de constituer des tribunaux d’arbitrage et de proposer des outils de règlement aux parties en conflit, tels que les bons offices et la médiation. 
+
+Un siècle plus tard, les compétences de la CPA sont bien loin de l'idée initiale : ses arbitrages sont prévus dans les traités bilatéraux d’investissement conclus entre États... En 1993, elle adopte le règlement facultatif pour l’arbitrage des différends entre deux parties dont l’une seulement est un État. Dorénavant, un État peut saisir l’institution contre une multinationale, mais l’expérience montre que c’est de plus en plus souvent l’inverse qui se produit.
+
+À l'origine, la CPA ne répondait que très partiellement à l'attente des États : elle ne prenait pas de décision juridictionnelle, ni n’infligeait de sanctions pénales. Avec le protocole d’adoption du Statut de la Cour permanente de justice internationale (CPJI) entrée en vigueur en 1921 sous l’égide de la Société des Nations (SDN) un premier pas est fait. Mais il sera de courte durée. Après la seconde #guerre mondiale, la SDN est dissoute et les États se prononcent en faveur de la création d’une institution internationale dont l'organe de justice, fondée sur les bases de la [CPJI->http://www.icj-cij.org/court/index.php?p1=1&p2=1&lang=fr], sera l'un des piliers.
+
+C'est la création de l’Organisation des #Nations_unies (ONU), de la Cour internationale de justice (CIJ) et du Conseil de sécurité. Tout État signant la Charte des Nations unies s’engage à se conformer aux décisions de la Cour. Composée de quinze juges élus pour un mandat de neuf ans par l’Assemblée générale de l'ONU et le Conseil de sécurité, elle peut, sur demande d’un ou plusieurs États, soit ouvrir une procédure contentieuse, soit donner un avis consultatif. Seuls les états sont justiciables : la Cour ne juge ni les personnes, ni les entreprises privées.
+
+Elle est sollicitée notamment pour régler des différends frontaliers, commerciaux ou juridiques. Si un État ne se soumet pas aux obligations imposées par une décision de la CIJ, le plaignant se réserve le droit de s’adresser au Conseil de sécurité qui décide des mesures pour faire exécuter l’arrêt.
+
+Le Conseil de sécurité joue un rôle incontournable dans le fonctionnement de l’ONU, que ce soit dans le cadre de la justice ou du règlement des conflits. Depuis sa création en 1945, l’organe exécutif de l’ONU se compose de cinq membres permanents — indéboulonnables — jouissant chacun d'un droit de veto : les États-Unis, le Royaume-Uni, la France, la Russie et la Chine. Ils sont « accompagnés » de dix membres élus pour deux ans — pour moitié renouvelée chaque année. 
+
+Ironie de l'histoire, les cinq membres permanents – dans lesquels on devrait reconnaître des modèles de vertu~— possèdent l'arme atomique et sont ceux qui dépensent le plus en armement, y compris en temps de crise ! Selon le [Stockholm International Peace Research Institute (SIPRI)->http://www.sipri.org/] en 2011 les dépenses militaires des États-Unis s'élevaient à 711~milliards de dollars, 143~pour la Chine, 71,9~pour la Russie, 62,7~pour le Royaume-Uni et enfin 62,5~pour la France, soit plus de 60 % du total mondial.
+
+Pour qu’une résolution du Conseil de sécurité soit adoptée, elle doit être votée par neuf membres au moins — permanents ou non —, sauf lors des crises importantes, pour lesquelles tous les membres permanents doivent sans exception donner leur voix : c’est la « [règle de l’unanimité des grandes puissances->http://www.un.org/french/docs/cs/] ». Tous les membres permanents ont utilisé à un moment ou à un autre leur droit de veto : Russie 124~fois, États-Unis 82~fois, Royaume-Uni 32~fois, France 18~fois et Chine 6~fois. (données février 2011).
+
+D'autre part, le Conseil de sécurité a autorité pour conduire une médiation, émettre des recommandations ou encore constituer des tribunaux compétents pour juger les criminels de guerre ou  criminels contre l’humanité. 
+
+Il faut revenir sur les décombres de la seconde guerre mondiale, en 1945, pour resituer ce qu'a été la constitution du premier tribunal international chargé d'examiner des crimes perpétrés lors de conflits armés. En vertu de l’[Accord de Londres->http://www.icrc.org/dih.nsf/52d68d14de6160e0c12563da005fdb1b/ef25b8f448034148c1256417004b1ce6?OpenDocument] signé par la France, le Royaume-Uni, les États-Unis et l’URSS, approuvé par la Commission des crimes de guerre des Nations unies, le Tribunal militaire international de Nuremberg jugera les criminels de guerre nazis. Les criminels ayant commis leurs actes sur un seul territoire seront jugés par les [tribunaux nationaux->http://fr.wikipedia.org/wiki/Proc%C3%A8s_de_Nuremberg#La_Commission_des_crimes_de_guerre_des_Nations_unies].
+
+Peu de temps après, en 1946, le commandant suprême des forces alliées, le général américain Douglas Mac Arthur, proclame la constitution du [Tribunal militaire international pour l’Extrême-Orient->http://fr.wikipedia.org/wiki/Tribunal_militaire_international_pour_l%27Extr%C3%AAme-Orient], qui lui jugera les criminels de guerre japonais. Il reçoit en cela le soutien du Royaume-Uni, de l’URSS, de la Chine, de la France, de l’Australie, du Canada et de la Commission des crimes de guerre des Nations unies. 
+
+Aucun tribunal n'a été constitué, en revanche, pour traduire en justice les criminel de guerre américains responsable des bombardements sur les villes de Nagasaki et d’Hiroshima au Japon. 
+
+Il faudra attendre cinquante ans pour que le Conseil de sécurité se prononce en faveur de la constitution d'une nouvelle instance pour juger des criminels de guerre ou contre l'humanité : celle du Tribunal pénal international pour l’ex-Yougoslavie en 1993 (résolution S/RES/808) puis celle du Tribunal pénal international pour le Rwanda en 1994 (résolution S/RES/955) respectivement établis à La Haye (Pays-Bas) et à Arusha (Tanzanie). Le Tribunal spécial pour la Sierra Leone est le fruit d’une coopération entre le Parlement de la Sierra Leone et le secrétaire général de l’ONU sur demande du Conseil de sécurité pour aider le pays à faire traduire en justice ses propres criminels.
+
+<https://farm3.staticflickr.com/2850/13713436295_1057b0f944_k.jpg size=original class=fullwidth caption="Le Conseil de sécurité de l'Organisation des Nations unies en 1945" credits="Toutes les esquisses cartographiques sont de l'auteure">
+
+Ces tribunaux ont été mis en place pour combler un grand vide institutionnel dans le droit pénal international et permettre de traduire des criminels de guerre en justice. Bien que les États aient toujours été d'accord pour créer une organisation internationale de justice, ils ne se sont jamais entendus sur les modalités. Un étape décisive est franchie avec la création de la [Cour pénale internationale (CPI)->http://www.icc-cpi.int/Menus/ICC?lan=fr-FR] adoptée par le [Statut de Rome->http://www.icrc.org/dih.nsf/INTRO/585?OpenDocument] en 1998 et en vigueur depuis 2002.
+
+Il incombe à chaque État du traité de faire comparaître ses criminels de guerre devant ses propres tribunaux. Mais si un État se voit dans l'incapacité de mener à bien une procédure délicate, il peut demander à la CPI d'engager des poursuites. Cependant il faut que le suspect soit un ressortissant de l’État plaignant ou que les crimes commis l’aient été sur son territoire et que les faits aient eu lieu après le 1er juillet 2002, date de l’entrée en vigueur du Statut. Sont jugés les crimes de guerre, les crimes contre l’humanité et les génocide. Les « crimes d’agression » pourront l'être lorsque la disposition qui le prévoit aura été adoptée.
+
+La cour a signé, au détriment de son indépendance vis-à-vis de l'ONU, l’« [Accord négocié régissant les relations entre la Cour pénale internationale et l’Organisation des Nations unies->http://www.icc-cpi.int/Menus/ICC/Legal+Texts+and+Tools/Official+Journal/Negotiated+Relationship+Agreement+between+the+International+Criminal+Court+and+the+United+Nations.htm] », une coopération étroite qui cherche à mutualiser les moyens d’investigation dont chacune d’elles dispose. Et en vertu du chapitre~VII de la Charte des Nations unies, « en cas de menace contre la paix, de rupture de la paix et d’acte d’agression » le Conseil de sécurité, par l’entremise du Secrétaire général, peut déférer au Procureur une affaire quelle que soit la nationalité du suspect ou, à l’inverse, adopter une résolution demandant à la Cour de ne pas mener d’enquête ou de poursuites.
+
+<p class=in>Signer un traité est une promesse qu’on n’est pas tenu de respecter... Seule la ratification a valeur d'engagement.
+
+Les États-Unis, qui n’ont pas ratifié le Statut de Rome mais, au contraire, mené une virulente campagne contre, ont signé des accords bilatéraux  [Bilateral Immunity Agreements (BIA)->http://www.amicc.org/usinfo/administration_policy_BIAs.html] avec une centaine de pays, grâce auxquels il est possible de soustraire à la juridiction de la CPI les citoyens et les militaires américains, et réciproquement si l’accord le permet, ce qui n’est pas toujours le cas. Human Rights Watch signale au passage que Washington a obtenu ces « accords » en exerçant de fortes pressions sur ses « partenaires » les plus fragiles.
+
+De nombreux pays africains menacent de sortir du traité, regrettant que seuls des criminels africains ont jusqu'ici été jugés par la Cour. La CPI s'avère donc être une institution dont les pouvoirs pour lutter contre l’impunité sont relativement restreints. 
+
+<https://farm8.staticflickr.com/7153/13713175785_ad67f05ea2_k.jpg size=original class=fullwidth caption="À propos de la Cour pénale internationale">
+
+Mais ce n’est pas le seul recours possible. Du moins en théorie. Il existe une alternative déjà expérimentée par certains pays : la « compétence universelle », prévue par les Conventions de Genève de 1949. Son principe est simple : n’importe quel État a le devoir de juger les responsables des crimes les plus graves se trouvant sur son territoire, quels que soient sa nationalité et le pays où le crime a été commis. Plusieurs États ont intégré dans leur législation, à des degrés divers, la loi de compétence universelle. Cela a d'ailleurs fait l'objet d'une enquête minutieuse menée par Amnesty international en 2001 ([Universal Jurisdiction: the duty of states to enact and implement legislation->http://www.amnesty.org/en/library/info/IOR53/017/2001/en]).
+
+Mais diplomatie et justice ne font pas nécessairement bon ménage : les États doivent de plus en plus mettre leurs lois en conformité avec les normes restrictives de la CPI. La [Belgique->http://www.institut-gouvernance.org/fr/analyse/fiche-analyse-35.html], l’[Espagne->http://www.fidh.org/Tentative-de-reforme-de-la-competence-universelle] et le [Royaume-Uni->http://www.leparisien.fr/flash-actualite-monde/loi-sur-les-crimes-de-guerre-israel-suspend-le-dialogue-strategique-avec-londres-03-11-2010-1134208.php], tous trois très avancés dans le domaine de la #justice internationale ont dû faire [marche arrière->http://www.unmondelibre.org/Dibangui_competence_universelle_310510] en cours de [procédure->http://www.trial-ch.org/fr/ressources/droit-international/competence-universelle.html] sous la pression d’Israël, des États-Unis, ou de l’OTAN.
+
+Des plaintes, déposées en Belgique en 2001 contre Ariel Sharon à propos de son rôle dans les massacres qui ont eu lieu à Beyrouth, en 1982, dans les camps de réfugiés de Sabra et Chatila ont été déclarées non recevables l'année suivante et l'affaire a été classée. Sharon est mort en janvier 2014. Même chose lorsque la justice espagnole s'apprêtait à traduire les officiels militaires israéliens pour des crimes commis à Gaza en 2002. En novembre 2010, au Royaume-Uni, un mandat d’arrêt visant l’ex-ministre israélienne des Affaires étrangères Tzipi Livni pour l’offensive meurtrière dans la bande de Gaza fin 2008-début 2009 a aussi dû être annulée. Idem pour les plaintes déposées contre les responsables de l’abordage meurtrier de la flottille humanitaire en 2010.
+
+D'autres dispositions nationales font entrave à la justice : l’immunité des responsables en fonction et l’amnistie des crimes les plus graves. La [Convention sur l’imprescriptibilité des crimes de guerre et des crimes contre l’humanité->http://www.icrc.org/dih.nsf/INTRO/435?OpenDocument] s'efforce d'y mettre un frein mais depuis son ouverture à la signature en 1968, seuls cinquante-quatre pays l'ont ratifiée.
+
+<https://farm4.staticflickr.com/3809/13713679074_13d4eca694_k.jpg size=original class=fullwidth caption="Convention sur l'imprescriptibilité des crimes de guerre et des crimes contre l'humanité, 1968">
+
+<h2>La protection des personnes, civiles et militaires</h2>
+
+Un précédent article — [Viols en temps de guerre, le silence et l’impunité->http://blog.mondediplo.net/2011-02-14-Viols-en-temps-de-guerre-le-silence-et-l-impunite] ({blog du Monde diplomatique}) — décrivait dans quel contexte les [Conventions de Genève de 1949->http://www.icrc.org/dih.nsf/INTRO/380?OpenDocument] et les [protocoles~I->http://www.icrc.org/dih.nsf/INTRO/470?OpenDocument] et [II->http://www.icrc.org/dih.nsf/INTRO/475?OpenDocument] avaient été rédigés. 
+
+Selon le protocole~I (relatif à la [protection des victimes des conflits armés internationaux->http://www.icrc.org/dih.nsf/WebART/470-750116?OpenDocument]) l’article~90 prévoit la création d’un organe permanent chargé d’enquêter sur des infractions graves ou de faciliter le retour à l’observation des conventions et du protocole. C'est-à-dire permettre qu'une enquête indépendante soit menée en cas d'infraction commise par le personnel militaire. C’est le rôle tenu par la [Commission internationale humanitaire d’établissement des faits->http://www.ihffc.org/fr/aboutus.html] (CIHEF), qui intervient à la demande d’un État membre.  Opérationnelle depuis 1992, elle obtient le statut d’observateur auprès de l’Assemblée Générale des Nations unies en 2009. Petit bémol, parmi les cent soixante-cinq états qui ont ratifié le protocole, quatre-vingt-dix d’entre eux, soit plus de la moitié (dont la France), n’ont pas déclaré reconnaître la compétence de la Commission...
+
+<https://farm3.staticflickr.com/2809/13713044883_1fe85c2cec_k.jpg size=original class=fullwidth caption="Les Conventions de Genève de 1949 et la ratification des protocoles additionnels de 1977">
+
+Mais les défenseurs du droit international humanitaire sont têtus, ils imaginent sans cesse de nouveaux moyens pour mieux protéger les civils et leur environnement. En 1995, un groupe intergouvernemental d’experts pour la protection des victimes de la guerre propose au Comité international de la Croix rouge (CICR) de préparer, avec l’aide de spécialistes répartis dans toutes les zones géographiques du monde, un rapport sur les règles coutumières du droit international humanitaire applicables dans les conflits armés internationaux et non internationaux. La finalité de cette étude est de collecter les pratiques non écrites des États et de faire ressortir celles considérées comme universelles. Dix ans plus tard, le Droit international humanitaire coutumier rassemble 161~articles, qui ont force obligatoire pour tous les États sans aucune ratification.
+
+On y trouve, par exemple, une série d’articles précisant, selon le principe de la distinction, que les attaques doivent exclusivement cibler des combattants, des installations militaires, et en aucun cas les civils, leurs biens et autres infrastructures. D’autres concernent la prohibition de certaines armes ou de méthodes de guerre (famine, intimidation, tromperie). Interdiction du meurtre, du viol, de la torture, de la disparition forcée, de l’esclavage, etc.
+
+Il est également précisé que les supérieurs hiérarchiques (militaires ou politiques) sont pénalement responsables des crimes de guerre commis par leurs subordonnés et que les subordonnés doivent désobéir si leur hiérarchie leur ordonne de commettre un acte illégal, sous peine d’être pénalement responsables eux aussi. Ce [texte contraignant->http://www.icrc.org/fre/war-and-law/treaties-customary-law/customary-law/index.jsp], d'ores et déjà en vigueur, doit permettre aux gouvernements et aux organisations humanitaires de faire respecter le droit.
+
+<h2>Contre le génocide</h2>
+
+Au lendemain de la seconde guerre mondiale, la toute jeune Organisation des Nations unies adopte la Convention pour la prévention et la répression du crime de génocide (1948). Par [génocide->http://www.icrc.org/dih.nsf/FULL/357?OpenDocument], le texte entend tout acte commis dans l’intention de détruire ou tout ou en partie, un groupe national, ethnique, racial ou religieux. Meurtre de membres du groupe, atteinte grave à l'intégrité physique ou mentale de membres du groupe, soumission intentionnelle du groupe à des conditions d'existence devant entraîner sa destruction physique totale ou partielle, mesures visant à entraver les naissances au sein du groupe, transfert forcé d'enfants du groupe à un autre groupe.
+
+En 2005, l’organisation internationale humanitaire [Minority rights group international->http://www.minorityrights.org/], qui milite depuis plus de quarante ans pour la protection des minorités et à leur intégration dans l’organisation sociale des pays, a créé, à partir de dix indicateurs, un indice des risques de crimes de masse à l’égard de certaines populations par les pouvoirs en place, « Peoples under Threat ».
+
+Chaque année, une analyse statistique tenant compte du passé donne lieu à un rapport détaillé identifiant les populations persécutées et un classement méthodique.
+
+En 2012 les [risques->http://www.minorityrights.org/11989/peoples-under-threat/peoples-under-threat-2013.html] en Somalie restent élevés, tout comme au Soudan, en Afghanistan, en Irak, au Pakistan, en Syrie, en Centrafrique.
+
+<https://farm8.staticflickr.com/7409/13713361973_e78612be11_k.jpg size=original class=fullwidth caption="À propos des génocides">
+
+<h2>Contre la torture</h2>
+
+La [Convention contre la torture et autres peines et traitements cruels, inhumains ou dégradants->http://www2.ohchr.org/french/law/cat.htm], initiée par l’ONU en 1984 a été ratifiée par 147~pays, mais nombreux sont ceux qui violent les droits fondamentaux des personnes et ne respectent pas leur engagement. Après les attentats du 11~septembre 2001, la « guerre globale contre le terrorisme » s'est caractérisée par l'installation de « sites de détention temporaire » totalement illégaux, gérés par la CIA. C’est par ces centres, où éventuellement on torture, disséminés aux quatre coins du monde y compris en Europe, que transiteront les personnes suspectées d'entretenir des liens avec Al-Qaïda, avant d'être envoyées dans le centre de détention de la base américaine de Guantanamo Bay située sur l'île de Cuba, lequel centre de détention n’a toujours pas été fermé malgré [la promesse de Barack Obama->http://www.lesmotsontunsens.com/torture-grande-bretagne-europe-violemment-critiquee-rapport-onu-3648 http://www.voltairenet.org/article130615.html]. 
+
+En avril 2009, l’organisation humanitaire Association for the Dignity of Prisoners a déposé une plainte en Espagne au nom de six détenus espagnols à Guantanamo contre les architectes de cette politique brutale et hors-la-loi, mais le gouvernement américain [a fait pression->http://www.wsws.org/francais/News/2009/avr09/espa-a30_prn.shtml] sur le gouvernement espagnol pour éviter ce procès au prétexte qu’il risquait de mettre au jour des « secrets défense » américains.
+
+Et c’est précisément ce qui est arrivé en février 2010 lorsqu'un ex-détenu de Guantanamo, de nationalité britannique, a intenté un procès contre le gouvernement du Royaume-Uni, dont les services secrets étaient mis en cause pour complicité de torture et actes cruels, inhumains et dégradants (Virginie Malingre, {Le Monde,} 13 février 2010). Au cours de la procédure, le gouvernement a été contraint de produire des documents transmis par la CIA... Pour éviter d'avoir à recommencer, en novembre de cette même année, le gouvernement britannique a décidé d’[indemniser sans procès une dizaine d’anciens détenus de Guantanamo->http://www.radio-canada.ca/nouvelles/International/2010/11/16/002-guantanamo-londres-indemnites.shtml].
+
+<https://farm4.staticflickr.com/3817/13713598254_acf4a94ca2_k.jpg size=original class=fullwidth caption="À propos de la torture">
+
+En Amérique latine, les procédures lancées contre les dictatures militaires citent les actes de torture dans un lot de chefs d’accusation tels que meurtres et disparitions forcées. Les lois d’amnistie ont permis la tenue de procès au Chili, en Argentine et au Pérou mais pas au Brésil. Malgré cet obstacle, un ancien capitaine à la retraite a dû répondre devant la justice civile brésilienne d’[actes de torture commis à l’encontre de la future présidente du pays Dilma Roussef entre 1970 et 1973->http://justice-inter.blog.lemonde.fr/2010/11/09/le-tortionnaire-de-dilma-rousseff-devant-la-justice/].
+
+Hormis ces exemples exceptionnels, les actes de torture restent largement impunis et font partie des outils de répression employés par de nombreux États. Selon l’[Association des chrétiens pour l’abolition de la torture->http://www.acatfrance.fr/] (ACAT), dans un rapport intitulé « un monde tortionnaire », plus de la moitié des pays du monde utilisent couramment la torture. Elle pointe également du doigt des conditions carcérales dégradantes et des brutalités policières généralisées.
+
+<h2>Les armes</h2>
+
+Les armes (fabrication, commerce, utilisation) représentent le thème le plus important sur lequel se battent des défenseurs des droits humains.
+ 
+<h3>Les mines antipersonnel</h3>
+
+Depuis l’entrée en vigueur de la Convention sur l’interdiction de l’emploi, du stockage, de la production et du transfert des mines antipersonnel et sur leur destruction (1997), ou [Convention d’Ottawa->http://www.icrc.org/dih.nsf/INTRO/580?OpenDocument] les stocks de 87~États membres, soit 47~millions de mines, ont été détruits et ceux de 8~États membres, soit 11~millions de mines, restent à détruire (voir le rapport [Landmine Monitor 2013->http://www.the-monitor.org/index.php/publications/display?url=lm/2013/sub/Major_Findings.html]). Les stocks détenus par 32~États non adhérents sont évalués à 160~millions.
+
+Toujours selon le rapport, au moins 59~pays et 4~territoires resteraient affectés par la présence de mines. En 2012, quarante opérations de déminages ont permis l'élimination de 240~000~mines antipersonnel et de 9~300~mines anti-véhicules. Malgré une baisse significative de l'utilisation des mines antipersonnel, les victimes se comptent encore par milliers. Le rapport estime à 3~628 le nombre de victimes de mines antipersonnel pour l'année 2012, soit une diminution de 19 % par rapport à l'année précédente, mais les données restent partielles. Parmi les victimes recensées, 78 % sont des civils. 
+
+<https://farm4.staticflickr.com/3738/13713254605_2548adb5c2_k.jpg size=original class=fullwidth caption="À propos des mines antipersonnel">
+ 
+<h3>Les armes à sous-munitions</h3>
+
+La plus récente des conventions est celle sur les armes à sous-munitions, adoptée en 2008 et en vigueur depuis 2010. Elle a été [ratifiée à ce jour par 84~États, et 108 l'ont signée->http://www.icrc.org/dih.nsf/INTRO/620?OpenDocument]. Du fait de leur conception, elles sont responsables de la mort de nombreux civils, que ce soit pendant ou après les combats. Sur le champ de bataille, chaque bombe lancée propulse une énorme quantité d'explosifs dans toutes les directions. Certaines d'entre elles peuvent couvrir une surface de 30~000~m2. Mais tous les explosifs n'éclatent pas lors du tir : ils attendent leur victime — enfant ou paysan — parfois pendant de longues années.
+
+Ces obus sont principalement utilisés par des armées régulières. Ce sont des armes très sophistiquées et beaucoup de groupes rebelles ne possèdent pas les équipements nécessaires.
+
+Il n'existe pas de statistiques précises inventoriant les incidents produits par les armes à sous-munitions depuis 1965, puisque la plupart n'ont pas été déclarés. Le dernier rapport Cluster Munition Monitor (2013) les estime à environ 54~000 à la fin 2012. Au moins vingt-six États sont affectés par la présence d'armes à sous-munitions éclatées ou non.  En 2011, onze pays et deux territoires ont détruit 53~000~sous-munitions non explosées.
+
+De 2012 à 2013, les armes à sous-munitions ont été utilisées en Syrie, en Birmanie et probablement au Soudan (les informations sur ce dernier restent à vérifier).
+
+<https://farm4.staticflickr.com/3776/13712970265_160f3078bf_k.jpg size=original class=fullwidth caption="À propos des armes à sous-munitions">
+ 
+
+<h3>Les armes de destruction massives</h3>
+
+Selon l'ONU, {« Les armes de destruction massive sont des armes conçues pour tuer une grande quantité de personnes, en visant aussi bien les civils que les militaires. Ces armes ne sont en général pas utilisées sur un objectif très précis, mais plutôt sur une zone étendue d'un rayon dépassant le kilomètre, avec des effets dévastateurs sur les personnes, l'infrastructure et l'environnement. »}
+
+<h3>Les armes bactériologiques ou biologiques</h3>
+
+La [Convention de 1972 sur l'interdiction de la mise au point, de la fabrication et du stockage des armes bactériologiques (biologiques) ou à toxines et sur leur destruction->http://www.icrc.org/dih.nsf/INTRO/450?OpenDocument] s'attache à compenser les insuffisances du [protocole de 1925->http://www.icrc.org/dih.nsf/INTRO/280?OpenDocument] sur la prohibition d'emploi de gaz asphyxiants, toxiques ou similaires et de moyens bactériologiques. 
+
+L’Union soviétique, qui a ratifié les deux traités, a poursuivi clandestinement son programme de recherche militaire sur les armes biologiques et notamment celles sur la maladie du charbon causée par le {Bacillus anthracis} (aussi connu sous le nom d’anthrax). Ces activités secrètes ont été divulguées après qu’une quantité infime du poison échappé du laboratoire accidentellement contamina une partie de la population de Sverdlovsk (Ekaterinbourg) en avril 1979, entraînant, selon les chiffres officiels, la mort de 69~civils.
+
+L'infraction aux conventions n’est pas une spécificité russe ainsi que le décrit le journaliste Robert Coen dans son enquête documentaire « Anthrax-war, dead-silence » diffusé par Arte en septembre 2010 sous le titre « Marchands d’anthrax ». Ses investigations nous entraînent au Zimbabwe (alors Rhodésie du Sud) secoué par une situation politique tumultueuse quand, en 1978, le pouvoir utilisa l’arme biologique contre les rebelles, déclenchant une épidémie.
+
+L'auteur poursuit son enquête dans le pays voisin, en Afrique du Sud. Au pays des Afrikaners, le régime d’apartheid confie à Wouter Basson dit « Docteur La Mort » la direction d’un programme de recherche sur les armes biologiques qu’il conduit avec beaucoup de zèle. Tous les moyens lui sont accordés pour acquérir les techniques capables de mettre au point, la « bombe noire » c’est-à-dire une arme biologique dont les effets délétères ne frapperaient que les populations noires. Pour ce projet dit « Coast », le médecin diabolique tissera des liens avec les États-Unis, le Royaume-Uni, la Suisse où il obtient la complicité du chef du contre-espionnage qui sera démis de ses fonctions lorsque l’affaire éclatera. Celle-ci sera classée et une partie des documents détruits. 
+
+Mais ce qui transporte le journaliste aux États-Unis est une tout autre affaire : en 2001, une semaine après les attentats du 11~septembre, des enveloppes contenant de l’anthrax sont envoyées dans différentes agences de presse américaines faisant cinq morts. Les recherches révèlent plus tard que la substance est d'une composition si sophistiquée que seuls les laboratoires militaires américains de biodéfense ont la capacité de produire. Par ailleurs, plusieurs chercheurs, aux États-Unis et au Royaume-Uni, meurent brutalement. Les autorités présentent ces décès comme suicides. Parmi les suicidés se trouve [David Kelly->http://www.arte.tv/fr/Comprendre-le-monde/Marchands-d-anthrax/3090730,CmC=3294940.html], le spécialiste des armes biologiques qui fut soupçonné en 2003 d’avoir divulgué à la presse le mensonge américain et britannique sur les armes de destruction massive de l’Irak.  
+
+En octobre 2013, on apprenait dans un article du journal {Le Monde} signé Dominique Gallois (« La défense s'arme contre les virus ») que la Défense française dispose dans son centre de l'Essonne « maîtrise nucléaire, radiologique, bactériologique et chimique (NRBC) » d'un laboratoire de recherche sur les virus ou « agents pathogènes » qu'on ne sait pas soigner. Selon sa directrice Françoise Levêque, les objectifs sont {« d'étudier les virus pour être capables de les reconnaître lors d'une menace »} et {« de constituer une bibliothèque de souches ».} Elle conclue : {« Nous sommes les spécialistes de l'improbable, ou plus exactement nous devons prendre en compte tout ce qui est improbable. »}
+
+Les gouvernements expliquent que ces travaux secret-défense sont menés à des fins défensives ou curatives. Seulement voilà, les laboratoires militaires développent des substances toxiques très sophistiquées (exemple aux États-Unis) à partir desquelles sont élaborés des vaccins. Mais si ces vaccins sont efficaces contre les maladies créées précisément par les mêmes laboratoires, est-il bien raisonnable de croire qu’ils protègent des armes biologiques toujours plus complexes issues des programmes « ennemis » ?
+La [Federation of American Scientists->http://www.fas.org/] a étudié la capacité des États à produire des armes biologiques quand bien même la recherche et le développements sont totalement interdits. 
+
+<https://farm4.staticflickr.com/3700/13713899104_4a22945411_k.jpg size=original class=fullwidth caption="À propos des armes bactériologiques">
+
+<h3>Les armes chimiques</h3> 
+
+La [Convention sur l’interdiction de la mise au point, de la fabrication, du stockage et de l’emploi des armes chimiques et sur leur destruction->http://www.icrc.org/dih.nsf/INTRO/553?OpenDocument] adoptée en 1993 est le seul traité qui se soit doté dès l'origine d'un outil contraignant. Les États parties — six États n'ont pas encore ratifié le traité — ont le devoir de collaborer étroitement avec l’[Organisation pour l’interdiction des armes chimique->http://www.opcw.org/fr/] (OIAC),  opérationnelle depuis 1997, dans leur entreprise d'élimination des armes chimiques. Après avoir dressé l'inventaire des installations de fabrication et des stock d’armes chimiques, ceux-ci sont détruits ou convertis pour des activités pacifiques (théoriquement dans le respect des normes environnementales). Enfin, l'organisation vérifie sur place que les programmes prévus ont été respectés.
+
+En décembre 2013, les experts de l'ONU chargés d'enquêter sur le recours à des armes interdites en Syrie ont confirmé l'utilisation d'armes chimiques. Le président Bachar Al-Assad, sous la pression internationale, s'est résolu à signer cette Convention. L'OIAC a reçu le prix Nobel de la Paix en octobre 2013.
+
+Le dernier compte-rendu détaillé de l'OIAC a été publié en 2009 mais on dispose de quelques données pour l'année 2013, par lesquelles on apprend que 82 % (58~000~tonnes) des agents chimiques déclarés et 57 % (5~millions) des munitions et conteneurs chimiques déclarés sont détruits. Par ailleurs, une base de données certifiée renseigne sur 3~400~composés chimiques liés aux armes et vingt laboratoires d'analyses installés dans des États parties — notamment en France qui a reçu des échantillons provenant de Syrie pour y être analysés.
+
+Il est probable que ce soit dans ce même laboratoire (situé dans l'Essonne) que des militaires français ont, durant des décennies et jusque dans les années 1990, mis au point des armes chimiques. Dans un [entretien mené par {Le Nouvel Observateur} fin octobre 2013->http://tempsreel.nouvelobs.com/societe/20131031.OBS3445/la-france-a-teste-des-armes-chimiques-pres-de-paris.html], un ingénieur militaire à la retraite depuis 2006 nous livre quelques informations sur ses anciennes activités et les programmes clandestins («Acacia») qu'il a mené pour, confie-t-il, {«doter la France, en quelques mois, d'un vaste arsenal chimique».} Après la ratification par la France du traité sur les armes chimiques, ce spécialiste est intervenu en tant que conseiller auprès des gouvernements souhaitant détruire leurs stocks.
+
+<https://farm8.staticflickr.com/7363/13713485125_dd0c0cae1b_k.jpg size=original class=fullwidth caption="À propos des armes chimiques">
+
+À lire aussi [Life In The Shadow Of The Soviet Union's Chemical Arsenal->http://www.rferl.org/content/russia-chemical-weapons-shadow/25206172.html]
+
+<h3>Les armes nucléaires</h3>
+
+Le traité de non prolifération des armes nucléaires (1968) est souvent cité, beaucoup plus que celui sur l’[interdiction complète des essais nucléaires->http://www.un.org/fr/disarmament/instruments/ctbt.shtml] (1996). L'un fonctionne, l'autre pas. 153~pays l’ont ratifié mais les conditions de son entrée en vigueur ne sont pas réunies. Il faudrait pour cela que les 44~États qui possèdent un réacteur de production civile adhèrent au traité ; seulement 36 d’entre eux l’ont fait. [Manquent à l'appel->http://www.ctbto.org/] : les États-Unis, l’Égypte, Israël, l’Iran, l’Inde, le Pakistan, la Chine et la Corée du Nord.
+
+Les essais nucléaires ont désormais cessé, mais certains endroits de la planète restent gravement affectés par les explosions passées : en [ex-Union soviétique->http://www.wat.tv/video/secrets-essais-nucleaire-e5wb_2g1eh_.html], aux États-Unis, dans les îles du Pacifique ou au Sahara. Les sites contaminés par les essais atmosphériques, situés en principe dans des régions inhabitées, le sont pendant de très longues périodes ; les retombées radioactives portées par les vents ont affecté les populations locales et l’environnement. Pour limiter la diffusion des particules radioactives par air, ils ont été remplacés par des essais sous-marins et souterrains. 
+
+Les victimes de cancers, personnels et populations locales, liés aux contaminations radioactives issus des essais nucléaires militaires peinent à faire valoir leurs droits et obtenir réparation. Dans la plupart des cas, les gouvernements nient le rapport de cause à effet entre essais nucléaires et cancers. En France, les associations de victimes ont bataillé dur pour qu'une loi, votée seulement en 2010, indemnise les victimes ; mais les textes sont tellement complexes que seules quelques-unes d'entre elles ont pu en bénéficier.
+
+<https://farm3.staticflickr.com/2854/13713406213_20bcbee137_k.jpg size=original class=fullwidth caption="Explosions et accidents nucléaires">
+
+En dehors des essais eux-mêmes, les activités logistiques (Fabrication, développement, transport, stockage, entretien...) ont aussi eu des conséquences tragiques. Toujours au nom du secret-défense, on sait très peu de choses des [incidents ou accidents->http://amfpgn.org/site/accidents-nucleaires-militaires-ce-qui-emerge-de-liceberg-secret-defense/] liés aux manipulations. Parmi les [petites négligences->http://en.wikipedia.org/wiki/List_of_military_nuclear_accidents] : pertes ou collisions de sous-marins nucléaires, pertes de têtes nucléaires, contaminations locales de cours d’eau dues à des fuites, accidents dans les unités de fabrication, vol d'uranium pendant le transport.
+
+Sur la base militaire de l'Île Longue, dans la rade de Brest, où sont appareillés les sous-marins nucléaires français, pendant vingt ans les ouvriers ont assemblé les têtes nucléaires et travaillé à proximité sans précaution particulière. Selon un [article de Nolwenn Weiler pour Bastamag->http://www.bastamag.net/Les-ouvriers-de-l-Ile-Longue], c'est en 1996 seulement que les salariés ont appris que les « ogives nucléaires rayonnaient bien plus que le granit breton ». Aujourd'hui, victimes de cancer et leucémie ne parviennent pas à faire reconnaître la responsabilité du Ministère de la Défense dans leur maladie.
+  
+<aside class=box>
+
+{{Quelques compléments documentaires signalés sur [->seenthis.net] :}}
+
+[Essais nucléaires : ce que l’État a caché pendant 50 ans->http://seenthis.net/messages/153235], liens regroupés par @odilon : leParisien.fr, 3 juillet 2013 et [French nuclear tests 'showered vast area of Polynesia with radioactivity'->http://www.theguardian.com/world/2013/jul/03/french-nuclear-tests-polynesia-declassified], TheGuardian, 3 juillet 2013.
+
+[En Algérie, de vastes zones contaminées par les essais nucléaires français->http://seenthis.net/messages/227819], avec toute une série de liens réunis par @simplicissimus, @fil et @intempestive.
+
+[Norvège : des armes chimiques de la seconde guerre mondiale dans le détroit du Skagerrak au large de Grimstad et Arendal : une bombe à retardement->http://seenthis.net/messages/205744]. Un synthèse réalisée à partir des coupures de presse de médias norvégiens sur  par @reka, décembre 2013.
+
+[Armes chimiques sous la mer->http://seenthis.net/messages/231864, un ocumentaire de Nicolas Koutsikas, Eric Nadler et Bob Cohen (France 2013, (88 minutes) signalé par @kassem.
+
+[Life In The Shadow Of The Soviet Union’s Chemical Arsenal->http://seenthis.net/messages/215241], [Le poison de la guerre coule toujours à Verdun->http://seenthis.net/messages/220466], et [Armes chimiques, la bombe à retardement de 14-18->http://seenthis.net/messages/194938], liens signalés par @odilon.
+
+[Pas de plaie, pas de sang et pourtant la paralysie ou la mort : les armes chimiques creusent comme une autre guerre dans la guerre->http://seenthis.net/messages/173629], une émission de France Inter (La marche de l'histoire) de septembre 2013 signalée par @fil.
+
+</aside>
+
+
+--------------------------
+
+PS: Si vous souhaitez utiliser tout ou partie de cette contribution, ou simplement contacter l’auteure, vous pouvez le faire par courriel via contact@visionscarto.net
+
+
+
+
+--------------------------
+Visionscarto - version du 10 mai 2014 11:27
