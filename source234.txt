@@ -14,8 +14,8 @@ AUTEUR:
 --------------------------
 TEXTE:
 
-{{Titre :}}| Étude 03 série II - Croisements |
-|{{Mots-clés :}} | #Graphisme #Art #Couleurs #Sémiologie_graphique #Formes #Étude_graphique #Points #Alignements  #Série_II||
+|{{Titre :}}| Étude 03 série II - Croisements |
+|{{Mots-clés :}} | #Graphisme #Art #Couleurs #Sémiologie_graphique #Formes #Étude_graphique #Points #Alignements  #Série_II |
 |{{Matériel :}} | Feutrine autocollante sur papier quadrillé. |
 |{{Auteur :}} | Philippe Rekacewicz |
 |{{Date de création :}} | 2016 |
@@ -31,4 +31,4 @@ PS: Si vous souhaitez utiliser ce document ou simplement contacter l'auteur, nou
 
 
 --------------------------
-Visionscarto - version du 14 février 2016 14:18
+Visionscarto - version du 14 février 2016 18:46
