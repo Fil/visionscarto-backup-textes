@@ -61,6 +61,11 @@ Pour une {{grande image avec une légende}}, utiliser <code>size=large</code> :
 Pour une {{image de taille moyenne avec une légende sur la droite}}, utiliser <code>class=caption-right</code> :
 <code><https://farm8.staticflickr.com/7349/13568083315_ea507a7222_b.jpg size=medium caption="Les arbres du Fonds national juif sur les terres d'Al-Araqib" class=caption-right></code>
 
+Pour une {{petite image positionnée à gauche}} du texte, utiliser <code>size=small left</code> et mettre le texte après l'image. Utiliser <code>.clearfix</code> pour fermer le bloc :
+<code><aside class=clearfix><https://farm8.staticflickr.com/7385/14002391166_f3dd98152b_c.jpg size=small left> Texte …</aside></code>
+
+<aside class=clearfix><https://farm8.staticflickr.com/7385/14002391166_f3dd98152b_c.jpg size=small left> {Un hun fit fi d'un daim au haut d'une dune} — de Launay, 1986 </aside>
+
 Pour rendre une {{image clicable}}, il faut lui définir un lien <code>link</code>, par exemple ainsi (exemple complet) :
 <code>
 <https://farm8.staticflickr.com/7404/13964894632_f583ea57cd_b.jpg
@@ -171,4 +176,4 @@ MOTS-CLÉS:
 
 
 --------------------------
-Visionscarto - version du 1er octobre 2015 12:47
+Visionscarto - version du 21 février 2016 23:32

@@ -1,0 +1,47 @@
+
+--------------------------
+
+TITRE:
+Dessin - L'ombre de la ville 
+
+--------------------------
+
+AUTEUR: 
+- Oskar Rekacewicz
+
+
+
+--------------------------
+TEXTE:
+
+|{{Titre :}}| Dessin - L'ombre de la ville |
+|{{Mots-clés :}} | #Graphisme #Art #Dessin #Sémiologie_graphique #Ombre #Étude_graphique #Forme #Dessin |
+|{{Matériel :}} | Fusain |
+|{{Auteur :}} | Oskar Rekacewicz |
+|{{Date de création :}} | 2015 |
+
+<https://farm2.staticflickr.com/1577/25086185011_ae30594210_k_d.jpg size=large title="L'ombre de la ville." credit="Oskar Rekacewicz, 2015.">
+
+Ce dessin au fusain, intéressante composition entre l'évocation par des ombres de trois éléments - le ciel, la ville et l'eau - rappelle cette représentation visuelle statistique de [William Playfair (1759-1823)->https://fr.wikipedia.org/wiki/William_Playfair] :
+
+|{{Titre :}}| Figure montrant d'un seul coup d'œil l'évolution des prix du blé et l'évolution des salaires hebdomadaires des travailleurs de 1565 à 1821 |
+|{{Auteur :}} | [William Playfair->https://fr.wikipedia.org/wiki/William_Playfair] (1759-1823)|
+|{{Apparition(s) :}} | [« A Letter on Our Agricultural Distresses. Their Causes and Remedies » by William Playfair, 1st ed. William Sams, London ->https://books.google.no/books?id=x51hAAAAcAAJ&pg=PA2&lpg=PA2&dq=A+Letter+on+Our+Agricultural+Distresses.+Their+Causes+and+Remedies&source=bl&ots=r5BXxtf5ON&sig=E5GdivENNbbLJ16D-V7I6BgPsLI&hl=fr&sa=X&ved=0ahUKEwjkqtvngYrLAhVEVywKHUL-CiEQ6AEIKjAC#v=onepage&q=A%20Letter%20on%20Our%20Agricultural%20Distresses.%20Their%20Causes%20and%20Remedies&f=false]. |
+
+|{{Date de création :}} | 1821 et 1822 |
+|{{Commentaire :}} | Cette figure représente trois séries chronologiques {« d'un seul coup d'œil »} : les prix du blé, les salaires hebdomadaires des travailleurs, et les périodes des règne des reines et des rois  britanniques. Les visualisations statistiques de William Playfair sont souvent données en exemple pour leur esthétique, mais souffre [d'imperfections voire d'erreurs grossières->http://www.datavis.ca/gallery/missed.php#playfair] dans la représentation des données". |
+
+<https://farm2.staticflickr.com/1527/25153228756_bb84f7fe91_o_d.jpg size=original title="Figure montrant d'un seul coup d'œil l'évolution des prix du blé et l'évolution des salaires hebdomadaires des travailleurs de 1565 à 1821." credit="William Playfair, 1821 et 1822.">
+
+
+
+
+--------------------------
+
+PS: Pour nous contacter, n'hésitez pas à écrire à [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 22 février 2016 09:58

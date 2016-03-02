@@ -1,0 +1,109 @@
+
+--------------------------
+
+TITRE:
+Voyager sans visa
+
+--------------------------
+
+AUTEUR: 
+- @Fil
+- Philippe Rivière
+
+--------------------------
+
+CHAPO:
+<h4 class=text-right>{par Philippe Rivière}</h4>
+
+
+--------------------------
+TEXTE:
+
+Que peut-on comprendre de la structure du monde, à partir des politiques des visas ? Des inégalités flagrantes : les titulaires d’un passeport de certains pays sont accueillis presque partout, tandis que d’autres nationalités sont empêchées de circuler. Des relations entre États qui ne sont pas symétriques : ainsi le détenteur d’un passeport sri-lankais est-il accepté sans visa au Lesotho, tandis qu’un résident de ce pays devra obtenir un visa à l'arrivée s'il se rend au Sri Lanka. 
+
+Des coopérations, des accords de réciprocité émergent, et permettent de dessiner une hiérarchie dans la liberté de mouvement (comme par exemple “[How visas shape and make visible the geopolitical architecture of the planet->http://arxiv.org/abs/1601.06314]”). Mais les études de cet écheveau complexe de liens entre États oublient parfois les peuples. Et, avec tout le respect qu’on peut avoir pour les Monégasques, le fait que 37~000~personnes aient [un passeport « fort »->https://www.passportindex.org/byRank.php] n’est pas comparable au sort qui attend 250~millions d’Indonésiens ou 1,36~milliard de Chinois désireux de voyager.
+
+C’est pourquoi j’ai voulu proposer la carte suivante, dans laquelle tous les individus sont considérés à égalité. La question est posée de la manière suivante : en chaque endroit du globe, combien d’humains sont-ils empêchés de s’y trouver par le biais d’un visa ?
+
+Cette question n’est évidemment qu’un aspect infime de la mobilité humaine. Car l’obtention d’un visa n’est pas le seul obstacle. Le coût du voyage, les distances, les inégalités, les zones de conflits, etc, forment autant de barrières supplémentaires.
+
+La réponse à la question posée peut néanmoins s’exprimer en tout point de la planète par un pourcentage de la population mondiale, correspondant au nombre d'humains qui n'ont pas d'obligation à demander un visa pour atteindre ce point. C’est un des rares cas où l’on peut colorier la carte pays par pays (ce que l’on appelle une carte en variation de valeurs ou [carte choroplèthe->http://www.hypergeo.eu/spip.php?article274]) sans introduire trop de biais.
+
+Si l'on regroupe les pays en six classes de couleurs progressives, dont la luminosité est fonction de leur plus ou moins grande « ouverture » (pays qui acceptent sans visa moins de 10%, de 10% à 30%, de 30% à 50%… et de 90% à 100% de la population mondiale), on constate que presque tous les pays de la planète opposent une demande de visa à au moins plus de la moitié des êtres humains.
+
+La carte la plus utopique, celle d’une planète unie, d’une mondialisation réalisée des peuples, où tout le monde pourrait circuler librement, serait uniformément claire et lumineuse.
+
+<https://farm2.staticflickr.com/1649/24799315439_5c9e260e5b_o_d.png size=original>
+
+Cette utopie, c'est le monde d'hier de Stefan Zweig :
+
+<blockquote>
+
+ {Avant 1914, la terre avait appartenu à tous les hommes. Chacun allait où il voulait et y demeurait aussi longtemps qu’il lui plaisait. Il n’y avait point de permissions, point d’autori­sations, et je m’amuse toujours de l’étonnement des jeunes, quand je leur raconte qu’avant 1914 je voya­geais en Inde et en Amérique sans posséder de passe­port, sans même en avoir jamais vu un.»}
+<div class="small text-right"><cite>[Le monde d’hier, souvenirs d’un Européen->http://asile.ch/2015/12/11/la-liberte-de-mouvement-vue-par-stefan-zweig-juste-avant-sa-mort/]</cite>, 1942, trad.~S.~Niémetz.</div>
+
+</blockquote>
+
+En 2016, la réalité est beaucoup plus sombre; plus sombre même qu’une situation «à mi-chemin» entre cet idéal et l’image la plus noire, de continents brisés, de frontières infranchissables sans visa en bonne et due forme.
+
+<https://farm2.staticflickr.com/1501/24536333804_7052382c01_o_d.png size=original>
+
+On note que la Chine, qui n’accueille pas beaucoup d’étrangers sans visa, est «sauvée» par l’importance de sa propre population, qui par définition ne se voit pas opposer une demande de visa. L'Union européenne, de la même manière, constitue un bloc où circulent sans problème tous les Européens.
+
+Cependant, il y a demande de visa et demande de visa. Autant il est parfois difficile de se faire établir un visa au préalable à l’ambassade du pays où l'on veut se rendre, autant les visas qu’il faut faire établir sur place à l’arrivée dans le pays sont en général des filtres plus légers. Ce type de formalité est notamment présente dans une grande part de l’Afrique orientale. En considérant qu’il s'agit d'un obstacle relativement facile à franchir, une nouvelle carte voit le jour.
+
+<https://farm2.staticflickr.com/1617/24536334014_403573e662_o_d.png size=original>
+
+Les pays les plus accueillants ne sont donc pas ceux que l’on croit !
+
+~
+
+{En guise de conclusion, je vous invite à lire ce passage très éclairant du livre de Bernard Charbonneau,} L’État, {1949. Merci à @[koldobika->http://seenthis.net/messages/412366] de l'avoir partagé.}
+
+<quote>
+
+{{{« Les frontières vont contre les intérêts les plus évidents des peuples »}}}
+
+Un monde sans frontières nous est aujourd’hui inconcevable. À une époque où progrès et recul n’ont plus qu’une signification militaire, leur tracé répond à notre besoin de clarté. Et pourtant la frontière est un fait relativement récent — même celles qui semblent le mieux marquées par la nature, comme la frontière des Pyrénées. (…) Pas plus que les marins les pasteurs pyrénéens ne connaissaient de frontières, et les hauteurs maintenant jalonnées de bornes n’étaient que les estives où erraient les troupeaux. Alors Iraty n’était que la montagne d’Iraty : arraché aux forêts, un espace libre soulevé pour voir la mer. Il n’appartenait à personne sinon aux hommes du pays, aux puissances invisibles : au vent noir, au sapin foudroyé. (…)
+
+Vérité en deça des Pyrénées, erreur au delà — mais seulement à une époque récente. Une histoire de la frontière montrerait comment elle est devenue de plus en plus précise et hermétique avec le progrès de l’État, pour aboutir finalement à ces rideaux de fer derrière lesquels les peuples étouffent. L’Europe était autrefois sillonnée par une multitude de limites invisibles : religieuses, économiques ou mêmes politiques ; elles ne se juxtaposaient pas, et elles n’avaient rien d’absolu. Au Moyen Âge les limites du royaume de France ou celles de l’empire furent d’abord moins importantes que celles de tel fief ou de tel évêché. C’est le jour où l’État a absorbé en lui toutes les activités que ses frontières ont résumé en elles toutes les limites. Le jour où il devient totalitaire la clôture devient totale : dans l’Europe de 1914 on voyageait encore sans #passeport, dans celle de 1939 seul le soldat pénètre en pays étranger. Sur les cols où fraternisaient les hommes des vallées sont montés les arpenteurs qui ont fixé les bornes. Puis sont venus les douaniers et les soldats, au fond des gorges et sur les cols ils ont bâti des postes. Là où soufflait le vent passe la patrouille, là où tremble la source claque le coup de feu. L’espace est clos, des fils électrisés le ferment.
+
+Il n’y a plus de Pyrénées, mais une frontière pyrénéenne, et la plaine du Nord est coupée par des barrières aussi hautes que la chaîne du Caucase : la technique qui détruit les barrières naturelles permet aux gouvernements d’en établir d’artificielles. Dans un monde qui s’uniformise, qui passe la frontière change semble-t-il d’univers. Si pour quelques-uns elle est le mur d’une prison dont ils rêvent de s’évader, pour la plupart elle est la clôture rassurante qui borne le milieu où ils peuvent vivre ; l’écran qui leur dissimule les possibles vertigineux du dehors : à l’extrême une frontière bien défendue les dispense d’être et de penser. Seules les frontières peuvent donner une forme à des pays qui n’existent que par l’espace et la puissance. Quand elles se rétrécissent la #nation étouffe, et quand elles s’écartent elle respire. La frontière qui protège la nation l’enferme ; tôt ou tard elle l’enfonce pour déboucher sur le vide.
+
+Il n’y a pas de frontières naturelles ; les frontières sont trop minutieuses : avec leurs détours compliqués et leurs enclaves elles évoquent les hasards des avances et les reculs d’un front de tranchées. Le territoire qu’elles dessinent n’a rien de stable, ni d’éternel. Les unités géographiques les plus sûres sont partagées, par exemple la péninsule ibérique reste coupée en deux par une frontière qui tranche du nord au sud ses zones naturelles. Ailleurs, ce sont les limites de la nation qui débordent celles du pays ; le plus souvent elles sont à la fois en deçà et au delà. (…) Le sentiment national n’est que le sentiment (souvent provoqué) d’être lié à la grandeur d’un État ; c’est pourquoi le nationaliste, tout en souffrant comme d’une blessure des mutilations qui déforment la silhouette de son pays, est toujours prêt à accepter les accroissements qui la rendent méconnaissable : la Nation tend à se dégrader en Empire.
+
+Il n’y a pas de « pays », au sens national de ce mot ; il n’y a pas de territoire prédestiné, mais simplement le champ d’expansion d’un État, qui se rétrécit ou se distend avec ses forces. On dit souvent que la Pologne a succombé parce qu’elle n’avait pas de frontières naturelles — la principauté de Moscou non plus. Le Brandebourg, découpé arbitrairement dans une grande plaine, avait des frontières autrement impossibles que celles de la Pologne ; pourtant ces frontières durèrent parce qu’elles délimitaient l’espace d’un État particulièrement dur. Les États forts trouvent toujours des historiens qui justifient par la géographie un tracé établi par la guerre : s’ils ne peuvent l’expliquer par la montagne ils l’expliqueront par le fleuve, et s’il n’y a qu’une plaine, par la forêt.
+
+(…) Les frontières vont contre les intérêts les plus évidents des peuples, et si à l’intérieur des nations il y a des intérêts communs, c’est le fait de l’État qui les impose.
+
+<p class="text-right"><cite>[Bernard Charbonneau->https://fr.wikipedia.org/wiki/Bernard_Charbonneau], {L’État,} 1949.</cite></p>
+</quote>
+
+
+~
+
+
+<p class=small>Pour poursuivre la réflexion sur ce qu'on pourrait appeler une « géopolitique des visas », vous pouvez consulter les documents suivants :</p>
+<aside class=clearfix><https://farm2.staticflickr.com/1654/24551351393_69c3707afd_o_d.jpg size=small left link="http://visionscarto.net/un-monde-indesirable"> <p class=small>[Pour Schengen, un monde bienvenu,
+et un monde « indésirable »->http://visionscarto.net/un-monde-indesirable]</p></aside>
+<aside class=clearfix><https://farm2.staticflickr.com/1712/25151539356_94c40d7934_o_d.jpg size=small left link="http://visionscarto.net/la-suisse-partage-le-monde"> <p class=small>[Politique des visas : comment la Suisse
+partage le monde->http://visionscarto.net/la-suisse-partage-le-monde]</p></aside>
+<aside class=clearfix><https://farm2.staticflickr.com/1645/25084666001_d6abf9a94e_o_d.jpg size=small left link="http://visionscarto.net/citoyens-suisses-avec-et-sans-visa"><p class=small>[Les citoyens suisses dans le monde
+avec et sans visa->http://visionscarto.net/citoyens-suisses-avec-et-sans-visa]</p></aside>
+
+{{À lire aussi :}}
+
+-- [{Migrations sans frontières : Essais sur la libre circulation des personnes}->http://publishing.unesco.org/details.aspx?Code_Livre=4682], Sous la direction d’Antoine Pécoud et de Paul de Guchteneire, Éditions Unesco, Collection Études en sciences sociales, Paris, 2009. Ce livre est téléchargeable gratuitement ([PDF->http://unesdoc.unesco.org/images/0018/001818/181894f.pdf]).
+
+#visas #libre_circulation #murs #cartographie #visualisation
+
+
+--------------------------
+
+PS: Ces cartes font partie d'une recherche générale de Visionscarto sur les #frontières, les #migrations et la #géopolitique. Si vous souhaitez les réutiliser ou simplement contacter l'auteur, n'hésitez pas à nous écrire à l'adresse [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 23 février 2016 21:05
