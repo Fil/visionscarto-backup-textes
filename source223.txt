@@ -1,0 +1,164 @@
+
+--------------------------
+
+TITRE:
+Les cinquante cartes de Charles-Joseph Minard 
+
+--------------------------
+
+AUTEUR: 
+- Sandra Rendgen
+
+--------------------------
+
+CHAPO:
+Ingénieur de formation, Charles-Joseph Minard (1781–1870) est devenu une sorte de « superstar » de la visualisation de l’information. Il doit sa notoriété récente à une carte produite en 1869 et qui représente la campagne napoléonienne de Russie en 1812. Une figure devenue emblématique car elle intègre et synthétise parfaitement pas moins de six niveaux d’informations. En réalité, c’est une des dernières d’une série d’une cinquantaine de cartes statistiques produites par Minard au cours de sa carrière. En dépit de ces inventions graphiques très originales, son œuvre est presque tombée dans l’oubli.
+
+<h4 class="text-right">{par Sandra Rendgen}</h4>
+<h5 class="text-right">Auteure et éditrice spécialisée dans la visualisation des données. [www.sandrarendgen.de->http://www.sandrarendgen.de/] </h5>
+
+
+--------------------------
+TEXTE:
+
+Pour aborder l'histoire de Charles-Joseph Minard, il faut revenir sur sa démarche intellectuelle (comment se sont faits les choix thématiques) et sur son approche méthodologique (pour ce qui concerne la création graphique, en d’autres termes, comment il a opéré ses choix de représentation visuelle). 
+
+Né en 1781, il suit une formation d’ingénieur au tout début du XIXe siècle. Il grandit pendant la période la plus intense de la « Révolution industrielle ». Pendant trois décennies, il va travailler à l’École nationale des Ponts et Chaussées où il est chargé de concevoir et construire les infrastructures – ponts et ports – le long des voies fluviales. Il va matérialiser son travail de terrain par des « dessins techniques », comme par exemple ce grand plan qui réunit une série de graphiques et de cartes et montre l’importance des dégâts causés par les inondations sur les ponts. Certains de ces grands plans sont reproduits dans le livre d'Edward Tufte [{The Visual Display of Quantitative Information}-> http://www.edwardtufte.com/tufte/books_vdqi]. L’original est conservé à la bibliothèque de l’École nationale des Ponts et Chaussées.
+
+Vers 1830, à presque cinquante ans, Minard se plonge dans un sujet ultra-moderne pour l’époque et qui captive l’imagination de beaucoup de ses contemporains : la construction du système ferroviaire. La technologie est encore très récente; seules quelques courtes lignes de chemin de fer ont été ouvertes en Europe. Minard rassemble tout le savoir disponible et tient une série de conférences à ce sujet. Les résultats de ces recherches ont été publiés, avec une fois de plus plusieurs pages de dessins techniques : {Leçons Faites sur les Chemins de Fer à l’École des Ponts et Chaussées en 1833-1834}, Paris, 1834.
+
+{{{Une analyse du transport}}}
+
+Au tout début de la création du système ferroviaire, la principale difficulté était de planifier le trajet exact des voies. Une loi de 1842 prévoyait bien la construction d’un réseau ferroviaire à travers la France {« avec Paris pour centre ».} Mais le tracé détaillé des lignes individuelles devait être discuté, et provoquait des débats houleux dans les régions.
+
+Minard pensait que le chemin de fer devait longer les axes routiers et fluviaux les plus fréquentés. Pour élaborer ce nouveau réseau, il se lança dès les années 1840 dans une étude statistique afin d'analyser le trafic sur les routes et canaux existants. Puis il transforma ces statistiques en graphiques et visualisations diverses {« pour mieux appréhender la situation globale ».} Un des premiers résultats de cette approche est résumé dans le « Tableau figuratif du mouvement commercial du Canal du Centre en 1844 » (daté de décembre 1845).
+
+<https://farm2.staticflickr.com/1473/25416649426_efd16a5369_o_d.jpg size=original title="Tableau figuratif du mouvement commercial du Canal du Centre en 1844."legend="Charles Joseph Minard, 1845"credit="Reproduction provenant de la New York Public Library"  class=fullwidth>
+
+Minard y avait élaboré un diagramme « en barres » pour visualiser le nombre de passagers ou le volume de marchandises transportés le long d’un axe donné (en l’occurrence le Canal du Centre en Bourgogne).
+
+C’est un diagramme en deux dimensions, où le volume de marchandises transportées est représenté sur l’axe vertical. L’axe horizontal correspond à la longueur de chaque section de canal en kilomètres, où 3~mm correspondent à 1~km. Le code couleur permet de faire la distinction entre les types de marchandises, comme les matériaux de construction, le charbon, le bois, le plâtre, la fonte, etc. 
+
+Pour être encore plus précis, Minard avait ajouté des flèches indiquant la direction des déplacements (sans nécessairement faire correspondre cette direction avec un volume de marchandises).
+
+Minard expliquait avec insistance :
+
+<blockquote>
+{Les rectangles dessinés sur ce type de graphique doivent être strictement proportionnels aux quantités transportées et aux distances parcourues, afin qu’il soit possible de comparer visuellement le trafic. De plus les surfaces totales de chaque rectangle étant proportionnelles au nombre de voyageurs portés à 1 kilomètre […], la comparaison de ces surfaces donne promptement, par l’image, ce que les nombres écrits ne donnent que lentement par multiplication arithmétique. »}
+
+<p class=text-right><small><cite>[Des Tableaux Graphiques et des Cartes Figuratives->http://patrimoine.enpc.fr/document/ENPC01_4_3386_C161?image=2#bibnum]</cite>, 1862, page 2. </small></p>
+
+</blockquote>
+
+Minard concède toutefois qu’il n’est pas facile de suivre le parcours d’un type de marchandise donné, les sections de rectangle correspondantes étant parfois disjointes. Ce diagramme comprend plusieurs éléments qui apparaîtront plus tard sur ses cartes de flux :
+
+- d’une part l’utilisation de la proportionnalité pour mieux identifier l’importance des volumes (en faisant varier la largeur des segments représentant les flux) ;
+
+- d’autre part l’utilisation couleurs différentielles pour distinguer les types de flux.
+
+Minard dessine au total -- au milieu des années 1840 --  quatre « tableaux graphiques » ; les trois autres diagrammes sont en noir et blanc. Ce sera d’ailleurs l’unique et dernière fois que Minard utilisera ce grand format.
+
+{{Une cartographie des flux}}
+
+La carte de flux, l'invention fondamentale de Minard, voit le jour lorsqu’il a l’idée de transférer ce type d’analyse sur une carte géographique. Les « tableaux graphiques » ne permettaient de cartographier qu’une seule variable — la longueur de la route ou du canal — tandis que la carte « contextualisait » les routes dans le contexte géographique, et plus important encore, permettait de comparer toutes les routes et leur trafic respectif dans une même région :
+
+<blockquote>
+{En 1845, et en appliquant différemment le même système, j’étais arrivé aux cartes figuratives, dans lesquelles les rectangles des tableaux graphiques sont remplacés par des zones teintées qui suivent le plan des voies de transport, et dont les largeurs sont proportionnelles à la circulation. »}
+
+<p class=text-right><small><cite>Des Tableaux Graphiques et des Cartes Figuratives</cite>, 1862, page 2. </small></p>
+</blockquote>
+
+
+Il met en œuvre cette innovation cartographique pour la première fois en 1845 avec la « Carte de la circulation des voyageurs par voitures publiques sur les routes de la contrée où sera placé le chemin de fer de Dijon à Mulhouse ». Les autorités régionales n’étaient pas vraiment d’accord sur le tracé de la voie ferrée entre Dijon et Mulhouse. Minard soutenait la solution d’un tracé qui suivait les routes les plus empruntées à l’époque, et, à l'appui de sa position, ce graphique montrait sur une carte de la région l’importance des flux de passagers.
+
+<https://farm2.staticflickr.com/1676/25443477755_f867940a6c_o_d.jpg size=large title="Carte de la circulation des voyageurs par voitures publiques sur les routes de la contrée où sera placé le chemin de fer de Dijon à Mulhouse." legend="Charles Joseph Minard, 1845" credit="Reproduction provenant de l'École nationale des Ponts et Chaussées, Paris.">
+
+C’est la première carte de flux créée par Minard. Déjà en 1838, l’ingénieur anglais Henry Harness avait déjà publié deux cartes de ce type ([PDF-> http://www.complexcity.info/files/2011/06/harness-1837-flowmap.pdf]) ; mais il n’est pas certain que Minard ait eu connaissance du travail de Harness[[Lire à ce propos [« Des chiffres et des cartes. Naissance et développement de la cartographie quantitative française au XIXe siècle »-> https://www.academia.edu/319521/], Gilles Palsky, Persée, Paris, 1997, pp. 118–119.]]. 
+
+On peut aussi trouver sur la carte le nombre total de passagers par section de route au cours d’une année, mais le sens du trafic ou les catégories de passagers ne sont pas représentés. Enfin, il ne donne aucun nombre absolu, mais seulement une échelle, indiquant qu’un trait d’une épaisseur de 0,5~mm correspond à 1~000~passagers au cours d’une année.
+
+Charles-Joseph Minard — comme William Playfair (1759-1823) un peu plus tôt en Angleterre — exprime déjà l’idée qu’une intention sous-tend la carte ou la visualisation des données. Son objectif est de littéralement « montrer » un rapport numérique en un seul coup d’œil. Cette visualisation est l’acte fondamental d’un principe que Minard va exploiter dans les cartes et graphiques tout au long de sa carrière, en les améliorant sans cesse pour les rendre plus riches en information.
+
+En 1856, Minard publie la « Carte figurative et approximative du mouvement des combustibles minéraux sur les voies d’eau et de fer de l’Empire français pendant l’année 1856 ». 
+
+<https://farm2.staticflickr.com/1683/24812253734_97c0bec680_o_d.jpg size=original title="Carte figurative et approximative du mouvement des combustibles minéraux sur les voies d’eau et de fer de l’Empire français pendant l’année 1856." legend="Charles Joseph Minard, 1858" credit="Reproduction provenant de la Bibliothèque Nationale (Gallica)"  class=fullwidth>
+
+
+C’est un bon exemple des difficultés qu’il essaye de surmonter pour représenter des réseaux commerciaux très complexes en une seule visualisation. Ici, il choisit le charbon et le coke produits à divers endroits, et acheminés vers différentes destinations. Il utilise la couleur pour identifier leur origine (par exemple, en vert les matières premières importées d’Angleterre, en jaune et noir ce qui est produit en France, etc.). Il respecte strictement la proportionnalité en dessinant les segments qui représentent les flux — 1~mm sur la carte étant égal à 10~000~tonnes de charbon et de coke. Mais comme les volumes sont importants, il a beaucoup de mal à les « organiser » et à les dessiner côte à côte sur la carte. C’est particulièrement frappant dans le nord-est de la France, où il est contraint de superposer les importations belges (en bleu) et le charbon extrait des mines de Valenciennes (en jaune) pour que ça  « rentre dans la carte » : c’est une solution discutable, mais la moins mauvaise en l’état.
+
+Peu importe la difficulté, il tient beaucoup à maintenir ce système de représentation proportionnelle. Minard rappelle que son objectif est de permettre aux lecteurs de pouvoir faire des comparaisons « d’un seul coup d’œil ». Il souhaite qu’en voyant le graphique, le lecteur puisse non seulement comprendre qu’un volume est plus important qu’un autre sur la carte, mais aussi de pouvoir les évaluer quantitativement. Mais Minard, toujours en recherche d’amélioration, pense faciliter la lecture de ses « cartes statistiques » en ajoutant les statistiques elles-mêmes en différents points des flux :
+
+<blockquote>
+
+{Toutefois, si mes cartes donnent immédiatement les rapports simples comme le double, le triple, etc. ce qui, je le répète ne s’obtient par les nombres que par une opération mentale un peu longue, cet avantage s’évanouit s’il faut comparer des éléments très disproportionnés, tandis qu’avec les nombres, quand le plus petit n’a que deux chiffres, avec un peu de temps, l’esprit peut approcher du quotient ; c’est pourquoi j’écris aussi les nombres sur plusieurs de mes cartes. »}
+
+<p class=text-right><small><cite>Des Tableaux Graphiques et des Cartes Figuratives</cite>, p. 3. </small></p>
+
+</blockquote>
+
+Ce qui est frappant sur cette carte, c’est la grande discrétion des repères géographiques, à tel point qu’il est presque impossible d’y reconnaître une carte de France. Les seules références géographiques sont la côte et les frontières à l’est, ainsi que des toponymes désignant villes et cours d’eau, et un cercle pour représenter Paris. L’économie dans l’utilisation des références géographiques est un élément récurrent dans son œuvre. Plusieurs auteurs ont expliqué que Minard, pour qui l’exactitude statistique primait sur tout le reste, n’hésitait pas à sacrifier « l’exactitude » géographique, en déformant les côtes, en adaptant la taille des continents, ou encore en ignorant les projections cartographiques. Du point de vue géographique, ses cartes sont tout à fait inexactes[[Lire Gilles Palsky, {op. cit.}, p. 128 et [« The Thematic Maps of Charles Joseph Minard »->http://www.tandfonline.com/doi/abs/10.1080/03085696708592302] par Arthur H. Robinson, in Imago Mundi: A Review of Early Cartography, vol. XXI (N. Israel: Amsterdam, 1967), pp. 95–96.]]. Dans ses légendes, il développe toujours très bien les aspects statistiques (souvent accompagnées d’explications supplémentaires), mais néglige les éléments géographiques, qui ne sont presque jamais mentionnés.
+
+En 1864, avec la « Carte figurative et approximative des poids des bestiaux venus à Paris sur les chemins de fer en 1862 », Minard  a trouvé une solution plus élégante pour représenter les flux de cette « composition cartographique ».
+
+<https://farm2.staticflickr.com/1669/24812484974_a3125ba09c_o_d.jpg size=original title="Carte figurative et approximative des poids des bestiaux venus á Paris sur les chemins de fer en 1862." legend="Charles Joseph Minard, 1864" credit="Reproduction provenant de l'École nationale des Ponts et Chaussées, Paris.">
+
+Ici, les flux (transport de bétail) circulent vers un centre géographique (Paris). La couleur est utilisée pour différencier le type de bétail (veau, bœuf, porc et agneau). Les références géographiques y sont comme toujours réduites au strict minimum. Seule la ville de Paris -- point central de la carte -- est bien marquée, mais en dehors de cela, on y trouve qu’une fine ligne de côte, et quelques rares noms de lieux pour décrire l’espace géographique. Les flux sont accompagnés de nombres absolus.
+
+Une petite nouveauté : Minard ne se limite plus à représenter un phénomène à une date précise dans la dimension géographique : il introduit  en encadré une perspective historique, qui indique quels départements importaient du bétail à Paris avant et après l’apparition du chemin de fer. En 1862, douze départements supplémentaires envoyaient du bétail vers la capitale, ce qui montrait que le rail permettait de couvrir de plus longues distances pour le commerce de viande.
+
+Le principe des cartes ou des graphiques en encadré, que Minard a souvent utilisé, peut être considéré comme un premier pas vers une narration graphique, puisqu’il avait l’intention de placer ses visualisations statistiques dans une perspective globale tout en y ajoutant des éléments contextuels.
+
+Minard va expérimenter cette approche dans une dizaine d’autres cartes de flux, avec quelques variations pour adapter chaque carte à l’histoire qu’il cherche à raconter. Mais il travaille également à l’élaboration d’autres méthodes.
+
+<https://farm2.staticflickr.com/1597/24816366043_ba76815239_o_d.jpg size=original title="Carte Figurative et approximative de l’importance des Ports Maritimes de l’Empire Français." legend="Charles Joseph Minard, 1859" credit="Reproduction provenant de l'École nationale des Ponts et Chaussées, Paris.">
+
+Le fond de carte reste très minimaliste : la « silhouette » du pays et quelques noms de mers et d’estuaires, rien de plus.  La carte représente les ports français en fonction du volume de marchandises qui y transite au cours d’une année. Le nom des ports n’y figure même pas. Il y a juste un nombre qui correspond à une grande légende dans laquelle on trouve la liste de tous les noms et le chiffre du volume de marchandises en transit.
+
+Pour visualiser l’importance de ce transit, Minard utilise un système graphique à double fonction imaginé quelques années plus tôt par William Playfair et qu'il appelle « diagramme circulaire » : d’abord, la surface de chaque cercle est proportionnelle au volume de marchandise en transit, selon le principe « du diamètre au carré ». Ensuite, chaque cercle est partagé en sections pour « qualifier » les marchandises : noir pour les marchandises provenant d’autres ports français, bleu pour celles originaire de l’étranger. Pour renforcer l’information, Minard indique le chiffre des volumes en petit à proximité des cercles. Sur « l’efficacité visuelle » de ce type de représentation, il écrit en 1862 :
+
+<blockquote>
+
+{La représentation par cercles laisse beaucoup à désirer. L’esprit saisit très difficilement par la vue seule le rapport des surfaces de deux cercles […] Mais si des cercles séparés se comparent mal, les secteurs d’un même cercle se comparent très bien. C’est pourquoi j’ai pu, dans ma carte des tonnages des ports de mer en 1857, faire apprécier par des secteurs les rapports des tonnages de chaque port appartenant, l’un au cabotage, et l’autre au commerce extérieur […] »}
+
+<p class=text-right><small><cite>[Des tableaux graphiques et des cartes figuratives-> http://patrimoine.enpc.fr/document/ENPC01_4_3386_C161]</cite>, Paris, p.5, 1861, Bibliothèque numérique patrimoniale des ponts et chaussées.</small></p>
+</blockquote>
+
+En plaçant les cercles proportionnels sur la carte {« avec une certaine exactitude géographique »,} Minard crée une visualisation permettant la comparaison des ports {« par taille et position ».}
+
+En 1865, les autorités municipales s’engagent dans un débat pour décider de l’emplacement du nouvel hôtel des postes à Paris. Minard a l’idée de créer une carte qui montre encore plus clairement son « intention » cartographique : pour lui, la carte est un outil d’analyse.
+
+<https://farm2.staticflickr.com/1475/24812259284_b8aa1fea85_o_d.jpg size=original title="Carte figurative relative au choix de l’emplacement d’un nouvel Hôtel des Postes de Paris, 1865." legend="Charles Joseph Minard, 1865" credit="Reproduction provenant de la Bibliothèque Nationale (Gallica)"  class=fullwidth>
+
+Il suggère de placer cette nouvelle infrastructure {« au centre de gravité »}, lequel est « calculé » en fonction de l’intensité du trafic postal dans Paris, et de la densité de la population. Pour argumenter, il s’appuie sur la carte qu’il a dessinée, laquelle contient un long texte explicatif qui témoigne de l’importance et de la finesse des recherches statistiques qu’il a faites pour cette étude.
+
+Il rassemble des données démographiques (soit la population pour chacun des 80 quartiers parisiens), des informations sur le trafic postal, il étudie la distribution géographique des gares par lesquelles transite le trafic postal entrant et sortant. Minard représente la population sous la forme de carrés noirs proportionnels (1~mm² correspond à 100~habitants), et comme à son habitude, inscrit en plus, près du symbole, le nombre d’habitants pour chaque quartier.
+
+Le code couleur sert simplement à regrouper les quartiers composant chacun des vingt arrondissements. Enfin, Minard ajoute des points noirs simples pour les boîtes postales existantes et doubles pour signaler les bureaux de poste y compris l’actuel Hôtel des Postes (A). Pour répondre à la question, il indique donc ce qu’il estime être le « centre de gravité » de la population parisienne (B) et celui « des charges des wagons postaux arrivants et partant » (C). Et grâce à la position de A, B et C, le plus scientifiquement du monde, Il calcule la position idéale de l’emplacement du nouvel Hôtel des Postes (D), dans l’angle nord-est des nouvelles halles du premier arrondissement.
+
+Charles-Joseph Minard était un chercheur dévoué à la cause de la représentation visuelle des statistiques. En son temps, ses cartes étaient très appréciées de l’administration française, mais à l'exception d’une ou deux cartes, son œuvre est relativement peu connue. Avec ses « cartes statistiques », Minard voulait fournir à l’administration un outil efficace pour planifier et gérer les infrastructures. En 1869, il écrit :
+
+<blockquote>
+{Je libèrerai les statistiques du mépris dans lequel elles sont longtemps restées. »}
+<p class=text-right><small><cite>La Statistique,</cite> Paris, 1869.</small></p>
+</blockquote>
+
+Chacune de ses cartes est fondée sur des recherches minutieuses, sur des infrastructures ou des événements historiques. Minard compile données et informations provenant d’une grande variété de sources. Il accompagne souvent ses légendes de commentaires et d’analyses sur la pertinence des statistiques, et sur les méthodes qu’il a inventées et qui lui permettent de transformer les chiffres en représentations visuelles. 
+
+Ses fonds de carte minimalistes sont la toile vierge sur laquelle il déroule ses analyses, ses interprétations. Pour lui, l’information géographique et topographique est tout à fait secondaire : il n’y prête pas d’attention particulière. Il se contente uniquement de mentionner les seuls repères géographiques qu’il estime nécessaires à sa représentation. C’est aussi ce chemin qu’Otto Neurath a suivi, quelques années plus tard lorsqu’il a conçu ses premières visualisations.
+
+Minard a conceptualisé il y a 150 ans les bases d’une sémiologie graphique dont les principes sont toujours valides aujourd’hui, même si entre temps Jacques Bertin est passé par là et en a développé et précisé certains. Son aspiration à composer des visualisations rendant des problèmes complexes plus faciles à analyser, ses efforts de simplification tout en évitant un regard simpliste, la rigueur avec laquelle il a traité ses données et décrit sa méthodologie, et enfin son approche esthétique qui lui a permis de trouver un style graphique original, moderne et épuré font de lui un incontestable précurseur.
+
+<p class="text-right caps">↬ Sandra Rendgen.</p>
+
+#Charles-Joseph_Minard
+
+
+--------------------------
+
+PS: Ce texte a été traduit par Jasmine Rivière-Poupon pour Visionscarto. Si vous souhaitez réagir, contribuer, commenter, utiliser ce texte ou les images, ou simplement contacter l'auteure, nous vous invitons à nous écrire à l'adresse  [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 3 mars 2016 13:50
