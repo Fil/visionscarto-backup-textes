@@ -1,0 +1,106 @@
+
+--------------------------
+
+TITRE:
+À quoi ressemblait l'Allemagne en 1648 ?
+
+--------------------------
+
+AUTEUR: 
+- Philippe Arnaud
+
+--------------------------
+
+CHAPO:
+<h4 class=text-right>{Par Philippe Arnaud}</h4>
+
+
+--------------------------
+TEXTE:
+
+La carte dont il est ici question est tirée des pages 124 et 125 du {Grosser Historischer Weltatlas}, volume III, Neuzeit (époque moderne), 3e édition de 1967, édité par Bayerischer Schulbuch-Verlag à Munich, sous la direction de M. Josef Engel, professeur d’histoire médiévale et moderne à l’université de Tübingen.
+
+<h2></h2>
+
+<https://farm4.staticflickr.com/3845/14908287791_f7c48e507c_o.jpg size=original class=fullwidth title="L'Allemagne après les traités de Westphalie."
+legend="Carte reproduite avec l'aimable autorisation de l'éditeur" credit="Grosser Historischer Weltatlas, NeuzeitBayerischer Schulbuch-Verlag, 3e edition, volume III, Munich, 1967.">
+
+Pourquoi l’ai-je choisie ? Parce qu’elle est belle. Parce qu’elle me communique, par sa taille, par ses couleurs, les mêmes sensations, les mêmes sentiments que les immenses toiles du peintre franco-chinois [Zao Wou-Ki->Wikipédia->http://fr.wikipedia.org/wiki/Zao_Wou-Ki], avec leurs explosions chromatiques : le cartographe, ici, a joué des couleurs à l’instar de l’artiste. Cette carte, c’est un tableau abstrait…
+
+<https://farm6.staticflickr.com/5571/14888370856_0316010769_o.jpg size=large title="Zao Wou-Ki - « Sans titre », 1968 -1970, huile sur toile, 200~x~162~cm, collection particulière."
+legend="Œuvre reproduite avec l'aimable autorisation de l'artiste.">
+
+Je l’ai aussi choisie en ce qu’elle marque, pour l’Allemagne, un moment faste : la fin des conflits religieux, qui la dévastaient depuis plus d’un siècle, et le début d’une phase de stabilité qui allait durer plus d’un siècle et demi, jusqu’à la dissolution du Saint Empire, en 1806. Il s’agissait là, pour les Allemands, d’un moment heureux et peut-être une trace de ce bonheur est-elle perceptible dans l’harmonie de la carte.
+
+Hormis cette impression esthétique, la carte suggère un « Empire du Milieu », une « Chine au cœur de l’Europe », cet empire n’étant autre que celui auquel furent accolés les qualificatifs de « saint » et de « germanique ». Et si tous les peuples du monde se placent spontanément au centre du planisphère, il est de fait que l’espace germanique est environné de tous les espaces constituant l’ensemble européen : à l’est et au sud les Slaves, au sud, à l’ouest et au sud-ouest, les Latins, et, si l’on veut bien leur accorder un statut égal aux autres, au nord les Scandinaves.
+
+Elle communique aussi un sentiment de puissance par sa forme s’inscrivant presque dans un carré (30~x~27~cm), cette forme conférant, plus que d’autres, l’impression de massivité. Encore ce carré est-il écorné par le retrait de la Confédération helvétique, dont les Traités de Westphalie, précisément, consacrèrent le détachement définitif du Saint Empire.
+
+Comment se présente la carte ? Comme une grande aire colorée, entourée de blanc (l’étranger), chaque État étant délimité, le long de sa frontière, par un liseré de couleur : mauve pour la France, vert pour Venise, marron clair pour l’empire ottoman, rose pour la Pologne, etc. Cette aire, néanmoins, est recoupée par une ligne rouge, certains des États possédant des territoires à la fois dans l’Empire et en dehors de celui-ci (ex. : les possessions des Habsbourg).
+
+A l’intérieur de cet ensemble, la variété des aires colorées donne une impression de fouillis, de confusion, de kaléidoscope. Un examen rapide de la légende montre toutefois qu’il n’en est rien. Divers ensembles se distinguent nettement les uns des autres :
+
+- les possessions des dynasties dominantes : Habsbourg, Hohenzollern, Wittelsbach, Wettin et Schleswig-Holstein.
+
+- les territoires ecclésiastiques (archevêchés et évêchés).
+
+- une série d’États certes importants, mais ne faisant pas partie des ensembles précédents : landgraviat de Hesse-Cassel, duché de Brunswick-Lunebourg, principauté d’Anhalt…
+
+- les villes d’Empire : Lübeck, Hambourg, Brême, Nordhausen, Goslar, Francfort, Ulm…
+
+- enfin, comme le dit la légende, les plus petits territoires (possessions des chevaliers d’Empire, des comtes d’Empire, des princes, etc.), qui sont laissés en blanc.
+
+<h2>Le sens des couleurs</h2>
+
+Quelques remarques sur le choix des couleurs : les Habsbourg ont été figurés en jaune. Cette couleur est, avec le noir, celle de l’Empire, dont les Habsbourg étaient devenus les titulaires exclusifs depuis le règne d’Albert~II (1438-1439) et allaient le rester sans interruption jusqu’à la dissolution du Saint Empire en 1806, sous François~II [[Avec une exception de 1742 à 1765, due à l’insertion des Maisons de Bavière, avec Charles~VII, puis de Lorraine, avec François~Ier – et encore ne faudrait-il considérer que le premier comme une exception, François~Ier de Lorraine ayant surtout régné comme époux de sa bien plus célèbre femme, Marie-Thérèse de Habsbourg, fille de Charles~VI, la Maison de Habsbourg s’étant, depuis lors, appelée Habsbourg-Lorraine. Ainsi donc, l’interruption Wittelsbach serait-elle ramenée à trois ans (de 1742 à 1745), ce règne correspondant d’ailleurs à la guerre de Succession d’Autriche (1740-1748).]].
+
+Les territoires ecclésiastiques ont été figurés en violet, où l’on peut, vraisemblablement, voir comme un clin d’œil du cartographe à la couleur épiscopale…
+
+Les villes d’Empire (c’est-à-dire relevant directement de l’Empereur, sans être «médiatisées» par un État plus puissant) sont en rose foncé, couleur plus vive, dont plus visible et plus adaptée à l’exiguïté de leur territoire.
+
+<h2>Un territoire fragmenté mais linguistiquement cohérent</h2>
+
+Une des premières choses qui frappent est l’écart entre cet ensemble et ce qu’on entend aujourd’hui par Allemagne, bien que le cartographe ait précisément donné comme titre à la carte le nom de {Deutschland} (c’est-à-dire d’Allemagne). Cet écart se manifeste par deux traits typiques de l’Etat moderne (au moins depuis la Révolution française, sinon depuis sa constitution, selon le principe des nationalités, au milieu du XIXe~siècle) : la continuité territoriale et l’adéquation, plus ou moins grande, avec une aire linguistique.
+
+La discontinuité se manifeste par l’éparpillement des territoires, qui évoque la dispersion des parcelles, à la campagne, avant un remembrement. Et cet éparpillement est encore accentué par un autre trait, typique de la propriété de droit privé, l’enclavement. Il en subsiste d’ailleurs aujourd’hui des reliquats autour du territoire suisse, qui sont des enclaves ou quasi-enclaves : le canton suisse de Schaffhouse, sur la rive droite du Rhin, auquel répond la quasi-enclave allemande de Constance, sur la rive gauche du Rhin.
+
+<https://farm4.staticflickr.com/3839/14910669105_0b9f232a6f_o.jpg size=medium right>
+
+L’enclave italienne de [Campione->http://fr.wikipedia.org/wiki/Image:Karte_Luganersee.png] dans le Tessin suisse, la quasi-enclave du canton de Genève, le [Kleinwalsertal->http://commons.wikimedia.org/wiki/Image:Karte_Kleinwalsertal_SRTM3.png?uselang=de], vallée autrichienne uniquement accessible depuis l’Allemagne. Toutes ces particularités renvoient à un Ancien Régime où ne se distinguaient pas encore droit public et droit privé du prince, celui-ci acquérant souvent ses territoires par héritage, mariage, achat, comme cela est toujours la règle, aujourd’hui, pour les acquisitions immobilières privées.
+
+L’aire linguistique aussi, ne coïncide pas avec les frontières de cette Allemagne-là. On voit bien, par exemple, qu’elle englobe des territoires de langue française, tchèque, polonaise, ou slovène. En 1648, conscience «nationale» et conscience «linguistique» n’étaient pas des réalités qui se recouvraient et l’attachement à l’Empire pouvait venir de personnalités non germanophones : on pense, à cet égard, aux célèbres exemples (certes postérieurs) du prince Eugène de Savoie ou du prince de Ligne, tous les deux francophones…
+
+<h2>Une cartographie des grandes familles</h2>
+
+Les quelques grandes familles qu’a choisies de privilégier le cartographe présentent la particularité d’être chacune divisée en deux branches :
+
+- Les Habsbourg sont divisés entre Habsbourg d’Autriche et Habsbourg d’Espagne, (tous les deux catholiques) la division remontant à Charles Quint, son fils Philippe~II étant à la source de la branche des Habsbourg d’Espagne (qui s’éteignit en la personne de Charles~II, en 1700), son frère Ferdinand à la source de la branche autrichienne, qui se poursuivit jusqu’à l’empereur Charles Ier d’Autriche-Hongrie, qui abdiqua en 1918. L’alliance de ces deux branches structure la guerre de Trente ans et en explique aussi la durée. Les Habsbourg sont Électeurs du Saint Empire, par leur branche autrichienne, en leur qualité de rois de Bohême.
+
+- Les Wittelsbach sont divisés entre Wittelsbach de Bavière, catholiques, ayant à leur tête Maximilien~Ier (qui vécut toute la guerre de Trente ans) et Wittelsbach du Palatinat, protestants, ayant à leur tête le comte Palatin du Rhin Frédéric~V, très provisoire roi de Bohême (Roi d’un hiver). La rivalité de ces deux branches est à la base du déclenchement de la guerre de Trente ans. Au départ, la dignité électorale n’était concédée qu’à la branche calviniste du Palatinat. A l’issue de la guerre de Trente ans, les traités de Westphalie érigèrent la Bavière catholique en huitième Électorat (et cinquième laïc).
+
+- Les Wettin, ou Maison régnante de Saxe, sont divisés entre lignée albertine et lignée ernestine, du nom d’Albert et d’Ernest, les deux fils du duc Frédéric II de Saxe, qui, en 1485, se partagèrent l’héritage de leur père, duc de Saxe et Électeur laïque. La Maison de Saxe détenait, dans sa lignée albertine depuis 1547, le troisième des quatre Électorats laïques. Au cours de la guerre de Trente ans, l’Électeur de Saxe s’allia aux deux parties, mais il est intéressant de noter que, bien que luthérien, il se tourna d’abord vers l’Empereur, par haine des calvinistes. Son aide explique, pour partie, les succès catholiques du début de la guerre de Trente ans. Comme Maximilien Ier, l’Électeur de Saxe Jean-Georges~Ier vécut lui aussi toute la guerre.
+
+- Les Hohenzollern, étaient à la tête du quatrième Électorat laïque, l’Électorat de Brandebourg, en tant que margraves de Brandebourg. Ils étaient eux-mêmes divisés en une lignée de Brandebourg et une lignée de Franconie (comprenant les margraviats d’Ansbach et de Bayreuth). L’Électorat de Brandebourg s’opposa avec âpreté, lors des négociations de la paix de Westphalie, aux vues de la Suède, dont les revendications (posséder des têtes de pont sur la rive sud de la Baltique) venaient directement à l’encontre des  intérêts du Brandebourg (futur noyau de la Prusse).
+
+- La Maison d’Oldenbourg était la Maison royale qui régnait (et règne encore) sur le Danemark, en la personne de la reine Margrethe~II. Elle était divisée en deux branches, les Schleswig Holstein Gottorp et les Schleswig Holstein Glückstadt. A l’époque, son roi était Christian~IV qui, à l’instar de Maximilien et Jean-Georges~Ier, connut presque toute la guerre de Trente ans. Bien que régnant sur un royaume étranger, Christian~IV était possessionné en Allemagne et son intervention marqua une des étapes de la guerre de Trente ans.
+
+L’impression qui se dégage de cette carte, de manière impressionniste, est celle d’un plus grand morcellement, à l’Ouest, à la fois de part et d’autre du Rhin et dans l’Allemagne moyenne, dans un quadrilatère délimité par le Rhin, le Main et la Bavière. Tout se passe comme si on assistait à un début de coalescence de grands États (Autriche, Prusse, Saxe, Bavière) poussant, à l’Est, une mosaïque des petits États contre le môle compact de la France. Cette simplification annonce, à un siècle et demi de distance, les regroupements opérés par le régime napoléonien (recès de 1803 puis Confédération du Rhin), qui débouchèrent, en 1815, sur la Confédération germanique, avant-dernière étape avant l’unification bismarckienne (qui ne marqua pas – loin de là ! – l’unification de tous les pays germaniques). Mais cela est une autre histoire…
+
+{{{Bibliographie}}}
+
+- Claire Gantet, {La paix de Westphalie (1648) Une histoire sociale, XVIIe-XVIIIe siècles}, Belin, Paris, 2001.
+
+- Fritz Dickmann, {Der Westfälische Frieden}, septième édition, Aschendorff, Münster, 1998.
+
+- « L'Europe des traités de Westphalie, Esprit de la diplomatie et diplomatie de l'esprit », Recueil des Actes du colloque de Paris des 24, 25 et 26 septembre 1998, sous la direction de Lucien Bély, Presses universitaires de France (PUF), Paris, 2000.
+
+
+--------------------------
+
+PS: Si vous souhaitez commenter, utiliser ce texte ou ces documents, ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 4 mars 2016 11:07
