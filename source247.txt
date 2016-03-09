@@ -21,7 +21,7 @@ Le Guyana se trouve au cœur d'une multitude de revendications territoriales et 
 --------------------------
 TEXTE:
 
-<https://farm2.staticflickr.com/1447/25463840802_a40dd3d4de_o_d.jpg size=original title="Le Guyana et le Venezuela en désaccord sur le partage de l’Essequibo. Ressources énergétiques et minières, nouveaux catalyseurs d’un différend territorial historique." credit="Carte conçue et réalisée par Luis Alejandro Avila Gómez, adaptée par visionscarto.net"  class=fullwidth>
+<https://farm2.staticflickr.com/1536/25504351711_c3d0fe95a9_o_d.jpg size=original title="Le Guyana et le Venezuela en désaccord sur le partage de l’Essequibo. Ressources énergétiques et minières, nouveaux catalyseurs d’un différend territorial historique." credit="Carte conçue et réalisée par Luis Alejandro Avila Gómez, adaptée par visionscarto.net"  class=fullwidth>
 
 La [région de l’Essequibo->https://fr.wikipedia.org/wiki/Guayana_Esequiba], située entre l’actuelle frontière Guyana-Venezuela et le fleuve Essequibo, ainsi que son prolongement maritime, sont des territoires revendiqués à la fois par le Venezuela et le Guyana.
 
@@ -29,7 +29,7 @@ Par l’accord de [Genève de 1966->https://treaties.un.org/doc/Publication/UNTS
 
 Pour comprendre la situation, il faut se rappeler que le droit maritime définit la plupart du temps la limite de souveraineté entre deux États comme la ligne perpendiculaire à la côte à l'endroit où vient buter la frontière terrestre -- dans ce cas à Punta de Playa. La position particulière des îles de Trinité-et-Tobago et de la côte crée, par les lois de la géométrie, un double cône qui bouche l'accès du Venezuela à l'Océan Atlantique.
 
-C'est cela qui avait conduit, en 1899, à un accord -- signé à Paris -- ouvrant au Venezuela un couloir maritime (la zone représentée en bleu sur la carte), basé sur un angle de mesure plus ouvert, de 70°~Est, au lieu des 30°~Est qui correspondraient à la géométrie de la côte à Punta de Playa. Aujourd'hui, la « projection atlantique » du Venezuela trouve son fondement juridique dans la frontière fixée en 1991 avec Trinité-et-Tobago, qui démarque la limite occidentale de sa plateforme continentale. La limite orientale ne fait pas encore l'objet d'aucun accord le Guyana, mais pour le moment, le Venezuela « pratique » une ligne parallèle (donc, aussi inclinée à 70°~Est) à celle de sa limite occidentale entre les points 21 et 22.
+C'est cela qui avait conduit, en 1899, à un accord -- signé à Paris -- ouvrant au Venezuela un couloir maritime (la zone représentée en bleu sur la carte), basé sur un angle de mesure plus ouvert, de 70°~Est, au lieu des 30°~Est qui correspondraient à la géométrie de la côte à Punta de Playa. Aujourd'hui, la « projection atlantique » du Venezuela trouve son fondement juridique dans la frontière fixée en 1991 avec Trinité-et-Tobago, qui démarque la limite occidentale de sa plateforme continentale. La limite orientale ne fait pas encore l'objet d'un accord avec le Guyana, et pour le moment, le Venezuela « pratique » une ligne parallèle (donc, aussi inclinée à 70°~Est) à celle de sa limite occidentale entre les points 21 et 22.
 
 L'accord de Genève réaffirmait cette définition, et stipule en outre qu’aucune activité relevant d’une « appropriation souveraine » n’était permise dans la région. Au nombre des interdictions figure l’octroi de concessions pétrolières sur la plateforme continentale. Or, le Guyana comme le Venezuela mènent dans cette zone des activités qui violent ces principes.
 
@@ -45,9 +45,9 @@ Quelques jours plus tard, le président vénézuélien Nicolas Maduro promulguai
 
 Cette initiative unilatérale permet au Venezuela d’affirmer ses revendications, tout en reconnaissant que la délimitation définitive de cette zone devra faire l’objet d’un accord entre les deux pays.
 
-En riposte, les autorités du Guyana ont à leur tout décidé de préciser les coordonnées délimitant le delta du fleuve Essequibo. Une initiative menée dans le cadre de la « loi sur les zones maritimes (lignes de base des eaux intérieures et de démarcation des fleuves) », publiée le 23 juillet 2015.
+En riposte, les autorités du Guyana ont à leur tour décidé de préciser les coordonnées délimitant le delta du fleuve Essequibo. Une initiative menée dans le cadre de la « loi sur les zones maritimes (lignes de base des eaux intérieures et de démarcation des fleuves) », publiée le 23 juillet 2015.
 
-Pour la petite histoire, la frontière maritime délimitée d’après l’arbitrage entre les deux îles voisines de la Barbade et Trinité-et-Tobago a elle-même été à l’origine d’un nouveau contentieux au point numéro 11. La position de ce dernier transgresse les limites de la frontière établie auparavant entre le Venezuela et Trinité-et-Tobago. Si une protestation n’est pas soulevée par l’une des parties, l’[estoppel->https://fr.wikipedia.org/wiki/Estoppel] pourra être invoqué dans futures négociations.
+Pour la petite histoire, la frontière maritime délimitée d’après l’arbitrage entre les deux îles voisines de la Barbade et Trinité-et-Tobago a elle-même été à l’origine d’un nouveau contentieux au point numéro 11. La position de ce dernier transgresse les limites de la frontière établie auparavant entre le Venezuela et Trinité-et-Tobago. Si une protestation n’est pas soulevée par l’une des parties, l’[estoppel->https://fr.wikipedia.org/wiki/Estoppel] pourra être invoqué dans de futures négociations.
 
 <quote>
 Quelques liens pour approfondir :
@@ -69,4 +69,4 @@ PS: Si vous souhaitez réagir, contribuer, commenter, utiliser ce texte ou la ca
 
 
 --------------------------
-Visionscarto - version du 7 mars 2016 11:47
+Visionscarto - version du 7 mars 2016 22:54
