@@ -7,7 +7,7 @@ Tableau - Quarante-huit quai d'Auteuil
 --------------------------
 
 AUTEUR: 
-- Philippe Rekacewicz
+- Winifred Nicholson
 
 
 
@@ -39,4 +39,4 @@ Le titre de cette peinture est en fait l'adresse parisienne de l'artiste entre 1
 
 
 --------------------------
-Visionscarto - version du 14 février 2016 14:18
+Visionscarto - version du 15 mars 2016 10:15

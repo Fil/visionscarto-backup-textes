@@ -4,10 +4,7 @@
 TITRE:
 Graffiti - Sans titre
 
---------------------------
 
-AUTEUR: 
-- Philippe Rekacewicz
 
 
 
@@ -31,4 +28,4 @@ PS: Photo de Philippe Rekacewicz - Si vous souhaitez utiliser ce document, nous 
 
 
 --------------------------
-Visionscarto - version du 14 février 2016 14:18
+Visionscarto - version du 15 mars 2016 10:15

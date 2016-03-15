@@ -7,7 +7,7 @@ Tableau - Waidhofen an der Ybbs
 --------------------------
 
 AUTEUR: 
-- Philippe Rekacewicz
+- Maximilian Reinitz
 
 
 
@@ -59,4 +59,4 @@ Quelques autres œuvres remarquables de Maximilian Reinitz
 
 
 --------------------------
-Visionscarto - version du 17 février 2016 10:34
+Visionscarto - version du 15 mars 2016 10:16
