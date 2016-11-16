@@ -13,7 +13,7 @@ AUTEUR:
 --------------------------
 
 CHAPO:
-<h5 class="text-left">Ce billet a été initialement publié le 17 mai 2007 sur l'ancien site "Visions cartographiques".<br>
+<h5 class="text-left">Ce billet a été initialement publié le 17 mai 2007 sur l'ancien site « Visions cartographiques ».<br>
 Nous en proposons ici une version mise à jour et augmentée.<br>
 L'image du bandeau représente un détail d'un tableau du peintre burkinabé Hippolyte Delavolta<br>(collection privée, Libreville, gabon).</h5>
 
@@ -89,7 +89,7 @@ Le terme « nègre », péjoratif s'il en est, a connu des utilisations variées
 
 La désignation de peuples très différents par un terme générique se référant à une couleur de peau fantasmée (trouvez-moi un Noir vraiment noir) ne se comprend qu'en suivant le mouvement de justification de la mise à l'index d'une partie des êtres humains, de leur renvoi à la périphérie de l'humanité, voire de la négation de leur humanité même, accentuée par la traite transatlantique qui voit la définition de nègre et celle d'esclave fusionner [[Cf Dominic Thomas, {Black France}, Indiana, Bloomington, 2007.]].
 
-<https://farm8.staticflickr.com/7518/15786476885_2361867b70_o_d.png size=large title="Une époque obsédée par les classifications." caption="Détail extrait de Atlas-géographie ou Nouveau manuel de géographie générale : cours supérieur. E. Vitte (Lyon), 1901 - Bibliothèque nationale de France, [Gallica http://gallica.bnf.fr/ark:/12148/bpt6k6550067z">
+<https://farm8.staticflickr.com/7518/15786476885_2361867b70_o_d.png size=large title="Une époque obsédée par les classifications." caption="Détail extrait de Atlas-géographie ou Nouveau manuel de géographie générale : cours supérieur. E. Vitte (Lyon), 1901 - Bibliothèque nationale de France, Gallica." link="http://gallica.bnf.fr/ark:/12148/bpt6k6550067z">
 
 	 
 
@@ -127,7 +127,7 @@ Du Code Noir aux révolutionnaires républicains, des députés de la fin du 18e
 
 - [Une loi contre l’histoire->http://www.monde-diplomatique.fr/2005/04/LIAUZU/12080], Le Monde diplomatique, avril 2005.
 
-- [Marc benoemt 's morgens de dingen->http://cas1.elis.rug.ac.be/avrug/forum/bambi14.htm] de Bambi Ceuppens, en néerlandais, ou sa traduction en anglais ([pdf à télécharger ici->http://www.constantvzw.com/downloads/marc.pdf]). Cet article traite de l'utilisation, en néerlandais, des mots « neger » et « zwarte». Une version raccourcie du texte de la chercheuse belge est parue dans le journal {De Standaard}, accompagnée, de manière exceptionnelle pour ce journal, d'une photographie de l'auteure. Dans une réaction non publiée par le quotidien, la chercheuse [revient sur ce que signifie->http://cas1.elis.ugent.be/avrug/forum/bambi15.htm], en termes de disqualification de son discours, le fait de l'accompagner d'une telle photographie.
+- [Marc benoemt 's morgens de dingen->https://web.archive.org/web/20080928105321/http://cas1.elis.rug.ac.be/avrug/forum/bambi14.htm] de Bambi Ceuppens, en néerlandais, ou sa traduction en anglais ([pdf à télécharger ici->http://www.constantvzw.com/downloads/marc.pdf]). Cet article traite de l'utilisation, en néerlandais, des mots « neger » et « zwarte». Une version raccourcie du texte de la chercheuse belge est parue dans le journal {De Standaard}, accompagnée, de manière exceptionnelle pour ce journal, d'une photographie de l'auteure. Dans une réaction non publiée par le quotidien, la chercheuse [revient sur ce que signifie->http://cas1.elis.ugent.be/avrug/forum/bambi15.htm], en termes de disqualification de son discours, le fait de l'accompagner d'une telle photographie.
 
 - [The N-world - An interactive project exploring a singular word ->http://www.washingtonpost.com/wp-dre/features/the-n-word], The Washington Post, novembre 2014. Signalé par Jean Abbatieci @abbatieci sur [seenthis->http://seenthis.net]: Dialogues autour du « N-Word » (que l'on peut traduire par « Nègre » ou « Négro »), à la fois si tabou et si courant aux Etats-Unis. 
 
@@ -144,7 +144,7 @@ En faut-il davantage pour fonder une identité ?»}
 
 - [« Je suis un homme-noir-qui interroge »->http://www.journalzibeline.fr/programme/je-suis-un-homme-noir-qui-interroge/]. Un entretien avecv Pap N'Diaye de novembre 2014 : il nous parle, parmi d’autres choses, de l’approfondissement relativement récent de sa relation à l’Afrique, des questions liées à l’identité noire, et à l’expérience d’être noir, de la Marseille de Claude McKay et des marins soninkés, de Césaire, Glissant et Chamoiseau, de son attention pour les mondes minoritaires, du racisme aujourd’hui en France, et des luttes contre les discriminations.
 
-- [Lettre à Jimmy, à l'occasion du vingtième anniversaire de ta mort->http://alainmabanckou.net/essais/57-lettre-a-jimmy.html]. Hommage à l'écrivain noir américain James Baldwin, qui consacra sa vie à proclamer l'amour du prochain et la liberté de l'individu. Né à Harlem en 1924, mort à Saint-Paul de Vence en 1987, noir, bâtard, homosexuel, écrivain, James Baldwin a combattu sans relâche la ségrégation raciale. Alain Mabanckou salue en Baldwin l'esprit libre qui refusa, en littérature comme en politique, que sa lutte mène au repli communautaire.
+- [Lettre à Jimmy, à l'occasion du vingtième anniversaire de ta mort->http://web.archive.org/web/20120825023555/http://www.alainmabanckou.net/essais/57-lettre-a-jimmy.html]. Hommage à l'écrivain noir américain James Baldwin, qui consacra sa vie à proclamer l'amour du prochain et la liberté de l'individu. Né à Harlem en 1924, mort à Saint-Paul de Vence en 1987, noir, bâtard, homosexuel, écrivain, James Baldwin a combattu sans relâche la ségrégation raciale. Alain Mabanckou salue en Baldwin l'esprit libre qui refusa, en littérature comme en politique, que sa lutte mène au repli communautaire.
 
 <quote>
 
@@ -181,9 +181,7 @@ qui nous est faite
 
 <h2>Sites à consulter :</h2>
 
-- [DiversCités->http://www.diverscites.org/]
-
-- [L’Article « Nègre » sur l’encyclopédie en ligne Wikipédia->http://fr.wikipedia.org/wiki/N%C3%A8gres]. Consultez en particulier dans cet article la reproduction d’une page (dont la lecture fait froid dans le dos) d’un manuel scolaire de cours préparatoire et de CM1 de 1926 ({La géographie vivante}, d’Onésime Reclus, frère du grand géographe anarchiste Elisée Reclus…) et la citation de l’article « Nègre » tirée du Grand Dictionnaire Universel du XIXe siècle Larousse de 1872.
+- [L’Article « Nègre » sur l’encyclopédie en ligne Wikipédia->https://fr.wikipedia.org/wiki/Nègre]. Consultez en particulier dans cet article la reproduction d’une page (dont la lecture fait froid dans le dos) d’un manuel scolaire de cours préparatoire et de CM1 de 1926 ({La géographie vivante}, d’Onésime Reclus, frère du grand géographe anarchiste Elisée Reclus…) et la citation de l’article « Nègre » tirée du Grand Dictionnaire Universel du XIXe siècle Larousse de 1872.
 
 <h2>Documentaire :</h2>
 
@@ -212,4 +210,4 @@ PS: Si vous souhaitez réagir à cette contribution, ou simplement contacter les
 
 
 --------------------------
-Visionscarto - version du 21 novembre 2014 21:44
+Visionscarto - version du 21 septembre 2016 17:14

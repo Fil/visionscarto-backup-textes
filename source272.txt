@@ -1,0 +1,60 @@
+
+--------------------------
+
+TITRE:
+Who the U.S. industrial lobbies pressure on intellectual property
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+- Elizabeth Rajasingh
+
+--------------------------
+
+CHAPO:
+<h4 class=text-right>{by Elizabeth Rajasingh & Philippe Rivière}</h4>
+<h5 class=text-right>Elizabeth is a researcher with [Knowledge Ecology International->http://keionline.org/], Washington.</h5>
+
+
+--------------------------
+TEXTE:
+
+Each year, the United States Trade Representative issues ​the [Special 301 Report->https://en.wikipedia.org/wiki/Special_301_Report] on Intellectual Property (IP). This ​report, an essential tool in the US trade policy regarding intellectual property, puts pressure on countries that are deemed “not compliant” with the global regime of patents and copyright.
+
+It is largely influenced by five industrial lobby groups — Pharmaceutical Research and Manufacturers of America  (<span class=caps>PhRMA</span>), ​Biotechnology Industry Organization (BIO), Business Software Alliance​ (​BSA), International Intellectual Property Alliance​ (​IIPA), and the US Chamber of Commerce’s Global IP Center (USCC)​ —, who submit comments to USTR,  listing the countries they want to be scrutinized.
+
+When reviewing the submissions of these groups, we tracked which countries were named to either the Watch List (dotted bar) or Priority Watch List (solid bar) [[Spain is also named as Country of concern by the BSA, and recommended for an Out-Of-Cycle Review by the IIPA.]].
+
+After matching this list of countries with World Bank data on Gross National Income (GNI, pictured here as ​grey ​squares), we found that a primary indicator of being target by one of these industry groups is the size of a country’s economy.
+
+<https://farm2.staticflickr.com/1709/26398261256_cef7118181_o_d.png size=original class=fullwidth>
+
+-- In South America, the seven largest economies were targeted for various watch lists by the 5 industry trade groups.  The smallest 5 economies, not once.
+-- In North Africa, the two largest economies were targeted.  The three smaller economies were not.
+-- In sub-Saharan Africa, only Nigeria was targeted.  Nigeria has the largest economy in Sub-Saharan Africa.
+-- In the Asia Pacific region, 7 of the 8 largest (Japan was the exception) and 11 of the 16 largest economies were targeted. No country with a 2013 GNI less than $162 billion was targeted.
+-- In Central America, the country with the highest per capita income was the only one targeted (Panama). 
+
+In short, a country — developing or not — with a large economy will most likely be included on this list, and subjected to pressure to increase IP protection, regardless of their policies in place.
+
+These lobby groups make it a practice of singling out new and growing markets, in order to pressure them into implementing strict IP law for the benefit of US companies and other Western groups operating with large IP portfolios.
+
+The needs of poorer citizens, when it comes to health care (price of drugs) or access to knowledge, do not seem to be their concern.
+
+-------------
+
+#Intellectual_property #Health #Pharma #Lobbying  #Patents #Copyright #Trade #United_States
+
+<small>The header is a detail from Marcel Gromaire's “La Guerre” painted in 1925.</small>
+
+
+--------------------------
+
+PS: If you wish to comment, use the text or the map, or simply contact the authors, we invite you to get in touch with us via e-mail at [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 23 April 2016 11:16

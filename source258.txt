@@ -1,0 +1,35 @@
+
+--------------------------
+
+TITRE:
+Human Settlements
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+
+
+--------------------------
+TEXTE:
+
+|{{Title:}}| Human Settlements |
+|{{Keywords:}} | #cities #roads #world #population #basics |
+|{{Publication:}} | Visionscarto, April 2016. |
+|{{Author:}} | Philippe Rivière |
+|{{Date:}} | 2016. |
+|{{Sources:}} | Projection inspired by Bertin (1953) ; [Natural Earth-> www.naturalearthdata.com] ; [Patrick Stotz->http://bl.ocks.org/PatrickStotz], [Curran Kelleher->https://twitter.com/currankelleher] ; [GeoNames->http://www.geonames.org/] ; [d3.js->https://d3js.org/]. |
+
+<https://farm2.staticflickr.com/1711/26501149062_9273726b02_o_d.png size=original class=fullwidth>
+
+
+--------------------------
+
+PS: If you want to comment on this document, reuse it or simply to contact the author, please email us at [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 21 May 2016 20:46

@@ -36,7 +36,7 @@ Cette carte, dessinée par Philippe Rekacewicz à partir d'informations fournies
 
 Les enquêtes menées par notre centre montrent que, étant donné l'important nombre de consommateurs potentiels en Chine, et leur pouvoir d'achat de plus en plus important, la croissance prévisible du [trafic illicite de cornes à destination de la Chine->http://oxpeckers.org/category/investigations/chinese-links] pourrait aboutir à un désastre pour ce qui reste des populations de rhinocéros en Afrique du Sud.
 
-Fin 2013, deux jeunes journalistes chinois ont rejoint l'équipe d'enquêteurs d'Oxpeckers, avec l'objectif de mettre en lumière les liens mafieux de ce trafic entre l'Afrique et la Chine ({cf.} [Chinese Environmental Journalism Project->http://oxpeckers.org/2014/02/461/]). Oxpeckers est le premier centre d'investigation africain sur les questions environnementales. Il combine un journalisme d'investigation classique avec des outils d'analyse de données et de cartographie, pour dénoncer les crimes environnementaux et lutter contre le crime organisé dans l'Afrique australe.
+Fin 2013, deux jeunes journalistes chinois ont rejoint l'équipe d'enquêteurs d'Oxpeckers, avec l'objectif de mettre en lumière les liens mafieux de ce trafic entre l'Afrique et la Chine ({cf.} [Chinese Environmental Journalism Project->http://oxpeckers.org/category/investigations/chinese-links/]). Oxpeckers est le premier centre d'investigation africain sur les questions environnementales. Il combine un journalisme d'investigation classique avec des outils d'analyse de données et de cartographie, pour dénoncer les crimes environnementaux et lutter contre le crime organisé dans l'Afrique australe.
 
 #Cartographie #Visualisation
 
@@ -49,4 +49,4 @@ PS: Cet article et cette carte sont le produit d'une première collaboration ent
 
 
 --------------------------
-Visionscarto - version du 20 mai 2014 09:23
+Visionscarto - version du 21 mai 2016 20:52

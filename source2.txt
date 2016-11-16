@@ -27,8 +27,8 @@ TEXTE:
 <div class="ui piled segment">
 {{{Réseaux sociaux}}}
 <p class="text-left">L’actualité du site est aussi répercutée sur nos pages :
-<div class="ui tiny buttons"><div class="ui twitter button"><i class="ui twitter icon"></i><a href="http://twitter.com/visionscarto">twitter</a></div>
-<div class="ui facebook button"><i class="ui facebook icon"></i><a href="http://facebook.com/visionscarto">facebook</a></div>
+<div class="ui tiny buttons"><div class="ui twitter button"><i class="ui twitter icon"></i><a href="https://twitter.com/visionscarto">twitter</a></div>
+<div class="ui facebook button"><i class="ui facebook icon"></i><a href="https://www.facebook.com/VisionsCarto/">facebook</a></div>
 </div>
 </div>
 </div>
@@ -63,4 +63,4 @@ PS: S’il y a d’autres espaces que vous souhaiteriez voir alimenter en images
 
 
 --------------------------
-Visionscarto - version du 23 juin 2014 09:43
+Visionscarto - version du 6 juin 2016 09:09

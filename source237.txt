@@ -14,9 +14,9 @@ AUTEUR:
 --------------------------
 TEXTE:
 
-|{{Titre :}}| Tableau - Waidhofen an der Ybbs (petite ville autrichienne) |
+|{{Titre :}}| Tableau - Waidhofen an der Ybbs (petite ville autrichienne). |
 |{{Mots-clés :}} | #Graphisme #Art #Couleurs #Sémiologie_graphique #Formes #Étude_graphique #Peinture #Tableau |
-|{{Matériel :}} | Huile sur toile |
+|{{Matériel :}} | Huile sur toile. |
 |{{Auteur :}} | [Maximilian Reinitz->http://www.maximilianreinitz.at/en/] (1872–1935) |
 |{{Apparition :}} | [Musée Leopold->http://www.leopoldmuseum.org/en/languages/fr], Vienne |
 |{{Date de création :}} | 1927 |
@@ -59,4 +59,4 @@ Quelques autres œuvres remarquables de Maximilian Reinitz
 
 
 --------------------------
-Visionscarto - version du 15 mars 2016 10:16
+Visionscarto - version du 3 avril 2016 13:44

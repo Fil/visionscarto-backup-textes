@@ -11,10 +11,10 @@ Graffiti - Sans titre
 --------------------------
 TEXTE:
 
-|{{Titre :}}| Graffiti - Sans titre |
+|{{Titre :}}| Graffiti - Sans titre. |
 |{{Mots-clés :}} | #Graphisme #Art #Graffiti #Sémiologie_graphique #Formes #Image #Art_de_rue #Street_art #Ombre #Graffiti |
 |{{Matériel :}} | - |
-|{{Artiste :}} | Inconnu - vu sur Torvet, Arendal (Norvège) |
+|{{Artiste :}} | Inconnu - vu sur Torvet, Arendal (Norvège). |
 |{{Date de création :}} | 2013 |
 
 <https://farm2.staticflickr.com/1577/25007958825_6c2683a58a_o_d.jpg size=large title="Dessin mural - Sans titre." credit="Artiste inconnu, 2013.">
@@ -28,4 +28,4 @@ PS: Photo de Philippe Rekacewicz - Si vous souhaitez utiliser ce document, nous 
 
 
 --------------------------
-Visionscarto - version du 15 mars 2016 10:15
+Visionscarto - version du 3 avril 2016 13:45

@@ -1,0 +1,69 @@
+
+--------------------------
+
+TITRE:
+Élisée Reclus, le géographe qui n'aimait pas les cartes
+
+--------------------------
+
+AUTEUR: 
+- Federico Ferretti
+
+--------------------------
+
+CHAPO:
+Élisée Reclus (1830-1905), un des fondateurs de la géographie moderne, connaît depuis quelques années un regain d’intérêt. On redécouvre la pertinence de son approche et de ses analyses sur des sujets brûlants d’actualité : justice sociale, conflits, migrations, métissage... A la différence de nombre de ses collègues de l’époque, qui pratiquent une géographie « énumérative » fort ennuyeuse, Reclus développe dans son œuvre monumentale ({la Nouvelle Géographie universelle, la terre et les hommes}, une encyclopédie en 19 tomes, publiée chez Hachette entre 1876 et 1894), une analyse globale décryptant les dynamiques et les interactions.
+
+
+<h4 class="text-right">{par Federico Ferretti}</h4>
+<h5 class="text-right">Enseignant-chercheur au département de géographie de University College Dublin (UCD).
+<br>Auteur de {Il Mondo senza la mappa : Élisée Reclus e i geografi anarchici}, Reggio Emilia, Zero in Condotta, 2007. </h5>
+
+
+--------------------------
+TEXTE:
+
+<https://farm6.staticflickr.com/5585/29632389954_12c538fa5a_o_d.jpg size=medium title="Continent présumé (Carte de Charles Perron)."
+legend="Source : Élisée Reclus, Nouvelle Géographie Universelle, Vol. XIV, Océan et terres océaniques, Paris, Hachette, 1889, p. 21." right>
+
+Élisée Reclus est plutôt critique envers la cartographie. Comme son maître Carl Ritter (1779-1859), il dénonce les insuffisances de la carte topographique, produite d’abord pour les militaires et qui passe sous silence toutes les informations sur les sociétés humaines, leur histoire et la manière dont elles organisent les territoires sur lesquels elles vivent. Aussi s’élevait-il contre l’usage, à l’école, des cartes murales « planes », qu’il considérait comme de fausses représentations du monde (il militait même pour leur complète interdiction !). {La carte}, expliquait-il, {ne donne aucune idée de la véritable géographie « à trois dimensions »}, selon lui fondamentale pour comprendre les dynamiques sociales et spatiales. Il encourageait en revanche, sur le modèle des écoles libertaires dont il était un promoteur actif, l’observation directe de la nature.
+
+Les collaborateurs d'Élisée Reclus, en particulier Charles Perron (1837-1909), assortissent l’œuvre du géographe anarchiste d'un immense corpus de cartes et de dessins (une dizaine de milliers). Ce ne sont pas des cartes topographiques, mais bien des cartes « thématiques » au sens moderne du terme – des cartes historiques, statistiques, démographiques, ethnographiques, et même des cartes qui ressemblent à s’y méprendre à des documents « géopolitiques », bien que le terme n’existe pas encore en cette fin de XIXe siècle.
+
+<https://farm6.staticflickr.com/5587/14723957929_eeee5a17d6_o.jpg size=large title="Carte statistique de Charles Perron : espace dans lequel tiendrait le genre humain réuni en assemblée fraternelle, avec une densité de 4 habitants au mètre carré, en comparaison avec la ville de Paris."
+legend="Source : Élisée Reclus, À propos dune carte statistique, Bulletin de la Société Neuchâteloise de Géographie, 5/1889-1890, p. 123. ">
+
+<https://farm4.staticflickr.com/3908/14910608115_99af3e99e1_o.jpg size=large title="Pogromes en Russie (Carte d'Emile Patesson)"
+legend="Source : Élisée Reclus, {L'homme et la terre}, Paris, Librairie Universelle, 1905, vol. V, p. 469. ">
+
+Mais il y a encore plus fou. Dans leur mouvement de résistance, ces géographes lancent un immense défi à cette cartographie « statique » qu’ils rejettent. C’est le projet du Grand Globe. 
+
+<https://farm4.staticflickr.com/3856/14724680120_405d7621bc_o.jpg size=medium title="Projet de Grand Globe d'Élisée Reclus" right>
+
+Prévu pour mesurer plus de 127,5 mètres de diamètre, topographie et bathymétrie à échelle constante, il devait contenir des bibliothèques et des salles de conférence. Une formidable synthèse du savoir géographique de l’époque, une sorte de voyage « humboldtien » [[« Humboldtien »  en ce qu'il reproduit cette association de l'aventure et de la découverte scientifique propre au récit du célèbre voyage accompli dans la zone des tropiques d'Amérique par Alexander von Humboldt (naturaliste et explorateur allemand, 1769-1859) au début du XIXe siècle et qui lui avait permis de gagner l'intérêt de l’Europe pour le nouveau savoir géographique, fondé sur la mesure et l'observation rigoureuse.]] Pour des raisons économiques, ce globe ne sera jamais construit, mais le projet lui-même a nourri un riche débat au sein des groupes politiques et de la communauté scientifique.
+
+Ce débat prend aujourd’hui une signification toute singulière dans le contexte de la mondialisation. Pourquoi ? Parce que ce globe était aussi le symbole d’une utopie : une seule terre sur la surface de laquelle vivrait une seule humanité, en paix et dans le respect de la planète qui la nourrit.
+
+<p class="text-right caps">↬ Federico Ferretti.</p>
+
+<quote>
+
+{{Lire aussi les autres articles de ce dossier}}
+
+- [Charles Perron et la juste représentation du monde->http://visionscarto.net/charles-perron]
+
+- [Le monde sans la carte->http://visionscarto.net/le-monde-sans-la-carte]
+
+</quote>
+
+
+
+--------------------------
+
+PS: Si vous souhaitez réagir, contribuer, commenter, utiliser ce texte ou les images, ou simplement contacter l'auteur, nous vous invitons à nous écrire à l'adresse  [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 12 octobre 2016 20:05

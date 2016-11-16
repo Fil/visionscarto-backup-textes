@@ -1,0 +1,93 @@
+
+--------------------------
+
+TITRE:
+Le sol, ce bien commun où la vie prend~racine
+
+--------------------------
+
+AUTEUR: 
+- Agnès Stienne
+
+--------------------------
+
+CHAPO:
+De petites communautés humaines ont commencé à se sédentariser dans une période située entre 9~000 et 15~000~ans. La domestication des céréales, des légumineuses et des animaux, c'est-à-dire en fait, l'invention de l'agriculture, a favorisé l'implantation humaine et l'apparition des tout premiers villages : Moyen-Orient, Chine du Nord, Cordillère des Andes.
+
+<h4 class="text-right">{Par Agnès Stienne}</h4>
+<h5 class="text-right">artiste, cartographe</h5>
+
+
+--------------------------
+TEXTE:
+
+{Ceci est le premier volet du travail de recherche « [Des terres et des territoires->http://visionscarto.net/des-terres-et-des-territoires] ».}
+
+{{{L'empreinte des sociétés humaines}}}
+
+L'occupation permanente d'un territoire par les humains entraîne une transformation parfois irréversible des écosystèmes et des sols où l'on exerce des activités agricoles, cultures ou pâturages. Ainsi, depuis plus de 8~000~ans, l'altération de la biosphère terrestre a été significative. Mais c'est plus récemment et sur une période extrêmement courte, marquée par l'artificialisation des terres pour le bâti, la production industrielle et le développement des infrastructures, que les transformations de la biosphère terrestre ont été les plus profondes. 
+
+Dès la fin du XVIIIe siècle, quand naît la révolution industrielle, s'ouvre une nouvelle ère géologique qui se caractérise par l'influence croissante des activités humaines sur le destin de la planète et qui s'intensifie après la seconde guerre mondiale : ce que certains appellent l'«anthropocène» (du grec anthropos : humain).
+
+<https://farm8.staticflickr.com/7681/27360985146_9fa3e47f0b_k_d.jpg size=original title="Transformations anthropogéniques de la biosphère terrestre" credit="Agnès Stienne, 2016" class=fullwidth>
+
+{{{Les dégradations}}}
+
+Différentes activités sont à l'origine de l'altération des sols : l'exploitation des ressources naturelles, l'extraction (mines, pétrole, gaz…), les industries polluantes. Certaines pratiques agricoles dégradent aussi le sol en compactant la terre, qui s'imperméabilise et perd ses propriétés fertilisantes (porosité, humidité, activité biologique) nécessaires à la croissance des plantes. L'une des causes principales de cette compaction est le piétinement du bétail dans les pâturages intensifs, le surpâturage, notamment autour des points d'eau des zones arides dont les sols sont particulièrement fragiles. La seconde provient des mauvaises pratiques comme le labour et l'utilisation des machines agricoles lourdes par l'agro-industrie.
+
+Les aires de sédentarisation les plus anciens comme le Moyen-Orient, l'Europe, l'Inde ou la Chine, sont affectés par ces dégradations mais pas seulement. Colonisés bien plus tardivement, les États-Unis, le Brésil, la Nouvelle-Zélande et l'Australie sont eux aussi touchés.
+
+Dans certaines régions, ces détériorations conduisent à la désertification. En 2005, les zones sèches où vivent un tiers de la population mondiale recouvraient 41~% des terres immergées. Par ailleurs la déforestation et le changement climatique accélèrent cette dynamique, surtout dans les régions sensibles à la sécheresse.
+
+Enfin, l'utilisation abondante d'engrais chimiques se traduit par des pollutions tant sur les terres que sur les rivages. Les excès de nitrates et de phosphates, que le sol ne peut absorber, sont emportés par les pluies dans les cours d'eau puis s'accumulent sur les côtes où prolifèrent les algues vertes.
+
+<https://farm8.staticflickr.com/7657/27360981746_1c37b821d7_k_d.jpg size=original title="Dégradations par compaction et pollutions agricoles" credit="Agnès Stienne, 2016" class=fullwidth>
+
+{{{L'érosion}}}
+
+L'érosion des sols par l'eau ou le vent n'a pas forcément un impact négatif. Par exemple, le délitement des terres en altitude fertilise les terres agricoles situées dans les vallées en accumulant les fines particules de terres déplacées sous l'effet de l'eau ou du vent. 
+
+Mais des ravines ou des barrages envasés sont les signes de détériorations sévères dues à l'eau. L'accélération de l'érosion par l'eau est particulièrement destructrice puisque les sols et les nutriments qu'ils contiennent sont emportés par les rivières vers la mer ou l'océan, où ils sont alors dispersés. La vulnérabilité d'un sol à l'érosion par l'eau dépend de la fréquence et de l'intensité des pluies qui s'y produisent, la résilience du sol, la couverture végétale, la gestion des terres et l'inclinaison du terrain.
+
+L'érosion éolienne est plus délicate à évaluer. Les vents violents (tempêtes, tornades) transportent les poussières ou les fines particules de terre à des milliers de kilomètres et polissent les surfaces balayées par les rafales. On retrouve en Amazonie des particules provenant du Sahara. Sur la carte, la vulnérabilité approximative des sols à l'érosion éolienne se superpose à celle élevée de l'érosion par l'eau.
+
+Enfin, la salinisation des sols est une conséquence de l'irrigation des cultures. L'eau, en pénétrant dans les sols, dissout les sels qui remontent alors en surface, excluant toute possibilité de culture. 
+
+<https://farm8.staticflickr.com/7076/26787567903_8000960442_k_d.jpg size=original title="L'érosion par l'eau, salinisation" credit="Agnès Stienne, 2016" class=fullwidth>
+
+{{{Sombre bilan mais des solutions existent}}}
+
+Dans son chapitre consacré aux sols, le rapport mondial sur la politique alimentaire de l'Ifpri (voir les références ci-dessous) révèle que les mauvaises pratiques agricoles sont responsables de la perte de 7,5~milliards de tonnes de sol par an. La situation est d'autant plus critique que la formation d'un sol arable à partir de la roche mère, et dans des conditions propices, nécessite des milliers d'années. Et que la population ne cesse d'augmenter.
+
+Cela dit, tout n'est pas désespéré, nous savons maintenant qu'il est possible, à échelle de vie humaine, de restaurer la fertilité des sols, par exemple en remplaçant la monoculture par des techniques telles que l'agroécologie et des apports de matières organiques (compost, fumier) puis en grignotant sur certains déserts. 
+
+<https://farm8.staticflickr.com/7246/27421055455_2a80e50d04_k_d.jpg size=original title="Exemple de formation d'un sol" credit="Agnès Stienne, 2016">
+
+En 2016, plus d'une vingtaine d'organisations réparties dans le monde travaillent à la restauration des sols. Mais la tâche est immense : si les pouvoirs publics ont la prétention de vouloir nourrir leurs populations sainement et durablement, il est urgent et impératif qu'agriculteurices et collectivités locales soient accompagnées pour mener à bien la mutation des pratiques agricoles.
+
+<p class="text-right caps">↬ Agnès Stienne.</p>
+
+
+<quote>
+{{{Sources & références}}}
+- [Sédentarisation et agriculture->https://www.herodote.net/8000_ans_avant_JC-synthese-165.php], herodote.net
+- Gaia Vince, [An Epoch Debate->http://science.sciencemag.org/content/334/6052/32], {Science} n° 334, 2011.
+- Ecosystèmes et bien-être humain, synthèse sur la désertification, World Resources Institute, 2005 ([PDF->http://www.millenniumassessment.org/documents/document.797.aspx.pdf]).
+- [Portail d'information sur les sols->http://www.fao.org/soils-portal/degradation-des-sols/fr/
+], FAO (Organisation des Nations Unies pour l'alimentation et l'agriculture).
+- [Global Food Policy Report 2016->https://www.ifpri.org/publication/2016-global-food-policy-report], IFPRI.
+- [22 Organizations Working to Restore Soils in 2016->http://foodtank.com/news/2016/03/twenty-two-organizations-working-to-restore-soils-in-2016], Foodtank.com
+</quote>
+
+
+
+
+--------------------------
+
+PS: Cet article est le premier volet du projet de récit cartographique « [Des terres et des territoires->http://visionscarto.net/des-terres-et-des-territoires] » d'Agnès Stienne, que nous vous invitons à soutenir à travers sa [collecte Hello Asso->https://www.helloasso.com/associations/terres-et-territoires/collectes/terres-et-territoires]. Pour tout commentaire ou demande de reproduction, n'hésitez pas à écrire à l'adresse [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 6 juin 2016 07:59

@@ -15,10 +15,7 @@ AUTEUR:
 TEXTE:
 
 |{{Titre :}}| Âge médian de la population mondiale, 1950-2050 |
-|{{Mots-clés :}} |#Population
-#Démographie
-#Vieillissement |
-|{{Apparition(s) :}} | Le Monde diplomatique de juin 2013 |
+|{{Mots-clés :}} |#Population #Démographie #Vieillissement |
 |{{Auteur :}} | Philippe Rekacewicz |
 |{{Date de création :}} | Juin 2013 |
 
@@ -49,4 +46,4 @@ PS: Si vous souhaitez commenter, utiliser ces figures, ou simplement contacter l
 
 
 --------------------------
-Visionscarto - version du 9 septembre 2014 15:42
+Visionscarto - version du 8 avril 2016 09:21

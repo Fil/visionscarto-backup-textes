@@ -1,0 +1,78 @@
+
+--------------------------
+
+TITRE:
+La dernière carte Nord-Sud
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+
+
+
+--------------------------
+TEXTE:
+
+|{{Titre :}}| La dernière carte Nord-Sud : esquisse finalisée |
+|{{Mots-clés :}} | #Tiers-Monde #Pays_en_voie_de_développement #Pays_développés #Développement #Inégalités #Mondialisation #Vision #Perception #Nord-Sud |
+|{{Auteur :}} | Philippe Rekacewicz |
+|{{Date :}} | 2002 et 2003 |
+
+<https://farm8.staticflickr.com/7743/26493788674_9fa5bb148c_o_d.jpg size=large>
+
+Un peu plus de dix ans après la chute du mur et la disparition de l'Union soviétique, alors que les grilles de lecture de cette nouvelle géopolitique en profonde mutation étaient encore très floues, nous avions réalisé ce projet de visualisation d'un monde que nous pensions encore divisé en un « Sud » périphérique à un processus de globalisation qui prenait son plein essor dans le « Nord ». Ce fut notre dernière carte Nord-Sud. Toutes les expérimentations cartographiques ultérieures commençaient à prendre en compte les évolutions sociales, économiques et politiques nouvelles, de nouveaux acteurs, de nouveaux théâtres d'opérations et de centres de pouvoir, et finalement des situations géopolitiques beaucoup plus variées et plus difficile à représenter.
+
+Ce projet « Nord-Sud « (en anglais « Up North ») a été publié dans le cadre d'une petite expérimentation éditoriale qui aura duré environ dix ans. L'institution PNUE/Grid-Arendal, centre onusien délocalisé dans le sud de la Norvège, a publié la série [Environment and Poverty Time->http://www.grida.no/publications/et/], petit journal de 16 pages en format berlinois, qui était dédié chaque année à un thème croisé avec les questions environnementales : sécurité humaine, désastres, pollution, biodiversité, accès à l'eau et aux services d'assainissement, mondes polaires, etc....
+
+Cette carte illustrait un article de William Mansfield, alors sous-directeur du PNUE, qui livrait une intéressante [analyse de la vision américaine -- au tout début des années 2000 -- de la « sécurité environnementale et humaine »->http://www.grida.no/publications/et/ep2/].
+
+
+<div class=clearfix>
+<html><style>
+.spip_doc_titre {
+    min-width: 300px;
+    width: none !important;
+    max-width: 70%;
+    font-size: smaller;
+    font-weight: normal;
+}</style></html>
+<doc10|left>
+</div>
+
+----------------
+
+Il en existe deux versions sous la forme d'« esquisses préparatoires » et une version numérisée.
+
+
+|{{Titre :}}| La dernière carte Nord-Sud : esquisse 0.1 |
+|{{Mots-clés :}} | #Tiers-Monde #Pays_en_voie_de_développement #Pays_développés #Développement #Inégalités #Mondialisation #Vision #Perception |
+|{{Auteur :}} | Philippe Rekacewicz |
+|{{Date :}} | 2002 |
+
+<https://farm8.staticflickr.com/7025/26495362943_7046a38a6a_o_d.jpg size=large>
+
+|{{Titre :}}| La dernière carte Nord-Sud : esquisse 0.2 |
+|{{Mots-clés :}} | #Tiers-Monde #Pays_en_voie_de_développement #Pays_développés #Développement #Inégalités #Mondialisation #Vision #Perception |
+|{{Auteur :}} | Philippe Rekacewicz |
+|{{Date :}} | 2002 |
+
+<https://farm8.staticflickr.com/7166/27066041366_bca07a6d63_o_d.jpg size=large>
+
+|{{Titre :}}| La dernière carte Nord-Sud : carte numérisée |
+|{{Mots-clés :}} | #Tiers-Monde #Pays_en_voie_de_développement #Pays_développés #Développement #Inégalités #Mondialisation #Vision #Perception |
+|{{Auteur :}} | Philippe Rekacewicz |
+|{{Date :}} | 2004 |
+
+<https://farm8.staticflickr.com/7122/26825155160_cd3297a8cf_o_d.jpg size=large>
+
+
+--------------------------
+
+PS: Si vous souhaitez commenter, utiliser ces documents ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 19 mai 2016 10:23

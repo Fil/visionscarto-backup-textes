@@ -23,7 +23,7 @@ TEXTE:
 #Russie
 #edm|
 
-|{{Apparition(s)}} | [L'Etat du monde 2014->http://www.editionsladecouverte.fr/catalogue/index-Puissances_d_hier_et_de_demain-9782707176981.html], {« Puissances d'hier et de demain »}, La Découverte, Paris, 2013. |
+|{{Apparition(s)}} | [L'Etat du monde 2014->http://www.editionsladecouverte.fr/catalogue/index-Puissances_d_hier_et_de_demain-9782707178060.html], {« Puissances d'hier et de demain »}, La Découverte, Paris, 2013. |
 |{{Auteur}} | Philippe Rekacewicz |
 |{{Date de création}} | Juin 2013 |
 
@@ -39,4 +39,4 @@ PS: Si vous souhaitez commenter, utiliser ce document ou simplement contacter l'
 
 
 --------------------------
-Visionscarto - version du 6 mai 2014 21:53
+Visionscarto - version du 22 mai 2016 11:53

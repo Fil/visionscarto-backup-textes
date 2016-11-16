@@ -36,7 +36,7 @@ This map, drawn by Philippe Rekacewicz from information provided by the Oxpecker
 
 Investigations by our center indicated that, given the huge number of potential consumers in China and their growing purchasing power, the predicted growth in illicit trafficking of horns to China could be a disaster for South Africa's remaining rhino populations. (http://oxpeckers.org/category/investigations/chinese-links)
 
-In late 2013 two young Chinese journalists joined the Oxpeckers investigative team, with the aim of exposing wildlife trafficking links between Africa and China ([Chinese Environmental Journalism Project->http://oxpeckers.org/2014/02/461/]). Oxpeckers is Africa's first journalistic investigation unit focusing on environmental issues. It combines traditional investigative reporting with data analysis and geo-mapping tools to expose eco-offences and track organised crime syndicates in southern Africa.
+In late 2013 two young Chinese journalists joined the Oxpeckers investigative team, with the aim of exposing wildlife trafficking links between Africa and China ([Chinese Environmental Journalism Project->http://oxpeckers.org/category/investigations/chinese-links/]). Oxpeckers is Africa's first journalistic investigation unit focusing on environmental issues. It combines traditional investigative reporting with data analysis and geo-mapping tools to expose eco-offences and track organised crime syndicates in southern Africa.
 
 #Cartographie #Visualisation
 
@@ -49,4 +49,4 @@ PS: This article and map are the result of a first collaboration between Visions
 
 
 --------------------------
-Visionscarto - version du 19 May 2014 08:37
+Visionscarto - version du 21 May 2016 20:53

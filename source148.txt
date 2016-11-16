@@ -144,7 +144,7 @@ Ces événements montrent qu'à Petrou Ralli, comme dans les centres de détenti
 
 ----------
 
-<small>Ce texte est une synthèse augmentée et mise à jour de deux extraits d'articles parus dans le journal [La Cité] en novembre 2012 et dans la revue [l'Espace politique->http://espacepolitique.revues.org/2675] en février 2013.</small>
+<small>Ce texte est une synthèse augmentée et mise à jour de deux articles parus dans le journal {[La Cité->http://www.lacite.info/politiquetxt/2012/10/05/le-vrai-visage-de-laube-doree-parti-neonazi-grec]} en octobre 2012 et dans la revue [l'Espace politique->http://espacepolitique.revues.org/2675] en février 2013.</small>
 
 ----------
 
@@ -161,4 +161,4 @@ PS: Ce récit de voyage de Cristina Del Biaggio et Alberto Campi a été publié
 
 
 --------------------------
-Visionscarto - version du 31 août 2015 10:46
+Visionscarto - version du 21 mai 2016 21:02

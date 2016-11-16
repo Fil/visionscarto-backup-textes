@@ -30,7 +30,7 @@ TEXTE:
 ----
 
 |{{Date :}} | Juin 2013 |
-|{{Apparition :}} | [L'Etat du monde 2014->http://www.editionsladecouverte.fr/catalogue/index-Puissances_d_hier_et_de_demain-9782707176981.html], {« Puissances d'hier et de demain »}, La Découverte, Paris, 2013. |
+|{{Apparition :}} | [L'Etat du monde 2014->http://www.editionsladecouverte.fr/catalogue/index-Puissances_d_hier_et_de_demain-9782707178060.html], {« Puissances d'hier et de demain »}, La Découverte, Paris, 2013. |
 
 <https://farm8.staticflickr.com/7299/14017344412_9945ee2a9c_h.jpg size=large>
 
@@ -38,7 +38,7 @@ TEXTE:
 |{{Titre :}}| Exportations d'armes : chasses gardées |
 |{{Apparition(s) :}}| Octobre 2010 : [Le Monde diplomatique->http://www.monde-diplomatique.fr/2011/10/].
 
-Octobre 2012 : [« Radikal Kartografi »->http://www.0047.org/exhibitions/view/68], exposition d'esquisses, Gallerie 0047, Oslo, Norvège. L'exposition a ensuite un peu voyagé en Norvège, elle était en juin 2013 à l'[House of Foundation->http://www.house-of-foundation.no/tidligere-utstillinger/] à Moss et en novembre 2013 à Bergen. Elle devrait encore circuler ici et là dans le pays.|
+Octobre 2012 : [« Radikal Kartografi »->http://0047.org/exhibitions_2012/radical-cartography/], exposition d'esquisses, Gallerie 0047, Oslo, Norvège. L'exposition a ensuite un peu voyagé en Norvège, elle était en juin 2013 à l'[House of Foundation->http://www.house-of-foundation.no/tidligere-utstillinger/] à Moss et en novembre 2013 à Bergen. Elle devrait encore circuler ici et là dans le pays.|
 
 <https://farm8.staticflickr.com/7107/14022028191_8443cc9e2c_h.jpg size=large>
 
@@ -80,4 +80,4 @@ PS: Si vous souhaitez commenter, utiliser ces documents ou simplement contacter 
 
 
 --------------------------
-Visionscarto - version du 27 avril 2014 22:54
+Visionscarto - version du 26 septembre 2016 14:27

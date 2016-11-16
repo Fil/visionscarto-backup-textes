@@ -1,0 +1,66 @@
+
+--------------------------
+
+TITRE:
+Sécurité routière : mourir sur la route en Europe en 2015
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+
+--------------------------
+
+CHAPO:
+<h4 class="text-right">{par Philippe Rekacewicz}</h4>
+
+
+--------------------------
+TEXTE:
+
+Comme toujours, et même avec une série statistique simple comme celle-ci (compilation de chiffres provenant de la base de données de l'Union européenne et de l'Organisation mondiale de la santé, OMS), il y a plusieurs possibilités sémiologiques. On peut choisir une série (ordonnée) de couleurs (je présente ici une version noir et blanc et un équivalent en couleur) de la classe la plus petite à la classe la plus grande ou une série de couleurs complémentaires inverses dont la valeur centrale est déterminée par la moyenne (ici, 51 morts par million d'habitants pour l'Union européenne).
+
+<https://farm2.staticflickr.com/1619/26318432506_4703479abf_k_d.jpg
+size=large title="Sécurité routière : mourir sur la route en Europe en 2015." legend="Version conçue sur la base de la moyenne de l'UE - noir & blanc.">
+
+
+J'ai aussi essayé de voir si cette moyenne européenne avait une empreinte géographique en figurant la ligne de partage entre les pays classés de part et d'autre de cette valeur. L'image est intéressante en ce qu'elle permet une comparaison intra-européenne qui réserve des surprises : L'Estonie avec une situation bien meilleure que les deux autres Pays baltes, l'Espagne dont les progrès en matière de sécurité routière sont spectaculaires, et l'Autriche qui, par contre, affiche un relatif mauvais score, bien loin de la Suisse et de l'Allemagne, pays auxquels on pensait qu'elle « ressemblerait ».
+
+<https://farm2.staticflickr.com/1492/26345602756_59f3994f64_k_d.jpg
+size=large title="Sécurité routière : mourir sur la route en Europe en 2015." legend="Conçue sur la base de moyenne de l'UE - en variation complémentaire inverse rouge et bleue.">
+
+<https://farm2.staticflickr.com/1462/26251992262_179348ac6e_k_d.jpg
+size=large title="Sécurité routière : mourir sur la route en Europe en 2015." legend="Conçue sur la base de moyenne de l'UE - en variation ordonnée d'ocre-brun.">
+
+Mais pour compléter la carte, et permettre des comparaisons plus larges, j'ai intégré des pays extérieurs à l'Union européenne (UE) pour lesquels les valeurs sont dans l'ensemble beaucoup plus élevées (Russie, Turquie, Moldavie, Ukraine et pays du Caucase-Sud).  J'ai du même coup « invalidé » la ligne de partage, puisque la moyenne n'intégrait pas ces nouveaux pays. J'ai donc recalculé la moyenne et produit une série de nouvelles cartes qui tiennent compte de cette valeur centrale (78 morts par million d'habitants au lieu de 51). Cela nous permet de grouper les pays différemment, nous donne une image différente, une autre perspective, et finalement, la carte nous raconte éventuellement une autre histoire...
+
+Ces visualisations, élaborées à partir des dernières statistiques disponibles de l'UE et de l'OMS, représentent une première approche. Elles sont destinées à être complétées et améliorées.
+
+<https://farm2.staticflickr.com/1484/26344009456_b8723027b3_k_d.jpg
+size=large title="Sécurité routière : mourir sur la route en Europe en 2015." legend="Version intégrant des pays extérieurs à l'UE en variation ordonnée noir & blanc.">
+
+<https://farm2.staticflickr.com/1710/26303701641_9e979dbce1_k_d.jpg
+size=large title="Sécurité routière : mourir sur la route en Europe en 2015." legend="Version intégrant des pays extérieurs à l'UE en variation ordonnée de vert.">
+
+<https://farm2.staticflickr.com/1679/25765086564_e097fb11f7_k_d.jpg
+size=large title="Sécurité routière : mourir sur la route en Europe en 2015." legend="Version intégrant des pays extérieurs à l'UE en variation complémentaire inverse rouge et bleue.">
+
+En fait, tout est une question de « points de vue » :
+
+<https://www.youtube.com/watch?v=E3h-T3KQNxU>
+
+Pour une vision mondiale de la sécurité routière, consulter the [Roads kill map->http://visionscarto.net/roads-kill-map], un projet de Dan McCarey, publié par le [Pulitzer Centre->http://pulitzercenter.org/node/12711] et repris sur Visionscarto.net en janvier 2016.
+
+
+
+
+
+--------------------------
+
+PS: Si vous souhaitez commenter, utiliser ces documents ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 14 avril 2016 22:01

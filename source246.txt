@@ -25,7 +25,7 @@ La carte dont il est ici question est tirée des pages 124 et 125 du {Grosser Hi
 <https://farm4.staticflickr.com/3845/14908287791_f7c48e507c_o.jpg size=original class=fullwidth title="L'Allemagne après les traités de Westphalie."
 legend="Carte reproduite avec l'aimable autorisation de l'éditeur" credit="Grosser Historischer Weltatlas, NeuzeitBayerischer Schulbuch-Verlag, 3e edition, volume III, Munich, 1967.">
 
-Pourquoi l’ai-je choisie ? Parce qu’elle est belle. Parce qu’elle me communique, par sa taille, par ses couleurs, les mêmes sensations, les mêmes sentiments que les immenses toiles du peintre franco-chinois [Zao Wou-Ki->Wikipédia->http://fr.wikipedia.org/wiki/Zao_Wou-Ki], avec leurs explosions chromatiques : le cartographe, ici, a joué des couleurs à l’instar de l’artiste. Cette carte, c’est un tableau abstrait…
+Pourquoi l’ai-je choisie ? Parce qu’elle est belle. Parce qu’elle me communique, par sa taille, par ses couleurs, les mêmes sensations, les mêmes sentiments que les immenses toiles du peintre franco-chinois [Zao Wou-Ki->http://fr.wikipedia.org/wiki/Zao_Wou-Ki], avec leurs explosions chromatiques : le cartographe, ici, a joué des couleurs à l’instar de l’artiste. Cette carte, c’est un tableau abstrait…
 
 <https://farm6.staticflickr.com/5571/14888370856_0316010769_o.jpg size=large title="Zao Wou-Ki - « Sans titre », 1968 -1970, huile sur toile, 200~x~162~cm, collection particulière."
 legend="Œuvre reproduite avec l'aimable autorisation de l'artiste.">
@@ -66,7 +66,7 @@ La discontinuité se manifeste par l’éparpillement des territoires, qui évoq
 
 <https://farm4.staticflickr.com/3839/14910669105_0b9f232a6f_o.jpg size=medium right>
 
-L’enclave italienne de [Campione->http://fr.wikipedia.org/wiki/Image:Karte_Luganersee.png] dans le Tessin suisse, la quasi-enclave du canton de Genève, le [Kleinwalsertal->http://commons.wikimedia.org/wiki/Image:Karte_Kleinwalsertal_SRTM3.png?uselang=de], vallée autrichienne uniquement accessible depuis l’Allemagne. Toutes ces particularités renvoient à un Ancien Régime où ne se distinguaient pas encore droit public et droit privé du prince, celui-ci acquérant souvent ses territoires par héritage, mariage, achat, comme cela est toujours la règle, aujourd’hui, pour les acquisitions immobilières privées.
+L’enclave italienne de [Campione d'Italia->http://fr.wikipedia.org/wiki/Image:Karte_Luganersee.png] dans le Tessin suisse, la quasi-enclave du canton de Genève, le [Kleinwalsertal->http://commons.wikimedia.org/wiki/Image:Karte_Kleinwalsertal_SRTM3.png?uselang=de], vallée autrichienne uniquement accessible depuis l’Allemagne. Toutes ces particularités renvoient à un Ancien Régime où ne se distinguaient pas encore droit public et droit privé du prince, celui-ci acquérant souvent ses territoires par héritage, mariage, achat, comme cela est toujours la règle, aujourd’hui, pour les acquisitions immobilières privées.
 
 L’aire linguistique aussi, ne coïncide pas avec les frontières de cette Allemagne-là. On voit bien, par exemple, qu’elle englobe des territoires de langue française, tchèque, polonaise, ou slovène. En 1648, conscience «nationale» et conscience «linguistique» n’étaient pas des réalités qui se recouvraient et l’attachement à l’Empire pouvait venir de personnalités non germanophones : on pense, à cet égard, aux célèbres exemples (certes postérieurs) du prince Eugène de Savoie ou du prince de Ligne, tous les deux francophones…
 
@@ -103,4 +103,4 @@ PS: Si vous souhaitez commenter, utiliser ce texte ou ces documents, ou simpleme
 
 
 --------------------------
-Visionscarto - version du 15 mars 2016 10:13
+Visionscarto - version du 20 mai 2016 08:21

@@ -15,7 +15,7 @@ AUTEUR:
 TEXTE:
 
 |{{Titre :}}| Géographie des revenus par foyer aux États-Unis en 2013 |
-|{{Mots-clés :}} | #États-Unis #Revenus #Inégalités #Pauvreté #Richesse #rRiches #Pauvres |
+|{{Mots-clés :}} | #États-Unis #Revenus #Inégalités #Pauvreté #Richesse #Riches #Pauvres |
 |{{Sources :}} | Sources : US Census Bureau, 2013 |
 |{{Apparition(s) :}} | Carte inédite |
 |{{Auteur :}} | Philippe Rekacewicz |
@@ -33,4 +33,4 @@ PS: Si vous souhaitez commenter, utiliser ces figures, ou simplement contacter l
 
 
 --------------------------
-Visionscarto - version du 22 juin 2015 02:04
+Visionscarto - version du 19 avril 2016 13:42

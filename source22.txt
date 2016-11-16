@@ -22,7 +22,7 @@ _ Toutes les esquisses cartographiques sont de l'auteur.</h5>
 --------------------------
 TEXTE:
 
-Et c'est La Villa Méditerranée, à Marseille, qui me donnera l'occasion de concrétiser cette idée. Ce musée a ouvert en juin 2013 [une exposition permanente->http://www.villa-mediterranee.org/fr/plus-loin-que-lhorizon] sur le thème des « circulations humaines, économiques et géopolitiques » en Méditerranée, imaginée par le réalisateur de documentaires et artiste plasticien [Bruno Ulmer->http://www.villa-mediterranee.org/node/448], et mise en scène par la scénographe Elizabeth Guyone. 
+Et c'est La Villa Méditerranée, à Marseille, qui me donnera l'occasion de concrétiser cette idée. Ce musée a ouvert en juin 2013 [une exposition permanente->https://web.archive.org/web/20140718084734/http://www.villa-mediterranee.org/fr/plus-loin-que-lhorizon] sur le thème des « circulations humaines, économiques et géopolitiques » en Méditerranée, imaginée par le réalisateur de documentaires et artiste plasticien Bruno Ulmer, et mise en scène par la scénographe Elizabeth Guyone. 
 
 Dans l'espace méditerranéen, les parcours, les déplacements d'êtres humains et de marchandises se croisent en flux continus et surtout très soutenus. Dans l'idée de visualiser le contexte géographique d'une manière originale, les responsables de l'exposition ont proposé la création de trois cartes-esquisses qui pouvaient offrir aux visiteurs une sorte de synthèse contextuelle de la région « élargie ».
 
@@ -167,4 +167,4 @@ Si vous souhaitez réagir, contribuer, commenter, utiliser tout ou partie de ce 
 
 
 --------------------------
-Visionscarto - version du 1er décembre 2014 21:58
+Visionscarto - version du 22 mai 2016 11:43

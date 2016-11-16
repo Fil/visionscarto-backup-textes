@@ -11,7 +11,7 @@ TITRE:
 --------------------------
 TEXTE:
 
-<p class="in">Bienvenue sur « Visionscarto », nouvel espace d'expression de nos recherches et de nos enthousiasmes. On aimerait tant qu'il soit tout à la fois qu'il est difficile de savoir par quel bout commencer.
+<p class="in">Bienvenue sur « Visionscarto », espace d'expression de nos recherches et de nos enthousiasmes.
 
 « Visionscarto » est le lieu où pourront s'exprimer tous ceux qui aiment penser et inventer des représentations du monde ; un lieu de recherche et d’expérimentation sur les mille et une façons de visualiser et de « dessiner » le monde, non pas tel qu'il est, mais tel qu'on le voit, tel qu'on le perçoit, tel qu'on le comprend.
 
@@ -44,4 +44,4 @@ PS: Pour nous contacter, nous vous invitons à le faire via l'adresse courriel [
 
 
 --------------------------
-Visionscarto - version du 22 août 2014 15:50
+Visionscarto - version du 23 avril 2016 15:27

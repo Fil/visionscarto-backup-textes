@@ -16,16 +16,9 @@ TEXTE:
 
 |{{Titre :}}| Le monde des super-séniors en 2010 et évolution en pourcentage entre 1950 et 2050 |
 |{{Mots-clés :}} | #Vieux
-#Personnes_âgées
-#Super_séniors
-#Vieillesse
-#Vieillissement
-#Population
-#Démographie |
-|{{Apparition(s) :}} | Le Monde diplomatique de juin 2013 |
+#Personnes_âgées #Super_séniors #Vieillesse #Vieillissement #Population #Démographie #Vieux |
 |{{Auteur :}} | Philippe Rekacewicz |
 |{{Date de création :}} | Juin 2013 |
-
 
 <https://farm4.staticflickr.com/3870/15002355579_b40578d996_o_d.jpg size=original class=fullwidth>
 
@@ -39,4 +32,4 @@ PS: Si vous souhaitez commenter, utiliser cette figure, ou simplement contacter 
 
 
 --------------------------
-Visionscarto - version du 9 septembre 2014 15:54
+Visionscarto - version du 8 avril 2016 09:20

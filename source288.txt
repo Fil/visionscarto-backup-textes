@@ -1,0 +1,55 @@
+
+--------------------------
+
+TITRE:
+Fort McMurray et l'incendie de~589~000~hectares
+
+--------------------------
+
+AUTEUR: 
+- @Fil
+- Philippe Rivière
+
+
+
+--------------------------
+TEXTE:
+
+Après l'incendie qui a ravagé en mai et juin 2016 toute la région de Fort McMurray, la ville du nord du Canada spécialisée dans l'extraction du pétrole, le journaliste David Dufresne est retourné sur place pour un « speed doc » :
+
+<h3 class=text-center> « [Fort Mac et la Bête->http://fortmacandthebeast.com/] » </h3>
+
+
+Dans ce documentaire -- vidéos, photos, interviews --, David livre aussi quelques chiffres, qui donnent le vertige :
+
+- 10% de la ville rasée
+- 2~400 structures en ruines ou endommagées
+- {{589~552 hectares de #forêt boréale partis en fumée}}
+- 88~000 personnes évacuées
+- hausse de 72 % des demandes à la Banque alimentaire depuis le retour des résidents
+- 30 millions de barils de pétrole non produits pendant les ravages de «La Bête»
+- 1,5 milliard de dollars canadiens: pertes estimées des compagnies de pétrole
+
+La question (cartographique) qui se posait était la suivante : comment représenter 589~552 hectares ? L'équivalent d'un carré de 77~kilomètres de côté ?
+
+L'idée, finalement, fut de permettre à chacun de transporter (virtuellement) le feu chez soi, dans un référentiel cartographique connu.
+
+<iframe src=/maps/fortmcmurray/index-blanc.html width=90% height=500 scrolling=no border=no style="max-width: 47em; height: 550px; padding-right: 0;"></iframe>
+
+L'étendue dévastée par l'incendie de mai 2016 est figurée par un calque transparent. Elle reste fixe à l'écran, tandis que l'on peut déplacer la carte à volonté, avec un soupçon de [géolocalisation->http://ipinfo.io/] pour permettre d'aller plus vite « chez soi ». Les puristes noteront que l'échelle du calque est légèrement modifiée avec la latitude, car la projection du fond de carte est la fameuse « Web Mercator », qui agrandit énormément les surfaces quand on va vers les pôles.
+
+<p class="text-right caps">↬ Philippe Rivière.</p>
+
+
+
+{Pour la suite : « [Fort Mac et la Bête->http://fortmacandthebeast.com/] ».}
+
+{Pour le code source et les images, voir [visionscarto/fortmcmurray->https://github.com/visionscarto/fortmcmurray].}
+
+
+
+
+
+
+--------------------------
+Visionscarto - version du 2 juillet 2016 23:33

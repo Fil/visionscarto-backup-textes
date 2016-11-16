@@ -18,7 +18,7 @@ CHAPO:
 
 <h5> Ont contribué à cet ouvrage :<br>Alberto Campi, Alexandre Gillet, Jean-François Staszak , Jean-Baptiste Bing, Claire Camblain, Ruggero Crivelli, Hy Dao, Bernard Debarbieux, Cristina Del Biaggio, Juliet Fall, Frédéric Giraut, Allison Huetz, Clémence Lehec, Bertrand Lévy, Thierry Maeder, Jacques Michelet, Muriel Monnard, Raphaël Pieroni, David Pillonel, Anne Sgard, Estelle Sohier.</h5>
 
-<h4 class="text-right">{Photos d’[Alberto Campi}->http://blog.albertocampiphoto.com/]</h4>
+<h4 class="text-right">{Photos d’[Alberto Campi}->http://www.albertocampiphoto.com/]</h4>
 <h5 class="text-right">membre du collectif de journalistes indépendants [We Report->http://www.wereport.fr/]</h5>
 
 Ce billet présente quelques extraits du {Tableau photogéographique du  Brozoufland}, un livre qui sera présenté au festival de géographie de Saint-Dié-des-Vosges les 2 et  3 octobre 2015.
@@ -190,4 +190,4 @@ PS: Si vous souhaitez réagir, contribuer, commenter, utiliser ce texte, les ima
 
 
 --------------------------
-Visionscarto - version du 21 octobre 2015 15:37
+Visionscarto - version du 21 mai 2016 20:54

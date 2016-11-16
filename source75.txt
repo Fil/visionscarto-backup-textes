@@ -7,7 +7,7 @@ Patrick Geddes, le géographe anarchiste qui inventait la nation écossaise
 --------------------------
 
 AUTEUR: 
-- Federico Ferreti
+- Federico Ferretti
 
 --------------------------
 
@@ -15,7 +15,7 @@ CHAPO:
 Le référendum du 18 septembre 2014 en Écosse se solde par une défaite des indépendantistes. Mais la question des nationalités et du principe d’autodétermination des peuples en Europe reste posée, et avec elle, celle des imaginaires géographiques qui naissent justement de ces revendications — autrement dit, de l'« invention » des territoires.
 
 <h4 class="text-right">{Par Federico Ferretti}</h4>
-<h5 class="text-right">géographe, chargé de recherche à l’université de Genève.</h5>
+<h5 class="text-right">Enseignant-chercheur au département de géographie de University College Dublin (UCD).</h5>
 
 
 
@@ -117,4 +117,4 @@ PS: Si vous souhaitez commenter, utiliser le texte ou les figures de cet article
 
 
 --------------------------
-Visionscarto - version du 3 mars 2016 08:39
+Visionscarto - version du 12 octobre 2016 20:05

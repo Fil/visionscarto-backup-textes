@@ -1,0 +1,340 @@
+
+--------------------------
+
+TITRE:
+Migrants, le «peuple malvenu »
+
+--------------------------
+
+AUTEUR: 
+- Élise Gay
+
+--------------------------
+
+CHAPO:
+Fermeture et démantèlement en 2002 (par M. Nicolas Sarkozy) du centre d'hébergement et d'accueil d'urgence humanitaire à Sangatte; démantèlement en 2009 (par M. Nicolas Sarkozy) de la « jungle » de Calais; lancement en 2002 de la politique anti-Roms (par M. Nicolas Sarkozy) avec piqûre de rappel en 2010 (effectuée par M. Nicolas Sarkozy). Revues de presse désespérantes, annonçant toutes les semaines les naufrages des bateaux des clandestins, leurs conditions de vie misérables, la peur... Autant d'événements qu'il est nécessaire de connaître et faire connaître. Mais comment ?
+
+<h4 class="text-right">{Un projet d'Élise Gay}</h4>
+<h5 class="text-right">Graphiste, [->www.e-k.fr]</h5>
+
+
+--------------------------
+TEXTE:
+
+{{{[L'aller->#aller] et [le retour->#retour], deux projets graphiques sur les migrants}}}
+
+L'association néerlandaise [United for Intercultural Action->http://www.unitedagainstracism.org/] a constitué (et met régulièrement à jour) un fichier de trente pages répertoriant les décès (connus)  des personnes ayant tenté de rejoindre la « Forteresse Europe » depuis 1993. La liste est effrayante, mais elle reste une simple liste. L'artiste [Banu Cennetoglu->http://www.turkishculture.org/whoiswho/visual-arts/installation-artist/banu-cennetoglu-2005.htm] avait déjà été à l'origine du projet « [La Liste->http://www.unitedagainstracism.org/archive/pages/list-exhibition.htm#2] », dont l'objectif était d'afficher des extraits du [fichier->http://www.unitedagainstracism.org/wp-content/uploads/2015/06/Listofdeaths22394June15.pdf] (PDF) sur une centaine d'abribus à Amsterdam en 2007 pour mettre en contact direct le grand public avec cette cette terrible réalité.
+
+En tant que graphiste, c'est-à-dire ayant pour métier de communiquer avec
+des images, de traduire visuellement les données et les informations comme un journaliste peut le faire avec les mots, j'ai aussi décidé d'en parler. {« Le design graphique, c'est le traitement formel des informations et des savoirs. Le “designer graphique” est alors un médiateur qui agit sur les conditions de réception et d’appropriation des informations et des savoirs qu’il met en forme}[[Annick Lantennois, historienne du design graphique, « Colloque sur le design graphique », Ecole régionale des beaux-arts de Valence, mars 2007.]]{.»} Cette démarche s'opère généralement dans le cadre d’une commande, ce qui implique donc qu'il y ait  un commanditaire (un donneur d'ordre qui définit les règles du jeu). Dans les deux projets que je présente ici, il n'y a pas d'autre commanditaire que moi-même, et plusieurs questions se sont posées, dont celle du « niveau d'engagement » : pour que le propos ait plus de puissance, fallait-il rester neutre, ou s’engager plus radicalement, donner son opinion ? Comment traduire cela visuellement ?
+
+Fallait-il utiliser les modes de représentation qui permettaient de faire une synthèse plus facilement accessible pour le public, et ainsi réinvestir le domaine du design d’information ? Ce champ du graphisme, que Jacques Bertin appelait « la graphique » [[Jacques Bertin (1918-2010) est un cartographe français, père de la « sémiologie graphique ».]], consiste à traiter des données {«en recherchant les méthodes les moins discutables pour parvenir à réduire la multitude des données} […] {au petit nombre d’informations que nous sommes susceptible de prendre en compte.} […] {Ce nombre tourne autour de trois et ne dépasse jamais sept}[[Jacques Bertin, {Sémiologie graphique – Les diagrammes, les réseaux, les cartes}, 4e~édition, 2005.]]{»}. Selon cette approche il aurait fallu procéder à des groupements, diviser les données en catégories et sous-catégories pour rendre l’information « intelligible ». Ceci est discutable.
+
+Le chiffre global (ici plus de 13~000) pourrait être divisé et redivisé en plusieurs sous-parties — tant de noyades, tant de suicides, tant d'étouffements…~—, mais dans ce cas, l’individu seul disparaît dans la masse au point qu'il en est presque absent.
+
+Pour le premier projet (l'« aller »), j'ai donc pris le parti opposé. Pas de regroupement: chaque personne inscrite sur la liste est représentée par un isotype [[International System of TYpographic Picture Education. En français : système international d’éducation par les images typographiques. Il s’agit d’un langage visuel international créé en 1920 par le sociologue autrichien Otto Neurath (1882–1945) et par l’artiste graphiste allemand Gerd Arntz (1900–1988).]] montrant une silhouette humaine. La spécificité de ce pictogramme est d’être non identifié, sans caractère, ni sexe.
+
+Une part non négligeable de décès met en cause l'Union européenne (dont les polices sont capables d'[abandonner->http://visionscarto.net/migrations-sauvetage-en-mer] des migrants en pleine mer ou de les [assassiner->http://visionscarto.net/rendez-vous-a-sharon-stone] dans des vols réguliers) ou nord-africaines.  En rouge (dans la version réaménagée pour Internet), les cas impliquant les autorités policières. Une note renseigne le contexte et la cause du décès.
+
+Il fallait à la fois extraire les histoires individuelles pour montrer que, derrière chacun de ces décès, il y a un destin brisé, une famille détruite, montrer l'évidence des violences policières, mais aussi conserver l’ensemble de la liste. Pour ce projet, une carte n’aurait pas eu de sens, car la sélection n’est pas géographique, et un diagramme, ou toute autre représentation graphique conventionnelle, aurait fait disparaître l’être humain...
+
+Pour le second projet (le « retour »), je continuais les recherches documentaires, mais en resserrant le champ pour l'axer davantage sur l'action des forces de l’ordre. Le terme GTPI (Gestes et Techniques Professionnels d’Intervention) revenait régulièrement. J’ai découvert que ces gestes étaient enseignés principalement dans un manuel de formation au métier d’« escorteur » (sic !). Après quelques tentatives (infructueuses) auprès du ministère de l’intérieur et de l’Ecole nationale supérieure de la police pour l'obtenir, j’ai réussi à me le procurer par le biais de l'Association nationale d'assistance aux frontières pour les étrangers (Anafé). Mais il est hélas incomplet.
+
+Le titre est d'un sobriété exemplaire  : « Instruction relative à l’éloignement par voie aérienne des étrangers en situation irrégulière ». Dans une première partie, la procédure d’expulsion est expliquée en détail, dans un
+style neutre et « acceptable ». Puis vient le pire... : une série de fiches techniques illustrées par des photographies, véritables mises en scène des gestes à réaliser dans toutes les situations qui peuvent survenir. Dans cette deuxième partie, les techniques très brutales présentées comportent un risque vital pour ceux que la première partie appelle les « reconduits » (asphyxie, coma...).
+
+La différence entre le discours et les images est saisissante. Il y a dans ce document exceptionnel comme une sorte de schizophrénie, comme si la première partie (la loi) était totalement déconnectée de la seconde (la violence). Pour montrer le cynisme et l'absurdité d'un tel manuel, il me semblait utile de superposer les deux pour en montrer le lien intime et aberrant.
+
+
+[#aller<-]
+
+{{{Schengen, la frontière la plus dangereuse du monde}}}
+
+<https://farm6.staticflickr.com/5558/14721421607_f55245839b_o.gif size=original>
+
+<https://farm4.staticflickr.com/3836/14904913881_1026dae0e6_o.gif size=original>
+
+<https://farm6.staticflickr.com/5557/14907620212_a98ae7d881_o.gif size=original>
+
+1 - Alino, homme de 29~ans originaire du Cameroun, a été tué par balle par un garde-frontière à Farhana au Maroc, le 1er~janvier 2009.
+
+2 - Vingt-et-un inconnus, originaires d’Afrique subsaharienne, ont été abandonnés par les autorités marocaines à la frontière entre le Sahara occidental et la Mauritanie, le 8~septembre 2008.
+
+<https://farm4.staticflickr.com/3907/14907619522_8ca49b5920_o.gif size=original>
+
+3 - Un homme, originaire d’Afrique, est mort de « non assistance médicale » au centre de détention de Caltanisetta en Italie, le 29 juin 2008. Les gardes ont ignoré les appels à l’aide de ses amis.
+
+4 - Abdel Karem Souli, 41~ans, originaire de Tunisie, est mort d’un arrêt cardiaque au centre de détention de Vincennes en France, le 21~juin 2008. Ses appels à l’aide ont été ignorés pendant deux heures.
+
+5 - Trente-six inconnus, dont deux femmes et quatre bébés, originaires du Nigeria et du Cameroun, sont morts noyés : des garde-côtes marocains ont percé leur embarcation gonflable avec un couteau (28 avril 2008).
+
+6 - Quatre hommes, originaires d’Iran et de Syrie, sont morts noyés, le 23 avril 2008. La police turque les a obligés à traverser la rivière qui sépare la Turquie de l’Irak.
+
+<https://farm4.staticflickr.com/3839/14721332299_aa549c1dd5_o.gif size=original>
+
+7 - Sept inconnus, originaires d’Afrique subsaharienne, sont morts au camp de Ouijda au Maroc où ils ont été déportés. Les conditions de détention étaient inhumaines (avril 2008).
+
+8 - Abdi Daud, homme de 40~ans originaire de Somalie, est mort de « non assistance médicale » dans un centre de détention à Zurich en Suisse, après qu’on lui a injecté une trop forte dose de cortisone, le 23 mars 2008.
+
+9 - Un homme originaire de Somalie est mort noyé, jeté à la mer par le capitaine d’un bateau italien alors qu’il cherchait de l’aide, le 10 janvier 2008.
+
+<https://farm6.staticflickr.com/5589/14721303650_2f369accd7_o.gif size=original>
+
+10 - Un homme a été tué d’une balle dans l’estomac lors d’un contrôle de police contre les migrants illégaux à Chypre, le 16 novembre 2007.
+
+11 - Un inconnu a été tué par balle par un garde-côtes alors qu’il essayait d’entrer en Grèce, le 8 novembre 2007.
+
+<https://farm4.staticflickr.com/3871/14907624072_9a1f75d09b_o.gif size=original>
+
+12 - Laucling Sonko, un homme de 29~ans originaire du Sénégal, est mort noyé : un garde-côte espagnol l’a renvoyé en mer après avoir percé son embarcation gonflable, le 29 septembre 2007.
+
+<https://farm6.staticflickr.com/5587/14907618672_0905053af9_o.gif size=original>
+
+13 - Deux inconnus, originaires d’Afrique subsaharienne, ont été tués par balle par la police marocaine alors qu’ils essayaient d’atteindre les îles Canaries, le 1er~août 2007.
+
+14 - Osamyia Aikpitanhi, un homme de 23~ans originaire du Nigeria, est mort étouffé : un policier a maintenu sa main sur sa bouche pendant toute la durée de la déportation de l’Espagne vers le Nigeria, le 9~juin 2007.
+
+<https://farm6.staticflickr.com/5556/14721366008_9a5d26f5d3_o.gif size=original>
+
+<https://farm4.staticflickr.com/3878/14907618502_25e80fc610_o.gif size=original>
+
+15 - Un enfant, originaire d’Afrique subsaharienne, a été poignardé par un policier à Rabat au Maroc, lors d’une opération de déportation, le 23 décembre 2006.
+
+<https://farm4.staticflickr.com/3902/14721331539_1e7fdae1b4_o.gif size=original>
+
+16 - Un inconnu a été tué par balle par un garde-côtes alors qu’il essayait de rentrer dans Melilla, enclave espagnole au Maroc, le 3~décembre 2006.
+
+<https://farm4.staticflickr.com/3899/14904911161_29a1d2622e_o.gif size=original>
+
+17 - Eugene E. Obiora, un homme de 48~ans originaire du Nigeria, a été étranglé par un policier dans un bureau d’aide sociale à Trondheim, en Norvège, le 7~septembre 2006.
+
+18 - Un homme, originaire du Mali, est mort de déshydratation, le 28 août 2006. Il a été abandonné dans le désert du Sahara par les autorités marocaines.
+
+<https://farm6.staticflickr.com/5556/14721330509_8a4649e939_o.gif size=original>
+
+19 - Vingt-huit inconnus, originaires d’Afrique, sont morts de faim dans leur embarcation, le 12 août 2006: des gardes-côtes leur ont dit de retourner d’où ils venaient.
+
+20 - Sadedim, un garçon originaire de Macédoine, est mort de « non assistance médicale » au centre de détention de Geeuwenburg, en Hollande, le 26 juillet 2006.
+
+<https://farm4.staticflickr.com/3885/14884987186_a142c88343_o.gif size=original>
+
+21 - Yadav Krishnakumar, une enfant originaire du Sri Lanka, est morte de déshydratation à l’hôpital de Fairfield, en Grande-Bretagne, où elle n’a reçu aucune aide médicale, le 20 février 2006.
+
+22 - Mhedy Aliy, un homme de 30~ans originaire de Tunisie, est mort au centre de détention Pian Del Lago, en Italie, le 1er~janvier 2006 : on lui a administré une trop forte dose de calmants.
+
+<https://farm4.staticflickr.com/3873/14721301220_71943f9a55_o.gif size=original>
+
+23 - Un homme de 38~ans, originaire d’Algérie, a été battu a mort par des policiers alors qu’il refusait d’être expulsé, le 1er~octobre 2005.
+
+24 - Cinq inconnus, originaires d’Afrique subsaharienne, ont été tués par balle par des gardes-côtes marocains alors qu’ils essayaient d’entrer dans Ceuta, enclave espagnole au Maroc, le 28 septembre 2005.
+
+25 - Un inconnu, originaire de Syrie, a été tué par balle par des gardes-côtes turcs alors que son bateau faisait route vers la Grèce, le 19 septembre 2005.
+
+26 - Une inconnue, âgée de 44~ans et originaire d’Albanie, a été tuée par balle par la police grecque près de la frontière macédonienne, le 10 septembre 2005.
+
+<https://farm4.staticflickr.com/3912/14907616362_6bc7e701e2_o.gif size=original>
+
+27 - Bukola Ogunyemi, originaire du Nigéria, a été battu à mort dans un aéroport français sous le prétexte qu’il n’avait pas de visa hongrois, en novembre 2004.
+
+28 - Un homme de 23~ans, originaire de Yougoslavie, est mort d’une embolie pulmonaire dans un centre de détention, le 27 septembre 2004: il n’a pas reçu d’assistance médicale.
+
+<https://farm6.staticflickr.com/5553/14721300440_046654d73c_o.gif size=original>
+
+29 - Edwin Ndupus, homme de 37~ans originaire du Nigeria, est mort dans des circonstances suspectes, en août 2004. La police avait utilisé du gaz lacrymogène.
+
+30 - Un homme, originaire du Vietnam, a été tué par balle par la police devant son appartement à Purmerend en Hollande, en juillet 2004.
+
+31 - Azrar Ayub, un homme de 24~ans, est mort à l’hôpital de Prestwich en Grande-Bretagne, le 28 mai 2004, après avoir reçu des sédatifs.
+
+32 - Kabeya DimukaBijoux, un homme de 35~ans originaire du Congo, est mort des blessures reçues au cours de arrestation au centre Haslar, à Gosport, en Grande-Bretagne, le 1er~mai 2004.
+
+33 - Mohamed Ezzoubair, originaire du Maroc, a été tué par balle par la police à Ceuta, enclave espagnole au Maroc, le 11 avril 2004. Son corps a été caché pendant plusieurs jours près de la frontière marocaine.
+
+<https://farm4.staticflickr.com/3921/14904909411_92ffda90cf_o.gif size=original>
+
+34 - Un homme a été tué par balle par un garde-côtes alors qu’il essayait de passer la frontière entre le Maroc et l’Espagne, le 3 octobre 2003.
+
+35 - Vullnet Bytyci, un jeune homme de 18~ans originaire d’Albanie, a été tué par balle par un garde-frontière alors qu’il essayait de passer la frontière entre l’Albanie et la Grèce, le 23 septembre 2003.
+
+<https://farm6.staticflickr.com/5578/14721362228_c9f61aa702_o.gif size=original>
+
+36 - Treize inconnus sont morts noyés, deux capitaines de bateau les ayant forcés à se jeter à l’eau en les menaçant avec des couteaux (août 2003).
+
+37 - Cheibani Wague, originaire de Mauritanie, est mort étouffé par la police à Vienne, après des maltraitances physiques, le 15 juillet 2003.
+
+<https://farm6.staticflickr.com/5574/14907614262_2994086304_o.gif size=original>
+
+38 - Un mineur, originaire du Maroc, est mort étouffé après avoir été emprisonné à la frontière de Melilla, enclave espagnole au Maroc, en mai 2003.
+
+39- Osuigwe C. Kenechukwu, un homme de 22~ans originaire du Nigeria, est mort de « non assistance médicale » au centre pour réfugiés en transit à Oberbüren, en Suisse, le 12 février 2003.
+
+<https://farm6.staticflickr.com/5586/14904907831_e346f7b83e_o.gif size=original>
+
+40 - A. K., originaire d’Albanie, a été battu à mort par un garde-frontière dans la région de Kastoria, à la frontière entre l’Albanie et la Grèce, le 2 novembre 2002.
+
+41 - Tina, une enfant de 3~ans originaire de Chine, est morte de « non assistance médicale » dans un centre pour demandeurs d’asile en Hollande, le 23 juin 2002.
+
+42. Sillih Peder et Cahir, deux hommes de 23 et 28~ans originaires du Bangladesh, ont été tués par balle par la police alors qu’ils essayaient d’entrer en Turquie près de Aslanyazi, le 19 juin 2002.
+
+<https://farm6.staticflickr.com/5590/14721360688_dd494e78a9_o.gif size=original>
+
+43 - Un jeune homme, originaire du Maroc, est mort en essayant d’entrer à Melilla, enclave espagnole au Maroc, le 26 mai 2002. Il a été étouffé.
+
+44 - Riaz Omar Faruq, Syed Bilal, Asif Javed, Khalid Iqbal, Ijaz Ahmad, Hussayn Shah et Muhammad Riaz, originaires du Pakistan, ont été tués par balle par la police près de Skopje, à la frontière entre la Bulgarie et la Macédoine, en mars 2002.
+
+45 -  Seval Sebahtin Rasin, un homme de 26~ans, a été battu à mort par des gardes à la frontière entre la Bulgarie et la Turquie, le 17 février 2002.
+
+46 - Un inconnu est mort dans un centre de détention en Belgique par négligence médicale, le 3 février 2002.
+
+47 - Metin Güngör et Hasan Kalkan, âgés de 18 et 15~ans, ont été tués par balle alors qu’il essayait de passer la frontière entre l’Iran et la Turquie, le 12 janvier 2002.
+
+48 - Un bébé, originaire du Kosovo, est mort d’une pneumonie (« non assistance médicale »), le 28 novembre 2001. Il attendait une place dans un camp pour réfugiés en Autriche.
+
+49 - Une femme, originaire d’Afrique, est morte dans un camp de détention en Turquie, le 22 juillet 2001.
+
+<https://farm4.staticflickr.com/3885/14721360358_b37bc8e382_o.gif size=original>
+
+50 - Trois inconnus, originaires d’Afrique, sont morts noyés : des policiers turcs les ont forcés à remonter une rivière en Grèce (juillet 2001).
+
+51 - Samson Chukwu, un homme de 27~ans originaire du Nigeria, est mort étouffé à Granges en Suisse, pendant son expulsion vers le Nigeria, le 1er mai 2001. 
+
+52 - Une enfant, âgée de 2~ans et originaire du Pakistan, est morte de « non assistance médicale » au centre de Waddinxveen, en Hollande, le 22~février 2001.
+
+53 - Abdelhadi Lamhamdi, âgé de 23~ans et originaire du Maroc, a été tué par balle par la police sur une plage à Cadiz, en Espagne, le 3 décembre 2000.
+
+54 - Un homme, originaire du Rwanda, est mort de « non assistance médicale » dans une prison au sud-est d’Amsterdam, en Hollande, alors qu’il était très malade (décembre 2000).
+
+55 - Deux hommes, originaires du Bangladesh, ont été tués par balle par des gardes-frontière turcs alors qu’ils essayaient d’entrer en Turquie par l’Iran, le 15 novembre 2000.
+
+56 - Un homme, originaire d’Albanie, a été tué par la police grecque à Florina, une ville frontalière macédonienne, le 1er novembre 2000.
+
+57 - Halil Aygun, originaire du Kurdistan, a été tué par des gardes-frontière alors qu’il essayait de s’enfuir d’un camp en Hongrie, le 30 octobre 2000.
+
+58 - Trente-deux inconnus sont morts noyés quand leur bateau à fait naufrage : les autorités n’ont pas lancé d’opération de secours (5~août 2000).
+
+<https://farm4.staticflickr.com/3912/14884982896_32a3203634_o.gif size=original>
+
+59 - Une femme enceinte a perdu son bébé suite aux mauvais traitements qu’elle a enduré à l’aéroport Roissy Charles-de-Gaulle, en France, le 30 juillet 2000. 
+
+60 - Hamid Sabur, âgé de 5~ans et originaire d’Afghanistan, est mort de « non assistance médicale » au centre de détention de Gols, en Autriche, le 17 mai 2000.
+
+61 - Neuf inconnus, originaires d’Afghanistan, du Bangladesh et du Pakistan, ont été tués par balle par la police frontalière turque, alors qu’ils essayaient de passer la frontière entre l’Iran et la Turquie, le 10 mai 2000.
+
+62 - Un inconnu, originaire du Nigeria, est mort dans des circonstances suspectes au centre pour réfugiés de Györ, en Hongrie, le 23 mars 2000.
+
+63 - Zdravko Nikolov Dimitrov, originaire de Bulgarie, a été tué par balle par la police à Braunschweig, en Allemagne, alors qu’il résistait à sa déportation, le 21 décembre 1999.
+
+<https://farm4.staticflickr.com/3914/14884982546_5540ac9d39_o.gif size=original>
+
+64 - Trente-huit inconnus, âgés de 16 à 26~ans et originaires d’Afrique du nord, sont morts noyés dans le détroit de Gibraltar, le 7 juillet 1999. Un capitaine de bateau a refusé de les accueillir à bord de son navire.
+
+65 - Aamir M. Ageeb, un homme de 30~ans originaire du Soudan, est mort étouffé par le casque utilisé pour le calmer, pendant sa déportation à l’aéroport de Francfort, en Allemagne, le 28 mai 2005.
+
+66 - Marcus Omofuma, un homme de 25~ans originaire du Nigeria, est mort étouffé par le scotch qu’il avait sur la bouche, pendant sa déportation de Vienne en Autriche vers Sofia en Bulgarie (1er mai 1999). Lire à propos de cet assassinat le billet « [Rendez-vous à Sharon Stone->http://visionscarto.net/rendez-vous-a-sharon-stone] » et l’histoire de la déportation de Marcus Omofuma par Werner Eder (Vienne). 
+
+67 - Khaled Abuzarifeh, un homme de 27~ans originaire de Palestine, est mort étouffé alors qu’il était bâillonné durant sa déportation depuis l’aéroport de Zurich en Suisse (3 mars 1999).
+
+68 - Deux bébés, originaires de Bosnie, sont morts à cause des conditions hygiéniques déplorables du camp de réfugiés de Muratella, en Italie (février 1999).
+
+<https://farm6.staticflickr.com/5573/14907611712_28937d787d_o.gif size=original>
+
+69 - Semira Adamu, une jeune femme de 20~ans originaire du Nigeria, est morte étouffée avec un oreiller lors de sa déportation de Belgique, le 22 septembre 1998.
+
+70 - Un inconnu, originaire d’Albanie, a été tué par balle par des gardes-frontière effectuant un contrôle d’identité dans un train allant en Italie (août 1998).
+
+71 - Ibrahima Sey, âgé de 29~ans et originaire de Gambie, est mort étouffé par du gaz lacrymogène alors qu’il était menotté dans un commissariat de Londres, au Royaume-Uni (16 mars 1996).
+
+72 - Todor Bogdanovic, un jeune garçon de 8~ans originaire de Yougoslavie, a été tué par balle par la police française alors qu’il essayait d’entrer en France par les Alpes italiennes (20 août 1995).
+
+73 - Un bébé, originaire du Zaïre, est mort-né au centre d’urgence près de Caserta, en Italie. Le médecin a refusé d’aider la mère (mai 1995).
+
+74 - Un inconnu, originaire d’Albanie, a été tué par balle par les gardes-frontière grecs (29 mars 1995).
+
+75 - Un inconnu, originaire d’Albanie, a été tué par balle par un policier près de Florina en Grèce (26 février 1995).
+
+76 - Sammy Nelson, originaire du Liberia, a été battu à mort pendant son arrestation au camp de Munich en Allemagne (2 février 1995).
+
+77 - G. Selvarajah, originaire du Sri Lanka, est mort après une attaque raciste ignorée par le personnel de l’hôpital de Palerme, en Italie (janvier 1995).
+
+78 - Shiji Lapite, originaire du Nigeria, est mort étouffé par la clef d’étranglement infligée par un policier pendant son arrestation à Londres (16 décembre 1994).
+
+79 - Un jeune homme de 19~ans, originaire de Roumanie, a été tué d’une balle dans la tête par un policier à Kyritz en Allemagne (15 juin 1994).
+
+80 - Un jeune homme de 18~ans, originaire de Roumanie, a été tué d’une balle dans le dos par un policier près de Trebnitz en Allemagne, lors d’une inspection de véhicule (25~février 1994).
+
+<https://farm6.staticflickr.com/5555/14907611352_58cea6290d_o.gif size=original>
+
+81 - Un inconnu, originaire du Zaïre, a été tué par balle à bout portant durant son interrogatoire dans un commissariat de police de Paris en France (7 avril 1993).
+
+[#retour<-]
+
+{{{Déplacements forcés : l'image et le discours}}}
+
+<https://farm6.staticflickr.com/5564/14904905191_96772fe540_o.gif size=original>
+
+<https://farm6.staticflickr.com/5581/14721295810_c68fa31202_o.gif size=original>
+
+<https://farm4.staticflickr.com/3914/14884981246_f3a1ae8941_o.gif size=original>
+
+<https://farm4.staticflickr.com/3888/14721357398_544809994f_o.gif size=original>
+
+<https://farm4.staticflickr.com/3909/14907609562_d76dc0dd6f_o.gif size=original>
+
+<https://farm4.staticflickr.com/3905/14721356378_d9929d3126_o.gif size=original>
+
+<https://farm6.staticflickr.com/5573/14904902971_ed66bb2845_o.gif size=original>
+
+<https://farm4.staticflickr.com/3881/14721293460_67bc83858a_o.gif size=original>
+
+<https://farm6.staticflickr.com/5571/14884978866_6218465dcf_o.gif size=original>
+
+<https://farm6.staticflickr.com/5574/14884978556_4a93b6cf69_o.gif size=original>
+
+~
+
+<quote>
+
+{{{Compléments documentaires}}}
+
+- Association nationale d'assistance aux frontières pour les étrangers ([Anafé->http://www.anafe.org/index.php])
+
+- Groupe d'information et de soutien aux immigrés ([Gisti->http://www.gisti.org/])
+
+- Réseau [Migreurop->http://www.migreurop.org/] et [Atlas des migrants en Europe ->http://www.migreurop.org/article1478.html]
+
+- [Statewatch->http://www.statewatch.org/]
+
+- Section [Asile et migrations->http://www.unhcr.org/pages/4a1d406060.html] du Haut-Commissariat des Nations unies pour les réfugiés (HCR)
+
+- Réseau Education Sans Frontières ([RESF->http://www.educationsansfrontieres.org/article25454.html]) 
+
+- [Cimade->http://www.lacimade.org/]
+
+- Association nationale des visiteurs de prison ([ANVP->http://www.anvp.org/anvp])
+
+{{{À lire ou à relire:}}}
+
+- «[Comment l’Union européenne enferme ses voisins->http://www.monde-diplomatique.fr/2010/06/MORICE/19190]», par Claire Rodier et Alain Morice, juin 2010.
+
+- «[Roms et gens du voyage : l’histoire d’une persécution transnationale->http://www.monde-diplomatique.fr/carnet/2010-07-29-Roms]», par Céline Bergeon, La valise diplomatique, 29 juillet 2010.
+
+- «[Jungles. Abris de fortune aux abords de la Manche->http://www.monde-diplomatique.fr/2010/03/LAPEYROUX/18905]», chronique d'un livre de photographies de Jean Revillard, mars 2010.
+
+- «[Les “doigts brûlés” de Calais->http://www.monde-diplomatique.fr/carnet/2009-09-25-Calais]», par Jean-Marc Manach, La valise diplomatique, 25~septembre 2009.
+
+- «[Migrations, sauvetage en mer et droits humains->http://blog.mondediplo.net/2009-09-27-Migrations-sauvetage-en-mer-et-droits-humains]», par Philippe Rekacewicz, Visions cartographiques, 27 septembre 2009.
+
+- «[Les camps d’étrangers, symbole d’une politique->http://blog.mondediplo.net/2010-06-01-Les-camps-d-etrangers-symbole-d-une-politique]», par Olivier Clochard, Visions cartographiques, 1er juin 2010.
+
+</quote>
+
+
+--------------------------
+
+PS: Ces deux projets ont fait l'objet de publications séparées en support papier (format~A4), qui ont été spécialement adaptées pour cette version Internet. Pour tout commentaire ou demande de reproduction de cet article, n'hésitez pas à écrire à l'autrice de cet article via [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 19 mai 2016 23:35

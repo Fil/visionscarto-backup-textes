@@ -1,0 +1,175 @@
+
+--------------------------
+
+TITRE:
+Les laissés-pour-compte des cartes démographiques
+
+--------------------------
+
+AUTEUR: 
+- Joshua Tauberer
+
+--------------------------
+
+CHAPO:
+Nous poursuivons notre réflexion sur les biais de la cartographie par cette traduction d'un article récent de Joshua Tauberer.
+<h5 class=text-right>[Joshua Tauberer->https://razor.occams.info/] se définit comme hacker civique<br> engagé dans le mouvement pour les données ouvertes (open data).</h5>
+
+
+
+--------------------------
+TEXTE:
+
+Les cartes racontent des histoires, qui prennent toujours leur source dans la réalité, mais qui souvent la pervertissent. Dans un sens, elles mentent au moins parce qu'elles sont des représentations tronquées de la réalité. La série [{West Wing}->https://www.youtube.com/watch?v=vVX-PrBRtTY], dans un extrait désormais célèbre, a popularisé l'idée que le choix (très courant) de la [projection Mercator->https://gmaps-samples.googlecode.com/svn/trunk/poly/puzzledrag.html] pour la production cartographique déformait considérablement la taille réelle des continents.
+
+Mais le choix parfois désastreux de la projection est une difficulté facile à surmonter. La répartition de la population sur le territoire s'avère un problème plus épineux. En effet, la population mondiale est loin d'être répartie uniformément sur la surface de la Terre ; pourtant, les cartes démographiques dites [choroplèthes->http://www.hypergeo.eu/spip.php?article274], c'est-à-dire coloriées en « variation de valeur », font apparaître visuellement « à égalité » des pays ou régions de surfaces comparables, mais où les écarts de population sont gigantesques : c'est le cas pour le Groenland (2,2 millions de km<sup>2</sup> pour 55 000 habitants) et l'Inde (3,2 millions de km<sup>2</sup> pour 1 250 000 000 habitants).
+
+Ce défaut est significatif même lorsqu'on travaille à des échelles plus grandes. 
+
+Quelques exemples pour les États-Unis :
+
+- Bien que les minorités raciales (c'est la terminologie utilisée dans documents officiels du recensement américain) représentent 26 % de la population du pays, elles n’occupent en fait que 16 % de l'espace sur une carte démographique par comtés produite par le gouvernement. Les cartes pourraient ainsi bien être une des raisons pour lesquelles les responsables politiques « ignorent » les problèmes de ces minorités.
+
+- Les 50 % de la population américaine vivant dans les parties les plus densément peuplées du pays occupent seulement 1 % de la surface des États-Unis. Qui donc alors vit dans les 99 % restant du pays ?
+
+-  Les cartes créées à partir de sondages politiques donnent une plus grande place à la droite. Bien que Barack Obama ait remporté un peu plus de 50 % des voix aux élections de 2012, ses électeurs sont en réalité disséminés dans des États plus petits et plus densément peuplés, et ne « couvrent » que 38 % de la surface d'une carte électorale, ce qui donne l'illusion visuelle que son adversaire aurait dû l'emporter.
+
+Il n'est pas surprenant qu'il y ait des disparités dans la représentation des populations urbaines et rurales. Mais l'ampleur de ces disparités est préoccupante.
+
+Commençons donc par le commencement : la majorité des Américains vivent dans et autour des centres urbains. En d'autres termes, 50 % de la population américaine occupent seulement 1 % du territoire.
+
+<https://farm2.staticflickr.com/1642/26406902035_941e3c3dff_o_d.png>
+
+À l'opposé, 50 % du territoire n'accueille que 1 % de la population.
+
+Traditionnellement, une carte démographique est colorée comté par comté (ou selon d'autres découpages administratifs plus ou moins précis), en fonction de la valeur d'une donnée. Grouper la population par unité administrative permet d’égaliser légèrement la densité de population. Quand on rassemble la population par comté, on obtient une petite « déformation » visuelle dans laquelle 57 % du territoire accueille désormais 5 % de la population.
+
+Étant donné que le Midwest et l'Ouest sont des espaces quasiment vides, le résultat ressemble à ça : 
+
+<https://farm2.staticflickr.com/1719/26340716531_7298c39658_o_d.png>
+
+Tous groupes sociaux confondus, on retrouve désormais 95 % de la population sur 43 % de la carte. Et c'est un problème.
+
+En réalité, personne ne vit dans beaucoup des lieux représentés sur les cartes du genre de [cette visualisation proposée par le site de prévisions électorales FiveThirtyEight->http://projects.fivethirtyeight.com/facebook-primary/].
+
+<https://farm2.staticflickr.com/1581/26406901825_8b11b48435_o_d.png legend="Les primaires sur Facebook. « Où les candidats à la présidentielle gagnent-ils la guerre des likes ? »"></small>
+
+Ce sont encore et toujours les mêmes 5 % de la population qui prennent une place totalement démesurée sur la plupart de ces cartes. Le reste de la carte n’est d'ailleurs pas plus représentatif de l'ensemble de la population, car les zones urbaines sont presque invisibles tant elles sont petites.
+
+<h3 class=text-center>✪ ✪ ✪</h3>
+
+Ce constat m'a amené à essayer de comprendre  comment apparaissent sur une carte les lieux où habite réellement la population par rapport à l'indicateur qui est représenté. Dans cette optique, j'ai combiné deux enquêtes du recensement américain : le [sondage communautaire américain 2010-2014->https://www.census.gov/programs-surveys/acs/] (ACS) et les [données géospatiales TIGER 2014->http://www.census.gov/geo/maps-data/data/tiger.html], qui indiquent où se trouvent géographiquement les habitants. J’ai ensuite créé une image des 71~954~secteurs de recensement et des 3~108~comtés des États-Unis, et j'ai compté combien de pixels chaque secteur et chaque comté occupait sur cette image (plus de détails méthodologiques à la fin de cet article).
+
+Quand je parle d'une « carte traditionnelle », je fais référence à une carte démographique par comté, et quand je dis « surface », j'utilise les secteurs de recensement, c'est à dire des quartiers ou des parties de comtés, pour voir exactement où vivent les habitants. 
+
+Quand je dis qu'une population occupe un certain espace, il s'agit d'une mesure en proportion de chaque élément de surface de la carte, en rapportant les habitants de chacun des pixels à un groupe démographique.
+
+Le problème se pose pour tous les habitants des villes. Ainsi par exemple, bien que 5 % de la population américaine prennent les transports en commun, ce groupe n’occupe que 1 % des pixels d'une carte traditionnelle. 38 % de la population vit dans des logements collectifs, mais elle n'est représentée que par 29 % des pixels d'une carte type.
+
+<https://farm2.staticflickr.com/1447/26340716121_59742ec4b7_o_d.png legend="Carte d'un vote à la Chambre des Représentants sur Wikipédia">
+
+Dans un [précédent article en 2013->https://razor.occams.info/blog/2013/12/23/50-of-the-u-s-population-lives-in-1-of-the-land-area/], j’avais constaté, en étudiant les modes de représentation de l'information politique, comme sur cette carte issue de Wikipédia, que six des districts du Congrès occupaient moins d’un pixel sur une carte de dimensions normales. L’expression « Une personne, un vote » perd de son sens si certains votes sont trop petits pour être vus. Les six districts en questions étaient tous situés à New York. 
+
+C'est un problème pour les minorités raciales -- c'est-dire les personnes qui se sont identifiées lors du recensement comme appartenant à une autre «race» que « blanche ». Ces minorités reçoivent par personne {moitié moins d'espace}, sur une carte type, que les Américains identifiés comme « blancs » !
+
+Cette distorsion s'explique par le fait que les minorités raciales sont plus concentrées dans des secteurs à haute densité de population que la population générale. 95 % des minorités raciales occupent 11 % du territoire :
+
+<https://farm2.staticflickr.com/1567/26340715841_d136aa07b5_o_d.png>
+
+Et voici à quoi ça ressemble sur une carte par comtés, pour comparer avec la carte de l'ensemble de la population ci-dessus. 95 % des minorités raciales occupent 27 % du territoire...
+
+<https://farm2.staticflickr.com/1552/26314562692_f834bee2d4_o_d.png>
+
+Si on attribue tous les pixels d'une carte traditionnelle en fonction de la composition démographique à l'intérieur même du pixel, bien que les minorités raciales représentent 26 % de la population américaine, elles ne représentent que 16 % des pixels. En d'autres termes, pour chaque pixel représentant des Blancs, seulement 0,53~pixel représente une minorité raciale. 
+
+Alors, la prochaine fois que vous regarderez une carte démographique, posez-vous cette question : {« Qui n'apparaît pas sur la carte ? »}
+
+<h3 class=text-center>✪ ✪ ✪</h3>
+
+La séparation entre ruraux et urbains affecte également les cartes politiques. D'après les résultats de l'élection présidentielle de 2012, alors que les démocrates représentaient 51 % de la population, ils n'occupaient que 38 % de l'espace sur une carte traditionnelle. En d'autres termes, pour chaque pixel représentant un électeur républicain, seul 0,59 pixel représente un électeur démocrate.
+
+J'ai appliqué le même principe pour deux autres indicateurs -- le revenu par foyer et le taux de pauvreté -- et je me suis rendu compte que dans ce cas, la distorsion n'affectait pas, voire valorisait légèrement, les personnes les moins bien dotées :
+
+- 16 % de la population vit sous le seuil de pauvreté (tel que défini par l'[American Community Survey (ACS)->https://www.census.gov/programs-surveys/acs/] et occupe 17 % de l'espace sur une carte traditionnelle.
+
+- Les 50 % de la population vivant dans les secteurs de recensement avec les foyers aux revenus les plus bas  représentent 79 % de l'espace sur une carte traditionnelle, c'est-à-dire bien plus que leur part proportionnelle.
+
+Dans le premier cas, l’absence de distorsion vient du fait que la pauvreté affecte à peu près de la même manière les zones urbaines et rurales. Dans le deuxième cas, la distorsion s'explique probablement par le coût de la vie, inférieur dans les zones rurales. 
+
+{{{Que faire?}}}
+
+Pour éviter de perpétuer cette distorsion, on peut commencer par utiliser, quand c'est possible, un [cartogramme->https://fr.wikipedia.org/wiki/Cartogramme] aussi appelé « anamorphose ». Un cartogramme associe une surface sur la carte, non pas avec l'équivalent géographique sur le terrain, mais à une valeur significative. La taille d'une surface (ou « polygone ») est proportionnelle à l'importance de la valeur de l'indicateur (démographique, économique, etc.) représenté. Dans le contexte de la cartographie démographique, le cartogramme garantit à chaque personne d'être représentée dans la carte à égalité avec toutes les autres.
+
+<https://farm2.staticflickr.com/1592/25802057254_d5a35b0833_o_d.png>
+
+<!--
+La [carte->http://www.nytimes.com/interactive/2013/11/20/us/which-states-will-allow-old-health-policies-to-be-renewed.html] représente les États où les assurés pouvaient :
+- renouveler leurs plans avant le changement par Obama (brun).
+- permettait le renouvellement début 2013 (jaune)
+- ne permettaient pas le renouvellement (gris clair) -->
+
+<!-- Les carrés sont de taille proportionnelle au nombre de polices d'assurance individuelles par État en 2012. Pendant plusieurs mois, de nombreux États ont donné aux compagnies d'assurance la possibilité de permettre aux consommateurs de renouveler leurs polices d'assurance individuelles plus tôt que prévu, au lieu d'attendre que les polices expirent en 2014, quand elles ne répondraient plus aux exigences de l'[« Affordable Care Act »->https://fr.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act] ou « Obamacare ». -->
+
+J'ai toujours admiré le {New York Times} pour leur savoir-faire dans la production de cartogrammes. La carte ci-dessus représente des carrés proportionnels au nombre de polices d'assurance souscrites dans chaque État (voir «[States Where Insured Could Renew Plans Before Change by Obama->http://www.nytimes.com/interactive/2013/11/20/us/which-states-will-allow-old-health-policies-to-be-renewed.html]»). Si le sujet était une statistique démographique, la taille de chaque État serait proportionnelle au nombre d’habitants.
+
+On dit souvent que les cartogrammes sont laids, et distordent tellement la « réalité géographique » qu'on ne la reconnait plus. Mais moi, je trouve qu'ils peuvent  être élégants, voire ressembler à une œuvre d'art, comme on peut le voir sur la [carte des résultats électoraux britanniques du Telegraph->http://www.telegraph.co.uk/news/general-election-2015/11584325/full-results-map-uk-2015.html] présentée sous forme de grille hexagonale (qui est, m'a-t-on dit, une représentation commune du Royaume-Uni.) Chaque hexagone représente un siège au parlement.
+
+<https://farm2.staticflickr.com/1530/25804140803_5a6860353f_o_d.png>
+
+Des commentateurs sur mon blog et sur [Hacker News->https://news.ycombinator.com/item?id=11099545] m'ont signalé d'autres exemples de cartogrammes :
+
+- Le cartogramme en boîtes de FiveThirtyEight [What Would It Take To Turn Blue States Red?->http://projects.fivethirtyeight.com/2016-swing-the-election/]
+
+- Le [cartogramme radial des droits LGBT->http://www.theguardian.com/news/datablog/2012/may/10/data-visualisation-us-gay-rights] du {Guardian} (chaque rayon représentant un État, voir ci-contre) et leur [carte interactive en hexagones du Royaume-Uni->http://www.theguardian.com/politics/ng-interactive/2015/may/07/live-uk-election-results-in-full] (similaire à celle vue plus haut.)
+
+- Enfin, il y a le [cartogramme anamorphique des résultats électoraux par NPR->http://www.npr.org/sections/itsallpolitics/2012/11/01/163632378/a-campaign-map-morphed-by-money] — le type même de cartogramme que tout le monde trouve horrible.
+
+Faire des cartogrammes est difficile, et faire des cartogrammes intuitifs -- c'est à dire facile à lire et à comprendre -- est encore plus difficile. Il est vrai que le public, les lecteurs ne sont pas encore très familiarisés avec cette forme de représentation visuelle bien qu'elle deviennent de plus en plus courante.
+
+Une autre solution, c'est tout simplement... de ne pas faire de carte. Pourquoi ? Parce qu'il vaut mieux ne pas faire de carte que de produire une carte qui perpétue une injustice.
+
+<quote>
+
+{{{Note sur la projection utilisée}}}
+
+Comme le résume mon ami Ben Klemens: {Le problème n'est pas celui du Groenland géant et de l'Afrique minuscule.}
+
+Dans un épisode célèbre de la série {West Wing,} des cartographes expliquent que les cartes déforment les tailles relatives des pays. Le Groenland paraît immense, plus grand que l'Afrique entière. Ce problème est bien connu, notamment quand on utilise la projection Mercator, très utile pour [naviguer en haute mer->https://en.wikipedia.org/wiki/Rhumb_line#Application] mais tout à fait inappropriée quand il s'agit de mettre en couleur la surface des pays en fonction de statistiques démographiques.
+
+Avec une [projection équivalente->https://fr.wikipedia.org/wiki/Projection_cartographique#Les_types_de_projections] telle que [Gall-Peters->https://fr.wikipedia.org/wiki/Projection_de_Peters], chaque section de la surface terrestre est représentée par une section proportionnelle de la surface de la carte, au prix d'une distorsion des formes.
+
+J'ai utilisé une projection équivalente pour les cartes de cet article. Mais le problème dont je parle est moins celui de la projection que de la distribution de la population.
+
+{{{Note méthodologique}}}
+
+J'ai tracé chacun des 71~954 secteurs de recensement et 3~108 comtés des États-Unis contigus ayant au moins un habitant sur une carte des États-Unis de 800 par 500 pixels avec une [projection équivalente d’Albers->https://en.wikipedia.org/wiki/Albers_projection], puis j'ai compté combien de pixels chaque secteur et comté prenait sur la carte. Quand ces unités géographiques partageaient un pixel, j'ai réparti le pixel équitablement entre elles. Les secteurs et comtés ont été dessinés avec une taille d'au moins un pixel.
+
+J'ai ensuite rapporté ces pixels aux statistiques démographiques dans chaque secteur ou comté. Par exemple, si dans un secteur de 4~000~habitants représenté par 4,8~pixels sur la carte, 75% de la population est droitière, 3,6~pixels représentent les droitiers et 1,2~pixels les gauchers. C'est ce que je veux dire quand je dis que la population « représente » un certain nombre de pixels.
+
+Mes images, sauf mention contraire, sont réalisées à partir des secteurs de recensement parce que les secteurs de recensement sont les unités administratives qui représentent le plus fidèlement là où les gens habitent, et permettent la production de cartes plus précises.
+
+Mais le problème, c'est que la plupart des cartes démographiques sont réalisées sur la base du découpage administratif par comtés. Quand je donne des nombres, j'utilise donc « surface » pour parler d'une analyse par secteurs et « carte traditionnelle » pour parler des cartes réalisées sur la base des comtés. La plupart des chiffres sont similaires quelle que soit la précision. [Voir le code sur github->https://github.com/JoshData/why-use-cartograms].
+
+----
+
+Merci à Ben Klemens pour ses suggestions sur l'utilisation des statistiques ACS, Daniel Schuman pour avoir mentionné le passage de West Wing, et Joe Fruehwald pour m'avoir signalé la carte électorale britannique.
+
+</quote>
+
+
+
+
+--------------------------
+
+PS: Article traduit pour Visionscarto par Jasmine Rivière-Poupon. Pour commenter, réutiliser cet article ou contacter l'auteur, vous pouvez écrire à [->contact@visionscarto.net].
+
+- Original: [How that map you saw on FiveThirtyEight silences minorities, and other reasons to consider a cartogram->https://medium.com/@joshuatauberer/how-that-map-you-saw-on-538-under-represents-minorities-by-half-and-other-reasons-to-consider-a-4a98f89cbbb1].
+- Traduction chinoise : [地图湃 - 当选举地图“说谎”时，我们该怎么办？->http://www.thepaper.cn/newsDetail_forward_1438460] (merci à Haoyun Su!)
+- Traduction espagnole : [Invisibilizados en los mapas demográficos->http://visionscarto.net/invisibilizados-en-los-mapas-demograficos] (Ramiro Huayller, Eliana Quiroz et Sylvain Lesage)
+
+
+
+
+
+--------------------------
+Visionscarto - version du 25 mai 2016 17:03

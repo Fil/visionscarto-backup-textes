@@ -16,14 +16,7 @@ TEXTE:
 
 |{{Titre :}}| Espérance de vie à l'âge de 65 ans |
 |{{Mots-clés :}} | #Vieux
-#Personnes_âgées
-#Retraite
-#Travail
-#Vieillesse
-#Vieillissement
-#Population
-#Démographie |
-|{{Apparition(s) :}} | Le Monde diplomatique de juin 2013 |
+#Personnes_âgées #Retraite #Travail #Vieillesse #Population #Démographie |
 |{{Auteur :}} | Philippe Rekacewicz |
 |{{Date de création :}} | Juin 2013 |
 
@@ -38,4 +31,4 @@ PS: Si vous souhaitez commenter, utiliser ces figures, ou simplement contacter l
 
 
 --------------------------
-Visionscarto - version du 9 septembre 2014 15:34
+Visionscarto - version du 8 avril 2016 09:20

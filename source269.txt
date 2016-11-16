@@ -1,0 +1,143 @@
+
+--------------------------
+
+TITRE:
+La musique et l'utopie du rail
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+
+--------------------------
+
+CHAPO:
+Dans la première moitié du XIXe siècle, une poignée d’intellectuels, d’ingénieurs et d’hommes d’affaires enthousiastes (parmi lesquels des disciples de Saint-Simon) se font les promoteurs de quelques idées généreuses : rapprocher et mélanger les peuples et les cultures, imposer la « paix universelle », tendre vers le bonheur grâce à l’industrialisation et… éradiquer la faim dans le monde.
+
+<h4 class="text-right">{par Philippe Rekacewicz}</h4>
+
+
+--------------------------
+TEXTE:
+
+Pour atteindre ces objectifs ambitieux, ils veulent développer de grands « réseaux » – concept assez vague à l’époque, défini comme un entrelacement de fils ou de lignes. La pacification du monde passerait par la création des chemins de fer. Ceux-ci n’existent alors en Europe que sous une forme très embryonnaire, c’est une vision absolument nouvelle.
+
+Au cours du XIXe siècle, chaque ouverture de ligne, chaque inauguration de gare va marquer une rupture entre la vie d’avant et celle d’après. L’arrivée du chemin de fer va surtout contraindre la société à complètement revoir son rapport aux distances et au temps. C'est une véritable révolution, une victoire sur la nature, et surtout l’occasion d’une grande fête…
+
+En 1846, la municipalité de Lille voit même assez grand : elle commande au compositeur Hector Berlioz, pas moins, une « cantate » pour l’inauguration de la ligne Paris-Lille… {Le chant des chemins de fer} sera composé de toute urgence, en quelques heures seulement. Le livret est confié à son ami et collègue au {Journal des débats}, Jules Janin [[Jules Janin (1804-1874), écrivain et critique dramatique.]]. {«Je suis très occupé avec la composition de “la Damnation de Faust”}, écrit Berlioz, {cependant je viens d’être forcé de m’interrompre pour une cantate que je vais diriger à Lille à la fête de l’inauguration du chemin de fer du Nord}[[Site Hector Berlioz, http://www.hberlioz.com/BerliozAccueil.html]].{»}
+
+L’œuvre est curieuse, la musique est lourde et le livret très allégorique, mais ça vaut le détour et l'écoute. Cet enthousiasme et cette emphase sont caractéristiques de la volonté avec laquelle on essaye, à cette époque, de faire accepter cette révolution industrielle à une population qui lui oppose une grande méfiance.
+
+Vous pourrez écouter la cantate de Berlioz ci-dessous:
+
+<doc9>
+
+Cette œuvre n’est quasiment jamais jouée, mais elle a été interprétée en public en 1966 lors d’une conférence organisée par l’Association internationale du congrès des chemins de fer français (AICCF). La Société nationale des chemins de fer (SNCF) avait alors demandé à Robert Blot, qui dirigeait l’orchestre symphonique des cheminots, accompagné par la chorale de l’Oratoire, de ressusciter ce chant composé il y a 120 ans pour célébrer l’arrivée du chemin de fer à Lille. Le plus drôle, c’est que la petite note qui accompagne l’enregistrement présenté ici est conçue dans le même style -- un peu douteux -- que celui des vers de Jules Janin. {«Les profonds changements que Berlioz s'est efforcé de traduire dans sa musique,} écrit l’auteur (anonyme) de la notule, {et que Jules Janin a annoncé dans ses couplets se sont d'ailleurs réalisés : le chemin de fer a bouleversé les rapports de l'espace et du temps qui, de la profondeur des siècles jusqu'à l'apparition de la locomotive, étaient restés à peu près les mêmes. Les échos plus que centenaires de cette cantate se sont très opportunément réveillés au moment où la Patrie du grand compositeur aller recevoir les représentants de ceux qui, de par le monde, ont contribué à modeler, dans son nouveau style la puissante figure du Chemin de fer moderne.»}
+
+Voici donc le texte décoiffant de Jules Janin :
+<poesie>
+C’est le grand jour, le jour de fête,
+Jour du triomphe et des lauriers.
+Pour vous, ouvriers,
+La couronne est prête.
+Soldats de la paix,
+C’est votre victoire;
+C’est à vous la gloire
+De tant de bienfaits.
+
+Les cloches sonnent dès l’aurore,
+Et le canon répond sur les remparts.
+Sous l’oriflamme tricolore
+Le peuple accourt de toutes parts.
+
+Que de montagnes effacées!
+Que de rivières traversées!
+Travail humain, fécondante sueur!
+Quels prodiges et quel labeur!
+
+Les vieillards, devant ce spectacle,
+En souriant descendront au tombeau,
+Car à leurs enfants ce miracle
+Fait l’avenir plus grand, plus beau.
+
+Des merveilles de l’industrie
+Nous, les témoins, il faut chanter
+La paix! Le Roi! L’ouvrier! La patrie!
+Et le commerce et ses bienfaits!
+Que dans les campagnes si belles
+
+Par l’amitié les peuples plus heureux
+Elèvent leurs voix solennelles
+Jusqu’à Dieu caché dans les cieux !
+</poesie>
+
+<https://farm2.staticflickr.com/1477/25700628244_1283c4ae98_k_d.jpg size=large title="Évolution du chemin de fer en France entre 1850 et 2010.">
+
+Berlioz, dans une longue lettre qui vaut le détour, dans un style très emphatique et auto-satisfait, mais aussi très ironique, décrit par le menu son expérience lilloise, dont voici un passage significatif :
+
+<quote>
+On venait de terminer le chemin de fer du Nord, si célèbre par les petits accidents auxquels il a eu la faiblesse de donner lieu. Monseigneur l’archevêque devait le bénir solennellement, on se promettait de largement dîner et boire. On pensa qu’un peu de musique ne gâterait rien, au contraire, bien des gens ayant besoin de cet accessoire pour faciliter leur digestion, et l’on s’avisa de s’adresser à moi comme à un excellent digestif.
+
+Sans rire, voilà ce qui arriva. Il fallait une cantate pour être exécutée, non après le dîner, mais avant l’ouverture du bal. M. Dubois, chargé par la municipalité lilloise des détails musicaux de la cérémonie, vint à Paris en grande hâte et, avec les idées arriérées, antédiluviennes, incroyables, qu’il apportait de sa province, s’imagina que, puisqu’il fallait des paroles et de la musique à cette cantate, il ne ferait pas mal de s’adresser à un homme de lettres et à un musicien. En conséquence, il demanda les vers à Jules Janin et à moi la musique. Seulement, il m’avertit qu’on avait besoin de ma partition pour le surlendemain.
+
+Je venais de lire les vers de Jules Janin. ils se trouvaient coupés d’une certaine manière, que je ne me charge pas de caractériser, et qui appelle la musique comme le fruit mûr appelle l’oiseau, tandis que des poètes de profession s’appliquent au contraire à la chasser à grands coups d’hémistiches. J’écrivis les parties de chant de la cantate en trois heures, et la nuit suivante fut employée à l’instrumenter. Vous voyez que pour un homme qui ne fait pas son métier de violer les muses, ceci n’est pas trop mal travaillé.
+
+Le temps ne fait rien à l’affaire, me direz-vous, au contraire, le temps fait beaucoup. Je maintiens qu’à de rares exceptions près, le temps ne consacre rien de ce qu’on fait sans lui. Cet adage, que vous n’avez jamais entendu ni lu, puisque je viens de le traduire du persan, est d’une grande vérité. J’ai voulu seulement vous prouver qu’il était possible à moi aussi d’improviser une partition, quand je prenais bravement mon parti de me contenter pour mon ouvrage d’une célébrité éphémère de quatre à cinq mille ans.
+
+Si j’avais eu trois jours pleins à employer à ce travail, ma partition vivrait quarante siècles de plus, je ne l’ignore pas. Mais dans des circonstances pressantes et imprévues, comme celles de l’inauguration d’un chemin de fer, un artiste ne doit pas tenir à ce que quarante siècles de plus ou de moins le contemplent. La patrie a le droit d’exiger alors de chacun de ses enfants un dévouement absolu. Je me dis donc : Allons, enfant de la patrie !... Et je me dévouai. Il le fallait.
+
+La cantate étant faite et copiée, nous partons pour Lille. Le chemin de fer faisant une exception en faveur de ses inaugurateurs, nous arrivons sans déraillement jusqu’à Arras. Arrivé à Lille, M. Dubois me met immédiatement en rapport avec les chanteurs dont le concours m’était nécessaire pour l’exécution de la cantate, et avec les bandes militaires venues de Valenciennes, de Douai et de quelques autres villes voisines. L’ensemble de ces groupes instrumentaux formait un orchestre de cent cinquante musiciens à peu près, qui devaient exécuter sur la promenade publique, le soir, devant les princes et les autorités civiles et militaires réunies pour la fête, mon morceau de l’apothéose. La cantate fut bientôt apprise par un chœur de jeunes gens et d’enfants.
+
+L’étude de l’apothéose par les orchestres militaires réunis nous donna beaucoup plus de peine. Elle avait été commencée déjà, avant mon arrivée, et, par suite d’une erreur grave dans le mouvement indiqué par le chef qui dirigeait cette répétition, elle n’avait produit qu’un étourdissant charivari. M. Dubois, mon guide au milieu des embarras et des agitations de la fête, et qui avait assumé bravement toute la responsabilité de la partie musicale, me paraissait agité, inquiet. J’ignorais qu’il eût assisté à la première expérience, j’ignorais même qu’elle eût produit un si monstrueux résultat. Ce ne fut qu’après le débrouillement du chaos qu’il me fit l’aveu de ses terreurs et du motif qui les avait fait naître. Elles furent dissipées assez promptement, et, après la troisième répétition, tout marcha bien.
+
+On me donna un excellent petit orchestre (celui du théâtre, je crois), pour accompagner la cantate ; une seule répétition fut suffisante. Tout était donc prêt, quand M. Dubois me présenta le capitaine d’artillerie de la garde nationale.
+
+-- Monsieur, me dit cet officier, je viens m’entendre avec vous au sujet des pièces.
+-- Ah ! il y a une représentation dramatique ! Je l’ignorais. Mais cela ne me regarde pas.
+-- Pardon, monsieur, il s’agit de pièces... de canon !
+-- Ah mon Dieu ! et qu’ai-je à faire avec ces...?
+-- Vous avez à faire, dit alors M. Dubois, un effet étourdissant, dans votre morceau de l’apothéose. D’ailleurs, il n’y a plus à y revenir, les canons sont sur le programme, le public attend ses canons, nous ne pouvons les lui refuser.
+-- C’est maintenant que mes confrères ennemis de Paris, les bons gendarmes de la critique, vont dire que je mets de l’artillerie dans mon orchestre ! Vont-ils se divertir ! Parbleu, c’est une aubaine pour moi ; rien ne m’amuse comme de leur fournir l’occasion de dire, à mon sujet, quelque bonne bêtise bourrée à triple charge. Va pour les canons ! Mais d’abord comment est composé votre chœur ?
+-- Notre chœur ?
+-- Oui, votre parc. Quelles sont vos pièces, et combien en avez-vous ?
+-- Nous avons dix pièces de douze.
+-- Heu !... c’est bien faible. Ne pourriez-vous me donner du vingt-quatre ?
+-- Mon Dieu, nous n’avons que six canons de vingt-quatre.
+-- Eh bien accordez-moi ces six premiers sujets avec les dix choristes. Ensuite disposons toute la masse des voix sur le bord du grand fossé qui avoisine l’esplanade, aussi près que possible de l’orchestre militaire. M. le capitaine voudra bien avoir l’œil sur nous. J’aurai un artificier à mon côté ; au moment de l’arrivée des princes, une fusée volante s’élèvera, et l’on devra alors faire feu successif des dix choristes seulement. Après quoi nous commencerons l’exécution de l’apothéose, pendant laquelle vous aurez eu le temps de recharger. Vers la fin du morceau, une autre fusée partira, vous compterez quatre secondes, et, à la cinquième, vous aurez l’obligeance de frapper un grand accord bien d’aplomb, et d’un seul coup, avec vos dix choristes de douze et les six premiers sujets de vingt-quatre, de manière que l’ensemble de vos voix coïncide exactement avec mon dernier accord instrumental. Vous comprenez ?
+-- Parfaitement, Monsieur ; cela s’exécutera, vous pouvez y compter.
+
+
+Et j’entendis le capitaine dire en s’en allant à M. Dubois :
+-- C’est magnifique ! Il n’y a que les musiciens pour avoir de ces idées-là !
+
+Le soir venu, notre bande militaire fait des prouesses, le morceau se déploie majestueusement sans la moindre faute de stratégie musicale. Ma foi ! je ne veux pas me faire plus brave que je ne suis, et ce n’était pas sans raison que le cœur m’avait battu aux approches de l’instant solennel. Vous rirez tant qu’il vous plaira, mais je faillis tomber la face contre terre... Les arbres frissonnèrent, les eaux du canal se ridèrent... au souffle délicieux de la brise du soir... Mutisme complet des canons !!...
+
+Un silence profond s’établit après la dernière mesure de la symphonie, silence majestueux, grandiose, immense que troublèrent seuls l’instant d’après les applaudissements de la multitude, satisfaite apparemment de l’exécution. Et l’auditoire se retira, sans regret pour la jouissance à laquelle il avait échappé, oublieux des promesses du programme (les coups de canons).
+
+L’apothéose ainsi terminée pacifiquement, nous laissons sur le bord du canal, et la bouche ouverte, nos pièces toujours pointées et nos artilleurs désappointés. Il fallait courir à l’hôtel de ville, où un autre orchestre et un autre chœur m’attendaient pour l’exécution de la cantate. Mon espérance, cette fois, ne fut en rien trompée ; nos chanteurs et nos musiciens n’eurent ni un soupir ni une double croche à se reprocher.
+
+Les habitants de la grande place sur laquelle j’étais logé ont dû trouver mon voisinage tant soit peu importun ! En somme tout a bien marché, et les musiciens militaires ont fait crânement leur devoir ; la cantate a été chantée avec une verve peu commune et des voix fraîches que nous ne pouvons pas trouver à Paris pour nos chœurs.
+
+Ensuite, pendant que je causais dans le salon voisin avec les Ducs de Nemours et de Montpensier qui m’avaient fait appeler on m’a volé mon chapeau, d’abord, puis toute la musique de la cantate, partie d’orchestre, des chœurs et une partition. De sorte que voilà un ouvrage perdu car je ne me sens pas le courage de recommencer ! {(La partition fut finalement retrouvée quelques années plus tard.)} C’est tout ce que m’a rapporté cette étourdissante fête dont le patron était M. Rothschild et pour laquelle on est venu me chercher à Paris. Cependant hier M. le Maire de Lille m’a envoyé au nom de sa ville une très belle médaille d’or portant pour suscription: Inauguration du chemin de fer du Nord, la ville de Lille à M. Berlioz...
+
+Voilà tout ce que j’ai à vous apprendre sur Lille et les fêtes de l’inauguration et vous faire savoir qu’il y a de bons choristes, d’excellentes musiques militaires et de faibles artilleurs dans le chef-lieu du département du Nord.
+
+{Extraits tirés du site Hector Berlioz: http://www.hberlioz.com/BerliozAccueil.html }
+</quote>
+
+Cette utopie ferroviaire prendra corps tout au long du siècle et le réseau ferré européen, dans son extension maximale, sera achevé dans les années 1930, date à laquelle la crise économique et les déficits des compagnies commencent à provoquer la fermeture des lignes les moins rentables. Depuis, le réseau n'a cessé de se contracter au profit notamment de la route.  Le chemin de fer va néanmoins bouleverser les communications et doper la croissance économique. Mais les idées généreuses de ses inventeurs resteront du domaine de l’idéal…
+
+Le XXe siècle soviétique  saura aussi utiliser La « musique industrielle » pour alimenter la machine de propagande socialiste, en particulier pour glorifier un des mythes les plus en vogue : la conquête de la nature. Dès le début des années 1930, les « travailleurs du pétrole » sont des héros soviétiques par excellence, de nombreux tableaux, œuvres littéraires, musicales ou cinématographiques leurs sont dédiés. L’œuvre la plus emblématique est certainement cette « Symphonie du pétrole », petit film documentaire que le réalisateur Boris Pupjansky tourne en 1933 et dont la musique est spécialement composée par Sergueï Panev. Le film est une alternance de scène entre les jaillissements de pétrole et la lutte acharnée des travailleurs pour  « domestiquer » le pétrole et construire le puits. Les mouvements de travailleurs, les jaillissements sont parfaitement synchronisés avec la musique, y compris à la fin lorsque les travailleurs, pour fêter leur grand succès, se donnent l’accolade et dansent énergiquement autour des infrastructures pétrolières nouvellement édifiées.
+
+
+--------------------------
+
+PS: Si vous souhaitez commenter, utiliser le texte ou les figures, ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse email [->contact@visionscarto.net]
+
+
+
+
+
+
+--------------------------
+Visionscarto - version du 14 avril 2016 16:02

@@ -2,7 +2,7 @@
 --------------------------
 
 TITRE:
-Dynamique démographique dans le Caucase Nord
+Dynamique démographique dans le Caucase-Nord
 
 --------------------------
 
@@ -13,10 +13,10 @@ AUTEUR:
 
 CHAPO:
 <h4 class="text-right">{Par Alexander Panin}</h4>
-<h5 class="text-right">Professeur de géographie à l'université fédérale du Caucase Nord à Stavropol<br>Responsable du département ["information géographique" du bureau d'étude FOC-Consulting->http://foconsult.ru/works/r24-geoinformacionnye-tehnologii.html] à Moscou</h5>
+<h5 class="text-right">Professeur de géographie à l'université fédérale du Caucase-Nord à Stavropol<br>Responsable du département ["information géographique" du bureau d'étude FOC-Consulting->http://foconsult.ru/works/r24-geoinformacionnye-tehnologii.html] à Moscou</h5>
 <h5 class="text-right">Sauf mention contraire, les cartes sont de l'auteur.</h5>
 
-Depuis quelques années, la population d’origine russe décline sensiblement dans la région du Nord Caucase. Cette tendance entraîne un changement dans les rapports de force sociaux et politiques dans ces territoires les plus multiethniques de la Fédération russe.
+Depuis quelques années, la population d’origine russe décline sensiblement dans la région du Caucase-Nord. Cette tendance entraîne un changement dans les rapports de force sociaux et politiques dans ces territoires les plus multiethniques de la Fédération russe.
 
 
 
@@ -24,11 +24,11 @@ Depuis quelques années, la population d’origine russe décline sensiblement d
 --------------------------
 TEXTE:
 
-L’évolution -- négative ou positive -- de la population russe dans le Caucase Nord peut être interprétée comme une sorte de « baromètre » des conditions socio-économiques de la région. Les raisons de cette baisse sont multiples, mais l'une d'elles est sans doute la « fatigue » d'une population à qui Moscou promet de nombreux projets de développement sans jamais les entreprendre.
+L’évolution -- négative ou positive -- de la population russe dans le Caucase-Nord peut être interprétée comme une sorte de « baromètre » des conditions socio-économiques de la région. Les raisons de cette baisse sont multiples, mais l'une d'elles est sans doute la « fatigue » d'une population à qui Moscou promet de nombreux projets de développement sans jamais les entreprendre.
 
-Mais les Russes ne sont pas les seuls à quitter le district : la tendance touche aussi d’autres peuples du Caucase Nord.
+Mais les Russes ne sont pas les seuls à quitter le district : la tendance touche aussi d’autres peuples du Caucase-Nord.
 
-Tout d’abord, le Caucase Nord est sans doute la région la plus polyethnique de toute la Russie, avec des Républiques, comme le Daghestan, dans lesquelles coexistent plusieurs dizaines de peuples, de langues et de religions différentes.
+Tout d’abord, le Caucase-Nord est sans doute la région la plus polyethnique de toute la Russie, avec des Républiques, comme le Daghestan, dans lesquelles coexistent plusieurs dizaines de peuples, de langues et de religions différentes.
 
 <https://farm6.staticflickr.com/5571/15010275968_64b53aeee9_o_d.jpg size=original title="Composition ethnique du Caucase." caption="Cartographie de Jean Radvany, Nicolas Beroutchachvili et Manana Kurtubadze, établie d'après là base de données de l'observatoire des États post-soviétiques de l'INALCO à Paris" credits="Carte reproduite avec l'aimable autorisation des auteurs" class=fullwidth> 
 
@@ -38,9 +38,9 @@ Les méthodes de comptage du recensement 2010 faussent les résultats sur la com
 
 Pour comprendre l’évolution de grandes villes comme Makhachkala, Stavropol et Naltchik, il faudrait revenir à des méthodes de recensement plus précises et plus « dynamiques » au sens géographique du terme. Malgré le déficit de précision dans ces statistiques, il est possible de percevoir quelques tendances. 
 
-<https://farm4.staticflickr.com/3896/15170535446_1bce661a84_o_d.jpg size=original title="Distribution spatiale de la population russe dans la région du Caucase Nord" class=fullwidth> 
+<https://farm4.staticflickr.com/3896/15170535446_1bce661a84_o_d.jpg size=original title="Distribution spatiale de la population russe dans la région du Caucase-Nord" class=fullwidth> 
 
-Il y a bien un « exode rural », les populations des petites villes et de certaines zones rurales ont tendance à migrer vers les grands centres urbains -- non seulement du Caucase Nord, mais aussi d’autres régions plus lointaines de Russie, lesquelles d'ailleurs ne sont pas forcément prêtes à accueillir un aussi grand nombre de migrants. Les grandes agglomérations n’ont pas les moyens de mettre en place les infrastructures et construire les logements nécessaires pour répondre à un tel afflux de population.
+Il y a bien un « exode rural », les populations des petites villes et de certaines zones rurales ont tendance à migrer vers les grands centres urbains -- non seulement du Caucase-Nord, mais aussi d’autres régions plus lointaines de Russie, lesquelles d'ailleurs ne sont pas forcément prêtes à accueillir un aussi grand nombre de migrants. Les grandes agglomérations n’ont pas les moyens de mettre en place les infrastructures et construire les logements nécessaires pour répondre à un tel afflux de population.
 
 À Stavropol, par exemple, le nouveau quartier de logements sur Perspektivny n’est qu’une succession d’immeubles de douze étages, construits de manière aussi serrée que possible pour économiser l’espace… Il y a là 8~000~logements dans un quartier sans éclairage, et où les infrastructures sont réduites au strict minimum. Pratiquement pas de jardin d’enfants, d’écoles, de centres de santé, de maisons de la culture, ni même de commissariats de police.
 
@@ -48,17 +48,17 @@ Les petites et moyennes agglomérations, comme Neftekumsk ou Karachaevsk, ont ac
 
 Dans les zones rurales, en montagne ou en plaine, les populations sont très éparpillées. Au cours de nos recherches, nous avons procédé à des petits recensements ponctuels dans certains villages, et constaté une différence (négative) de 20 % à 30 % avec le recensement officiel, lequel semble systématiquement surestimer la population.
 
-Depuis quelques mois, les médias -- qui n'ont visiblement pas peur des mythes et des stéréotypes -- rappellent fréquemment que la population russe du Caucase Nord diminue et est «remplacée» par une population «caucasienne», ce qui expliquerait, selon eux, que les tensions ethniques persistent et se développent dans toute la région !
+Depuis quelques mois, les médias -- qui n'ont visiblement pas peur des mythes et des stéréotypes -- rappellent fréquemment que la population russe du Caucase-Nord diminue et est «remplacée» par une population «caucasienne», ce qui expliquerait, selon eux, que les tensions ethniques persistent et se développent dans toute la région !
 
 Toujours selon le recensement de 2010, la population russe a sensiblement diminué en pourcentage, mais pas tellement en chiffres absolus. Dans l'ensemble du district, les Russes représentaient environ 3~millions de personnes en 1989 pour 2,8~millions en 2010. Mais durant la même période, les populations caucasiennes ont très fortement augmenté, en pourcentage et en volume (passant de 4,2 à 6, 5~millions de personnes).
 
-<https://farm6.staticflickr.com/5564/15173475416_39249bf11c_o_d.jpg size=medium title="Évolution de la population dans le district fédéral du Caucase Nord, 1959-2010" credit="Source : recensement de 2010." right> 
+<https://farm6.staticflickr.com/5564/15173475416_39249bf11c_o_d.jpg size=medium title="Évolution de la population dans le district fédéral du Caucase-Nord, 1959-2010" credit="Source : recensement de 2010." right> 
 
 La population russe a diminué en part relative pour deux raisons.
 
 Il y a d’abord la croissance naturelle : le taux de fécondité de la population russe, qui était moins élevé que celle des populations caucasiennes, s’est écroulé depuis deux décennies. Dans les territoires septentrionaux, la population russe, qui représente 80 % environ, a vieilli beaucoup plus vite que celles des républiques dans le sud.
 
-Par ailleurs, le population russe migre en masse. Le solde migratoire est très largement négatif. Aucun jeune enseignant, médecin ou ingénieur ne prend la peine de faire le voyage en sens inverse pour venir s’installer dans le Caucase Nord, comme c’était le cas pendant la période soviétique. Les autorités estiment qu’environ 40~000 à 50~000~Russes quittent le district chaque années. Les peuples caucasiens migrent aussi, mais essentiellement à l'intérieur de la région, principalement pour rejoindre des grands centres urbains ou des régions rurales stables.
+Par ailleurs, le population russe migre en masse. Le solde migratoire est très largement négatif. Aucun jeune enseignant, médecin ou ingénieur ne prend la peine de faire le voyage en sens inverse pour venir s’installer dans le Caucase-Nord, comme c’était le cas pendant la période soviétique. Les autorités estiment qu’environ 40~000 à 50~000~Russes quittent le district chaque années. Les peuples caucasiens migrent aussi, mais essentiellement à l'intérieur de la région, principalement pour rejoindre des grands centres urbains ou des régions rurales stables.
 
 <https://farm4.staticflickr.com/3873/15010132897_38f64fa824_k_d.jpg size=large title="Part de la population russe en 1959."> 
 
@@ -66,22 +66,22 @@ Par ailleurs, le population russe migre en masse. Le solde migratoire est très 
 
 ---------
 
-Distribution géographiques de quelques nationalités dans la région du Caucase Nord :
+Distribution géographiques de quelques nationalités dans la région du Caucase-Nord :
 
 
-<https://farm4.staticflickr.com/3898/15006787469_f364ed17be_k_d.jpg size=large title="Distribution spatiale des Daghestanais dans la région du Caucase Nord"> 
+<https://farm4.staticflickr.com/3898/15006787469_f364ed17be_k_d.jpg size=large title="Distribution spatiale des Daghestanais dans la région du Caucase-Nord"> 
 
-<https://farm6.staticflickr.com/5551/15006999457_2092cbb85e_k_d.jpg size=large title="Distribution spatiale des Koumiks dans la région du Caucase Nord"> 
+<https://farm6.staticflickr.com/5551/15006999457_2092cbb85e_k_d.jpg size=large title="Distribution spatiale des Koumiks dans la région du Caucase-Nord"> 
 
-<https://farm4.staticflickr.com/3859/15006775129_814e653576_k_d.jpg size=large title="Distribution spatiale des Tchétchènes dans la région du Caucase Nord"> 
+<https://farm4.staticflickr.com/3859/15006775129_814e653576_k_d.jpg size=large title="Distribution spatiale des Tchétchènes dans la région du Caucase-Nord"> 
 
-<https://farm4.staticflickr.com/3922/15007011717_c4832da1f0_k_d.jpg size=large title="Distribution spatiale des Avars dans la région du Caucase Nord"> 
+<https://farm4.staticflickr.com/3922/15007011717_c4832da1f0_k_d.jpg size=large title="Distribution spatiale des Avars dans la région du Caucase-Nord"> 
 
-<https://farm4.staticflickr.com/3863/15193218052_e970d24295_k_d.jpg size=large title="Distribution spatiale des Abazines dans la région du Caucase Nord"> 
+<https://farm4.staticflickr.com/3863/15193218052_e970d24295_k_d.jpg size=large title="Distribution spatiale des Abazines dans la région du Caucase-Nord"> 
 
 ---------
 
-<https://farm4.staticflickr.com/3953/15559671402_a499c727ee_o_d.jpg size=large title="Part de la population russe dans les municipalités du Caucase Nord"> 
+<https://farm4.staticflickr.com/3953/15559671402_a499c727ee_o_d.jpg size=large title="Part de la population russe dans les municipalités du Caucase-Nord"> 
 
 <https://farm6.staticflickr.com/5604/14938082334_868c86182d_o_d.jpg size=large title="Déplacement du centre de gravité de la population russe"> 
 
@@ -103,4 +103,4 @@ PS: Si vous souhaitez commenter, utiliser le texte ou les figures, ou simplement
 
 
 --------------------------
-Visionscarto - version du 21 octobre 2014 16:54
+Visionscarto - version du 4 avril 2016 14:37

@@ -18,124 +18,21 @@ CHAPO:
 --------------------------
 TEXTE:
 
-<quote>
-Ce projet est ambitieux, il couvre une grande variété de sujets et s'adresse à un large public (enseignants, collégiens, lycéens et étudiants, les bibliothèques, les centres culturels ainsi que les associations citoyennes et paysannes, les organisateurs et animateurs de conférences ou de rencontres publiques, les acteurs et décideurs locaux...). L'exposition évoquera l'agriculture — les agricultures —, et les questions qui lui sont liées (terres, eau, semences, forêt). Sans oublier leur impact sur les sociétés humaines.
+<h2>Les visages de l'agriculture contemporaine</h2>
 
-Mais nous manquons de moyens pour y consacrer le temps nécessaire pour une parution dans un délai raisonnable. L'objectif étant de le publier au cours de l'année 2016, et de pouvoir rémunérer les contribut·rices·eurs qui œuvreront au projet, nous cherchons des soutiens. Nous souhaiterions éveiller l'intérêt d'institutions ou de fondations susceptibles de financer une telle initiative. N'hésitez donc pas à partager avec nous idées et contacts : 
+L'agriculture recouvre une grande diversité d'activités, c'est au moins autant de questions que leurs pratiques soulèvent. Ce projet ambitieux vise à en étudier quelques éléments clés à partir de thèmes fondamentaux que sont la terre, l'eau, les semences, la forêt, sans oublier leur impact sur les sociétés humaines et l'environnement. Il s'adresse à un large public (enseignants, collégiens, lycéens et étudiants, les bibliothèques, les centres culturels ainsi que les associations citoyennes et paysannes, les organisateurs et animateurs de conférences ou de rencontres publiques, les acteurs et décideurs locaux...). 
+
+Nous souhaitons que ces documents soient en accès libre, il faut donc payer en amont le travail des contribut·rices·eurs qui œuvreront au projet pour une publication fin 2016. Nous cherchons pour cela des soutiens et avons lancé une campagne de financement participatif sur helloasso. Le site ne prélève pas de commission et n'en prélève pas pour reverser à la banque qui reçoit l'argent.
+
+C'est par ici : https://www.helloasso.com/associations/terres-et-territoires/collectes/terres-et-territoires
+
+Vous y trouverez le détail du projet, le budget, les premières cartes et graphiques, les contreparties proposées.
+
+Si par ailleurs vous avez des idées d’institutions ou de fondations susceptibles de financer une telle initiative, n'hésitez pas à nous en faire part : 
 
 [->agnes.stienne@visionscarto.net]
 
-Vous trouverez ci-dessous la présentation détaillée du projet.
-
-<p class="caps text-right">Agnès Stienne</p>
-</quote>
-
------------------------
-
-<h2>À la rencontre des agricultures contemporaines</h2>
-
-Récit cartographique en 23 volets proposant une lecture originale des éléments clés qui couvrent le champ des agricultures contemporaines.
-
-On appelle « révolutions vertes » la mise en œuvre de politiques agricoles fondées sur la production intensive de céréales grâce à l’utilisation de la mécanisation, de l’irrigation, de graines brevetées et d’intrants chimiques. Dans les régions du monde où elle ont eu lieu (Etats-Unis, Europe, Inde, Mexique), ces révolutions ont remodelé les paysages ruraux, transformé les habitudes alimentaires des populations et bousculé les structures paysannes.
-
-<https://farm6.staticflickr.com/5645/22205428931_eacae89797_o_d.jpg size=medium link>
-
-Pour répondre au défi de la démographie, de la faim dans le monde, de la croissance économique ou du changement climatique, les promoteurs de l’agro-industrie exercent des pressions sur les ressources naturelles que sont l’eau, la forêt, les terres et les semences. Des ressources qu’il faut pourtant considérer comme des biens communs de l’humanité et qu’il nous revient de protéger. 
-
-Ailleurs, les cultures vivrières peinent à se développer. Les paysans manquent d’informations, de formation et de soutiens financiers pour améliorer leurs conditions d’exploitation. Les réformes agraires n’ont pas toujours abouti, les techniques traditionnelles nécessitent d’évoluer et d’être perfectionnées, les conditions de stockage des récoltes restent souvent médiocres et l’absence d’infrastructures qui faciliteraient l’accès aux marchés locaux condamnent les populations rurales à la pauvreté. Peu soutenus par leurs gouvernements, les paysans se voient parfois contraints de céder leurs territoires à des entreprises plus ambitieuses et d’abandonner cultures et savoir-faire.
-
-<https://farm1.staticflickr.com/780/22195103795_9c2b52469d_o_d.jpg size=medium link>
-
-L’agriculture recouvre une grande diversité d’activités, c’est au moins autant de questions que leurs pratiques soulèvent. Un éclairage particulier sur certaines d’entre elles, leurs implications et les ressources sollicitées est nécessaire si l’on souhaite faire émerger une vision globale de la situation, en tirer quelques conclusions utiles. C’est l’objectif du projet de récit cartographique présenté ici : livrer à un large public une lecture originale des agricultures contemporaines. 
-
-<https://farm6.staticflickr.com/5750/22007060690_8c86887b91_o_d.jpg size=medium link>
-
-Ce récit cartographique se présente sous deux formes : une exposition et un document web.
-
-L’exposition est un document pdf « prêt pour l’impression » de vingt-deux panneaux, un sujet par panneau (plus l’introduction générale), composés chacun d’un titre, d’une grande carte ou d’une visualisation réalisées à l’aquarelle et d’un texte inédit.
-
-Le document web est une adaptation de l’exposition pour internet. Les thèmes y sont davantage approfondis.
-
-<https://farm6.staticflickr.com/5769/22013513290_9f61fafba7_o_d.jpg size=medium link>
-
-Autour des quatre thèmes fondamentaux que sont la terre, la forêt, l’eau et les semences, le projet « Des terres et des cultures » évoque notamment la situation des peuples autochtones de pays abordés, la place des femmes dans l’agriculture, la biodiversité, l’environnement, les structures sociales et l’analyse des politiques agricoles d’États représentatifs.
-
-
-<aside class="box">
-<small/>
-
-{{{SOMMAIRE}}}
-
-{{{1 - Présentation}}}
-
-{{{2 - État des lieux}}}  
-Carte mondiale des terres agricoles, systèmes de culture par région, dégradation des sols… 
-
-{{{3 - Agricultures}}}
-Petite agriculture et agro-industrie : données générales, cultures commerciales et vivrières, nombre et taille des fermes, aides gouvernementales, productivités, marchés, emplois, impacts environnementaux…
-
-{{{4 - Les États-Unis}}}
-État des lieux, données générales, commerce international, investissements, aides, climats…
-
-
-{{{5 - À qui appartient la terre ?}}}
-Systèmes fonciers et réformes agraires (la propriété privée est-elle un problème ou une solution ?) ; les accaparements ou appropriations de #terres 
-
-{{{6 – L’Éthiopie}}} 
-Appropriation des terres, éviction des peuples autochtones, construction de barrages controversés pour irriguer des cultures commerciales, destruction de la paysannerie
-
-{{{7 – La Papouasie-Nouvelle-Guinée}}}
-#Accaparement, déforestation, situation des peuples autochtones 
-
-{{{8 – La « condition tropicale »}}} 
-Du titre du livre de Francis Hallé. Ensemble de spécificités géographiques qui explique, en partie, le difficile développement des pays situés entre les tropiques (très grande biodiversité, nature des sols, ensoleillement...)
-
-{{{9 – La République démocratique du Congo}}}
-Déforestation, exploitation forestière, le point sur le principe Redd+, situation des peuples autochtones 
-
-{{{10 – Géographie du palmier à huile}}} 
-État des lieux, effets sur les populations des pays producteurs et sur l’environnement  
-
-{{{11 - Brésil}}}
-Déforestation, agrocarburants, soja
-
-{{{12 – La viande industrielle}}} 
-Un système mondialisé 
-
-{{{13 – La Chine}}}
-État des lieux, données générales, commerce international, investissements… Projets de cités-jardins et d’agriculture urbaine (si pertinent)
-
-{{{14 – Asie centrale}}}
-L’eau et la culture commerciale du coton
-
-{{{15 – Le lac Tchad}}} 
-L’eau et les cultures commerciales
-
-{{{16 – Cultures d’exportations}}}
-Certaines cultures commerciales interfèrent sur les cultures vivrières locales (la culture irriguée des haricots du Kenya,  la culture des tomates en Italie… )
-
-{{{17 – Le lait}}}
-Les voies lactées de l’agrobusiness, l’opposition des paysans colombiens pour ouvrir le marché du lait
-
-{{{18 – Les femmes dans l’agriculture}}}
-70 % des agriculteurs sont des agricultrices ; intérêt pour le bio et autres alternatives
-
-{{{19 - L’Inde}}}
-État des lieux, données générales, commerce international, investissements…
-
-{{{20 - Les semences}}}  
-Protection végétale (Upov), catalogues officiels, semences paysannes, brevets, OGM…. 
-
-{{{21 - La pomme}}}  
-Fruit le plus croisé, acclimaté, homogénéifié… La forêt de pommiers sauvages du Kazakhstan magnifique modèle de biodiversité avec des variétés hybrides naturels résistantes aux maladies (notamment à la tavelure)
-
-{{{22 – Les modèles de cultures alternatives}}} 
-Agroforesterie, agroécologie à étudier et développer ; restauration des structures sociales ; le rôle des pouvoirs publics et des initiatives privées 
-
-{{{23 – En guise de conclusion}}}  
-Cartographie des luttes paysannes et celles contre les grands projets qui détruisent les zones agricoles ou protégées dans le monde ; les prédateurs qui ont dû céder face à la contestation !
-</small>
-</aside> 
+Vous trouverez ci-dessous la présentation détaillée du projet et des infos complémentaires.
 
 {{Vous pouvez télécharger ici un fichier pdf de la [présentation complète du projet->https://www.dropbox.com/sh/th1ikpyb0j12x9u/AABrYtWa6BlBkHhC3fRwSDqwa?dl=0].}}
 
@@ -146,11 +43,13 @@ Cartographie des luttes paysannes et celles contre les grands projets qui détru
 {{Déjà publiés:}}
 
 — «[Quand l’industrie de la viande dévore la planète->http://blog.mondediplo.net/2012-06-21-Quand-l-industrie-de-la-viande-devore-la-planete]», 21~juin~2012.
+—  «[Vol de terres en Éthiopie->http://visionscarto.net/vol-de-terres-en-ethiopie]», 19~juin~2015.
+— «[Le sol, ce bien commun où la vie prend racine->http://visionscarto.net/le-sol-ce-bien-commun]», 1er~juin 2016.
+
+{Et aussi :}
 — «[L’Europe à l’assaut des terres agricoles mondiales->http://visionscarto.net/accaparement-des-terres]», 6~août~2014.
 —  «[La Chine, l’Inde et les États-Unis aussi...->http://visionscarto.net/accaparement-chine-inde-etats-unis]», 6~octobre~2014.
-—  «[Vol de terres en Éthiopie->http://visionscarto.net/vol-de-terres-en-ethiopie]», 19~juin~2015.
 — «[Conquête coloniale et concentration de terres->http://visionscarto.net/conquete-et-concentration]», 5~octobre~2015.
-</p>
 
 
 
@@ -163,4 +62,4 @@ MOTS-CLÉS:
 
 
 --------------------------
-Visionscarto - version du 19 octobre 2015 20:52
+Visionscarto - version du 1er juin 2016 14:59

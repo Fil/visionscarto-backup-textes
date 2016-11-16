@@ -15,16 +15,7 @@ AUTEUR:
 TEXTE:
 
 |{{Titre :}}| Vieux et pauvre |
-|{{Mots-clés :}} | #Vieux
-#Pauvreté
-#Personnes_âgées
-#Retraite
-#Travail
-#Vieillesse
-#Vieillissement
-#Population
-#Démographie |
-|{{Apparition(s) :}} | Le Monde diplomatique de juin 2013 |
+|{{Mots-clés :}} | #Vieux #Pauvreté #Personnes_âgées #Retraite #Travail #Vieillesse #Vieillissement #Population #Démographie #Vieux |
 |{{Auteur :}} | Philippe Rekacewicz |
 |{{Date de création :}} | Juin 2013 |
 
@@ -40,4 +31,4 @@ PS: Si vous souhaitez commenter, utiliser cette figure, ou simplement contacter 
 
 
 --------------------------
-Visionscarto - version du 9 septembre 2014 15:35
+Visionscarto - version du 8 avril 2016 09:25

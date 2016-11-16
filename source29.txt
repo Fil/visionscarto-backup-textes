@@ -96,7 +96,7 @@ When the funding for settlements was cut in 1925, the Museum of Society and Econ
 
 Crucial to creating picture statistics in a scientific fashion which were visually accessible to the general population, was the role of the transformer, the artistic and statistical personnel that translated data into arrays of pictograms. In this capacity the Museum of Society and Economy employed experts from multiple backgrounds and fields who collaborated on pictorial statistics.
 
-Amongst these were the graphic designer [Gerd Arntz->http://www.gerdarntz.org/] (1900-1988) and the statistician Marie Reidemeister (1898-1986), the later [Marie Neurath->http://en.wikipedia.org/wiki/Marie_Neurath], but there were sociologists, mathematicians, photographers and cartographers as well.
+Amongst these were the graphic designer [Gerd Arntz->http://www.gerdarntz.org/] (1900-1988) and the statistician Marie Reidemeister (1898-1986), the later [Marie Neurath->https://en.wikipedia.org/wiki/Marie_Neurath], but there were sociologists, mathematicians, photographers and cartographers as well.
 
 {Transformation} required specific knowledge in rendering statistical figures into graphic ones, because visual comprehension was crucial; to facilitate this comprehension, which could potentially transgress borders and class status, the Museum developed the Vienna Method of Pictorial Statistics (Wiener Methode der Bild Statistik) later coined [Isotype->http://isotyperevisited.org/1975/01/the-significance-of-isotype.html] The method was characterized by displaying statistical facts through arrays of symbols in comparable quantities. Further, it mandated that changes and alterations in statistical information could be easily traced and that crucial information entered the eye at first sight. Secondary and tertiary information should be understood at second and third sight.
 
@@ -164,4 +164,4 @@ PS: If you wish to comment on this article or contribute with additional informa
 
 
 --------------------------
-Visionscarto - version du 21 November 2014 23:46
+Visionscarto - version du 22 May 2016 11:54

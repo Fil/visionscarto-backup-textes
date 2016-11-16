@@ -163,7 +163,7 @@ Cristina Del Biaggio est géographe, et a effectué ce projet sur le terrain dan
 
 Des mêmes auteurs :
 
-- [Un «mur» aux portes de l’Europe->http://www.lacite.info/un-mur-aux-portes-de-leurope/],  La Cité, Lausanne, 21 septembre 2012.
+- [Un «mur» aux portes de l’Europe->http://www.lacite.info/reportage/2012/09/21/un-mur-aux-portes-de-leurope],  La Cité, Lausanne, 21 septembre 2012.
 <blockquote>
 <p class=small>«Considérée comme une passoire, la frontière entre la Grèce et la Turquie sera verrouillée sur un tracé de 12,5 kilomètres. Retour sur les paradoxes du durcissement de la surveillance des flux vers l’Europe.»</p>
 </blockquote>
@@ -173,12 +173,12 @@ Des mêmes auteurs :
 <p class=small>«Analyse de procédures et d'acteurs à partir de trois points d'observation privilégiés: la région de l'Evros, Athènes et Patras.»
 </blockquote>
 
-- [Ségrégation en Grèce, mode d’emploi->http://www.lacite.info/segregation-en-grece-mode-demploi/], La Cité, Lausanne, 9 novembre 2012.
+- [Ségrégation en Grèce, mode d’emploi->http://www.lacite.info/reportage/2012/11/09/segregation-en-grece-mode-demploi], La Cité, Lausanne, 9 novembre 2012.
 <blockquote>
 <p class=small>«Dans les trains qui, depuis la frontière terrestre avec la Turquie, conduisent les migrants vers Athènes, la séparation avec les habitants est devenue une pratique courante. Reportage sur la ligne qui relie Orestiada à la capitale grecque.»
 </blockquote>
 
-- [Le vrai visage de l’Aube dorée, parti néonazi grec->http://www.lacite.info/le-vrai-visage-de-laube-doree-parti-neonazi-grec/], La Cité, Lausanne, 5 octobre 2012.
+- [Le vrai visage de l’Aube dorée, parti néonazi grec->http://www.lacite.info/politiquetxt/2012/10/05/le-vrai-visage-de-laube-doree-parti-neonazi-grec], La Cité, Lausanne, 5 octobre 2012.
 <blockquote>
 <p class=small>«Incurie judiciaire et collusion policière. C’est le terreau où prospère la formation politique qui défraye régulièrement la chronique en Grèce, pays en proie aux démons de l’extrémisme nationaliste.»
 </blockquote>
@@ -206,4 +206,4 @@ PS: Si vous souhaitez commenter, utiliser le texte ou les photographies de cette
 
 
 --------------------------
-Visionscarto - version du 9 mai 2015 22:21
+Visionscarto - version du 22 mai 2016 11:37

@@ -1,0 +1,36 @@
+
+--------------------------
+
+TITRE:
+Implantation humaine
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+
+
+--------------------------
+TEXTE:
+
+|{{Titre :}}| Implantation humaine |
+|{{Mots-clés :}} | #villes #routes #monde #population #basiques #méthodologie |
+|{{Apparition :}} | Visionscarto, mars 2016. |
+|{{Auteur :}} | Philippe Rivière |
+|{{Date :}} | 2016. |
+|{{Sources :}} | Projection inspirée de Bertin (1953) ; [Natural Earth-> www.naturalearthdata.com] ; [Patrick Stotz->http://bl.ocks.org/PatrickStotz/1f19b3e4cb848100ffd7], [Curran Kelleher->https://twitter.com/currankelleher] ; [GeoNames->http://www.geonames.org/] ; [d3.js->https://d3js.org/]. |
+
+<https://gist.githubusercontent.com/Fil/650b58dfb1b140f0f763/raw/c93052b03cdd0356023a8313c107e8dd71956df9/implantation-humaine.png
+size=original class=fullwidth>
+
+
+--------------------------
+
+PS: Si vous souhaitez commenter, utiliser ce document ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 25 septembre 2016 15:29

@@ -1,0 +1,182 @@
+
+--------------------------
+
+TITRE:
+Invisibilizados en los mapas demográficos
+
+--------------------------
+
+AUTEUR: 
+- Joshua Tauberer
+
+--------------------------
+
+CHAPO:
+Continuamos nuestra reflexión sobre los medios de mapeo con la traducción de un artículo reciente de Joshua Tauberer.
+<h5 class=text-right> [Joshua Tauberer->https://razor.occams.info/] se define como pirata informático cívico<br>
+que participa en movimientos de datos abiertos (datos abiertos).</h5>
+
+
+
+
+--------------------------
+TEXTE:
+
+Los mapas cuentan historias pero también pueden mentir. Todo el mundo sabe que si se elige mal una proyección cartográfica --como es el caso de la mayoría de los mapas-- Groenlandia puede terminar siendo demasiado grande y África, demasiado pequeña.
+
+Pero hay otro problema: debido a que la distribución de las personas no es uniforme en el espacio a lo largo y ancho del mundo, los mapas demográficos favorecen a poblaciones que viven en zonas de baja densidad. En algunas situaciones esta diferencia puede ser crucial:
+
+- A pesar que las minorías raciales constituyen el 26% de la población de EE.UU. están representadas sólo en el 16% de la superficie de los mapas demográficos típicos de ese país. Los mapas podrían ser una razón por la que los políticos no enfocan sus esfuerzos en los problemas de las minorías.
+
+- El 50% de la población de EE.UU. vive en el 1% de la superficie terrestre de la nación. Es el territorio más densamente poblado de ese país. ¿Quiénes viven en el 99% del país que vemos?
+
+-  Los mapas de preferencia política muestran que la derecha está representada en una extensión de territorio mayor. Aunque Obama ganó con poco más del 50% de los votos en las elecciones de 2012, sus votantes representan tan sólo el 38% del espacio en un mapa electoral típico, lo que da la impresión de que su oponente debería haber ganado.
+
+No es de extrañar que existan disparidades en la forma en que las poblaciones están representadas como resultado de la brecha urbano-rural, pero es alarmante lo grandes que son estas disparidades.
+
+Empecemos con lo básico: La mayoría de los estadounidenses viven en o cerca de áreas metropolitanas. Toda esa población --50% de la población EE.UU.-- habita sólo el 1% de la superficie:
+
+<https://farm8.staticflickr.com/7076/27175339232_00097b207f_o_d.png>
+
+Lo contrario también es cierto: alrededor del 50% de la superficie del país está habitada por sólo el 1% de la población.
+
+Si coloreamos condados (o equivalentes) en un mapa demográfico típico de acuerdo a su densidad poblacional, vemos que la mitad del mapa (57%) es habitada por un 5% de la población. Así es como se ve el mapa de EE.UU., con la mayor parte de la región central y occidental vacía:
+
+
+<https://farm8.staticflickr.com/7496/26665195014_a1a8044784_o_d.png>
+
+Toda la población: 95% de la población vive en el 43% del mapa. Ese es un problema.
+
+En realidad, lo que muestran los mapas demográficos [como este de FiveThirtyEight->http://projects.fivethirtyeight.com/facebook-primary/] es que nadie vive en la mayor parte de los espacios geográficos, tal como están retratados en los mapas.
+
+<https://farm2.staticflickr.com/1581/26406901825_8b11b48435_o_d.png legend="Primarias de Facebook. « Donde los candidatos presidenciales ganan la guerra de gustos »"></small>
+
+<h3 class=text-center>✪ ✪ ✪</h3>
+
+En estos mapas lo que estamos viendo es al mismo 5% de la población una y otra vez, y la mayoría de las otras partes del mapa no representan a la población debido a que las áreas urbanas están desproporcionalmente comprimidas.
+
+Para cuantificar cómo se muestra la gente en un mapa, combiné las estimaciones de [cinco años de encuestas del 2010-2014 del Censo de EE.UU.->https://www.census.gov/programs-surveys/acs/] con los datos geoespaciales del [Censo TIGER 2014 de Estados Unidos->http://www.census.gov/geo/maps-data/data/tiger.html], los cuales indican dónde se ubican esas personas. Luego hice una imagen separada de las 71.954 sectores del censo, y de los 3.108 condados de Estados Unidos, y conté cuántos pixeles ocupan en la imagen cada sector y cada condado (vea el final del artículo para más detalles de la metodología.)
+
+Cuando digo un «mapa típico» me refiero a los mapas demográficos por condado, y cuando digo «superficie» estoy usando los sectores del censo, que zonas pequeñas del tamaño de un barrio, para ver exactamente dónde vive la gente. Cuando digo que una población «representa» una proporción de píxeles en un mapa, se trata de medir la proporción de cada elemento de superficie en el mapa, reportando los habitantes de cada pixel a un grupo demográfico.
+
+Este es un problema para todos los habitantes de las ciudades. Aunque el 5% de la población de EE.UU. toma el transporte público para llegar a trabajar, ellos representan sólo el 1% de los píxeles en un mapa típico. Otro tema es que el 38% de la población de Estados Unidos vive en viviendas multifamiliares (lo que el ACS llama estructuras de vivienda unifamiliar adjuntas y de 2 o más unidades), pero esos individuos representan sólo el 29% de los pixeles en un mapa típico.
+
+<https://farm2.staticflickr.com/1447/26340716121_59742ec4b7_o_d.png legend="Mapa de un voto en la Cámara de Representantes en la Wikipedia.">
+
+Como escribí anteriormente («[50% of the U.S. population lives in 1% of the land area->https://razor.occams.info/blog/2013/12/23/50-of-the-u-s-population-lives-in-1-of-the-land-area/]»), poniendo especial atención a cómo la información política se muestra en los mapas como este mapa de Wikipedia, encontré que seis distritos de votación de la ciudad de Nueva York son más pequeños que un píxel en un mapa de tamaño típico. La máxima "una persona, un voto" pierde sentido si algunos votos son demasiado pequeños para verlos, como en este caso.
+
+Y es un problema para las minorías raciales (aquellas que son identificadas como una raza que no sea «blanca»). ¡Estas personas están representadas en la mitad de espacio per cápita comparados con los norteamericanos blancos!
+
+Esto se debe a que las personas pertenecientes a minorías raciales están aún más concentradas en áreas de alta densidad, a diferencia de la población en su conjunto. En este mapa se ve donde vive el 95% de individuos pertenecientes de minorías raciales:
+
+<https://farm8.staticflickr.com/7451/27175338602_e651150e28_o_d.png>
+
+Y así es cómo se ve en un mapa por condados (a comparar con el mapa de toda la población que se mostró anteriormente.) El 95% de las minorías raciales ocupa el 27% del territorio.
+
+<https://farm8.staticflickr.com/7425/27175338242_46be44f9d1_o_d.png>
+
+Si se distribuyen todos los píxeles en un mapa típico en función a la composición demográfica al interior de cada pixel, aunque las minorías raciales son el 26% de la población de EE.UU., ellos representan sólo el 16% de los píxeles. En otras palabras, por cada pixel que representa a una persona blanca, sólo el 0,53 de un píxel representa una de minoría racial.
+
+Así que la siguiente vez que mires a un mapa, piensa: {«¿quien no aparece en el mapa?»}
+
+<h3 class=text-center>✪ ✪ ✪</h3>
+
+Como mencioné en la introducción, la brecha urbano-rural también afecta a los mapas políticos. Usando los resultados de las elecciones presidenciales del 2012, mientras que los demócratas eran el 51% de la población representaban tan sólo el 38% del espacio en un mapa de elección típica. O dicho de otra manera, por cada pixel que representa a un republicano, sólo 0,59 de píxel representa a un demócrata.
+
+Las últimas mediciones demográficas que observé fueron ingresos familiares y estados de pobreza, y afortunadamente la distorsión no afecta, más bien ayuda a estas personas:
+
+- 16% de la población vive con un ingreso por debajo del umbral de la pobreza (como es definido por ACS). Esta población representa el 17% -aproximadamente la misma proporción- del espacio en un mapa típico.
+
+- El 50% de la población que vive con ingresos familiares promedio más bajos, representa el 79% del espacio en un mapa típico. Es decir, mucho más que el porcentaje en población.
+
+Obviamente la pobreza afecta tanto a las zonas rurales como urbanas, por lo que tiene sentido que no se observe una distorsión aquí. La distorsión en ingresos probablemente se explica sólo por el hecho de que el costo de vida sea más bajo en las zonas rurales.
+
+¿Qué se puede hacer al respecto?
+
+Por un lado, utilizar [un cartograma->https://es.wikipedia.org/wiki/Cartograma] (también llamado «anamórfico») siempre que sea posible. Un cartograma asigna igual área en un mapa a unidades igualmente significativas. Un cartograma se asegurará que cada individuo esté representado por la misma cantidad de espacio.
+
+Un cartograma combina un área en el mapa, no con el equivalente geográfico en el suelo sino con un valor significativo.
+
+El tamaño de una superficie (o «polígono») es proporcional a la importancia del valor del indicador (demográfico, económico, etc.) representado. En el contexto de la cartografía demográfica, un cartograma garantiza a toda persona estar representada en el mapa de igualdad con todos los demás.
+
+<https://farm8.staticflickr.com/7446/27175338022_938bed125f_o_d.png>
+
+<small>[El mapa->http://www.nytimes.com/interactive/2013/11/20/us/which-states-will-allow-old-health-policies-to-be-renewed.html] representa los estados donde los asegurados podían:
+-- renovar sus planes antes del cambio de Obama (marrón).
+-- permitir la renovación a principios de 2013 (amarillo)
+-- no permitir la renovación (gris claro)
+</small>
+
+<small>Los cuadrados son de tamaño proporcional al número de pólizas de seguros individuales por estado en el año 2012. Desde hace varios meses, muchos estados han dado a las compañías de seguros la capacidad de permitir renovar sus pólizas de seguro individual antes de lo esperado a los consumidores, en lugar de esperar a que expiren en 2014, cuando ya no cumplen con los requisitos de la [Ley de Cuidado de Salud asequible->https://es.wikipedia.org/wiki/Ley_de_Protecci%C3%B3n_al_Paciente_y_Cuidado_de_Salud_Asequible] u «Obamacare».</small>
+
+Siempre he admirado el New York Times por el uso de cartogramas -aunque lo hacen menos últimamente. El de la izquierda mide los [estados de Estados Unidos por el número de planes de seguro de salud disponibles->http://www.nytimes.com/interactive/2013/11/20/us/which-states-will-allow-old-health-policies-to-be-renewed.html].
+
+Si esto fuera acerca de estadísticas demográficas, los estados serían dimensionados de manera que su área fuera proporcional a su población.
+
+Los cartogramas son a menudo ridiculizados como feos. Y sin duda hay malos. Pero también pueden ser muy elegantes, como [el mapa de resultados de las elecciones del Reino Unido de The Telegraph->http://www.telegraph.co.uk/news/general-election-2015/11584325/full-results-map-uk-2015.html], que se representó en forma de una rejilla de hexágonos (lo cual, me han dicho, es común para representar al Reino Unido). Cada hexágono representa un asiento en el Parlamento.
+
+<https://farm2.staticflickr.com/1530/25804140803_5a6860353f_o_d.png>
+
+Comentaristas en mi blog y en [Hacker News->https://news.ycombinator.com/item?id=11099545] señalaron algunos otros ejemplos de cartogramas:
+
+- El conjunto de cartogramas de FiveThirtyEight para [«Que Es Lo Que Se Requiere Para Convertir Estados Azules En Rojos?»->http://projects.fivethirtyeight.com/2016-swing-the-election/]
+- El [cartograma radial de los derechos gay de The Guardian->http://www.theguardian.com/news/datablog/2012/may/10/data-visualisation-us-gay-rights] (cada raya representa un estado, como se muestra a la izquierda)
+- El [mapa interactivo hexagonal del Reino Unido->http://www.theguardian.com/politics/ng-interactive/2015/may/07/live-uk-election-results-in-full] (similar al de arriba).
+- Por último el [cartograma anamórfico de NPR de los resultados electorales->http://www.npr.org/sections/itsallpolitics/2012/11/01/163632378/a-campaign-map-morphed-by-money] -- el tipo de cartograma que a todo el mundo le parece horrible.
+
+Es difícil hacer cartogramas, y aún más difícil es hacer cartogramas que sean intuitivos, fáciles de entender. Esto es en parte debido a la falta de familiaridad de los lectores, lo cual puede ser solucionado mediante la creación de más cartogramas.
+
+Pero si los cartogramas no te convencen y quieres buscar una alternativa, lo mejor es simplemente... no usar mapas. Porque es mejor no hacer mapas que producir un mapa que reproduzca una injusticia.
+
+<quote>
+
+{{{Nota sobre la proyección utilizada}}}
+
+Como lo resume mi amigo Ben Klemens: {Este no es el problema de una Groenlandia grande y un Africa pequeña.}
+
+Probablemente haya visto el episodio de la serie {West Wing,} cuando los cartógrafos explican que los mapas distorsionan el tamaño relativo de los países. Groenlandia luce enorme en apariencia, pero no lo es. Este es un problema conocido cuando se usa la proyección de Mercator, que es fantástico si usted está [navegando en alta mar->https://es.wikipedia.org/wiki/Loxodr%C3%B3mica], pero horrible si está coloreando las fronteras de los países para mostrar cosas como la demografía de la población.
+
+Con un mapa de proyección de [áreas equivalentes->https://es.wikipedia.org/wiki/Proyecci%C3%B3n_cartogr%C3%A1fica#Tipos_de_proyecciones_cartogr.C3.A1ficas] como [Gall-Peters->https://es.wikipedia.org/wiki/Proyecci%C3%B3n_de_Peters], todas las áreas de la superficie de la Tierra están representadas por un área del tamaño adecuado en el mapa, pero a costa de distorsionar formas.
+
+Usé una proyección de áreas equivalentes para los mapas en el artículo, pero quiero aclarar que el problema que estoy discutiendo no es la proyección, es la distribución de las personas.
+
+{{{Nota metodológica}}}
+
+He puesto cada uno de los 71.954 tramos del Censo y los 3.108 condados del Censo de los Estados Unidos continentales que tengan por lo menos un residente, en un mapa de 800 por 500 píxeles en una [proyección Albers->https://en.wikipedia.org/wiki/Albers_projection].
+
+Luego procedí a contar el número de píxeles que cada terreno y condado ocupa en el mapa final. Cuando estas unidades geográficas coincidían en un píxel, distribuí el pixel de igual manera entre las unidades. Terrenos y condados fueron dibujados en unidades no menores a un pixel.
+
+Luego distribuí los píxeles de acuerdo a las proporciones de población dentro de cada terreno o condado. Por ejemplo, si una extensión de tierra de 4.000 personas es de 75% para diestros, y está representada por 4,8 píxeles en el mapa, distribuiría 3,6 píxeles a las personas diestras y 1,2 píxeles a las personas zurdas. Eso es lo que quiero decir cuando digo que una población «representa» un cierto número de píxeles.
+
+Mis imágenes, excepto donde se indique, representan extensiones de tierra. Esto se debe a que estas extensiones son una mejor representación de la cantidad de gente habitando en una extensión de tierra, a la vez que producen imágenes más agradables. Pero la mayoría de los mapas demográficos se dibujan a nivel de condados. Así que cuando se reportan números, uso «superficie» para referirme a un análisis basado en extensiones y «mapa típico» para referirme a un análisis basado en los condados. La mayor parte de los números resultan alrededor de lo mismo en ambos niveles de detalle.
+
+
+Tracé cada uno de los 71.954 sectores del censo y 3.108 condados de los Estados Unidos contiguos que tienen por lo menos un habitante en un mapa de los Estados Unidaos de 800 por 500 pixeles con una [proyección equivalente del Albers->https://es.wikipedia.org/wiki/Proyecci%C3%B3n_de_Albers], y luego conté cuantos pixeles ocupaba cada sector y cada condado en el mapa. Cuando estas unidades geográficas compartían un pixel, repartí este pixel equitablemente entre ellas. Los sectores y condados han sido dibujados con un tamaño de un pixel por lo menos.
+
+Luego reporte estos pixeles a las estadísticas demográficas en cada sector o condado. Por ejemplo, si en un sector de 4.000 habitantes representado por 4,8 pixeles en el mapa, 75% de la población es diestra, 3.6 pixeles representan a los diestros y 1.2 pixeles a los surdos. Es lo que quiero decir cuando digo que la población «representa» un cierto número de pixeles.
+
+Mis imágenes, salvo donde se indique, son realizadas a partir de los sectores de censo porque son las unidades administrativas que representan de la manera más fiel donde vive la gente, y permite la producción de mapas más precisos.
+
+Pero el problema es que la mayoría de los mapas demográficos son son realizados en base a la división administrativa por condados. Entonces, cuando doy cifras, uso « superficie » para hablar de un análisis por sectores y « mapa típico » para hablar de los mapas realizados sobre la base de los condados. La mayoría de las cifras son similares en ambos niveles de detalle. [Ver el código en github->https://github.com/JoshData/why-use-cartograms].
+
+----
+
+Gracias a Ben Klemens por sugerir algunas variables de ACS para analizar, a Daniel Schuman por mencionar la parte de West Wing y a Josef Fruehwald por mencionar el mapa electoral U.K.
+
+</quote>
+
+
+--------------------------
+
+PS: Artículo traducido por Visionscarto por Ramiro Huayller, Eliana Quiroz y Sylvain Lesage. Para comentar, reutilizar este artículo o ponerse en contacto con el autor, puede escribir a [->contact@visionscarto.net].
+
+- Original: [How that map you saw on FiveThirtyEight silences minorities, and other reasons to consider a cartogram->[https://medium.com/@joshuatauberer/how-that-map-you-saw-on-538-under-represents-minorities-by-half-and-other-reasons-to-consider-a-4a98f89cbbb1].
+- Traducción al francés: [Laissés-pour-compte des cartes démographiques->http://visionscarto.net/laisses-pour-compte-cartes-demographiques]
+- Traducción al chino : [地图湃 - 当选举地图“说谎”时，我们该怎么办？->[http://www.thepaper.cn/newsDetail_forward_1438460] (¡gracias a Haoyun Su!)
+
+
+
+
+
+--------------------------
+Visionscarto - version du 1ro de junio de 2016 15:01

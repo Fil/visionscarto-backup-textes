@@ -1,0 +1,97 @@
+
+--------------------------
+
+TITRE:
+Comment les codes postaux ont masqué la crise sanitaire de Flint
+
+--------------------------
+
+AUTEUR: 
+- Richard Casey Sadler
+
+--------------------------
+
+CHAPO:
+<h4 class="text-right">{par Richard Casey Sadler}</h4>
+<h5 class="text-right">Professeur-assistant à l'Université d'État du Michigan</h5>
+
+
+--------------------------
+TEXTE:
+
+Cela fait un peu plus d’un an que je travaille sur la [crise de Flint->https://www.theguardian.com/us-news/flint-water-crisis], une catastrophe sanitaire, véritable faillite gouvernementale, qui dure depuis presque trois ans.
+
+Le 25 septembre 2015, je recevais un appel de ma collègue [Mona Hanna-Attisha->http://msutoday.msu.edu/news/2016/mona-hanna-attisha-named-one-of-times-most-influential-people/], qui voulait savoir si je pouvais faire une [analyse spatiale->http://www.esri.com/products/arcgis-capabilities/spatial-analysis] de base des résultats des tests sanguins collectés auprès des cliniques pédiatriques de la région et qui mesuraient les niveaux de contamination au plomb. J'avais entendu dire que [les taux de plomb dans le sang étaient en hausse->http://www.mlive.com/news/flint/index.ssf/2015/09/study_shows_twice_as_many_flin.html] à Flint, ce que [les représentants de l'État du Michigan démentaient formellement->http://www.mlive.com/news/flint/index.ssf/2015/09/state_says_its_data_shows_no_c.html].
+
+Ma mission était d'examiner les résultats de prises de sang effectuées à [l'hôpital pour enfants Hurley->http://www.hurleymc.com/services/childrens-hospital/] de Flint pour voir s’il y avait des logiques spatiales particulières (par exemple des taux de contamination élevés dans certains quartiers), et rassembler ainsi des preuves déterminantes pour confirmer les doutes des responsables locaux, et valider nos inquiétudes. Ce [projet de recherche->http://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2015.303003] allait faire apparaître au grand jour cette crise sanitaire, et donner raison aux citoyens de Flint qui s’étaient engagés depuis des mois sur cette question.
+
+J’ai donc [géocodé->http://pro.arcgis.com/en/pro-app/help/data/geocoding/what-is-geocoding-.htm] précisément toutes les adresses au niveau des parcelles du cadastre, et en traçant les niveaux de plomb sur la carte, j’ai été frappé par les disparités spatiales. On voyait clairement que les enfants de Flint avaient des taux de plomb dans le sang bien plus élevés que les enfants des comtés avoisinants. Par ailleurs, les écarts étaient bien plus importants que deux années plus tôt.
+
+<https://farm6.staticflickr.com/5490/30887173192_15e2a898c3_o_d.jpg size=original legend="Elevated Blood Lead Levels in Children Associated With the Flint Drinking Water Crisis: A Spatial Analysis of Risk and Public Health Response" credit="Mona Hanna-Attisha, Jenny LaChance, Richard Casey Sadler, and Allison Champney Schnepp. American Journal of Public Health: February 2016, Vol. 106, No. 2, pp. 283-290." link="http://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2015.303003">
+
+Comment l'État avait-il pu ignorer une différence si manifeste ? Étant moi-même [géographe->http://geography.uwo.ca/], très au fait de la cartographie numérique (via les systèmes d’information géographique) et de la visualisation par ordinateur, j’ai compris pourquoi en réalisant qu’ils utilisaient comme unité d’analyse… Les codes postaux ! ({ZIP Code} en anglais).
+
+Les données, ventilées selon les aires déterminées par les codes postaux, incluaient des personnes qui semblaient vivre à Flint et consommer l'eau de Flint, alors que ça n’était pas le cas. Ces données étaient donc trompeuses.
+
+Les codes postaux, c’est un peu le cauchemar du géographe. Ils trompaient déjà mes amis d'enfance en leur faisant croire qu'ils vivaient dans une toute autre ville. Ils donnent aujourd’hui du cachet à certaines communautés (comme Beverly Hills, 90210), tout en semant le doute sur d’autres aux codes moins prestigieux. 
+
+Tony Grubesic, professeur à l'université d'Arizona, les qualifie de [« géographie bizarre »->http://www.sciencedirect.com/science/article/pii/S0038012106000516]. Nancy Krieger, professeure à l'université Harvard, a montré, avec ses collègues, qu’ils étaient [totalement inappropriés->http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447194/] pour les analyses à l’échelle de la parcelle ou du quartier.
+
+Si j’avais simplement cartographié ces données sur la grille géographique des codes postaux, la distribution spatiale de la contamination n'aurait pas été aussi clairement établie. C’est l’erreur qu’ont commise les analystes travaillant pour les autorités administratives, erreur qui leur a fait conclure, à tort, que les changements dans l’utilisation des sources d'eau potable n'avaient eu aucun effet perceptible sur les enfants de Flint.
+
+Creusons un peu ici la question méthodologique, et demandons-nous pourquoi, précisément, les unités géographiques couvertes par les codes postaux sont si mal adaptées à l'analyse de cette crise sanitaire. J’espère que ce qui suit pourra vous convaincre et surtout convaincre les chercheurs en santé publique de renoncer à l’utilisation de ces unités administratives, ou au moins d’admettre qu’elles sont inappropriées.
+
+{{{Quand les limites ne correspondent pas}}}
+
+<https://farm6.staticflickr.com/5818/25363110669_4b7c1e096c_o_d.jpg size=original title="Les codes postaux ne correspondent pas aux limites de la ville de Flint." credit="Richard Casey Sadler.">
+
+L’erreur des autorités provient du fait que les codes postaux « de Flint » ne correspondent pas aux contours de la ville, ni à ceux de son réseau d'eau potable. En revanche, la ville et son réseau d'eau concordent à près de 100 %.
+
+Un tiers des logements appartenant à des codes postaux de Flint se trouvent hors des limites de la ville. Les statistiques gouvernementales pour Flint se trouvaient donc amalgamées sans distinction avec des adresses situées en dehors des limites municipales et surtout qui n’étaient pas connectées au même réseau d’eau courante. En géographie, c’est une situation décrite par le concept de MAUP ({[modifiable areal unit problem->http://support.esri.com/other-resources/gis-dictionary/term/MAUP]} en anglais), difficile à traduire en français, mais qui désigne l’influence du choix du découpage géographique sur les résultats des traitements statistiques.
+
+De tous les codes postaux, seuls 48502 et 48503 se trouvent entièrement à l'intérieur de la ville de Flint. Les codes 48504, 48505, 48506 et 48507 sont tous partagés entre Flint et les municipalités voisines. Le code 48532 contient très peu de logements effectivement localisés à l’intérieur des limites municipales de Flint. En somme, les codes employés dans les analyses générales des autorités recouvrent des secteurs comportant huit municipalités différentes (sept communes et une ville) autour de Flint.
+
+Pour produire une analyse pertinente, la solution était pourtant simple : abandonner l’unité « code postal » et descendre au niveau des parcelles, c’est-à-dire des adresses des patients. Que les autorités n’y aient pas pensé est à la fois choquant et effrayant. Ça reflète une ignorance totale des méthodes de recherche en géographie, et une tendance à accepter les statistiques sans aucune réflexion critique. Le découpage spatial par code postal (ou d’autres limites arbitraires) est très souvent utilisé par défaut quand les professionnels de santé s'essaient à la cartographie, alors que de nombreuses recherches en géographie depuis deux décennies suggèrent que c’est une erreur !
+
+Pourquoi le découpage spatial par code postal n’est-il pas pertinent pour mesurer des phénomènes localisés ?
+
+Récemment, on pouvait trouver dans un rapport sur les déterminants sociaux de la santé ([PDF->http://commissiononhealth.org/PDF/0d5f4bd9-2209-48a2-a6f3-6742c9a7cde9/Issue%20Brief%207%20Dec%2009%20-%20Message%20Translation.pdf]) des expression telles que {« notre code postal peut être plus important pour notre santé que notre code génétique ».}
+
+Bien sûr, ce que cette expression cherche à expliquer, c’est que notre lieu de résidence influence certainement nos conditions de vie, et donc notre santé. Et bien entendu, dans ce contexte, ces effets de voisinage importants ont été au centre des préoccupations dans les questions d’aménagement urbain depuis au moins deux décennies, mais l’utilisation du découpage par code postal peut masquer des problèmes existant à une échelle plus fine.
+
+Pour être réellement pertinents pour l’analyse des effets de voisinage sur la santé, les découpages géographiques devraient être relativement homogènes en termes sociaux et environnementaux. Mais, aux États-Unis tout particulièrement, les codes postaux sont inadaptés pour ce type d’analyse. (Au Canada en revanche, un code postal comme par exemple « N6C 2B5 » représente un secteur assez petit et précis pour être utilisé lors de telles analyses.)
+
+{{{Créés pour distribuer le courrier, pas les soins}}}
+
+Les codes postaux américains (ZIP en anglais, pour {[zone improvement plan->http://www.zipboundary.com/zipcode_history.html]}, ou {plan d’amélioration du découpage en zones} en français) ont été créés en 1963 par le United States Postal Service comme une solution logistique pour le tri du courrier dans des villes en croissance. Ainsi ces codes étaient-ils attribués en fonction du secteur qu’une équipe de postiers pouvait raisonnablement couvrir en une journée, ce qui avait fort peu à voir avec les limites municipales ou la géographie.
+
+Découpés de façon arbitraire, les codes ZIP couvraient un grand nombre de types de quartiers ; dans la plupart des villes petites ou moyennes, un code postal peut donc couvrir des zones urbaines, des banlieues, et des zones rurales, au sein desquelles les caractéristiques socio-économiques peuvent être très variables.
+
+On prend néanmoins conscience, petit à petit, que cette hétérogénéité en fait un très mauvais choix pour comprendre les disparités en matière de santé publique. Par ailleurs, les codes postaux ne couvrent même pas nécessairement des zones contigües : il s’agit parfois d’objets linéaires suivant le tracé des routes. Et pourtant, ils influencent de nombreux aspects de notre vie quotidienne, du taux d’assurance automobile à la TVA en passant par le prix de l’immobilier.
+
+En réalité, très peu de systèmes urbains ou d’infrastructures, comme la carte scolaire, les limites municipales, la distribution d’eau ou encore les circonscriptions électorales, correspondent aux limites des codes ZIP. En continuant d’utiliser ce découpage dans le domaine de la médecine et de la santé publique, on prend le risque de masquer les inégalités en mélangeant des populations hétérogènes, ce qui implique aussi que des programmes d’aide, mal alignés géographiquement, peuvent ne pas atteindre les populations qui ont besoin de cette assistance.
+
+Il existe des unités spatiales beaucoup plus appropriées pour comprendre les variations entre différents quartiers, comme les unités géographiques prévues pour le recensement, les districts municipaux pour les élections, les secteurs des plans d’aménagements urbains ou enfin simplement les différents quartiers de la ville.
+
+{{{Que faire?}}}
+
+Le découpage par code postal ne doit pas nécessairement être entièrement écarté. Il peut toujours être utile pour caractériser des phénomènes et détecter des disparités à une échelle plus vaste, comme par exemple le taux des maladies chroniques, l'exposition aux pollutions d'origine diffuse ou les taux d'emploi régionaux.
+
+Il est bien entendu toujours possible que la Poste américaine s’engage dans une restructuration spatiale des codes ZIP pour les rendre plus cohérents avec les modes d’organisation urbaine, sociale et politique, et d’en faire par conséquent un outil plus  facilement utilisable pour les analyses de santé publique. 
+
+La crise sanitaire de Flint n’est pas unique, il y en a d’autres, aussi graves, mais sans doute difficilement détectables tant que le découpage par code postal sera choisi comme unique et ultime arbitre pour la représentation des statistiques. En tout cas, ce système est clairement inadapté, et si on ne se contente que de ce mode opératoire, on prend le risque que de graves problèmes de santé publique restent invisibles.
+
+<p class="text-right caps">↬ Richard Casey Sadler.</p>
+
+
+--------------------------
+
+PS: Cet article a été traduit pour Visionscarto par Jasmine Rivière-Poupon. Si vous souhaitez le commenter ou le réutiliser, n'hésitez pas à nous écrire à l'adresse [contact@visionscarto.net->mailto:contact@visionscarto.net].
+
+{Le bandeau de cet article représente un fragment d'une œuvre de l'artiste palestinienne Mona Hatoum (« Temps présent », installation composée de savon et de billes de verre, 1996) présentée au musée d'art contemporain d'[Helsinki->http://www.kiasma.fi/en/exhibitions-events/mona-hatoum/] en novembre 2016.}
+
+
+
+
+--------------------------
+Visionscarto - version du 16 novembre 2016 09:30

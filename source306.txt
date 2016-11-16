@@ -1,0 +1,99 @@
+
+--------------------------
+
+TITRE:
+Cartographie participative du vélo potentiel à Kuala Lumpur
+
+--------------------------
+
+AUTEUR: 
+- Aude Vidal
+
+--------------------------
+
+CHAPO:
+<h4 class="text-right">{par Aude Vidal}<h4>
+<h5 class="text-right">auteure de
+[Petite écologie de la Malaisie->http://blog.ecologie-politique.eu/post/Petite-ecologie-de-la-Malaisie].</h5>
+
+
+--------------------------
+TEXTE:
+
+Kuala Lumpur a, vu du ciel, des airs de plats de spaghetti où s'emmêlent les autoroutes à deux fois trois ou quatre voies. Dans les quartiers, les automobiles garées sur les trottoirs, les embouteillages où les pare-chocs se touchent presque et la priorité donnée aux voitures sur les piétons rendent improbable l'idée de faire du vélo dans la capitale malaisienne.
+
+C'est pourtant le cas, même si les cyclistes sont assez rares pour qu'on puisse passer une journée sans en voir un… Mais cela ne s'improvise pas, il est déconseillé de partir à l'aventure sans une idée précise de son itinéraire. Pour cela, l'apprenti·e cycliste peut désormais compter sur une carte qui l'aidera à circuler dans la jungle urbaine : [Cycling KL Bicycle Map->http://studio25.my/map/140919_KLCTRMAP_S25.html].
+
+<https://farm9.staticflickr.com/8508/29650961915_b57ef5a794_o_d.jpg size=large title="Carte cyclable de Kuala Lumpur." legend="Source : Cycling Kual Lumpur, http://cyclingkl.blogspot.no/" link>
+
+Il s'agit bien de vélo, insiste l'intitulé, et non de deux-roues à moteur, omniprésents à Kuala Lumpur. Jeffrey Lim, l'animateur de cette initiative, nous reçoit dans son studio au nord de Bangsar, un quartier post-industriel en pleine revitalisation. Au rez-de-chaussée, une vieille imprimerie continue à tourner. À l'étage, un espace de co-working où l'on consomme quantité de thé en sachets et de muesli. Des start-ups et des studios d'artistes partagent le local. Jeffrey, la trentaine, est graphiste. Et cycliste. 
+
+
+<h2>Première phase : élaborer le fond de carte</h2>
+
+Il y a cinq ans, il se met à rêver d'une carte où les habitant·es de Kuala Lumpur et de la vallée de la Klang pourraient partager leur expérience de la ville pour proposer des itinéraires cyclables dans toute la métropole. <https://farm9.staticflickr.com/8643/29678059531_2826b8cec0_k_d.jpg size=medium title="Jeffrey Lim." legend="Photo : Aude Vidal, 2016." right> Il se met à l'ouvrage en élaborant seul le fond de carte, à partir de quatre sources. Le service de cartographie municipale lui donne accès à des éléments exclusifs, notamment sur les projets futurs de développement urbain. Kuala Lumpur se construit vite et ici encore plus qu'ailleurs, {« aucune carte n'est à jour ; à peine publiée elle est déjà obsolète »}.
+
+Il tente d'intégrer des projets en cours pour permettre à la carte de durer quelques années... En échange de droits d'accès -- pourtant limités -- les redevances à verser à l'administration ne sont pas minces : 20 sen par carte distribuée, soit presque 5 centimes d'euro. C'est alors qu'il découvre que les cartes constituent {« une forme de pouvoir »} que le département s'arroge. <https://farm9.staticflickr.com/8407/29678058661_ace7802530_k_d.jpg size=medium title="Jeffrey Lim." legend="Photo : Aude Vidal, 2016." right>La carte cyclable de Kuala Lumpur sera donc également outil de contre-pouvoir, de « visibilisation » d'usages urbains minoritaires et de plaidoyer pour le vélo. Le maire de l'époque, Ahmad Phesal Talib, est cycliste mais {« il y a cinq ans, le vélo n'était pas même mentionné quand il était question de transports »}. Les efforts du maire et ceux du groupe qui se constitue autour de Jeffrey concordent pendant quelques années.
+
+<h2>Deuxième phase : distribuer le fond de carte aux utilisateurs potentiels</h2>
+
+La distribution des fonds de carte dure environ trois mois. C'est alors que Jeffrey va à la rencontre des dizaines de bénévoles et de contributeurs·trices invité·es à se saisir de son initiative. Plutôt que de travailler sur un support immatériel et d'agréger les informations sur Internet, c'est une carte papier qui est utilisée, assez grande pour pouvoir couvrir la ville d'un seul coup d’œil mais en restant détaillée. C'est le meilleur moyen, selon Jeffrey, de {« se saisir de l'objet et d'entraîner des interactions plus riches »}.
+
+<h2>Troisième phase : « renseigner » la carte</h2>
+
+Les informations sur la « cyclabilité » de la ville sont recueillies sous toutes les formes possibles : le fond de carte est annoté, colorié, mais {« comme tout le monde ne sait pas lire les cartes »}, il faut faire autrement. Tou·tes celles et ceux qui ne sont pas très à l'aise avec les cartes peuvent s'expliquer verbalement, par e-mail, au téléphone ou de visu. Souvent, on zappe les noms des rues et des avenues pour privilégier les noms des cafés, plus utiles pour se repérer dans la géographie locale. 
+
+<https://farm9.staticflickr.com/8242/29025441344_70539a1132_o_d.jpg size=large title="Carte cyclable de Kuala Lumpur." legend="Source : Jeffrey Lim, Cycling Kuala Lumpur, http://cyclingkl.blogspot.no/" link>
+
+<https://farm9.staticflickr.com/8566/29570399601_3be44f8978_o_d.jpg size=large title="Élaboration de la carte cyclable de Kuala Lumpur." legend="Source : Jeffrey Lim, Cycling Kuala Lumpur, http://cyclingkl.blogspot.no/" link>
+
+Les informations et les données sont recueillies sous des formes très variées qu'il n'est pas forcément simple de synthétiser et de cartographier mais les sources sont plus diverses et plus riches que si elles avaient été collectées de manière très standardisée sur un support numérique. Aux contributions les plus spontanées, comme celles du [groupe Facebook->https://www.facebook.com/groups/CyclingKualaLumpur/] qui se crée pour l'occasion, Jeffrey ajoute celles de cyclistes moins bavards sur leurs usages. Il s'agit par exemple des personnes âgées dont il observe les allées et venues. C'est ainsi qu'il a l'idée de faire apparaître sur la carte les marchés, vers lesquels convergent à vélo nombre d'« oncles » et de « tantes », cyclistes âgé·es évoluant dans un périmètre limité mais ayant une maîtrise impeccable de leur environnement. 
+
+<https://farm9.staticflickr.com/8018/29540670072_ea4251c0a9_o_d.jpg size=large title="Une carte pour tous les usages." legend="Source : Jeffrey Lim, Cycling Kuala Lumpur, http://cyclingkl.blogspot.no/">
+
+<https://farm9.staticflickr.com/8270/29678058811_3c2b88a48b_o_d.jpg size=large title="Une carte pour tous les usages." legend="Source : Jeffrey Lim, Cycling Kuala Lumpur, http://cyclingkl.blogspot.no/">
+
+
+{« C'est en voyant un vieux Chinois emprunter un trottoir pour prendre la rue à contre-sens que j'ai ajouté cet itinéraire sur la carte »}, note Jeffrey en montrant un tronçon coloré en jaune. Autre public discret, voire invisible : les migrant·es. Ils et elles circulent à vélo par économie ou par peur des contrôles de police et élaborent des itinéraires très inventifs : {« Je n'ai pas retenu les itinéraires trop dangereux, où par exemple il faut passer à travers une clôture trouée en portant son vélo à bout de bras. Mais ils·elles les empruntent quand même, ils·elles sont bien obligé·es »}. Des pratiques qui forcent l'admiration de Jeffrey dont on devine la grande urbanité, l'attention aux autres et la générosité. Mais la carte exclut au final ces « usages trop compliqués » pour un document s'adressant à tout le monde et met en avant des itinéraires plus faciles... quand cela est possible. À plusieurs endroits, pas moyen de faire autrement que d'orienter les cyclistes, pour un court tronçon, vers des autoroutes, le seul axe disponible pour compléter un itinéraire.
+
+<https://farm9.staticflickr.com/8532/29556947610_b4ef53a658_o_d.jpg size=medium title="Autoroute urbaine." legend="Photo : Aude Vidal, 2016." right> 
+
+L'étape suivante consiste en une enquête de terrain dans les quartiers sur lesquels les retours spontanés n'ont pas réuni assez de données. Une petite équipe est constituée à chaque rendez-vous, réunissant riverains et volontaires pour une exploration collective, suivie d'une discussion au café où tout le monde confronte ses appréciations de la dangerosité des axes arpentés ensemble. Si possible, cette enquête est renouvelée au moins trois fois avec des personnes différentes. Avec des profils de participant·es aussi variés, c'est l'assurance d'avoir au final une carte solidement élaborée qui rend les itinéraires encore plus sûrs.
+
+À l'issue de ce processus participatif et collectif, la carte est [imprimée par le voisin imprimeur->http://studio25.my/map/] et distribuée par les participant·es. Comme prévu, à peine est-elle sortie qu'elle est déjà obsolète : les négociations sur une percée cyclable en site propre le long de la rivière Klang n'ont pas permis de compléter l'itinéraire et un tronçon, signalé sur la carte, n'a pu être construit. La carte, publiée en 2014, n'est plus distribuée en 2016 et elle est de toutes façons pratiquement épuisée. Pendant que le chantier reprend, Jeffrey se forme aux SIG, littéralement « [système d'information géographique->https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27information_g%C3%A9ographique] », c'est-à-dire un logiciel de cartographie qui lui permettra de numériser et de géoréférencer toutes les données recueillies jusqu'à maintenant.
+
+<https://farm9.staticflickr.com/8345/29651815025_669c6073ef_o_d.jpg size=large title="Élaborer la carte ensemble." legend="Source : Jeffrey Lim, Cycling Kuala Lumpur, http://cyclingkl.blogspot.no/">
+
+<https://farm9.staticflickr.com/8058/29027301993_f7d7451f1b_o_d.jpg size=large title="Élaborer la carte ensemble." legend="Source : Jeffrey Lim, Cycling Kuala Lumpur, http://cyclingkl.blogspot.no/">
+
+Bien qu'économique et demandant peu de capacités physiques, le vélo n'est pas un mode de transport aussi accessible à tou·tes qu'on pourrait l'espérer. Les cyclistes membres du groupe Facebook Cycling KL partagent des itinéraires domicile-travail qui font jusqu'à 15 kilomètres, ce sont souvent des hommes, jeunes ou dans la force de l'âge, bien équipés d'un ou plusieurs vélos coûteux. Ils empruntent sans trop d'hésitations l'autoroute, aux côtés des cyclomoteurs et des voitures. La pratique est courante le dimanche matin pour les cyclistes sportifs mais elle n'en demeure pas moins risquée. C'est une « image du cycliste » que cette carte devrait briser pour rendre la pratique plus accessible.
+
+<https://farm9.staticflickr.com/8485/29540727302_198601f3c6_o_d.jpg size=large title="Élaborer la carte ensemble." legend="Source : Jeffrey Lim, Cycling Kuala Lumpur, http://cyclingkl.blogspot.no/">
+
+<https://farm9.staticflickr.com/8623/29540720202_29be1afb89_o_d.jpg size=large title="Élaborer la carte ensemble." legend="Source : Jeffrey Lim, Cycling Kuala Lumpur, http://cyclingkl.blogspot.no/">
+
+ Jeffrey a préféré l'illustrer par des dessins d'hommes et de femmes sur des vélos anglais plutôt que casqués et tête baissée sur des « fixies » (des vélos sans roue libre, appréciés des coursiers et très à la mode ces dernières années) ou des vélos de course. Ce sont aussi ces « basikals » qu'il apprécie le plus, lui qui est fan de vieux vélos, si possible « made in Malaysia » (ou Malaya, le nom du pays avant 1963). Ce graphiste branché, qui a su à lui seul impulser la mode des cartes participatives à Kuala Lumpur, roule sur un biclou et a mené tout le projet sans smartphone.
+
+<https://farm9.staticflickr.com/8269/29651627745_db866f8afb_o_d.png size=medium right title="Tronçon d'autoroute sur la carte." legend="Source : Cycling Kuala Lumpur, http://cyclingkl.blogspot.no/">
+
+Pour son propre usage également, il préfère les cartes papier et en quelques années il est devenu un « map nerd », un passionné de cartes. Il possède toute une collection de cartes de la capitale, offertes par des ami·es rencontré·es au cours de ce projet un peu fou. {« J'étais un peu naïf, je ne me rendais pas compte de la quantité de travail que cela exigerait. »}
+
+Mais pas de regret, cette carte a fait bouger la représentation du vélo, autant pour les décideurs que pour le public. {« La carte est un outil très puissant »}, conclut-il, {« mais c'est juste un medium, l'important ce sont les gens ».}
+
+<quote>
+{{Lire aussi}}
+
+- [How a crowd-sourced map changed Kuala Lumpur’s ideas about cycling->https://www.theguardian.com/cities/2015/sep/18/how-crowd-sourced-map-kuala-lumpurs-ideas-cycling], par Ling Low, The Guardian, 18 septembre 2015.
+</quote>
+
+
+
+--------------------------
+
+PS: Si vous souhaitez commenter, utiliser ce texte et ces documents, ou simplement contacter l'auteure de ce reportage, nous vous invitons à le faire via l'adresse [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 23 septembre 2016 07:37

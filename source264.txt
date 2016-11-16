@@ -1,0 +1,95 @@
+
+--------------------------
+
+TITRE:
+La peine de mort dans le monde en avril 2016
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+
+
+
+--------------------------
+TEXTE:
+
+|{{Titre :}}| La peine de mort dans le monde en avril 2016 |
+|{{Mots-clés :}} | #Droits_humains #Peine_de_mort |
+|{{Sources :}} | Amnesty international ; le site [Peine de mort->http://www.peinedemort.org/peinedemort.php] de Sophie Fotiadi ; [Death Penalty Information Center->http://www.deathpenaltyinfo.org/] (DPIC) pour les États-Unis |
+|{{Apparition(s) :}} | Carte inédite |
+|{{Auteur :}} | Philippe Rekacewicz |
+|{{Date :}} | 2016. |
+
+<https://farm2.staticflickr.com/1697/26244266366_fb490db984_o_d.jpg
+size=large title="La peine de mort dans le monde en avril 2016." credit="Philippe Rekacewicz, 2016.">
+
+-----------------------------
+
+Pour être tout à fait précis, il faut mentionner le cas particulier des États-Unis où 31 États sur 50 appliquaient toujours la peine de mort en avril 2016 : 
+
+- Alabama, Arizona, Arkansas, Californie, Colorado, Delaware, Floride, Géorgie, Idaho, Indiana, Kansas, Kentucky, Louisiana, Mississippi, Missouri, Montana, Nevada, New Hampshire, Caroline du Nord, Caroline du Sud, Ohio, Oklahoma, Oregon, Pennsylvanie, Dakota du Sud, Tennessee, Texas, Utah, Virginie, Washington et Wyoming.
+
+Les cartes présentées ici ne reflètent pas cette réalité puisque l'approche est « nationale ». C'est ce qui explique, par exemple, que l'Alaska apparaisse dans les couleurs des États appliquant la peine de mort alors que c'est un État abolitionniste. mais il fait partie d'un pays qui est toujours reconnu comme appliquant la peine de mort. Une carte détaillant la situation particulière des États-unis en 2016 suivra bientôt.
+
+-----------------------------
+
+Pour mémoire, nous republions les cartes précédentes pour permettre les comparaisons à deux niveaux :
+
+- {{Mesurer les progrès :}} entre 2000 et 2016, environ une trentaine de pays ont aboli la peine de mort, et nous avons régulièrement mis-à jour ce document simple, qui fait d'ailleurs partie d'une série cartographique sur l'évaluation et les progrès dans le respects droits humains.
+
+- {{Changements dans les choix de sémiologie graphique :}} au cours de ces années, et à chaque fois que nous avons repris les données, nous avons non seulement expérimenté des formes graphiques et des couleurs différentes, mais aussi proposé des regroupements de catégories qui varient légèrement. La publication de cette série permet de voir aussi qu'une même catégorie représentée avec une couleur différente implique une perception, une « émotion » cartographique différente, plus ou moins dramatique, selon qu'on utilise le bleu, le rouge ou le noir. Cela souligne l'importance fondamentale de la couleur dans l'exercice cartographique.
+
+-----------------------------
+
+{{Pour illustrer la question du choix de la couleur}}, nous proposons ici deux versions de la même carte (celle mise à jour en 2016) avec -- pour la représentation des pays non-abolitionnistes -- une variation en rouge foncé, et une autre en noir.
+
+<https://farm2.staticflickr.com/1648/25701284153_9bb10c3ca6_o_d.jpg
+size=large title="La peine de mort dans le monde en 2016." legend="Variation en rouge foncé pour les pays pratiquant toujours la peine de mort.">
+
+<https://farm2.staticflickr.com/1611/26237782601_23fe7e370f_o_d.jpg
+size=large title="La peine de mort dans le monde en 2016." legend="Variation en noir pour les pays pratiquant toujours la peine de mort.">
+
+-----------------------------
+
+
+<https://farm2.staticflickr.com/1560/26204062731_e0b124d601_o_d.jpg
+size=large title="La peine de mort dans le monde en 2011.">
+
+<https://farm2.staticflickr.com/1489/25667572993_680cc6515d_o_d.jpg
+size=large title="La peine de mort dans le monde en 2007.">
+
+<https://farm2.staticflickr.com/1658/26177835082_6faba09786_o_d.jpg
+size=large title="La peine de mort dans le monde en 2005.">
+
+<https://farm2.staticflickr.com/1567/26270258975_3a52487aff_o_d.jpg
+size=large title="La peine de mort dans le monde en 2000.">
+
+<aside class=box>
+
+D'autres ressources sur la peine de mort :
+
+- [Tous les billets « peine de mort » publiés sur Seenthis->http://seenthis.net/tag/peine_de_mort] - Cette page regroupe nombreux liens (blogs, articles de presse, analyses, émissions de radio, reportages, photographies) pour vous permettre de suivre l'actualité de ce thème.
+
+- [Le site « Peine de mort.org »->http://www.peinedemort.org/peinedemort.php] de Sophie Fotiadi.
+
+- [Le dossier « Peine de mort »->https://www.amnesty.org/en/what-we-do/death-penalty/] sur le site d'Amnesty international.
+
+- L'exposition [« Fenêtres sur le couloir de la mort »->http://www.maisondudessindepresse.ch/page.php?label=home]. Le projet d'exposition {Windows on Death Row} est né aux États-Unis sur l'initiative de Patrick Chappatte, dessinateur de presse de renommée internationale, et d'Anne-Frédérique Widmann, journaliste. Après Los Angeles, l'exposition est présentée à la Maison du Dessin de Presse, à Morges (Suisse), et à la bibliothèque de la Cité à Genève, dans le cadre du Festival du Film et Forum International sur les Droits Humains (avril-mai 2016).
+
+- La page Internet [« The next to die »->https://www.themarshallproject.org/next-to-die/tx], initiée par le [« Marshall Project->https://www.themarshallproject.org/#.OOOy5mxaJ], une ONG qui se donne pour mission de suivre de près l'évolution du système de justice criminelle aux États-Unis.
+
+</aside>
+
+
+
+
+--------------------------
+
+PS: Si vous souhaitez commenter, utiliser ces documents ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 11 avril 2016 11:08

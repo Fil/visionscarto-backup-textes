@@ -14,9 +14,9 @@ AUTEUR:
 --------------------------
 TEXTE:
 
-|{{Titre :}}| Dessin - La chouette |
+|{{Titre :}}| Dessin - La chouette. |
 |{{Mots-clés :}} | #Graphisme #Art #Sémiologie_graphique #Ombre #Étude_graphique #Contraste #Couleur #Dessin |
-|{{Matériel :}} | Pastels gras |
+|{{Matériel :}} | Pastels gras. |
 |{{Auteur :}} | Oskar Rekacewicz |
 |{{Date de création :}} | 2015 |
 
@@ -31,4 +31,4 @@ PS: Pour nous contacter, n'hésitez pas à écrire à [->contact@visionscarto.ne
 
 
 --------------------------
-Visionscarto - version du 22 février 2016 00:58
+Visionscarto - version du 3 avril 2016 13:43

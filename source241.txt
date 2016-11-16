@@ -14,9 +14,9 @@ AUTEUR:
 --------------------------
 TEXTE:
 
-|{{Titre :}}| Dessin - L'ombre de la ville |
+|{{Titre :}}| Dessin - L'ombre de la ville. |
 |{{Mots-clés :}} | #Graphisme #Art #Dessin #Sémiologie_graphique #Ombre #Étude_graphique #Forme #Dessin |
-|{{Matériel :}} | Fusain |
+|{{Matériel :}} | Fusain. |
 |{{Auteur :}} | Oskar Rekacewicz |
 |{{Date de création :}} | 2015 |
 
@@ -44,4 +44,4 @@ PS: Pour nous contacter, n'hésitez pas à écrire à [->contact@visionscarto.ne
 
 
 --------------------------
-Visionscarto - version du 22 février 2016 09:58
+Visionscarto - version du 3 avril 2016 13:44

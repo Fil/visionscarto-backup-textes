@@ -15,17 +15,11 @@ AUTEUR:
 TEXTE:
 
 |{{Titre :}}| Capitalisation boursière (décembre 2012) : le formidable essor asiatique |
-|{{Mots-clés :}} | #Bourse
-#Capitalisation_boursière
-#Finance
-#Criminalité_financière
-#Spéculation
-#Asie
-#edm |
-|{{Apparition(s) :}} | [L'Etat du monde 2014->http://www.editionsladecouverte.fr/catalogue/index-Puissances_d_hier_et_de_demain-9782707176981.html], {« Puissances d'hier et de demain »}, La Découverte, Paris, 2013. |
+|{{Mots-clés :}} | #Bourse #Capitalisation_boursière #Finance
+#Criminalité_financière #Spéculation #Asie #edm |
+|{{Apparition(s) :}} | [L'État du monde 2014->http://www.editionsladecouverte.fr/catalogue/index-Puissances_d_hier_et_de_demain-9782707178060.html], {« Puissances d'hier et de demain »}, La Découverte, Paris, 2013. |
 |{{Auteur :}} | Philippe Rekacewicz |
 |{{Date de création :}} | Juin 2013 |
-
 
 <https://farm8.staticflickr.com/7323/14099458296_45c0ef512f_h.jpg size=large>
 
@@ -39,4 +33,4 @@ PS: Si vous souhaitez commenter, utiliser ces documents ou simplement contacter 
 
 
 --------------------------
-Visionscarto - version du 28 octobre 2015 12:46
+Visionscarto - version du 31 août 2016 10:08

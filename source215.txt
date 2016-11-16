@@ -19,13 +19,14 @@ TEXTE:
 |{{Author:}} | Dan McCarey, [Pulitzer Centre->http://pulitzercenter.org/node/12711]. |
 |{{Source:}} | “[Global status report on road safety 2015->http://www.who.int/violence_injury_prevention/road_safety_status/2015/en/]”, World Health Organization, 19 October 2015. |
 |{{Date:}} | August 12, 2013; updated January 28, 2016 by Philippe Rivière. |
+|{{See also:}} | [Sécurité routière : mourir sur la route en Europe en 2015->http://visionscarto.net/securite-routiere-2015], April 2016. |
 
 <div class=><iframe id="appli" src="http://roadskillmap.com/" scrolling="no" width="100%" frameborder="0" height="600">
 <https://farm2.staticflickr.com/1666/24316143109_16306b3186_b_d.jpg></iframe>
 <html><script>setInterval(function(){ $('#appli').css('height', $('#appli').width()*2/3);}, 500);</script></html>
 </div>
 
-#Sécurité_routière #Santé #Mortalité
+#Sécurité_routière #Mortalité #Europe #Causes_de_mortalité #Accidents_de_la_route #Accidentologie
 
 
 
@@ -33,4 +34,4 @@ TEXTE:
 
 
 --------------------------
-Visionscarto - version du 29 January 2016 09:18
+Visionscarto - version du 19 April 2016 13:44

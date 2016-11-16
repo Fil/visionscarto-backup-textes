@@ -2,7 +2,7 @@
 --------------------------
 
 TITRE:
-Distribution géographique de la population noire, blanche et d'origine hispanique aux États-Unis
+Distribution géographique de la population noire, blanche et d'origine hispanique aux États-Unis au début des années 2000
 
 --------------------------
 
@@ -14,7 +14,7 @@ AUTEUR:
 --------------------------
 TEXTE:
 
-|{{Titre :}}| Distribution géographique de la population noire, blanche et d'origine hispanique aux États-Unis |
+|{{Titre :}}| Distribution géographique de la population noire, blanche et d'origine hispanique aux États-Unis au début des années 2000 |
 |{{Mots-clés :}} | #États-Unis #Population #Inégalités #Ségrégation #Démographie #Minorités |
 |{{Sources :}} | Sources : US Census Bureau, 2001 |
 |{{Apparition(s) :}} | Cartes publiée dans L’Atlas du Monde diplomatique 2003 sur la base du recensement de 2000.  |
@@ -35,4 +35,4 @@ PS: Si vous souhaitez commenter, utiliser ces figures, ou simplement contacter l
 
 
 --------------------------
-Visionscarto - version du 22 juin 2015 02:07
+Visionscarto - version du 8 avril 2016 09:30

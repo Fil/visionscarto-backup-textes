@@ -1,0 +1,101 @@
+
+--------------------------
+
+TITRE:
+Le Cachemire, un casse-tête cartographique
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+
+
+
+--------------------------
+TEXTE:
+
+L'Inde est une grande démocratie, où la liberté de la presse est garantie par l'article 19~1~(a) de la Constitution. Mais quand le magazine anglais {The Economist} a publié, en mai 2011, un [long article->http://www.economist.com/node/18712274] d'analyse sur les relations et les rivalités indo-pakistanaises et le conflit du Cachemire, la grande démocratie a quand même sorti les griffes pour expliquer que -- même en démocratie -- la presse ne peut pas faire « n'importe quoi ». Non pas à cause de l'article lui-même, mais en raison de son accompagnement cartographique -- d'une facture très classique --, retraçant la géographie de ce conflit gelé depuis des décennies.
+
+<https://farm6.staticflickr.com/5568/14721422587_6c5404e343_o.gif size=large title="Carte censurée par les autorités indiennes en mai 2011"
+legend="Source : {The Economist.}" right>
+
+La carte pourtant semble assez neutre ; elle est très bien conçue, on sent le souci de précision. Chaque élément est pensé en fonction de la situation politique : les limites du Cachemire contestées sont bien en pointillé, ainsi d'ailleurs que la « ligne de contrôle », aussi appelée « ligne de cessez-le-feu ». {The Economist} prend particulièrement soin de n'attribuer aucune partie de territoire à personne. Le journal se borne simplement à rendre compte d'une situation factuelle (portion de territoire administrée par l'Inde ; par le Pakistan ; territoire tenu par la Chine mais revendiqué par l'Inde ; ou, plus complexe encore, territoire cédé par le Pakistan à la Chine, mais revendiqué par l'Inde). Les auteurs -- prudents -- ont même opté pour une version minimaliste : ils auraient aussi bien pu écrire, pour la partie sud du Cachemire, {« administrée par l'Inde mais revendiquée par le Pakistan »,} et vice-versa pour la partie nord.
+
+Pour finir, un détail, qui a toute son importance : {The Economist} pousse la subtilité jusqu'à arrêter la ligne de contrôle avant le glacier de Siachen (revendiqué par New Delhi et par Islamabad), mais sans le nommer. C'est dire si toutes les « précautions sémiologiques » ont été prises.
+
+En dépit de cet excellent travail de recherche et de placement, et d'une carte présentant des faits exacts, la simple représentation cartographique d'un Cachemire potentiellement pakistanais (zone brun légèrement foncé) a suscité les foudres du gouvernement indien, qui a demandé aux autorités douanières de « retarder » l'entrée de 28~000~exemplaires du magazine, le temps qu'y soient apposés manuellement des autocollants blancs, afin de faire disparaître la carte («[Economist accuses India of censorship over Kashmir map->http://www.bbc.co.uk/news/world-south-asia-13529512]», BBC News, 24 mai 2011).
+
+<https://farm6.staticflickr.com/5583/14908362821_2f66eae2ac_o.jpg size=large title="The Economist censuré par les autorités indiennes"
+legend="Photo : BBC, 2011." right>
+
+Durant de nombreuses années, l'Inde était plus flexible sur cette question, admettant la « réalité cartographique » de la ligne de contrôle et l'administration par le Pakistan de la partie septentrionale du Cachemire. L'ambassade d'Inde à Paris n'a jamais manqué de me faire parvenir ses protestations officielles, mais elles faisaient essentiellement référence au statut du glacier du Siachen. Il semblerait donc que les Indiens se soient  crispés sur la question de la représentation visuelle de ces territoires contestés, et aient décidé de resserrer les boulons, pour faire pression sur les publications afin qu'elles adoptent des modes de représentation conformes à leur perception (comme par exemple le Maroc avec le Sahara occidental, l'Iran avec le Golfe persique et la Corée avec la Mer de l'Est). Depuis deux ou trois ans, les journaux et magazines dont les cartes osent ne pas montrer l'ensemble du Cachemire comme appartenant à l'Inde sont systématiquement censurés.
+
+{The Economist} a répondu, sur son site Internet, à la fin de la page sur laquelle se trouve l'article, par une mise au point claire et nette : {« Manque-t-il une carte dans votre magazine ? Malheureusement, l'Inde censure les cartes qui montrent la situation factuelle des frontières, et insiste pour que seule son entière revendication territoriale} [c'est-à-dire la totalité du Cachemire] {soit figurée. C'est une position bien plus intolérante que celle du Pakistan ou de la Chine. Les lecteurs indiens seront sans doute privés de la carte dans l'édition papier. À la différence de leur gouvernement,} The Economist {pense que les lecteurs indiens sont capables de comprendre cette réalité politique. Ceux qui veulent avoir une vision précise des différentes revendications peuvent consulter cette [carte interactive->http://www.economist.com/blogs/dailychart/2011/05/indian_pakistani_and_chinese_border_disputes]. »}
+
+<https://farm9.staticflickr.com/8211/29336274154_a60ef81222_o_d.png size=large title="Fantasy frontiers"
+legend="Source : {The Economist}.">
+
+La carte interactive est d'ailleurs aussi fort bien faite... Mais cette réponse n'est pas du goût de tout le monde et irrite New Delhi par son ton arrogant. Le journaliste Rajesh Kalra se désole, dans un article consacré à cet événement («[In digital age, can a government censor a map?->http://blogs.timesofindia.indiatimes.com/randomaccess/entry/in-digital-age-can-a-government-censor-a-map]», 25 mai 2011) que {« John Micklethwait, rédacteur en chef du magazine, ait réagit d'une manière démesurée au lieu de prendre cette affaire avec humour »}, en citant ses propos : {« Bien que l'Inde soit une démocratie respectant la liberté d'opinion, elle reste beaucoup plus hostile sur ces questions que la Chine ou le Pakistan.»}
+
+Rajesh Kalra poursuit : {« Je suis très partagé sur cette histoire, car, d'un côté, je pense que notre gouvernement n'a aucune vision valable sur ce problème, mais, de l'autre, je n'aime pas qu'on vienne nous donner des leçons, surtout quand il s'agit du Cachemire, question très émotionnelle pour beaucoup d'entre nous. »}
+
+Même le ministre finlandais des affaires étrangères, Alexander Stubb, s'y est brûlé les doigts en 2010 en suggérant -- alors qu'il n'y était pas invité -- qu'en absence de solution depuis soixante ans, l'Inde et le Pakistan devraient faire appel à un médiateur, déclenchant ainsi une véritable tempête diplomatique («[Switch off Nokia if Finland doesn't apologize->http://blogs.timesofindia.indiatimes.com/randomaccess/entry/switch-off-nokia-if-finland]», 5 mai 2010).
+
+Rajesh Kalra rappelle : {« Il n'y a pas si longtemps, les journaux rentraient sans problème en Inde, et en cas de contentieux, le lecteur aurait simplement vu un tampon sur la carte indiquant que “les frontières telles que représentées sur cette carte ne sont ni authentiques ni correctes.” Je ne sais pas quand cela a changé, mais aujourd'hui, on bloque les magazines à la douane. »}
+
+{« Il semble que} The Economist {ait manqué d'objectivité dans sa représentation cartographique, ce qui n'est pas le cas de l'article qui, lui, est plutôt assez bien équilibré,} conclut-il. {Le magazine aurait très bien pu accepter de se conformer à la demande indienne, plutôt que d'en faire un scandale inutile. Mais à l'ère d'Internet, cela a-t-il encore un sens de censurer les éditions papier de cette manière ?»} La carte incriminée fut en tout cas consultée bien plus que 28~000~fois depuis l'Inde...
+
+-------
+
+Voici comment j'avais traité la question de ces frontières « croisées » pour une exposition, au Musée des confluences (Lyon) en 2006 (Exposition «[Frontières->http://www.museedesconfluences.fr/fr/ressources/fronti%C3%A8res-0]»). J'avais proposé deux légendes, l'une évoquant le glacier du Siachen, l'autre évoquant les pressions des autorités indiennes dans les organisations internationales.
+
+<https://farm9.staticflickr.com/8076/29880701981_60bfb8fb37_o_d.jpg size=large title="Inde, Chine, frontières croisées -alternative 1."
+legend="Esquisse cartographique : Philippe Rekacewicz, 2006."
+>
+
+<https://farm9.staticflickr.com/8084/29929778436_bdffc52baa_o_d.jpg size=large title="Inde, Chine, frontières croisées -alternative 2."
+legend="Esquisse cartographique : Philippe Rekacewicz, 2006.">
+
+Une autre façon de marquer la différence de statut entre les deux parties du Cachemire se trouvant de part et d'autre de la ligne de contrôle consiste à adapter la légende.
+
+<https://farm4.staticflickr.com/3850/14724458990_a193e4161c_o.jpg size=large title="Le Cachemire divisé."
+legend="Carte : Philippe Rekacewicz (2003, revue en 2006).">
+
+À défaut de pouvoir publier des cartes interactives dans la version imprimée, on pouvait encore imaginer -- pour ménager les susceptibilités -- représenter ces revendications en une collection de deux cartes exprimant chacune les visions de New Delhi et d'Islamabad.
+
+<https://farm4.staticflickr.com/3845/14724527658_1bfcdd601b_o.jpg size=large title="Un territoire, deux perceptions."
+legend="2009.">
+
+Mais, pour l'Inde, le Cachemire ne peut pas être « occupé » et la terminologie, dans ce contexte, a fortement déplu...
+
+Selon Miklos Pinther, l'ancien chef du bureau de cartographie de l'Organisation des Nations unies (ONU) à New York, les Indiens et les Pakistanais ont accepté l'idée des cartes qui montraient la ligne de cessez-le-feu et le glacier du Siachen, pourvu qu'ils soient représentés un peu comme s'ils étaient un {no man's land,} une sorte de nulle part... L'ONU diffuse une carte qu'elle pense pouvoir être acceptée par les deux parties.
+
+<https://farm4.staticflickr.com/3884/14724459880_b5ccd96f78_o.jpg size=large title="Carte diffusée par l'ONU, agréée par l'Inde et le Pakistan"
+legend="Source : département de cartographie des Nations unies, New York.">
+
+L'ONU insiste : c'est un document technique. Le titre officiel de la carte est « Modèle à suivre pour la cartographie à petite échelle des régions du Jammu-Cachemire, Aksai Chin and Arunachal Pradesh ». La représentation cartographique du Cachemire est une affaire très sensible au sein des instances internationales. Au début des années 2000, Gregory Prakas, alors chef de la section cartographique de la Banque mondiale, avait reçu l'ordre -- à la suite d'une plainte du gouvernement indien -- de ne plus ni produire, ni publier de carte du nord de l'Inde. Tout simplement.
+
+En octobre 2011, je recevais une lettre de Nina Tshering La, première secrétaire de l'ambassade indienne à Paris, dont le ton et les revendications avaient de quoi laisser perplexe.
+
+{« L'Ambassade de l'Inde attire votre attention sur le fait que les frontières de l'Inde telles qu'elles figurent dans votre carte sont incorrectes. Il nous paraît inapproprié qu'une carte erronée de l'Inde où une partie de notre territoire est non seulement réduite mais également attribuée à des pays voisins [soit publiée] dans un média étranger. Nous vous remettons ci-joint une carte de l'Inde publiée par le gouvernement dont l'utilisation est libre de droits. Nous vous serions reconnaissants de bien vouloir l'utiliser à l'avenir. »}
+
+Il est rare que les ambassades utilisent un style aussi direct et comminatoire. D'habitude, on nous « suggère » ou on nous « recommande »...
+
+Mais la carte transmise par l'ambassade est elle aussi surprenante, d'autant plus qu'elle nous est présentée comme étant la carte officielle sur laquelle on nous demande de prendre exemple.
+
+<https://farm6.staticflickr.com/5556/14724482969_bc354e3597_o.jpg size=large title="Carte officielle transmise par l'ambassade d'Inde à Paris">
+
+Elle inclut en effet la totalité du Cachemire, et fait disparaître la ligne de contrôle (pourtant une réalité sur le terrain depuis 1947). Ce qui représente une différence majeure avec la carte diffusée par l'ONU, censée elle aussi avoir été avalisée par les autorités.
+
+Rien n'est vraiment simple en cartographie.
+
+
+--------------------------
+
+PS: Si vous souhaitez réagir, contribuer, commenter, utiliser ce texte ou les images, ou simplement contacter l'auteur, nous vous invitons à nous écrire à l'adresse  [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 28 septembre 2016 07:34

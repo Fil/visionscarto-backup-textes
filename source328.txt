@@ -1,0 +1,119 @@
+
+--------------------------
+
+TITRE:
+Charles Perron et la juste représentation du monde
+
+--------------------------
+
+AUTEUR: 
+- Federico Ferretti
+
+--------------------------
+
+CHAPO:
+Il y a cent ans mourait Charles-Eugène Perron (1837-1909), le principal dessinateur des cartes de la {Nouvelle Géographie universelle (NGU)} [[Élisée Reclus, {Nouvelle Géographie Universelle}, Hachette, Paris, 1876-1894, 19~volumes.]] d’Élisée Reclus. On sait par les rares études qui lui ont été consacrées [[Peter Jud, Élisée Reclus und Charles Perron, {Schöpfer der « Nouvelle Géographie Universelle »}, Zürich, 1987 ; Federico Ferretti, {Il mondo senza la mappa : Élisée Reclus e i geografi anarchici}, Zero in Condotta, Milano, 2007 ; voir aussi le site [R.A. forum->http://raforum.info/reclus/] ]] qu’il n’était pas qu’un simple exécutant : c’était aussi un intellectuel brillant, militant très investi dans la cause anarchiste, épris de justice et passionné par sa discipline.
+
+<h4 class="text-right">{par Federico Ferretti}</h4>
+<h5 class="text-right">Enseignant-chercheur au département de géographie de University College Dublin (UCD).</h5>
+
+
+
+--------------------------
+TEXTE:
+
+La géographie contemporaine a remis au goût du jour le concept de « justice spatiale » dont l’objet est de réduire, voire éliminer les discriminations sociales nées d’une injuste organisation spatiale des sociétés (partage inégal des richesses et des accès aux services fondamentaux), ce qui implique d’imaginer des politiques territoriales alternatives [[Frédéric Dufaux, Sonia Lehman-Frisch, Sophie Moreau, Philippe Gervais-Lambony, {« Avis de naissance », Justice spatiale,} 1 (2009), [JJSS->http://jssj.org] ]]. Les géographes « engagés » de la fin du XIXe~siècle avaient déjà réfléchi à une approche semblable, notamment avec l’idée de « géographie sociale » (représentation du monde dans un idéal de justice).
+
+<h2>L’ignorance, voilà le vice social organique !</h2>
+
+Charles Perron est d’abord formé à l’art par son père, peintre sur émail, avant de rejoindre l’école d’art de Genève. Entre 1857 et 1861 il part travailler en Russie. {«Il est probable qu’il ait acquis pendant cette période une bonne connaissance de la Russie tsariste, peut-être est-il même entré en contact avec les jeunes apologistes du nihilisme [[Peter Jud, « Charles Perron », Itinéraire, 14-15, 1998, p.~69.]],} explique Peter Jud dans un article qui lui est consacré. À partir des années 1860, Charles Perron travaille à Genève comme peintre et photographe. Il fréquente assidûment la nombreuse colonie des réfugiés russes, et devient bientôt le référent suisse de Michel Bakounine (en 1868, Bakounine adhère à la Ligue de la paix et de la liberté comme membre de la section centrale de Genève où il se lie aussitôt avec Charles Perron) [[James Guillaume, {L’Internationale. Documents et souvenirs}, Paris, Lebovici, 1985, p.~71.]].
+
+<https://farm9.staticflickr.com/8409/29629445194_991e1f51ae_o_d.jpg size=large title="Perron et Bakounine" legend="(Itinéraire, 14-15, p.~66)">
+
+Au cours de la décennie suivante, Charles Perron sera l’un des principaux représentants en Suisse, avec James Guillaume, de la composante anti-autoritaire de la Première Internationale. Au congrès de Saint-Imier en 1872, cette organisation signe l’acte de naissance du mouvement anarchiste organisé.
+
+Dans l’engagement politique de Charles Perron, il y a une forte composante pédagogique. En 1868, il publie un pamphlet, « De l’obligation en matière d’instruction », où il affirme la nécessité de l’instruction libre et gratuite pour la libération sociale et la fin de l’exploitation. {«L’ignorance, voilà le vice social organique, la cause première du désordre ! C’est là qu’il faut frapper, et frapper fort ; car si l’on fait disparaître cette lèpre, la vraie, la dernière révolution sera accomplie»}, assène-t-il [[Charles Perron, {De l’obligation en matière d’instruction}, Imprimerie Vaney, Genève, 1868, p.~9.]].
+
+Ce texte anticipe le mouvement de la pédagogie libertaire, qui verra, parmi ses animateurs, les géographes Élisée Reclus et Pierre Kropotkine. En 1876, c’est avec Élisée Reclus, exilé après la Commune de Paris, que Charles Perron constitue à Vevey, en Suisse, une section internationaliste, qui publie le journal {Le Travailleur,} le premier qui souhaite la création d’écoles libertaires et d’université populaires, où la géographie trouvera bientôt une place prépondérante. 
+
+<h2>Aux origines de la cartographie thématique</h2>
+
+À Vevey, ils s’attèlent aussi à une autre tâche. Les deux géographes consacrent en fait l’essentiel de leur énergie à la rédaction de la {Nouvelle Géographie universelle (NGU)}, un ouvrage qui comptera à terme 19~volumes et plus de 17~000~pages. Charles Perron signe plus de 3~000~cartes en noir et blanc sur 6~000 et une cinquantaine de grandes tables en couleurs. Dans la deuxième moitié du XIXe~siècle, les éditeurs d’ouvrages géographiques commencent à porter une attention toute particulière aux illustrations cartographiques. Élisée Reclus est l’un des premiers géographes, sinon le premier, qui pense et conçoit l’iconographie en parfaite symbiose du texte comme en témoigne sa correspondance de travail. Il demande à ses cartographes de suivre des indications très précises : les cartes doivent être simples, les toponymes clairs et peu nombreux, il faut éviter toutes les formules abrégées et les symboles obscurs non compréhensibles.
+
+Les premières collaborations de Charles Perron avec Élisée Reclus, depuis le deuxième volume, coïncident avec une importante innovation technique pour la production des cartes : l’emploi du procédé Gillot, qui permet de les envoyer directement à l’imprimeur, sans passer par le graveur à Paris. Pour Élisée Reclus, cela signifie garder le plein contrôle de l’iconographie malgré son éloignement.
+
+Charles Perron se lance des défis toujours plus incertains, et tente de trouver une solution à l’un des problèmes les plus difficiles de la cartographie : représenter la troisième dimension. {«L’instrument alors employé pour le tracé des lignes sur pierre ou sur métal ne pouvait servir sur le papier. Je dus trouver autre chose. Je fis faire l’outil qui est aujourd’hui entre les mains de tous les cartographes. Il se compose d’une simple règle en acier rayée sur le bord comme le sont les décimètres et contre laquelle se meut une équerre à angle modifiable, munie d’un ressort qui, glissant sur la règle, déclique en passant sur chaque millimètre. L’angle plus ou moins ouvert de l’équerre, joint au nombre de millimètres parcourus entre chaque arrêt de celle-ci permet de rapprocher ou d’éloigner d’une quantité quelconque les traits des grisés} [[Jean Brunhes, Paul Girardin, « Conceptions sociales et vues géographiques : la vie et l’œuvre d’Élisée Reclus », Revue de Fribourg, 37, 1906, p.~362.]]{.»}  
+
+<https://farm6.staticflickr.com/5567/14910511042_aea68cb32d_o.jpg size=large title="Charles Perron au travail">
+
+Les cartes de Charles Perron ont peu à voir avec la « géographie mathématique », c’est-à-dire que la localisation géodésique et l’uniformité topographique ne sont pas leurs premiers soucis : elles sont un soutien au texte et se présentent souvent sous la forme de ce qu’aujourd’hui on appellerait une « carte thématique ». Cartes physiques, statistiques, historiques, cartes de la population sont alors employés pour accompagner l’exposé des thématiques sociales. Pour ne citer que quelques exemples parmi des centaines, la carte de l’accroissement de Londres illustre parfaitement le texte sur les grandes villes contemporaines et la carte des densités démographiques de l’Eurasie sert à Élisée Reclus pour son discours sur le développement comparé des civilisations de l’Orient et de l’Occident.
+
+<https://farm8.staticflickr.com/7551/30260503685_7f8be852c6_o_d.jpg size=large title="Densité de population en Asie, (NGU, vol.~VI, p.~17)">
+
+~
+
+<https://farm6.staticflickr.com/5572/29631252153_f206f969df_o_d.jpg size=large title="Évolution spatiale de Londres (NGU, vol.~IV, p.~503)">
+
+<h2>Il n’en reste pas moins vrai que la Terre est ronde et que les cartes devraient logiquement l’être aussi...</h2>
+
+Dans les années 1890, Élisée Reclus quitte la Suisse et achève son ouvrage. Les archives montrent que sa collaboration avec Charles Perron se poursuit pour le projet du Grand Globe à l’échelle de 1:100~000 (127,5~mètres de diamètre), que Reclus projette de construire pour l’Exposition universelle de 1900.
+
+Aujourd’hui, les géographes critiquent souvent les cartes pour leur « européocentrisme », ou parce qu’elles déforment injustement, selon la projection, les proportions des continents. Avec le fameux globe d’Élisée Reclus, pas de risque : {« d’abord, le globe l’emporte sur la carte par le caractère de vérité,} nous dit-il. {Il représente la planète dans sa véritable structure, se module exactement sur les vrais contours, tandis que les cartes, d’autant plus fausses qu’elles s’appliquent à une partie plus considérable de la surface planétaire, ne peuvent que tromper le lecteur sur les dimensions relatives des régions différentes}[[Élisée Reclus, {Projet de construction d’un globe terrestre à l’échelle du cent-millième}, Paris, Édition de la Société Nouvelle, 1895, pp.~3-4.]]{».} Élisée Reclus, comme ses maîtres Carl Ritter et Alexandre de Humboldt, défend le principe de l’unité terrestre et dénonce l’insuffisance de la carte plane comme solution pour la représenter.  
+
+Charles Perron, ainsi que Paul Reclus, font partie de la grande équipe chargée de réaliser le globe. Tout le monde s’y met avec passion et enthousiasme. À Édimbourg, l’urbaniste Patrick Geddes se voit confier la réalisation du relief de l’Écosse. Charles Perron se réserve la création du relief de la Suisse. {«Quel beau fragment de notre globe sera la Suisse ! Votre Suisse} (…) {sera le gros morceau d’attaque} [[Bibliothèque de Genève (dorénavant BGE), Dép. des Manuscrits, Ms. Suppl. 119, lettre d’Élisée Reclus à Charles Perron, 1er décembre 1895.]]{.»} L’échelle du cent millième permet de représenter les hauteurs à la même échelle que les longueurs : une montagne de mille mètres correspond à un centimètre de relief, dimension déjà perceptible à la vue et au toucher. Charles Perron écrit :{«Les autres producteurs de reliefs de l’époque exagèrent, en général, la hauteur des montagnes pour les faire mieux voir et, partant de l’idée de représenter la terre sous son aspect vrai, l’abandonnent aussitôt} [[Charles Perron, « Exposition de quelques reliefs cartographiques nouveaux et explications à ce sujet », Le Globe, 33, 1894, p.~127.]]{.»} Il prescrit des règles bien plus strictes :
+
+- Les reliefs ont pour objet de montrer la configuration du sol telle qu’elle est.
+- Ils ne doivent admettre aucune des conventions en usage dans les cartes de géographie.
+- Rien ne doit y être représenté qui ne soit à l’échelle.
+- Les reliefs représentant tout ou partie de l’écorce terrestre doivent en avoir la courbure exacte.
+- Les reliefs doivent être construits selon des procèdes mécaniques assez précis pour que l’exactitude mathématique en soit la résultante.
+- Les reliefs rentrent dans le domaine des sciences exactes où l’art ne doit intervenir qu’en seconde ligne [[Peter Jud, 1987, {op. cit.}, p.~166.]]. 
+
+<https://farm6.staticflickr.com/5576/14724831987_b96e35a950_o.jpg size=medium title="Le Relief de la Suisse travaillé par Charles Perron, (Genève, muséum d'histoire naturelle)" right>
+
+Autant dire que rien n’est laissé au hasard. Charles Perron se munit d’un instrument ingénieux, un pantographe qu’il fabrique lui-même, pour graver les hauteurs sur des surfaces en bois ou carton pressé. Du Grand Globe, qui hélas ne verra jamais le jour (par manque de financement), ne sera fabriqué que le relief de la Suisse. Présenté à l’Exposition de Paris de 1900, ce fragment d'œuvre gagnera la médaille d’or !
+
+{{{Des cartes pour le peuple !}}}
+
+C’est du côté de la pédagogie que se tournent les recherches scientifiques et les orientations politiques de Charles Perron, qui ne rêve que de « justice sociale », c’est-à-dire de la transformation libertaire et égalitaire de la société qu’Élisée Reclus, dans son ouvrage {L’Homme et la Terre}, lie à la « géographie sociale ». {«La lutte des classes, la recherche de l’équilibre et la décision souveraine de l’individu, tels sont les trois ordres de faits que nous révèle l’étude de la géographie sociale et qui, dans le chaos des choses, se montrent assez constants pour qu’on puisse leur donner le nom de lois}[[ Élisée Reclus, {L’Homme et la Terre}, vol.~I, Paris, Librairie Universelle, 1905, p.~IV.]].{»} 
+
+Élisée Reclus quitte Genève, et Charles Perron, plus social et pédagogique que jamais, souhaite mettre à la disposition du public les nombreuses cartes laissées par son collègue. Il s’engage dans un projet de « musée cartographique » qui finit par ouvrir ses portes en 1907, puis publie un catalogue descriptif, ainsi qu’une histoire générale des mappemondes. {«Je voudrais réussir à faire comprendre,} explique-t-il, {au moins en partie, l’importance que des musées cartographiques pourraient avoir pour les études scientifiques comme pour l’instruction publique. Il ne suffit pas de connaître l’existence de vieux documents cartographiques : il faudrait que, comme les tableaux dans les galeries d’art, ils fussent accessibles à tous} [[Charles Perron, {Une étude cartographique. Les Mappemondes}, Paris, Ed. de la Revue des Idées, 1907, p.~44.]].{»} Le catalogue contient des notes didactiques et des commentaires écrits de manière simple et claire afin que le savoir géographique soit autant que possible à la portée de tout le monde [[Charles Perron, {Catalogue descriptif du Musée cartographique}, Genève, Imprimerie Romet, 1907, p.~5.]]. Plus de six cents personnes visitaient chaque année le Musée Cartographique, qui hélas, fermera en 1920 [[Marianne Tsioli Bodenmann, « Cartes et Plans », in Patrimoines de la Bibliothèque de Genève.]].
+
+Les archives cartographiques de Charles Perron et Élisée Reclus sont conservées à la bibliothèque de Genève. Ce précieux matériel est réparti en trois catégories.
+
+La première, ce sont les sources, c’est-à-dire des documents de tout genre consultés pour la rédaction de la {NGU}, dont une bonne partie était exposée au musée. Il s’agit de nombreuses cartes historiques, telles que reproductions des cartes de l’Antiquité et du Moyen Age, des recueils de cartes topographiques que les États européens produisaient à l’époque, des cartes russes et asiatiques collectées par des collaborateurs de la {NGU} comme Pierre Kropotkine et Léon Metchnikoff.
+
+La deuxième, c’est celle des dessins originaux de Charles Perron, souvent annotés et corrigés par Reclus.
+
+La troisième regroupe toutes les épreuves imprimées, où les annotations d’Élisée Reclus témoignent du très étroit contrôle qu’il exerçait sur les illustrations de ses livres. On peut citer en exemple la carte en couleurs de la mer Noire.
+
+<https://farm6.staticflickr.com/5553/14907653451_67b309fec2_o.jpg size=large title="Épreuve annotée de la carte de la Mer Noire pour la NGU"
+legend="(Bibliothèque de Genève, département des cartes et plans)"
+>
+
+{« Pointe à redresser, comme en général tous les contours. Les contours de la mer Noire sont trop inexactement simplifiés}[[BGE, Département des Cartes et Plans, Collection Charles Perron.]].{ »} Ce n’est pas seulement un souci de perfection extrême : pour Élisée Reclus, le monde est trop complexe pour que les cartes ne se permettent de le banaliser. 
+
+Aujourd’hui, les conservateurs de la bibliothèque tentent de convaincre les pouvoirs publics de la nécessité de valoriser ce patrimoine de milliers de cartes parmi lesquelles les « disques globulaires », cartes de métal recourbé descendants directs des « reliefs », qu’Élisée Reclus construisit à Bruxelles dans les dernières années de sa vie.  {«Parce que,} écrivait-il à Charles Perron, {il n’en reste pas moins vrai que la Terre est ronde et que les cartes devraient logiquement l’être aussi} [[BGE, Département des Manuscrits, Ms. Suppl. 119, lettre d’E. Reclus à Ch. Perron, 9~nov. 1902.]].{»} 
+
+<p class="text-right caps">↬ Federico Ferretti.</p>
+
+<quote>
+
+{{Lire aussi les autres articles de ce dossier}}
+
+- [Élisée Reclus, le géographe qui n’aimait pas les cartes->http://visionscarto.net/elisee-reclus-n-aime-pas-les-cartes]
+
+- [Le monde sans la carte->http://visionscarto.net/le-monde-sans-la-carte]
+
+</quote>
+
+
+--------------------------
+
+PS: Si vous souhaitez réagir, contribuer, commenter, utiliser ce texte ou les images, ou simplement contacter l'auteur, nous vous invitons à nous écrire à l'adresse  [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 12 octobre 2016 20:04

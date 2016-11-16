@@ -1,0 +1,172 @@
+
+--------------------------
+
+TITRE:
+Ode aux projections de d3.js
+
+--------------------------
+
+AUTEUR: 
+- Ian Johnson
+
+--------------------------
+
+CHAPO:
+S’il existe de nombreux outils permettant de faire des cartes informatisées, tous ont une chose en commun : en entrée, des coordonnées géographiques, et en sortie, une image en deux dimensions. À partir de là, les possibilités (info)graphiques sont infinies. Ian Johnson nous présente ici une sélection de projets réalisés avec les projections de la librairie javascript d3.js.
+
+<h4 class=text-right>{Ian Johnson ([@enjalot->https://twitter.com/enjalot])}</h4>
+<h5 class=text-right>{Programmeur et infographiste [->http://enjalot.github.io/].}</h5>
+
+
+
+--------------------------
+TEXTE:
+
+Une [?projection cartographique] est une opération consistant à convertir des coordonnées polaires (latitude et longitude) en coordonnées sur papier (en cm) ou sur l'écran (en pixels). Certains outils en ligne, comme par exemple [Leaflet->http://leafletjs.com/] et [Mapbox GL->https://www.mapbox.com/mapbox-gl-js/examples/], se sont fait une spécialité de faciliter la navigation dans une carte comportant des couches de données géospatiales. Mais rares sont ceux qui se concentrent sur la question des projections, et permettent de choisir comment présenter les données.
+
+[d3.js->https://d3js.org/], une librairie javascript développée par Mike Bostock (avec des contributions essentielles de Jason Davies), est l’une des rares à proposer une grande variété de [projections->https://github.com/d3/d3/wiki/Geo-Projections] et d’utilitaires pour les exploiter pleinement. Les [possibilités->https://github.com/d3/d3/wiki/Gallery] sont infinies, et cet article vise à en présenter quelques unes.
+
+<https://cdn-images-1.medium.com/max/800/1*kP3Ai8RWUC00B5jzDYyajQ.png titre="Exemple de carte élémentaire" link="http://bl.ocks.org/mbostock/94b9fd26e12c586f342d" credit="Mike Bostock" size=original>
+
+{{{Style}}}
+
+De manière remarquable, avec d3.js, les éléments graphiques que l’on crée à partir des données sont souvent au format SVG, ce qui autorise à leur attribuer le style que l’on veut. L’exemple ci-dessous montre comment, en employant les [fonctionnalités de SVG->https://developer.mozilla.org/en-US/docs/Web/SVG/Element/defs] comme <code><defs></code> et <code><use></code>, et la librairie [textures.js->http://riccardoscalco.github.io/textures/], on peut créer une carte et la colorer de façon personnalisée.
+
+<https://cdn-images-1.medium.com/max/800/1*5d5HQp6hS5CLwJh2a-jSAA.png titre="Emploi de textures" link="http://bl.ocks.org/emeeks/31b4b8aa83583fecd5d8" credit="Elijah Meeks" size=original>
+
+Mais il n’y a pas que SVG, et l’exemple ci-dessous montre comment créer un style d’« esquisse » avec un algorithme qui dessine directement l’image dans le navigateur, au format [canvas->https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes].
+
+<https://cdn-images-1.medium.com/max/800/1*waVkQB2Yil0dtVRHEVsStg.png titre="Sketchy World: Projection approximative avec un aspect “esquisse”." link="http://bl.ocks.org/emeeks/c42968993536f921a5c8" credit="Elijah Meeks" size=original>
+
+
+L’idée centrale est que tous les outils habituels du HTML5, de SVG et de CSS peuvent être mis à contribution pour exprimer nos données géospatiales, ce qui offre des possibilités assez puissantes.
+
+{{{Données}}}
+
+Beaucoup de gens emploient les projections de d3.js pour personnaliser la représentation de données ayant une dimension géographique. Les exemples qui suivent montrent un échantillon des possibilités :
+
+<https://cdn-images-1.medium.com/max/800/1*jkmrbgq3BzRGR5LIcqrWqg.png titre="Carte de flux" link="http://bl.ocks.org/allardw/21b2885a1de45e0694e1" credit="Allardw" size=original>
+
+
+<https://cdn-images-1.medium.com/max/800/1*1wNwa26B8yeTE03FOG8jCg.png titre="Chroplèthe de petits multiples" link="http://bl.ocks.org/armollica/6314f45890bcaaa45c808b5d2b0c602f" credit="Andrew Mollica" size=original>
+
+<https://cdn-images-1.medium.com/max/800/1*s54AgwjA4CVybl9H0vOKcA.png titre="Codes postaux" link="http://bl.ocks.org/mbostock/5180185" credit="Mike Bostock" size=original>
+
+
+<https://cdn-images-1.medium.com/max/800/1*3ZlhvN5a-Z6zFmW9q2MmUQ.png titre="Suivi au sol de débris de satellites" link="http://bl.ocks.org/syntagmatic/dd17d7b62fb4fbb56897" credit="Kai Chang" size=original>
+
+Ces exemples indiquent que la taille, la forme, et même le nombre de cartes peuvent être adaptées aux besoins des visualisations. On trouvera [quantité d'autres exemples sur cette recherche->http://blockbuilder.org/search#api=geo.path] 
+
+{{{Transitions}}}
+
+Les transitions sont un autre concept puissant de d3. Lorsque les données sous-jacentes à une visualisation passent d’un état à un autre (par exemple, lorsque l’on passe d’une année à la suivante), il est possible de faire une transition de manière continue et fluide entre les deux états, ce qui permet à l’utilisateur de suivre l’évolution dans sa cohérence. C’est vai aussi pour les données géospatiales : il est possible de modifier par des transitions continues tous les paramètres d’une projection (le centre, l’échelle et la rotation). Il est même possible de passer d’une projection à une autre !
+
+<https://cdn-images-1.medium.com/max/800/1*-O1vBIQa7-8GmjqdQakp-g.gif titre="Exemple de transition" link="https://www.jasondavies.com/maps/transition/" credit="Jason Davies" size=original>
+
+
+
+Les transitions d’une projection à l’autre permettent de faire ressentir les différences entre elles.
+
+<https://cdn-images-1.medium.com/max/800/1*6tTGnh4VR0oq9QNGrNcpCg.png titre="Comparaison de projections" descriptif="cliquez pour voir le projet" link="http://bl.ocks.org/syntagmatic/ba569633d51ebec6ec6e" credit="Kai Chang" size=original>
+
+Cet exemple montre deux représentations différentes des données : une carte choroplèthe standard, et un cartogramme de Dorling.
+
+<https://cdn-images-1.medium.com/max/800/1*BEkCIL-65mdvkbT2ITKx5A.gif titre="Transitions de représentations" link="https://hi.stamen.com/mapping-donations-to-bestschoolday-on-the-huffington-post-58ccbe6c5f6a" credit="Stamen" size=original>
+
+Cet exemple permet à l’utilisateur de choisir entre une projection orthographique (la forme du globe vue de la Lune) et la traditionnelle projection de Mercator.
+
+<https://cdn-images-1.medium.com/max/800/1*3TQtw5G8nm4KjPHlCkWPzA.gif titre="Du globe au planisphère" link="http://openearth.net/#map=globe" credit="Stamen" size=original>
+
+On peut aussi exploiter les transitions pour provoquer le mal de mer !
+
+<https://cdn-images-1.medium.com/max/800/1*sagy0sdyj6LIzrrL9cgmlg.gif titre="Abus manifeste du mouvement" link="http://bl.ocks.org/enjalot/raw/b3dcf273c3c6d56411b6/" credit="Ian Johnson" size=original>
+
+Comme dit l’adage, « la seule chose qui ne change pas c'est le changement ». De nombreuses possibilités s’ouvrent dès lors que les visualisations peuvent représenter des éléments en mouvement.
+
+{{{Interactions}}}
+
+Les projections permettent de créer n’importe quel élément interactif dans le navigateur. Toutes les possibilités offertes par les API des navigateurs modernes sont donc accessibles aux cartes.
+
+<https://cdn-images-1.medium.com/max/800/1*mrEhtZDVRtPp2OufxaxQvw.png link="http://blockbuilder.org/armollica/94bfb37d81234ad91ced" titre="Coloriage" credit="Andrew Mollica" size=original>
+
+Dans l’exemple suivant une version agrandie de la carte est générée à droite, centrée sur l’emplacement du curseur de la souris sur la carte de gauche.
+
+<https://cdn-images-1.medium.com/max/800/1*aW__otGkdMOtKhb5i6FKlg.png titre="Exemple de zoom local" link="http://bl.ocks.org/syntagmatic/0613ee9324e989a6fb6b" credit="Kai Chang" size=original>
+
+Cet autre exemple utilise une distorsion « fisheye » autour du curseur pour permettre à l’utilisateur d’inspecter des points serrés à l’intérieur de la carte.
+
+<https://cdn-images-1.medium.com/max/800/1*JDsH17Hp-8mowd3PWls8pA.gif titre="Effet de loupe “fisheye” ajouté à une projection d3" link="http://bl.ocks.org/enjalot/a50efa43ec84aba00e33349c8da7fc9a" credit="Philippe Rivière" size=original>
+
+{{{Géometrie}}}
+
+On peut vouloir créer une géométrie à partir des données, pour calculer des approximations ou créer des groupements visuels. N’importe quel algorithme qui fonctionne sur des coordonnées à deux dimensions est applicable au sein des projections de D3. Par exemple, les diagrammes de Voronoi permettent les choses suivantes :
+
+<https://cdn-images-1.medium.com/max/800/1*573F_7IY2CclcjnFxjzE5w.png titre="Diagramme de Voronoi (1)" link="http://halftone.co/projects/temperatures/" credit="Halftone" size=original>
+
+<https://cdn-images-1.medium.com/max/800/1*oSVl6p8htO0WxKmTdVXA5w.png titre="Diagramme de Voronoi (2)" link="http://bl.ocks.org/mbostock/4360892" credit="Mike Bostock" size=original>
+
+D’emploi moins courant, la recherche d’enveloppe concave est une technique utile pour créer des groupes de données.
+
+<https://cdn-images-1.medium.com/max/800/1*RYT0COWqbsYXeeq4sOpQZg.png titre="Enveloppes concaves" link="http://bl.ocks.org/emeeks/bcc67e2977a96d547a06" credit="Elijah Meeks" size=original>
+
+
+Ce qu’il faut retenir, c’est que les projections de d3 connectent vos cartes aux nombreuses richesses du  domaine du graphisme en deux dimensions.
+
+{{{Compositions}}}
+
+Au-delà du rendu des éléments cartographiques, on peut aussi inventer des manière de les agencer sur la page. D’autant que beaucoup de formes géographiques sont très facilement reconnaissables, et deviennent même parfois iconiques, et utilisables hors du cadre de la carte à strictement parler. 
+
+<https://cdn-images-1.medium.com/max/800/1*OSE7dNZd0ChKpptNngsUwg.png titre="Profil des États américains sous forme d'icones" link="http://blockbuilder.org/sivartravis/67cd8163a864c2c461e0" credit="Travis Taylor" size=original>
+
+L’exemple ci-dessous superpose deux lieux sur la même projection, pour former une image pédagogique.
+
+<https://cdn-images-1.medium.com/max/800/1*TzzC1-PD2mZgVZ8qSSEgUQ.png titre="Superposition de surfaces" link="http://bl.ocks.org/zanarmstrong/raw/caa2da1ea1558cdc3357/" credit="Zan Armstrong" size=original>
+
+Une fois que vos données géospatiales sont transformées en éléments de page Web ([DOM->https://fr.wikipedia.org/wiki/Document_Object_Model], vous pouvez les mettre en page avec la même flexibilité que n'importe quel autre élément.
+
+{{{Étendre les projections}}}
+
+d3 offre une ensemble très riche de projections, qui s’accroît chaque fois que quelqu’un en implémente une nouvelle.
+
+<https://cdn-images-1.medium.com/max/800/1*sEFNUF8XmMZe2LaiWhmJVQ.png title="Quelques-unes des nombreuses projections proposées par d3" link="https://github.com/d3/d3-geo-projections" size=original>
+
+
+C’est souvent nécessaire pour les pays dont les territoires ne sont pas proches géographiquement, et on fait alors usage de la capacité de d3 à gérer des [projections composites->http://geoexamples.com/d3-composite-projections/]  pour pouvoir dessiner l’ensemble du territoire sur un même écran.
+
+<https://cdn-images-1.medium.com/max/800/1*c8OJlBGhM2u2UcUl4kdlUQ.png titre="Projection composite" link="http://bl.ocks.org/rveciana/72987a139a9886ed6a87" credit="Roger Veciana i Rovira" size=original>
+
+Toute projection, quelle qu’elle soit, aplatit le globe 3D sur une surface plane, et crée dès lors une distorsion. 
+
+L’exemple ci-dessous permet d’inspecter visuellement les distorsions engendrées par certaines projections.
+
+<https://cdn-images-1.medium.com/max/800/1*HwsQAj7cp42_DNeMFucmIw.png titre="Distorsion de projection" link="http://bl.ocks.org/enjalot/bd552e711b8325c64729" credit="Ian Johnson" size=original>
+
+Les projections {interrompues} permettent au cartographe amateur de décider lui-même de la façon dont la Terre doit être découpée lorsqu’on l’aplatit. [CAR LA TERRE N’EST PAS PLATE->https://www.youtube.com/watch?v=XHBZkek8OSU].
+
+<https://cdn-images-1.medium.com/max/800/1*Jfv8x5L-GSbQ38rboxh0ew.png titre="Projection sinusoïdale interrompue" link="http://bl.ocks.org/enjalot/251b9b6255b9087a25dde02d64ed3724" credit="Ian Johnson, à partir d'un exemple de Mike Bostock" size=original>
+
+Il est même possible d’imprimer et de découper cette projection le long de l’« interruption ».
+
+<https://cdn-images-1.medium.com/max/800/1*eVgiOl40UnmNAouOWnB4LQ.png -->
+
+Collez ça sur une balle de tennis, et voilà : vous avez créé votre propre globe !
+
+<https://cdn-images-1.medium.com/max/800/1*UoQb-HdL9nLE2rGp9CJA7A.jpeg -->
+
+
+{{{Conclusion}}}
+
+Nous avons vu qu’il était possible, grâce aux projections de d3, de personnaliser le style des surfaces cartographiées, leur géométrie, la disposition des données, de créer des transitions entre différents états, de faire des compositions.
+
+Si la visualisation de données géospatiales a déjà une riche histoire, celle-ci ne fait que commencer. N’hésitez pas à utiliser les exemples indiqués comme points de départ pour vos propres expérimentations, et à [en chercher d'autres->http://blockbuilder.org/search].
+
+
+--------------------------
+
+PS: Cet article, originellement publié par Stamen (“[An ode to d3.js projections->https://hi.stamen.com/an-ode-to-d3-js-projections-9d6477d6da0b]”) a été traduit de l'anglais, pour visionscarto, par Philippe Rivière. Si vous souhaitez le commenter, le réutiliser, ou vous adresser à l'auteur, n'hésitez pas à écrire à [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 6 juin 2016 09:24

@@ -106,7 +106,7 @@ caption="Basée sur l'esquisse 0.3 et la carte 1.0, cette esquisse crayonnée re
 credit="septembre 2006 et mars 2007"
 link=https://farm8.staticflickr.com/7404/13964894632_f583ea57cd_b.jpg>
 ~
-De l'exposition {« Frontières »} de 2006-2007 organisée au musée confluence de Lyon, il reste une petite empreinte sur Internet sous la forme d'un [petit montage audiovisuel->http://www.museum-lyon.org/expo_temporaires/frontieres/premonde_0.php] très touchant
+De l'exposition {« Frontières »} de 2006-2007 organisée au musée confluence de Lyon, il reste une petite empreinte sur Internet sous la forme d'un [petit montage audiovisuel->http://www.museedesconfluences.fr/fr/ressources/fronti%C3%A8res-0] très touchant
 
 </aside>
 
@@ -194,4 +194,4 @@ Si vous souhaitez réagir, contribuer, commenter, utiliser tout ou partie de ce 
 
 
 --------------------------
-Visionscarto - version du 9 novembre 2014 22:27
+Visionscarto - version du 21 mai 2016 20:56

@@ -2,7 +2,7 @@
 --------------------------
 
 TITRE:
-Étude 02 série II - Dissidence
+Série II - étude 02 - Dissidence
 
 --------------------------
 
@@ -14,13 +14,13 @@ AUTEUR:
 --------------------------
 TEXTE:
 
-|{{Titre :}}| Étude 02 série II - Dissidence |
+|{{Titre :}}| Série II - étude 02 - Dissidence. |
 |{{Mots-clés :}} | #Graphisme #Art #Couleurs #Sémiologie_graphique #Formes #Étude_graphique #Points #Alignements #Série_II |
 |{{Matériel :}} | Feutrine autocollante, papier quadrillé sur papier Ingres. |
 |{{Auteur :}} | Philippe Rekacewicz |
 |{{Date de création :}} | 2014 |
 
-<https://farm2.staticflickr.com/1480/24900290712_03b0d2d4a0_o_d.jpg size=large title="Étude 02 série II - Dissidence." credit="Philippe Rekacewicz, 2014.">
+<https://farm2.staticflickr.com/1480/24900290712_03b0d2d4a0_o_d.jpg size=large title="Série II - étude 02 - Dissidence." credit="Philippe Rekacewicz, 2014.">
 
 
 --------------------------
@@ -31,4 +31,4 @@ PS: Si vous souhaitez utiliser ce document ou simplement contacter l'auteur, nou
 
 
 --------------------------
-Visionscarto - version du 14 février 2016 14:18
+Visionscarto - version du 3 avril 2016 13:39

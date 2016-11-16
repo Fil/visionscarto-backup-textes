@@ -2,7 +2,7 @@
 --------------------------
 
 TITRE:
-Étude 01 série II - Rustine
+Série II - étude 01 - Rustine
 
 --------------------------
 
@@ -14,13 +14,13 @@ AUTEUR:
 --------------------------
 TEXTE:
 
-|{{Titre :}}| Étude 01 série II - Rustine |
+|{{Titre :}}| Série II - étude 01 - Rustine. |
 |{{Mots-clés :}} | #Graphisme #Art #Couleurs #Sémiologie_graphique #Formes #Étude_graphique #Points #Alignements #Série_II |
 |{{Matériel :}} | Feutrine autocollante, papier quadrillé sur papier Ingres. |
 |{{Auteur :}} | Philippe Rekacewicz |
 |{{Date de création :}} | 2014 |
 
-<https://farm2.staticflickr.com/1621/24639779549_f5ba9e8d5b_k_d.jpg size=large title="Étude 01 série II - Rustine." credit="Philippe Rekacewicz, 2014.">
+<https://farm2.staticflickr.com/1621/24639779549_f5ba9e8d5b_k_d.jpg size=large title="Série II - étude 01 - Rustine." credit="Philippe Rekacewicz, 2014.">
 
 
 --------------------------
@@ -31,4 +31,4 @@ PS: Si vous souhaitez utiliser ce document ou simplement contacter l'auteur, nou
 
 
 --------------------------
-Visionscarto - version du 14 février 2016 14:19
+Visionscarto - version du 3 avril 2016 13:40
