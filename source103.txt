@@ -16,7 +16,7 @@ CHAPO:
 <h5 class="text-right">géographe, doctorante en géographie à l'université Paris-1 Panthéon Sorbonne,<br>UMR 8504 « Géographie Cités », équipe ehgo (épistémologie et histoire de la géo).</h5>
 
 
-Élise Olmedo a vécu plusieurs mois avec les femmes d’un quartier défavorisé de Marrakech, en les suivant dans leur vie quotidienne, lors de leurs déplacements dans l'espace domestique et dans la ville. En voulant représenter ces itinéraires sur une carte, elle s’est rendu compte que la cartographie classique ne donnait qu’une image très pâle de la richesse et de la subtilité de leurs pratiques spatiales. La carte conventionnelle ne dit hélas rien des émotions qui sont largement au centre de leur perception urbaine.
+Au cours de l'année 2010, Élise Olmedo a vécu plusieurs mois avec les femmes d’un quartier défavorisé de Marrakech, en les suivant dans leur vie quotidienne, lors de leurs déplacements dans l'espace domestique et dans la ville. En voulant représenter ces itinéraires sur une carte, elle s’est rendu compte que la cartographie classique ne donnait qu’une image très pâle de la richesse et de la subtilité de leurs pratiques spatiales. La carte conventionnelle ne dit hélas rien des émotions qui sont largement au centre de leur perception urbaine.
 
 Il fallait trouver un mode de représentation plus libre, capable de se fondre dans leurs visions, capable d’exprimer leurs affects et leurs perceptions de ces espaces familiers qu’elles sont contraintes de fréquenter. C'est ainsi qu'est née une « carte sensible ». Un mode de représentation peu commun, qui enfin allait permettre de figurer les « fragrances » de ces espaces vécus dans toutes leurs dimensions. 
 
@@ -202,4 +202,4 @@ PS: Si vous souhaitez réagir à cette contribution, ou simplement contacter l'a
 
 
 --------------------------
-Visionscarto - version du 17 avril 2015 21:34
+Visionscarto - version du 17 novembre 2016 16:00

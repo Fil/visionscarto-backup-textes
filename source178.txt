@@ -21,7 +21,7 @@ Carte présentée à la conférence [Planetary Security->http://www.planetarysec
 |{{Auteur :}} | Philippe Rekacewicz |
 |{{Date de création :}} | 2009 mise à jour en 2010, 2013 et 2015 |
 
-<https://farm6.staticflickr.com/5745/22093125934_561f516962_o_d.jpg size=original class=fullwidth>
+<https://farm6.staticflickr.com/5786/30941150641_098ec4d9f0_o_d.jpg size=original class=fullwidth>
 
 
 --------------------------
@@ -32,4 +32,4 @@ PS: Si vous souhaitez commenter, utiliser ce document ou simplement contacter l'
 
 
 --------------------------
-Visionscarto - version du 5 novembre 2015 11:05
+Visionscarto - version du 17 novembre 2016 15:49
