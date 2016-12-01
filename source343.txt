@@ -1,0 +1,162 @@
+
+--------------------------
+
+TITRE:
+Visualiser les réseaux… sans paniquer
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+--------------------------
+
+CHAPO:
+Les phénomènes de réseaux se retrouvent partout, et leur complexité empêche bien souvent de s'en faire une représentation posée et rationnelle, utile pour la compréhension ou la décision. Pour peu qu'un danger — réel ou fantasmé — y circule, et c'est la panique assurée.
+
+<h4 class="text-right">{une divagation de Philippe Rivière}<h4>
+
+
+--------------------------
+TEXTE:
+
+<h2>Au cinéma</h2>
+
+{Blackhat}, le thriller réalisé par Michael Mann et sorti en 2015 (en français sous le titre {Hackers}), n’est certes pas le premier film à aborder le sujet d’Internet. Débordés par des piratages qui se soldent par l’injection d’un virus informatique dans le système de refroidissement d’une centrale nucléaire à Hongkong, la Chine et les États-Unis montent une équipe de spécialistes, et engagent une traque cybernétique. Un scénario efficace mais, dira-t-on, sans grande originalité.
+
+Sur le plan visuel en revanche, le film a retenu mon attention dès le générique, par le soin qu’il met à représenter les réseaux — et tous les types de réseaux. La caméra plonge sur la Terre et nous montre les lumières des villes (réseau d’énergie électrique), file au-dessus d’un port maritime (transports)… À travers une masse indéfinissable, qui tient à la fois de la construction en béton et d’une virtualité à la {Matrix}, on suit longuement le parcours d’une commande, lancée sur son clavier par un terrible pirate, jusqu’à la centrale nucléaire (Internet comme outil de commande et contrôle). Après l’inévitable explosion, et tandis que pompiers et ambulances arrivent en masse (secours), les images spectaculaires s’affichent en boucle sur les écrans de télévision (information en continu).
+
+Tout au long de l’action vont apparaître d’autres réseaux : nos enquêteurs prennent l’avion, sautent dans le train, communiquent sans cesse par tous les moyens modernes pour coincer leur cible. Les réseaux mafieux ne sont pas oubliés, et la chorégraphie de la scène finale décrit la foule elle-même comme un cyber-organisme, animé de mouvements de contraction et de rythmes organisés.
+
+<https://farm6.staticflickr.com/5724/30866584892_8120094d43_o_d.png size=original>
+
+<https://farm6.staticflickr.com/5343/30982799935_92539cb777_o_d.png title="Photogrammes tirés de “Blackhat”" credit="Michael Mann, 2015" size=original>
+
+
+
+<h2>Mathématiques</h2>
+
+On ne manque pas de mots pour décrire l’organisation et les propriétés des réseaux : nœuds, arêtes, graphes directionnels, acycliques, etc.: la théorie des graphes inventorie ces propriétés mathématiques. Et soulève des questions subtiles.
+
+<quote>{{Le théorème “des quatre couleurs” :}} conjecturé en 1852 par Francis Guthrie, qui cherchait à appliquer un nombre minimal de couleurs à des régions de la carte d’Angleterre, sans que deux régions adjacentes ne partagent la même couleur, il dit qu’il suffit de quatre couleurs, dans tous les cas de figure. Le théorème n’a été démontré de façon définitive qu’en 2005, par Georges Gonthier et Benjamin Werner. Ces derniers en ont établi une démonstration {par logiciel}, impliquant un calcul géant, impossible à mener “à la main”, mais dont ils ont pu valider de façon certaine la fiabilité — une première dans le monde des mathématiques.
+
+<https://farm6.staticflickr.com/5464/30947598096_300a5faf34_z_d.jpg title="Four-Color Theorem" credit="Photo Jeff Kubina, CC." link=https://www.flickr.com/photos/kubina/ size=original>
+</quote>
+
+Voici une question d'apparence simple : si l’on considère un ensemble de lignes de communications courant d’un relais à un autre, jusqu'à quel pourcentage de relais en panne peut-on conserver la communication ?
+
+Si les relais sont situés le long d’une ligne de chemin de fer, la réponse est enfantine : une seule panne, et la ligne est coupée : tout s’arrête. À l’inverse, si chaque relais est relié à tous les autres, deux nœuds pourront communiquer quoi qu’il arrive aux autres (du moins dès lors qu’ils ne sont pas eux-mêmes en panne).
+
+Entre ces  deux extrêmes, il devient plus difficile d’y voir clair. La question intéresse les sciences physiques depuis longtemps, car elle détermine de nombreuses propriétés des matériaux (un liquide va-t-il “percoler” à travers ? comment la température se transmet-elle ?). En 1964, le chercheur en informatique Paul Baran, qui travaille pour la RAND Corporation, un centre de recherche lié à l’armée américaine, s’interroge ainsi sur la création d’un réseau de communication électronique — lequel ne deviendra rien de moins que l’Internet. C’est de là qu’est né le mythe qui veut que “Internet fut conçu par des militaires pour résister à une attaque nucléaire“.
+
+<https://farm6.staticflickr.com/5789/30947587976_3b3cbd1e47_o_d.jpg size=original>
+
+<https://farm6.staticflickr.com/5453/30947552646_88a438bd5e_o_d.gif credit="Images Paul Baran, RAND Corp" size=original>
+
+
+Cette comparaison par l’image de différents types de réseaux — centralisés, décentralisés, et distribués — reste un moteur puissant de l’imaginaire attaché à Internet, dont la configuration (complexe et sans cesse changeante) est par ailleurs souvent associée à celle des neurones du cerveau humain. Car selon ce que l’on regarde, Internet est par certains aspects très centralisé : quand Facebook tombe en panne, l’humanité connectée arrête de discuter. Par d’autres aspects, il est bien distribué : à part dans quelques pays aux régimes dictatoriaux, aucun opérateur du réseau n’est indispensable à son fonctionnement, aucune panne locale ne plante totalement le système.
+
+Derrière l’écran du terminal qui nous sert à nous connecter aux autres, se cache toute une trame invisible d’infrastructure, qui évolue sous la pression des combats permanents dans des mondes divers : ingénieures, trafiquants de drogue, banquières, artistes, espionnes, blogueurs, pirates, policiers, éditrices de revues scientifiques, et j’en passe.
+
+Ces combats, nous les voyons apparaître au fil de l’actualité. Souvent à travers des mouvements de “panique morale” : un jour ce sont les nazis et les pédophiles, un autre jour, les pirates, le surlendemain le “dark net”, etc. Mais c’est aussi quand Edward Snowden révèle au grand jour les pratiques de surveillance de la NSA (l’Agence de sécurité des États-Unis), quand Aaron Swartz, un héraut des libertés sur Internet, harcelé par le FBI, se suicide, quand Peter Sunde, fondateur du site “Pirate Bay”, est mis en prison… mais aussi quand des centaines de milliers de malades dans le monde entier sont privés de soins par le jeu d’un réseau d’accords internationaux autour des brevets, qui interdit de produire des médicaments à un prix accessible.
+
+<h2>Observer le pouvoir occulte</h2>
+
+Mais comment observer cet invisible ? Comment le rendre palpable, compréhensible ? On peut dans un premier temps, comme dans ce récit photographique du Share Lab (“Invisible Infrastructures: The Exciting life of Internet Packet”, 5 février 2015, https://labs.rs/en/packets/), suivre la matérialité physique des réseaux. Il s’agit de voir concrètement par quels bâtiments, à travers quels câbles sous-marins, quelle fibre optique, quels satellites passent les “paquets IP” qui composent nos communications.
+
+<https://farm6.staticflickr.com/5535/30947555766_7bb961e5eb_o_d.png title="Datacenter de Google à Lenoir (Caroline du Nord, USA)" credit="Photo Google StreetView, traitée par le Share Lab" size=original>
+
+On peut aussi, comme l’anthropologue Alexandre Laumonier, lever le nez en l’air et s’interroger sur la raison d’être des antennes paraboliques placées sur des pylônes géants — et découvrir ainsi les systèmes employés par la finance “à haute fréquence” pour procéder à des arbitrages instantanés entre les Bourses de Londres et de Francfort. La règle du “jeu” est simple : celui qui dispose de la connexion la plus rapide sera en mesure de “voler” l’information sur les prix aux autres opérateurs. La moindre microseconde compte ! Laumonier, qui a écrit et publié {6} (éditions [Zones sensibles->http://www.zones-sensibles.org/livres/6-5/]), un récit expliquant comment les algorithmes ont pris le pouvoir dans la finance, documente toute sa recherche sur son blog, [à base de points et de traits sur des cartes Google Maps, et de photos des antennes qu’il a pu mettre au jour->http://visionscarto.net/hft-in-the-jungle].
+
+<https://farm6.staticflickr.com/5491/30894676241_88652c2a93_o_d.jpg title="La plus grande haute structure en Belgique" credit="Alexandre Laumonier" link=http://sniperinmahwah.wordpress.com size=original>
+
+<https://farm6.staticflickr.com/5350/30866592842_0722c13c29_o_d.png title="Réseaux de trading à haute fréquence autour de Londres" credit="cartographie A. Laumonier" link=http://sniperinmahwah.wordpress.com size=original>
+
+En voyant ces antennes destinées au {trading}, je repense immédiatement à celles qu’avait photographiées dans les années 1980 le chercheur pacifiste Steve Wright : sillonnant la campagne britannique en voiture, il observait leur orientation, et suivait leur trace virtuelle jusqu’à l’antenne suivante…
+
+<https://farm6.staticflickr.com/5469/25384703369_2e7b7de1ab_o_d.png title="Une antenne dans la campagne britannique" credit="Photo: Steve Wright" size=original>
+
+La somme de toutes ces observations formait une carte, montrant que les écoutes téléphoniques des services d’espionnage anglais étaient transmises vers les États-Unis : il s’agissait des prémisses du réseau “Echelon” — cet outil planétaire de surveillance des télécommunications au profit de la NSA, qui ne sera connu du grand public et dénoncé au Parlement européen que dans les années 2000 («[Le système Echelon->http://www.monde-diplomatique.fr/mav/46/RIVIERE/1908]», {Le Monde diplomatique-Manière de voir}, juillet-août 1999).
+
+<https://farm6.staticflickr.com/5656/30866545722_a0dea180eb_o_d.png title="Un réseau de surveillance mis à nu" credit="Steve Wright" size=original>
+
+Espionnage et finance : ces deux pouvoirs occultes par excellence sont donc observables à l’œil nu. Quelle leçon !
+
+<h2>Circulations</h2>
+
+Bien sûr, il faut aussi s’intéresser au contenu — personnes, biens, services et informations qui circulent dans le réseau. De nouveau, l’image du tissu de neurones s’impose… et suggère notre incapacité à appréhender toute la complexité du phénomène.
+
+Commençons à une échelle plus humaine, par une étude des migrations qui fera l’objet d’un des tous premiers diagrammes de l’histoire de la visualisation de données :
+
+<https://farm6.staticflickr.com/5344/30947593226_dc8708dd46_o_d.jpg legend="Charles Joseph Minard, “Les Émigrants du Globe”, 1862 (données datées 1858) ; la légende n’évoque pas le caractère forcé de certaines de ces migrations." size=original>
+
+Dans ce schéma des flux, remarquablement dénué de flèches, les grands mouvements sont clairement visibles. (Ce type de représentation sera popularisé plus tard sous le nom de diagramme de Sankey.)
+
+{{{Flux d'information}}}
+
+Pour passer à la visualisation de flux d’information, penchons-nous maintenant sur [ViralTexts.org->http://viraltexts.org/], une étude géniale menée depuis quelques années à l’université Northeastern de Boston (Massachusetts) par David A. Smith, Ryan Cordell et Elizabeth Maddock Dillon. Puisque désormais les fonds d’archives historiques sont largement numérisés, les chercheurs et chercheuses du laboratoire “textes, cartes et réseaux” ont pu accumuler les articles publiés dans les différents journaux des États-Unis au 19e siècle. Et, par des méthodes informatiques, identifier des articles ayant été copiés et recopiés (pas nécessairement à l’identique) d’un journal à l’autre. Par là il devenait possible de mettre en évidence un circuit de recopie : les journaux “en amont” étant plutôt ceux de la côte Est, l’“aval” se situant dans les terres et jusqu’au Texas. Le centre de pouvoir, et la périphérie.
+
+
+<https://farm6.staticflickr.com/5639/30947553676_7b39b0aac3_o_d.png title="Mots “rapides” et mots “lents”" credit="viraltexts.org" link="http://viraltexts.org/" size=original right> Mieux, l’étude permet d’identifier, pour {chaque mot}, la vitesse moyenne à laquelle se propagent les articles qui l’emploient, et le nombre total de copies. 
+
+<https://farm6.staticflickr.com/5572/30982780425_1cdcf57c13_o_d.png title="Réseau de la copie dans les journaux américains du XIXe siècle" credit="viraltexts.org" link="http://viraltexts.org/" size=original>
+
+
+On peut dès lors traiter le langage comme un matériau brut auquel on applique les méthodes issues du Projet Génome Humain. La génétique appliquée aux textes donne naissance à une nouvelle science, la “culturomique”.
+
+Au gène succède le mème, un concept décrit par le généticien anglais Richard Dawkins dans son livre {Le Gène égoïste} (1976):
+
+<blockquote>{Un nouveau type de réplicateur est apparu récemment sur notre planète; il nous regarde bien en face. C'est encore un enfant, il se déplace maladroitement dans la soupe originelle, mais subit déjà un changement évolutionnaire à une cadence qui laisse les vieux gènes pantelants et loin derrière.}
+
+{» La nouvelle soupe est celle de la culture humaine. Nous avons besoin d'un nom pour ce nouveau réplicateur, d'un nom qui évoque l'idée d'une unité de transmission culturelle ou d'une unité d'imitation. “Mimème” vient d'une racine grecque, mais je préfère un mot d'une seule syllabe qui sonne un peu comme “gène”, aussi j'espère que mes amis, épris de classicisme, me pardonneront d'abréger mimème en mème.} (…)
+
+{» On trouve des exemples de mèmes dans la musique, les idées, les phrases clés, la mode vestimentaire, la manière de faire des pots ou de construire des arches. Tout comme les gènes se propagent dans le pool génique en sautant de corps en corps par le biais des spermatozoïdes et des ovocytes, les mèmes se propagent dans le pool des mèmes, en sautant de cerveau en cerveau par un processus qui, au sens large, pourrait être qualifié d'imitation. Si un scientifique, dans ce qu'il lit ou entend, trouve une bonne idée, il la transmet à ses collègues et à ses étudiants, la mentionnant dans ses articles et dans ses cours. Si l'idée éveille de l'intérêt, on peut dire qu'elle se propage elle-même d'un cerveau à l'autre. »}
+</blockquote>
+
+
+<h2>Paniques</h2>
+
+En 2015, l’analyse des contaminations au virus Ebola donnera le schéma suivant, qui reconstitue le scénario de la terrible épidémie qui a frappé l’Afrique de l’Ouest. Chaque nœud du graphe représente une personne touchée, et chaque arête décrit les personnes infectées à sa suite :
+
+<https://farm6.staticflickr.com/5554/30982783405_c94f2e7dd8_o_d.jpg legend="Ousmane Faye et al., “Chains of transmission and control of Ebola virus disease in Conakry, Guinea, in 2014: an observational study”, The Lancet Infectious Diseases, Volume 15, No. 3, pages 320–326, mars 2015." size=original>
+
+
+Si deux phénomènes aussi différents aboutissent à une représentation quasi identique, n’est-ce pas parce qu’il existe (peut-être) une structure commune qui les transcende ? Ce que l’on comprend de la transmission des idées pourra-t-il nous éclairer sur la propagation des maladies ?
+
+Quels parallèles invisibles relient, par exemple, la censure et les contrôles sanitaires ? La question s’avère très concrète pour un pays comme la Chine, qui a lutté avec efficacité contre l’épidémie de SRAS en 2003 en appliquant avec fermeté des mesures de mise en quarantaine, mais parvient également, avec un certain succès, à brider les expressions contestataires sur les réseaux sociaux.
+
+L’épidémie d’Ebola avait conduit certains États à une polémique sur la fermeture temporaire des liaisons aériennes avec les zones touchées. Les avions cloués au sol ne pourraient certes pas transporter le virus, mais ne livreraient pas non plus les médicaments et les médecins; l’économie serait paralysée, avec des risques accrus de déstabilisation des pays concernés, qui pourraient relancer l’épidémie.
+
+(Par parenthèse, il est très illusoire d’espérer empêcher les gens de voyager : la nature humaine ne se laisse pas facilement entraver — et les stratégies de contournement provoquent souvent plus de problèmes que ce que l’obstacle cherchait à “contrôler”, comme le prouve l’exemple des migrants à qui on interdit de venir chercher asile en Europe, interdiction qui [provoque une hécatombe en Mer Méditerranée->http://visionscarto.net/la-mediterranee-plus-loin].)
+
+Il est impossible de raisonner sur les épidémies avec des cartes classiques. Si l’on allume un point sur la carte du monde chaque fois qu’une personne est infectée, on se retrouve avec un éparpillement qui clignote, sans vue d’ensemble. Traduction de cette paralysie du cerveau : la panique, qui en 2014 saisit les États-Unis après la mort d’{une} personne au Texas des suites d’Ebola. Une institutrice qui avait voyagé à Dallas a alors été placée en congé 21 jours par son employeur ; des parents ont retiré leurs enfants du collège ; des étudiants noirs ont été suspectés d’être porteurs du virus et tenus à l’écart ; un journaliste qui devait recevoir un prix dans une université a vu la cérémonie annulée…
+
+<h2>Renversement de perspective</h2>
+
+Mais pour Dirk Brockmann, qui dirige un laboratoire à l’Institut de biologie théorique de l’université Humboldt à Berlin, il suffirait de changer la perspective de notre dessin pour comprendre ce qui se passe.
+
+<https://farm6.staticflickr.com/5752/30982796185_d6434eda0e_o_d.png title="Le réseau aérien mondial du point de vue du virus Ebola" credit="Dirk Brockmann" size=original>
+
+Brockmann introduit une géométrie où la distance en kilomètres est remplacée par une distance en heures de transport. Ainsi, en partant de Conakry (Guinée), on voit que la route la plus probable vers l’Europe passe par l’aéroport Charles-de-Gaulle au nord de Paris; l’Asie se cache derrière Dubaï, et les États-Unis derrière Dakar puis JFK à New-York.
+
+Sur cette carte d’un type nouveau, une épidémie se décrit comme une onde de choc, partant du centre et s’étalant de proche en proche vers les points les plus éloignés.
+
+L’outil permet de mesurer la propagation de l’épidémie vers chaque point du globe, en fonction de la vitesse à laquelle chaque destination peut être rejointe. Mieux, chaque intervention sur le réseau aérien (suppression d’une ligne, installation de centre de soins, de détection des fièvres etc) peut être précisément évaluée. Dans sa pertinence — quelle probabilité a-t-on de croiser la route de l’épidémie en s’installant à tel ou tel endroit ? — et dans son impact : comment le réseau se reconfigure-t-il si l’on modifie une des voies de transport ?
+
+En changeant de géométrie, Brockmann permet de passer d’une situation de panique, où l’on assiste avec effarement à la progression ingérable de l’épidémie, à une image plus nette, plus rationnelle, intelligible et exploitable. 
+
+Quels autres renversements de perspective devrons-nous inventer — pour échapper à la panique, produire de la rationalité et de la compréhension, et appréhender enfin sans paniquer les multiples réseaux qui nous entourent ?
+
+<p class="text-right caps">↬ Philippe Rivière.</p>
+
+
+--------------------------
+
+PS: <img13|left> Ce texte a été publié dans {[Datalogie. Formes et imaginaires du numériques->http://www.editionsloco.com/Datalogie],} Éditions Loco, 2016.
+Pour toute question ou commentaire, n'hésitez pas à nous écrire à l'adresse [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 28 novembre 2016 15:07

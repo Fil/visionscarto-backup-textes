@@ -14,8 +14,9 @@ AUTEUR:
 --------------------------
 TEXTE:
 
-|{{Titre :}}| La Chine et l'Inde, nouvelles puissances maritimes |
-|{{Mots-clés :}} | #Chine #Inde #Asie #Pacifique #armement #États-Unis #Japon #mer #océans #géopolitique |
+|{{Titre :}}| La Chine dans son environnement géopolitique |
+|{{Sous-titre :}}| La Chine et l'Inde, nouvelles puissances maritimes |
+|{{Mots-clés :}} | #Chine #Inde #Asie #Asie_du_sud_est #Pacifique #Armement #États-Unis #Japon #Mer #Océans #Géopolitique |
 |{{Sources :}} | Sources : {Atlas de la République populaire de Chine} ; Wayne Bert, {The United States, China and Southeast Asian Security: A Changing of the Guard?}, Palgrave Macmillan, New York, 2003 ; {Asia Times}, 7 avril 2006 ; Didier Ortollan et Jean-Pierre Pirat, {Atlas géopolitique des espaces maritimes}, Technip, Paris, 2008 ; United States Department of Defence (DoD). |
 |{{Apparition(s) :}} | dans diverses revues mensuelles |
 |{{Auteur :}} | Philippe Rekacewicz |
@@ -31,6 +32,12 @@ Il faut, comme toujours, trouver les solutions visuelles ad hoc, et comme toujou
 
 <https://farm1.staticflickr.com/643/22643953115_063d393a8d_o_d.jpg size=original class=fullwidth title="La chine et l'Inde, nouvelles puissances maritimes" legend="Esquisse préparatoire, juillet-août 2008">
 
+Cette carte a été utilisée comme base pour la composition d'une esquisse publiée en 2012, laquelle reprenait en partie les éléments (mis à jour et augmentés) de la carte de 2008.
+
+<https://farm6.staticflickr.com/5538/30862086470_3413a47389_o_d.jpg size=original class=fullwidth title="La chine dans son environnement stratégique régional" legend="Esquisse, 2012.">
+
+
+
 
 
 
@@ -38,4 +45,4 @@ Il faut, comme toujours, trouver les solutions visuelles ad hoc, et comme toujou
 
 
 --------------------------
-Visionscarto - version du 6 novembre 2015 11:53
+Visionscarto - version du 25 novembre 2016 12:24
