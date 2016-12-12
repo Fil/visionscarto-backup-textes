@@ -22,7 +22,7 @@ TEXTE:
 
 <https://farm6.staticflickr.com/5732/30388874414_4df19bf704_o_d.jpg size=medium right link>
 
-C'est en secret que les villageois de Lakardowo, à Java, se rendaient à dix kilomètres de là dans les locaux de l'ONG Ecoton, une association de défense de l'environnement. « {Les femmes, lors de leurs premières formations sur les déchets toxiques ou sur les régulations environnementales, mentaient à leur famille et à leur voisins quand elles venaient ici. Les hommes attendaient 22~h pour que personne ne les voie}. » Riska se souvient de leurs premiers contacts avec l'équipe de biologistes militants dont elle est la benjamine. Depuis quelques mois, elle a le plaisir de voir les villageois venir de jour et toujours plus nombreux, entassés sur le plateau d'un pick-up, pour élaborer avec l'ONG des réponses à ce que vit le village depuis six ans.
+C'est en secret que les villageois de Lakardowo, à Java, se rendaient à dix kilomètres de là dans les locaux de l'ONG Ecoton, une association de défense de l'environnement. {« Les femmes, lors de leurs premières formations sur les déchets toxiques ou sur les régulations environnementales, mentaient à leur famille et à leur voisins quand elles venaient ici. Les hommes attendaient 22~h pour que personne ne les voie. »} Riska se souvient de leurs premiers contacts avec l'équipe de biologistes militants dont elle est la benjamine. Depuis quelques mois, elle a le plaisir de voir les villageois venir de jour et toujours plus nombreux, entassés sur le plateau d'un pick-up, pour élaborer avec l'ONG des réponses à ce que vit le village depuis six ans.
 
 <https://farm6.staticflickr.com/5510/25348647669_0dd70539c3_k_d.jpg size=original title="L'usine PT PRIA à Lakardowo" credit="Photo: Linda Nursanti et Mada Arir">
 
@@ -54,7 +54,7 @@ PT PRIA fuit de partout, pas seulement parce que les villageois empruntent des m
 
 Après avoir dressé ce constat basé sur le rapport d'un expert en géodésie, Daru dessine un plan de coupe géologique à l'attention d'un représentant du ministère de l'Environnement dépêché à Lakardowo ce mardi 4 octobre.
 
-<https://farm6.staticflickr.com/5640/31008783292_7d4597763f_z_d.jpg title="Schéma de l'usine, du puits de surveillance et des puits du village" credit="Dessin: Daru, Ecoton">
+<https://farm6.staticflickr.com/5640/31008783292_7d4597763f_z_d.jpg title="Schéma de l'usine, du puits de surveillance et des puits du village" credit="Dessin: Daru Rini, Ecoton">
 
 La tension est palpable dans le village pour cette réunion publique. Une centaine de policiers se tiennent prêts à intervenir en cas d'émeute et l'usine a envoyé ses ouvriers à fins d'intimidation mais les marchands ambulants donnent un petit air de fête à la rencontre. La stratégie du ministère, l'autorité en charge de la protection de l'environnement, est connue : elle consiste à sous-estimer la dangerosité des abords de l'usine, pourtant bien documentée par les analyses d'Ecoton, et à refuser d'entendre le lien de cause à effet entre cette pollution et les problèmes sanitaires que connaît le village.
 
@@ -66,7 +66,7 @@ La tension est palpable dans le village pour cette réunion publique. Une centai
 
 Dans chaque hameau du village, vingt femmes sont chargées de récolter des informations sur les personnes qui travaillent à l'usine, les personnes malades et la circulation des « matériaux » toxiques de l'usine : cendres de charbon, déchets médicaux et nourriture périmée. Une période d'enquête secrète qui bénéficie de toute la sociabilité villageoise, particulièrement active entre femmes, et du manque de confidentialité propre à la vie rurale indonésienne. Sutama se souvient avoir reçu les dossiers du centre de santé local -- non sans avoir été préalablement rabrouée pour se mêler de choses qui ne regardent pas une mère de famille paysanne sans éducation. Une fois toutes les données recueillies, les villageoises les utilisent pour compléter la carte qu'elles avaient dessinée au début du processus. La carte est établie à la main, sans l'aide de cartes officielles et sans procédé high tech, à partir de l'expérience des villageoises, l'important étant de bien situer chaque maison. En dix jours, les quatre hameaux sont cartographiés et les cartes peuvent être présentées au village.
 
-<https://farm6.staticflickr.com/5524/25348668889_ba10890fed_z_d.jpg right title="Photo aérienne des abords de l'usine" credit="Linda Nursanti et Mada Arir">
+<https://farm6.staticflickr.com/5524/25348668889_ba10890fed_z_d.jpg right title="Photo aérienne des abords de l'usine" credit="Ecoton">
 
 Les supporters de l'usine, espionnés par les enquêtrices, apprécient peu le procédé. La carte met en lumière, aux yeux de tous, les liens entre maladies et exposition, qui jusqu'ici restaient peu évidents. Riska, qui traduit en anglais le propos de Sutama et Rumiati, résume : « Élaborer cette carte leur a permis de trouver des relations entre leurs maladies et leur expérience. » Cette compréhension plus fine leur permet de convaincre d'autres villageois parmi ceux qui répugnent à s'engager. Le chef du village a depuis lors démissionné.
 
@@ -87,4 +87,4 @@ PS: Si vous souhaitez commenter, utiliser ce texte et ces documents, ou simpleme
 
 
 --------------------------
-Visionscarto - version du 24 novembre 2016 09:36
+Visionscarto - version du 11 décembre 2016 12:57
