@@ -15,14 +15,8 @@ AUTEUR:
 TEXTE:
 
 |{{Titre}}| États-Unis - Russie : l'autre menace nucléaire |
-|{{Mots-clés}} | #Nucléaire_militaire
-#Armement_non_conventionnel
-#Bombe_atomique
-#Géostratégie
-#États-Unis
-#Russie
-#edm|
-
+|{{Mots-clés}} | #Nucléaire_militaire #Armement_non_conventionnel #Bombe_atomique  #Géostratégie
+ #États-Unis #Russie #edm |
 |{{Apparition(s)}} | [L'Etat du monde 2014->http://www.editionsladecouverte.fr/catalogue/index-Puissances_d_hier_et_de_demain-9782707178060.html], {« Puissances d'hier et de demain »}, La Découverte, Paris, 2013. |
 |{{Auteur}} | Philippe Rekacewicz |
 |{{Date de création}} | Juin 2013 |
@@ -39,4 +33,4 @@ PS: Si vous souhaitez commenter, utiliser ce document ou simplement contacter l'
 
 
 --------------------------
-Visionscarto - version du 22 mai 2016 11:53
+Visionscarto - version du 22 décembre 2016 23:44
