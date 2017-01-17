@@ -22,7 +22,7 @@ TEXTE:
 
 L'agriculture recouvre une grande diversité d'activités, c'est au moins autant de questions que leurs pratiques soulèvent. Ce projet ambitieux vise à en étudier quelques éléments clés à partir de thèmes fondamentaux que sont la terre, l'eau, les semences, la forêt, sans oublier leur impact sur les sociétés humaines et l'environnement. Il s'adresse à un large public (enseignants, collégiens, lycéens et étudiants, les bibliothèques, les centres culturels ainsi que les associations citoyennes et paysannes, les organisateurs et animateurs de conférences ou de rencontres publiques, les acteurs et décideurs locaux...). 
 
-Nous souhaitons que ces documents soient en accès libre, il faut donc payer en amont le travail des contribut·rices·eurs qui œuvreront au projet pour une publication fin 2016. Nous cherchons pour cela des soutiens et avons lancé une campagne de financement participatif sur helloasso. Le site ne prélève pas de commission et n'en prélève pas pour reverser à la banque qui reçoit l'argent.
+Nous souhaitons que ces documents soient en accès libre, mais il nous faut payer en amont le travail des contribut·rices·eurs qui œuvreront au projet. Nous cherchons pour cela des soutiens et avons lancé une campagne de financement participatif sur helloasso. Le site ne prélève pas de commission et n'en prélève pas pour reverser à la banque qui reçoit l'argent.
 
 C'est par ici : https://www.helloasso.com/associations/terres-et-territoires/collectes/terres-et-territoires
 
@@ -45,6 +45,8 @@ Vous trouverez ci-dessous la présentation détaillée du projet et des infos co
 — «[Quand l’industrie de la viande dévore la planète->http://blog.mondediplo.net/2012-06-21-Quand-l-industrie-de-la-viande-devore-la-planete]», 21~juin~2012.
 —  «[Vol de terres en Éthiopie->http://visionscarto.net/vol-de-terres-en-ethiopie]», 19~juin~2015.
 — «[Le sol, ce bien commun où la vie prend racine->http://visionscarto.net/le-sol-ce-bien-commun]», 1er~juin 2016.
+— «[Le grand marché aux terres->http://visionscarto.net/le-grand-marche-aux-terres]», 28~octobre~2016.
+— «[Agricultrices dans la solitude des champs d’oignons->https://visionscarto.net/agricultrices-dans-la-solitude]», 11~janvier~2017.
 
 {Et aussi :}
 — «[L’Europe à l’assaut des terres agricoles mondiales->http://visionscarto.net/accaparement-des-terres]», 6~août~2014.
@@ -62,4 +64,4 @@ MOTS-CLÉS:
 
 
 --------------------------
-Visionscarto - version du 1er juin 2016 14:59
+Visionscarto - version du 13 janvier 2017 14:57

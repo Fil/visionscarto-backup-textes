@@ -133,7 +133,7 @@ Il est impossible de raisonner sur les épidémies avec des cartes classiques. S
 
 <h2>Renversement de perspective</h2>
 
-Mais pour Dirk Brockmann, qui dirige un laboratoire à l’Institut de biologie théorique de l’université Humboldt à Berlin, il suffirait de changer la perspective de notre dessin pour comprendre ce qui se passe.
+Mais pour Dirk Brockmann, qui dirige un laboratoire à l’Institut de biologie théorique de l’université Humboldt à Berlin, il suffirait de [changer la perspective de notre dessin->http://rocs.hu-berlin.de/D3/ebola/] pour comprendre ce qui se passe.
 
 <https://farm6.staticflickr.com/5752/30982796185_d6434eda0e_o_d.png title="Le réseau aérien mondial du point de vue du virus Ebola" credit="Dirk Brockmann" size=original>
 
@@ -159,4 +159,4 @@ Pour toute question ou commentaire, n'hésitez pas à nous écrire à l'adresse 
 
 
 --------------------------
-Visionscarto - version du 6 janvier 2017 23:40
+Visionscarto - version du 10 janvier 2017 20:12

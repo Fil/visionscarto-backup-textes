@@ -150,7 +150,7 @@ Ce pont écroulé est peut-être l'un des siens, le symbole de la rupture entre 
 La VW ressuscitera par la magie du cinéma, elle ne peut pas mourir comme ça. {« La mort n'existe pas pour ceux qui ont fait quelque chose,} dira Rouch, {les gens ici au Niger m'ont appris deux choses : que le temps, ça n'existe pas ; et la patience ! Le temps c'est la mort. Je n'ai plus de montre, car avoir une montre, ça veut dire qu'on va mourir. Il faut éliminer le temps »}[[Bernard Surugue, Luc Riolon, {Le double d'hier a rencontré demain, Hommage à Jean Rouch}, 11 minutes, IRD-Amip in {Jean Rouch, Collection « Le geste cinématographique »}, coffret de 4 DVD, Editions Montparnasse, Paris, 2005.]].
 
 <figure>
-<iframe width="640" height="390" src="http://www.editionsmontparnasse.fr/embed/307PZm" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="390" src="https://www.editionsmontparnasse.fr/embed/307PZm" frameborder="0" allowfullscreen></iframe>
 <figcaption>Un extrait de “VW Voyou”</figcaption>
 </figure>
 
@@ -226,4 +226,4 @@ PS: Si vous souhaitez réagir, contribuer, commenter, utiliser ce texte, les ima
 
 
 --------------------------
-Visionscarto - version du 21 mai 2016 20:50
+Visionscarto - version du 15 janvier 2017 11:02

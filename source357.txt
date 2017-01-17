@@ -1,0 +1,298 @@
+
+--------------------------
+
+TITRE:
+The state of d3 Voronoi
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+--------------------------
+
+CHAPO:
+A Voronoi diagram is a simple yet powerful concept; given a set of sites in a space, it partitions that space in cells -- one cell for each site. Each cell contains all the points that are closer to that site than to any other. This is useful in many different areas, such as spatial/network analysis, pattern recognition, label placement on maps and graphics, generative games, generative art, UX improvements and all sorts of experiments. Here we explore what our favourite javascript library, [d3.js->http://d3js.org], allows to do with this concept.
+
+<h4 class=text-right>{by Philippe Rivière}</h4>
+
+
+--------------------------
+TEXTE:
+
+<https://farm1.staticflickr.com/364/32125609156_225e12e749_o_d.jpg legend="John Snow’s map -- the most famous historical example" credit="The John Snow Archive and Research Companion" link="http://johnsnow.matrix.msu.edu/book_images12.php"
+size=normal>
+In 1854, in Soho (London), the physician John Snow did nearest-neighbour calculations to understand the causes of a cholera epidemy -- and was able to link it to the water pump on Broad Street.
+
+<https://farm1.staticflickr.com/508/32166993596_c259bf4f76_o_d.png legend="Voronoi example, by Mike Bostock" link=http://bl.ocks.org/mbostock/4060366>
+
+<https://farm1.staticflickr.com/278/32166993156_eb1113347f_o_d.png legend="Filling Voronoi cells, by Toph Tucker" link=http://bl.ocks.org/tophtucker/26b8e7e35da08ec30d5a47dc8fe6aaba>
+
+What's important to understand is that the Voronoi diagram is not always meant to be drawn directly. It is a topological structure that can be used to compute networks, or to increase the user experience when interacting with graphics, as the following examples demonstrate.  
+
+<https://farm1.staticflickr.com/255/32166992916_f349f7348a_o_d.png legend="UX example by Mike Bostock" link="http://bl.ocks.org/mbostock/8033015">
+
+
+<https://farm1.staticflickr.com/640/32166992456_269f06fd76_o_d.png legend="UX example by Nadieh Bremer" link="http://bl.ocks.org/nbremer/61cd485e399b6a71d5fb2b1072fbc6c1">
+
+the following variation by Frank Lebeau shows the underlying (hidden) cells:
+
+<https://farm1.staticflickr.com/390/32166992286_06b6723ff7_o_d.png link="http://bl.ocks.org/Kcnarf/c6e9c98a55287e6cd03aae7080b9ec90">
+
+This technique has been given an upgrade recently with the introduction of <code>voronoi.find()</code>, see this nice [tutorial->http://peterbeshai.com/scatterplot-in-d3-with-voronoi-interaction.html] by Peter Beshai.
+
+There are also lots of uses for maps, which is what drew me to it initially.
+
+<https://farm1.staticflickr.com/723/31394879233_c86abd1b1e_o_d.png legend="Jigsaw morphing by Noah Veltman" link="http://bl.ocks.org/veltman/c582a31d347e04dd75d5331b0074558e">
+
+Scientists use Voronoi cells to simplify 3D structures of proteins, where it is crucial to know if there is a physical geometric complementarity between, for example, an antibody and an antigen. So you can have an idea that your candidate drug is going to fail before you try it in the test tube. For them, a Voronoi model is literally worth hundreds of thousands of dollars.
+
+<https://farm1.staticflickr.com/761/32027892765_e2119a3e7a_o_d.png credit="Slide courtesy Anne Poupon, CNRS/INRA">
+
+<h4>Let's draw</h4>
+
+A naïve algorithm would paint pixels with a different color for each site, like this:
+
+<https://farm1.staticflickr.com/489/32167100706_f2745fcd08_o_d.png legend="Painting Euclidian Voronoi" link="http://bl.ocks.org/Fil/f0fc1cf9afc96b591e3615563ece04cd">
+
+
+<h4>Voronoi shader</h4>
+
+However this is awfully slow, in <code>O(n*x*y)</code>.  And the results are pixels, not an abstract layout, which means that they're difficult to reuse for geometric calculations. What we want in most cases is not just to paint the cells, but an actionable topology, so that we can interact with the cells, compute their surfaces, know which cells are neighbors to which, etc.
+
+So, exit painting, enter computational geometry.
+
+
+
+<https://farm1.staticflickr.com/666/31187130454_989643bb5e_o_d.png>
+
+{([Georgy Voronoy->https://en.wikipedia.org/wiki/Georgy_Voronoy], [Boris Delaunay->https://en.wikipedia.org/wiki/Boris_Delaunay], [Delaunay triangulation & Voronoi Diagram->https://en.wikipedia.org/wiki/Delaunay_triangulation#Relationship_with_the_Voronoi_diagram].)}
+
+
+
+At the [d3 unconf in San Francisco->https://medium.com/@enjalot/d3-unconf-2016-recap-b3af91a65f00], in October 2016, we showed how to draw Voronoi diagrams by hand. Here are nice results from participants:
+
+<https://farm1.staticflickr.com/680/31910945961_3c22aeab20_o_d.jpg credit=@bbischof>
+
+<https://farm1.staticflickr.com/723/31910949601_853b69dd51_k_d.jpg credit=@chrispolis>
+
+<https://farm1.staticflickr.com/263/32027924595_d5519d1e2d_o_d.jpg credit=@sadbumblebee>
+
+
+<https://farm1.staticflickr.com/601/31187161084_bcf5711fc9_o_d.jpg credit=@trebor>
+
+
+Thankfully, d3 does this for us!
+
+
+
+<h2>d3-voronoi</h2>
+
+[<code>d3-voronoi</code>->https://github.com/d3/d3-voronoi] is the standard D3 module that helps draw Voronoi diagrams. It offers methods to compute a 2D planar euclidean Voronoi, with optional rectangular clipping.
+
+The D3 Voronoi layout -- an object called <code>Diagram</code> -- is computed with the constructive (and exact) algorithm published by Steven Fortune in “A sweepline algorithm for Voronoi diagrams” (1986), and implemented by Mike Bostock, largely based on [work by Raymond Hill->http://www.raymondhill.net/voronoi/rhill-voronoi.html].
+
+<code>d3-voronoi</code> allows an easy and fast computation of the Voronoi cells, as well as the (closely related) Delaunay triangulation of the sites, in the shape of links (which for some reason are exposed as directed source → target) or triangles.
+
+The API can't be more concise:
+
+<code>
+var voronoi = d3.voronoi();
+var diagram = voronoi(sites),
+  links = diagram.links(),          // Delaunay graph
+  triangles = diagram.triangles(),  // Delaunay triangles
+  polygons = diagram.polygons();    // Voronoi cells
+</code>
+
+For our aesthetic pleasure as well as for some practical uses, <code>d3-voronoi</code> allows clipping the Voronoi cells to a (rectangular) bounding box.
+
+<code>
+var voronoi = d3.voronoi()
+  .extent([[-1, -1], [width + 1, height + 1]]);
+</code>
+
+
+
+(The way this extent affects the Delaunay links is, unfortunately, [not as gracious->http://bl.ocks.org/Fil/6c028ce0d9b66d2796bce7f8166f32cd]. Rule of thumb: don't use extents if you're going to use the triangulation, use extents if you're going to use the polygons.)
+
+
+
+<https://farm1.staticflickr.com/446/32167100366_f0b23b0627_o_d.png legend="Experiment by Alex Macy" link="http://bl.ocks.org/alexmacy/611e234e0132dfc5789a3a66cf4c2073">
+
+
+<https://farm1.staticflickr.com/573/32167098796_aec435d010_o_d.png legend="Experiment by Christopher Manning" link="http://christophermanning.org/projects/voronoi-diagram-with-force-directed-nodes-and-delaunay-links">
+
+
+<https://farm1.staticflickr.com/486/32167097796_02d4bef62d_o_d.png legend="Voronoi Fractals by Jos Dirksen" link="https://bl.ocks.org/josdirksen/806e33c678753cd5133c1d40d73e8360">
+
+
+<h2>Extensions</h2>
+
+<h3>Other geometries</h3>
+
+{Cylinder.} Computing a Voronoi diagram on a cylindric space has probably not many applications, but it makes a gentle introduction to the next level. The recipe is almost straightforward, leveraging the planar algorithm on three copies of the dataset (one placed on the left, one at the center, one on the right), and extracting the polygons and links that belong to the center.
+
+<https://farm1.staticflickr.com/353/32056613802_b0da473b19_z_d.jpg legend="Cylindrical Voronoi" link="http://bl.ocks.org/Fil/4639744e8be5428e7a8e7b3efd9a80dc">
+
+{Torus.} Computing things on a torus (where the top is stitched to the bottom, and left stitched to the right), is remarkably friendly: all polygons are finite, and all are treated in exactly the same way -- our space is finite but is has no edges! This time, we need {nine} copies of the sites (three vertically, three horizontally). Still running in <code>O(n log(n))</code>!
+
+<https://farm1.staticflickr.com/542/32056612602_cb6157b826_z_d.jpg legend="Toric Voronoi" link="http://bl.ocks.org/Fil/c1b10942f61483d739dd601d09c30deb">
+
+But these were just an appetizer for the main course: the {spherical} (or {geo-}) Voronoi. 
+
+<h4>geo-Voronoi</h4>
+
+As Jason Davies has magistrally demonstrated, the Voronoi layout can be a powerful and beautiful tool for the sphere. Earth -- or any other spherical object, including VR photo scenes -- can put such a diagram to use.
+
+<https://farm1.staticflickr.com/415/32056611222_7199520470_o_d.png link=https://www.jasondavies.com/maps/voronoi/airports/ legend="“World Airports Voronoi”" credit="Jason Davies">
+
+<https://farm1.staticflickr.com/318/32056609862_0e0288ddee_z_d.jpg link=http://halftone.co/projects/temperatures/ legend="“100 years of NOAA monthly land temperature data”" credit="halftone.co">
+
+The geometry of the sphere (finite, geodesic distance, etc) makes striking graphics. Several algorithms have been proposed to compute the spherical Voronoi diagram. I managed to build a wrapper around [Loren Petrich->http://lpetrich.org/]'s Delaunay Triangulation library to create <code>d3-geo-voronoi</code>. It is not perfect, but it has the merit of being available now and shared as a free/libre library.
+
+The API for <code>d3-geo-voronoi</code> is based on geojson: it will return the cells as <code>FeatureCollections</code> of Polygons (including the <code>{Sphere}</code> if you pass it only one site).
+
+Simple examples from https://github.com/Fil/d3-geo-voronoi :
+
+<https://gist.github.com/Fil/74295d9ffe097ae4e3c93d7d00377d45/raw/9ffbb03eee20848b66b84b871ca62a35717acd5b/thumbnail.png legend="geoVoronoi" link="http://bl.ocks.org/Fil/74295d9ffe097ae4e3c93d7d00377d45">
+
+
+<https://gist.github.com/Fil/955da86d6a935b26d3599ca5e344fb38/raw/f1409b3af5d49b77508c6b70ef48c22eb63ad833/thumbnail.png legend="geoVoronoi triangles, inspired by Trevor Paglen" link="http://bl.ocks.org/Fil/955da86d6a935b26d3599ca5e344fb38">
+
+
+<https://gist.github.com/Fil/1a78acf8b9b40fe8ecbae7b5035acf2b/raw/abb97852f07640b29c9845682716add60ee30f69/thumbnail.png legend="geo- Delaunay links and Urquhart graph" link="http://bl.ocks.org/Fil/1a78acf8b9b40fe8ecbae7b5035acf2b">
+
+<h4>Nearest-neighbour, aka Voronoi.find()</h4>
+
+This extension to <code>d3-voronoi</code> is a very simple but very fast nearest-neighbor algorithm. It builds upon the pre-computed Voronoi layout to answer the following question: my mouse is at (x,y), which is the closest site?
+
+
+<https://gist.github.com/Fil/1b7ddbcd71454d685d1259781968aefc/raw/da5e4372f343325a434a6ca1eb44d76178a7296a/thumbnail.png legend="Voronoi.find()" link="http://bl.ocks.org/Fil/1b7ddbcd71454d685d1259781968aefc">
+
+This function's API is similar to <code>simulation.find()</code>. Its raw speed -- in <code>O(sqrt(n))</code> once the Voronoi Diagram has been computed -- makes it cheap to use it {a lot,} for example to do Voronoi binning, or graph analysis.
+
+
+<https://gist.github.com/Fil/959437d834f4a01eb4d1023cdd107554/raw/bfbfcbbc4ceb3cbf7eb7e062ea6fec389a822ac6/thumbnail.png legend="Voronoi binning" link="http://bl.ocks.org/Fil/959437d834f4a01eb4d1023cdd107554">
+
+
+<https://gist.github.com/Fil/6324442dbdc08bbc2fc0d8cc1cc1cee7/raw/fd0f5d29fdf7a53be70b8cd25e7f7430a29e1757/thumbnail.png legend="Voronoi spanning tree" link="http://bl.ocks.org/Fil/6324442dbdc08bbc2fc0d8cc1cc1cee7">
+
+This function has been integrated recently into <code>d3-voronoi</code>. It is also available with <code>d3-geo-voronoi</code>.
+
+With <code>Voronoi.find()</code>, we can trim down Nadieh Bremer's UX example, remove the hidden SVG layer and directly compute the site that is closest to the mouse.
+
+<https://gist.github.com/Fil/f49b5cf943a0210212994aa5860ac4a8/raw/498cb1ace7b9ac3e10a2ace3ed08ae035df1e3ae/thumbnail.png legend="Variation on @nbremer's UX example" link="http://bl.ocks.org/Fil/f49b5cf943a0210212994aa5860ac4a8">
+
+Same with the multi-line Voronoi example:
+
+<https://gist.github.com/Fil/425346f63abddee5fea3fdcb76904820/raw/cf621b28993e3a35d8bf1467a55c4e79fc193e21/thumbnail.png legend="Variation on @mbostock's UX example" link="http://bl.ocks.org/Fil/425346f63abddee5fea3fdcb76904820">
+
+<h4>Urquhart graph, alpha shapes, convex hull…</h4>
+
+The Delaunay graph almost begs to be processed for network analysis.
+
+{{Alpha shapes}} are obtained if you remove all Delaunay links that are longer than a certain threshold α, then merge the surviving triangles. They can be used to construct shapes from sets of points.
+
+<https://farm1.staticflickr.com/289/32056609102_bf64e37bb3_o_d.png legend="Alpha shapes" link="http://bl.ocks.org/Fil/7ab1d07c71826ae0f7ccdfb4bd4211e3">
+(initial block by [zpconn->http://bl.ocks.org/zpconn/11387143], merge function from [Jason Davies->http://bl.ocks.org/jasondavies/1554783])
+
+{{Urquhart graph}}. The Urquhart graph is a subset of the Delaunay. It is obtained by removing the largest edge of each of the Delaunay triangles. Removing edge AC from the triangle ABC does not break the connectedness of A to C, which are still connected through the connection that exists from A to B, and from B to C. Hence the nice property: the Urquhart graph is fully connected, in other words it is a spanning graph. Also, it contains the minimal spanning tree.
+
+<code>d3-geo-voronoi</code>'s links have an additional <code>urquhart</code> property, making it easy to visualize:
+
+<https://farm1.staticflickr.com/401/32056608382_a17e3a2fd8_z_d.jpg legend="Missions to Mars" link="http://bl.ocks.org/Fil/1c2f954201523af16280db018ddd90cc">
+
+
+<https://farm1.staticflickr.com/405/32056605772_a2818f9624_z_d.jpg legend="Main shipping Ports" link="http://bl.ocks.org/Fil/24d5ee71f09ba72893323d803242c38a">
+
+{{Convex hull}}.
+
+
+<https://gist.github.com/Fil/6a1ed09f6e5648a5451cb130f2b13d20/raw/9ffa2dd4810a9c32dc10f27ec88b6df0c16f0303/thumbnail.png legend="Convex hulls come for free with Loren Petrich's library, so why not use them?" link="http://bl.ocks.org/Fil/6a1ed09f6e5648a5451cb130f2b13d20">
+
+~
+
+<h3 class=text-center>✪ ✪ ✪</h3> 
+
+{ And now some considerations about future developments.}
+
+<h2>More extensions are needed</h2>
+
+<h4>Weighted Voronoi</h4>
+
+Suppose you are working with sites of different importances. You will be tempted to ask for cells with a surface that reflects the relative importance of each site. The Voronoi diagram, and Fortune's algorithm do {not} allow this. Of course we're not totally blocked: we can have fun creating various experiments to sort-of give more importance to some sites (e.g. by giving them “more dots”, or using  “Voronoi relaxation”).
+
+“[Weighted Voronoi->https://en.wikipedia.org/wiki/Weighted_Voronoi_diagram]” allow a direct and exact computation, as Jason Davies [has demonstrated->https://www.jasondavies.com/voronoi-treemap/]. Weighted Voronoi diagrams come in several flavors: additively weighted, power diagrams, multiplicatively weighted. Currently, however, we have no means in D3 to summon these powers ([issue #5->https://github.com/d3/d3-voronoi/issues/5]).
+
+
+
+<h4>Non-euclidean distances</h4>
+
+The Euclidean distance <code>sqrt(dx^2+dy^2)</code> (aka bird fly distance) doesn't express the complexity of all real-world processes.
+
+For example, take the Manhattan distance, where the time it takes to walk from one place to the other is computed in number of blocks that must be walked in the two dimensions (N-S / E-W), not in a diagonal line.
+
+
+<https://gist.github.com/Fil/a7495ca3d5b322a6697530feb62fceef/raw/719e306c9885a691244c01a228aa84ca594b299a/thumbnail.png legend="Painting the Voronoi canvas for the Manhattan distance, with a naïve shader" link="http://bl.ocks.org/Fil/a7495ca3d5b322a6697530feb62fceef">
+
+
+If you work on (say) accessibility, the distance is even more complex: it is in itself a [routing cost computation->https://medium.com/@Urbica.co/hello-galton-e6e07a7164b7] where you will weigh the (bird fly) distance with the time it takes to go across that space. i.e. walking 1km across a swamp takes 2 hours, whereas running on a track takes 10 minutes.
+
+<http://geo.gob.bo/blog/local/cache-vignettes/L500xH398/accesibilidad_departamental-ece12.jpg link=http://geo.gob.bo/blog/spip.php?article119 legend="Accessibility map of Bolivia, courtesy Sébastien Boillat, Yuri Sandoval, Luis Patón & Louca Lerch, Univ. Geneva & GeoBolivia">
+
+
+
+<h4>Faster algorithms</h4>
+
+Fortune's algorithm in <code>O(n logn)</code> is very fast, but has to be computed wholesale from a given set of sites. It would be desirable to use an algorithm that allows for the addition/removal/update of sites without having to reboot the algorithm ([issue #9->https://github.com/d3/d3-voronoi/issues/9]).
+
+The algorithm in <code>d3-geo-voronoi</code> is in <code>O(n^2)</code>, and although it works beautifully for hundreds of sites, it becomes painfully slow as the number of sites reaches 1000+, and impractical after 2000 sites ([d3-geo-voronoi issue #1->https://github.com/Fil/d3-geo-voronoi/issues/1]).
+
+
+
+<h4>Approximated algorithms</h4>
+
+With cylindrical and toric examples, we have seen that we could “wrap” the space before feeding it to our algorithms. But we can indeed transform it any way we want, compute the diagram, then send the results back to the initial space. This transformation could be called a projection, and the reverse operation the inverse projection (not necessarily a geo projection: the initial space is not always a sphere).
+
+
+
+<h4>Shortest distance to complex objects</h4>
+
+This is also very much needed in geography where the distance to the coastline determines which country owns the territory and exclusive rights in the seas and Oceans -- from fishing rights to seabed and oil exploitation.
+
+<https://farm1.staticflickr.com/270/32028125135_963ba6f640_o_d.png legend="Russian territorial claims in the Arctic" credit="IBRU: Centre for Borders Research, Durham, UK" link="http://www.durham.ac.uk/ibru">
+
+We should be able to approximate this by sampling points on the paths, and merging the resulting polygons. This will also necessitate arbitrary clipping.
+
+
+
+<h4>Arbitrary clipping</h4>
+
+Rectangular clipping is nice for demos and some applications but it's a mathematical monstruosity. Circular clipping is also a thing, with a radius around each site, but current implementations rely on the browser to do the clipping in screen space. There is a need for something neater in this section.
+
+
+
+<h4>3D</h4>
+
+d3 is and intends to remain a 2-dimensional library, so higher dimensions are not part of the scope. However as a planar additive weighted Voronoi can be seen as a slice of a 3D non-weighted Voronoi, it might be useful to study the problem in a higher dimension.
+
+
+
+<h4>Reliability</h4>
+
+<code>d3-voronoi</code> can fail when sites are “almost collinear” or “almost coplanar”. This can be avoided in most cases by adding “some” random jitter -- but then with random you can also get unlucky. Take home message: it most likely works, but sometimes it might fail ([issue #12->https://github.com/d3/d3-voronoi/issues/12]). Maybe a different algorithm would help ([pull-request #13->https://github.com/d3/d3-voronoi/pull/13] by Adithya Abraham Philip).
+
+
+--------------------------
+
+PS: This research would not have been possible without the tremendous support and advice from members of the [D3 community->https://d3-slackin.herokuapp.com/] (all errors are mine). Don't hesitate to join us there. You're also welcome to contact Philippe Rivière directly at [->contact@visionscarto.net].
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- texte sans-serif
+
+
+--------------------------
+Visionscarto - version du 9 January 2017 11:32

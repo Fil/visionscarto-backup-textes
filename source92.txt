@@ -27,7 +27,7 @@ Ebola may be the latest never-before-seen pathogen spreading out-of-control in i
 Cholera is one of the world’s most successful pathogens, the culprit behind no fewer than seven global pandemics. Haiti is its most recent conquest. One of its first was New York City, in 1832. Using newly geocoded maps and never-before-plotted data, “Mapping Cholera” tells the story of these two notorious—and forgotten—epidemics that punctuate the long tenure of one of the world’s most terrifying, and difficult to tame, pathogens.
 
 
-<div class=fullwidth><iframe id="appli" src="http://visionscarto.net/maps/choleramap/?lang=en" scrolling="no" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="100%" frameborder="0" height="600"></iframe>
+<div class=fullwidth><iframe id="appli" src="https://visionscarto.net/maps/choleramap/?lang=en" scrolling="no" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="100%" frameborder="0" height="600"></iframe>
 <html><script>setInterval(function(){ $('#appli').css('height', $('#appli').width()*2/3);}, 500);</script></html>
 </div>
 
@@ -40,4 +40,4 @@ PS: Visionscarto has translated this project in French and helps its circulation
 
 
 --------------------------
-Visionscarto - version du 29 January 2016 08:41
+Visionscarto - version du 15 January 2017 11:01

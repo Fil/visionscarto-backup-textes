@@ -1,0 +1,89 @@
+
+--------------------------
+
+TITRE:
+Un tour du monde des stations d'écoute
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+- Nicky Hager
+
+--------------------------
+
+CHAPO:
+En 2010, le journaliste néo-zélandais Nicky Hager dévoilait l'existence à Ourim, dans le sud d'Israël, d'une des plus grandes stations d'écoute de la planète. Interceptant les communications téléphoniques et les échanges de données qui transitent par satellite au-dessus de la région, ainsi que sur certains câbles sous-marins en Méditerranée, cette station est pilotée par l'Unité 8200, une structure de renseignement peu connue, bien que dotée de moyens très importants.
+
+<h4 class=text-right>{par Nicky Hager et Philippe Rivière}</h4>
+
+
+--------------------------
+TEXTE:
+
+{{{La base d'Ourim}}}
+
+Voici une photographie de la base d'Ourim, telle qu'elle apparaît sur les images satellites [[
+Capture d'écran réalisée le 27~août 2010 sur Google~Earth. Les autres services de cartographie accessibles au grand public -- comme Bing Maps de Microsoft, ou Yahoo Maps -- ne disposent pas des images de la région fournies avec une bonne résolution par [GISrael->http://www.gisrael.co.il/eng/].
+]]. L'œil averti y distingue les éléments caractéristiques d'une station d'écoute, que l'on retrouvera plus bas sur les images des autres sites connus.
+
+<https://farm6.staticflickr.com/5552/14722150099_29321c7e31_o.png size=original class=fullwidth title="La station d'Ourim"
+legend="Image Google Earth."
+>
+
+Un affichage en fausse perspective met en relief les antennes et leurs ombres.
+
+<https://farm6.staticflickr.com/5564/14722238947_0f3fd705cb_o.png size=original class=fullwidth title="Fausse perspective sur Ourim"
+legend="Image Google Earth."
+>
+
+
+La base est localisée au nord-est de l'implantation d'Ourim (aussi écrit Urim, en hébreu אוּרִים, « lumières »), aux coordonnées lat. 31°18'34"N, long. 34°32'35"E ([lien Google Maps->https://maps.google.fr/maps?ll=31.30969,34.545206&z=15&t=h&hl=fr]).
+
+
+{{{Echelon}}}
+
+Le système Echelon est un réseau mondial de surveillance des communications internationales, intégrant États-Unis, Royaume-Uni, Canada, Australie et Nouvelle-Zélande. Voici quelques images typiques des stations de ce réseau.
+
+{{Morwenstow}}
+
+Sur la côte de Cornouailles, une base gérée par les services britanniques.
+
+<https://farm4.staticflickr.com/3919/14722153539_631d1fff6c_o.png size=original class=fullwidth title="Station de Morwenstow"
+legend="Image Google Street View."
+>
+
+
+{{{Frenchelon}}}
+
+La France dispose elle aussi d'un réseau de surveillance, avec notamment la station de Domme (en Dordogne), dont les images satellites sont floutées, mais dont une photographie d'avion est disponible [sur le site Panoramio->https://www.panoramio.com/photo/19890588].
+
+<emb863|center>
+
+Le journaliste Jean-Marc Manach tient régulièrement à jour une liste des stations d'écoute françaises connues : «[La carte des stations d'écoute des espions de la DGSE->http://www.slate.fr/story/86395/dgse-stations-ecoute-carte-espion]».
+
+
+<quote>
+{{{Pour en savoir plus}}}
+
+Dans {Le Monde diplomatique} de septembre 2010, Nicky Hager révélait l'existence de la station d'Ourim : « [Ici, travaillent les espions israéliens->https://www.monde-diplomatique.fr/2010/09/HAGER/19642] ».
+
+En 1996, le journaliste néo-zélandais avait exposé, dans son livre {Secret Power,} le fonctionnement du réseau Echelon. Cet ouvrage est désormais téléchargeable gratuitement [sur le site de l'auteur->http://www.nickyhager.info/secret-power-new-zealands-role-in-the-international-spy-network/] (en anglais).
+
+{Le Monde diplomatique} a consacré plusieurs articles à Echelon ; on lira notamment :
+-- Philippe Rivière, «[Le système Echelon->https://www.monde-diplomatique.fr/mav/46/RIVIERE/m1]», «Révolution dans la communication», {Manière de voir} n°~46, juillet-août~1999.
+-- «[Pourquoi l'Amérique espionne ses alliés->https://www.monde-diplomatique.fr/dossiers/echelon/WOOLSEY/m2]», traduction d'une tribune de l'ancien directeur de la CIA James Woolsey, qui revendiquait les écoutes au nom de la lutte anti-corruption.
+
+Après les révélations d'Edward Snowden, le sujet fait désormais l'objet d'un large débat ; on se référera entre autres à [The Intercept->https://theintercept.com/].
+</quote>
+
+
+--------------------------
+
+PS: Article initialement publié sur le blog cartographique du {Monde diplomatique,} le 30~août 2010. Pour tout commentaire n'hésitez pas à nous écrire à [contact@visionscarto.net->mailto:contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 15 janvier 2017 12:05

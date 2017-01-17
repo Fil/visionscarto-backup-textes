@@ -29,7 +29,7 @@ Ebola est le dernier en date des virus pathogènes envahissant de façon incontr
 Le choléra est l’un des pathogènes les plus performants au monde, coupable de pas moins de sept pandémies globales. Haïti est sa conquête la plus récente. L’une de ses premières avait été la ville de New York, en 1832. En exploitant des cartes nouvellement géocodées et en visualisant des données jamais encore représentées, l'application « Cartographier le choléra », présentée ci-dessous, raconte l’histoire de ces deux épidémies notables (et oubliées), qui ont ponctué la longue carrière de l'un des agents pathogènes les plus terrifiants et les plus difficiles à dompter de la planète.
 
 
-<div class=fullwidth><iframe id="appli" src="http://visionscarto.net/maps/choleramap/?lang=fr" scrolling="no" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="100%" frameborder="0" height="600"></iframe>
+<div class=fullwidth><iframe id="appli" src="https://visionscarto.net/maps/choleramap/?lang=fr" scrolling="no" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="100%" frameborder="0" height="600"></iframe>
 <html><script>setInterval(function(){ $('#appli').css('height', $('#appli').width()*2/3);}, 500);</script></html>
 </div>
 
@@ -48,4 +48,4 @@ PS: Visionscarto a traduit ce projet en français, et contribué à diffuser ce 
 
 
 --------------------------
-Visionscarto - version du 29 janvier 2016 08:41
+Visionscarto - version du 15 janvier 2017 10:56

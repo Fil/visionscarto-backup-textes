@@ -1,0 +1,44 @@
+
+--------------------------
+
+TITRE:
+Global Nuclear Power Database
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+- Philippe Rivière
+- Mycle Schneider
+- Julie Hazemann
+
+
+
+--------------------------
+TEXTE:
+
+|{{Title:}}| Global Nuclear Power Database |
+|{{Keywords:}} | #Nuclear #Energy #Interactive |
+|{{Appearance:}} | {The Bulletin of the Atomic Scientists} |
+|{{Authors:}} | Julie Hazemann, Philippe Rekacewicz, Philippe Rivière, Mycle Schneider |
+|{{Created:}} | January 2017 |
+
+<https://farm1.staticflickr.com/619/32097367271_b383d6b6a3_o_d.png link=http://thebulletin.org/global-nuclear-power-database>
+
+<quote>How many of the 55 reactors currently under construction in the world are behind schedule? Which 13 countries are building nuclear power plants? Who are the technology providers? How long did it take for a specific reactor to be connected to the grid? For how long were the 90 units actually under construction before they were abandoned? 
+
+If you wish to find out these and more details about any of the 754 nuclear reactors that have been under construction sometime between 1951 and 2017, explore the [Global Nuclear Power Database->http://thebulletin.org/global-nuclear-power-database], now available on the website of the prestigious {Bulletin of the Atomic Scientists}.</quote>
+
+
+
+--------------------------
+
+PS: Interactive visualization developed by [World Nuclear Industry Status Report (WNISR)->http://www.worldnuclearreport.org/] and [Visionscarto->https://visionscarto.net/] for the [Bulletin of the Atomic Scientists->http://thebulletin.org/] with support of the [Pulitzer Center on Crisis Reporting->http://pulitzercenter.org/].
+
+If you would like to comment or reuse this interactive map, or contact the authors, please email [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 9 January 2017 22:34
