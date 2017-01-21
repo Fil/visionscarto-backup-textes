@@ -2,7 +2,7 @@
 --------------------------
 
 TITRE:
-Population vivant avec moins de 1,90 dollars - en parité de pouvoir d’achat (PPP) 
+Population vivant avec moins de 1,90 dollar - en parité de pouvoir d’achat (PPP) 
 
 --------------------------
 
@@ -14,12 +14,12 @@ AUTEUR:
 --------------------------
 TEXTE:
 
-|{{Titre :}}| Population vivant avec moins de 1,90 dollars - en parité de pouvoir d’achat (PPP) |
+|{{Titre :}}| Population vivant avec moins de 1,90 dollar - en parité de pouvoir d’achat (PPP) |
 |{{Mots-clés :}} | #Pauvreté #Développement #Inégalités #Nord-Sud #Sud-Sud #Indicateurs #Indices #Index |
 |{{Auteur :}} | Philippe Rekacewicz |
 |{{Date :}} | Octobre 2016 |
 
-<https://farm6.staticflickr.com/5577/30295209841_2bfe591ca7_o_d.jpg size=large credit="Philippe Rekacewicz, 2016." link>
+<https://farm1.staticflickr.com/776/32266784522_91553d2aab_o_d.jpg size=large credit="Philippe Rekacewicz, 2016." link>
 
 
 
@@ -31,4 +31,4 @@ PS: Si vous souhaitez commenter, utiliser ce document ou simplement contacter l'
 
 
 --------------------------
-Visionscarto - version du 17 octobre 2016 11:33
+Visionscarto - version du 20 janvier 2017 09:07

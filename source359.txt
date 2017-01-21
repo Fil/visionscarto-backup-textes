@@ -1,0 +1,81 @@
+
+--------------------------
+
+TITRE:
+« Ceux qui ne sont jamais arrivés », une image du naufrage migratoire en Méditerranée
+
+--------------------------
+
+AUTEUR: 
+- Levi Westerveld
+
+--------------------------
+
+CHAPO:
+<h4 class=text-right>{par Levi Westerveld}</h4>
+<h5 class=text-right>géographe, [Grid-Arendal->http://www.grida.no/about/staff.aspx?id=10255]</h5>
+
+
+--------------------------
+TEXTE:
+
+De nombreuses cartes migratoires témoignant des tragédies humaines en Mer Méditerranée ont été produites depuis ces dix dernières années, souvent très informatives. Mais permettent-elles de percevoir la réalité des situations vécues par les migrants ?
+
+<https://farm1.staticflickr.com/774/32321438495_83f3f4be35_o_d.png size=original link="#leaflet">
+
+Travaillant pour une organisation qui a vocation d’informer le public [sur les questions environnementales->http://www.grida.no/], je vois passer quotidiennement de nombreuses cartes et représentations graphiques qui synthétisent les données que nous recueillons. L'objectif de ces visualisations est de rendre visibles, d'exposer de manière claire et compréhensible les réalités complexes et souvent ignorées, dans des domaine tels le changement climatique ou la criminalité environnementale. Mais cette cartographie représente les phénomènes de manière « sèche » et peine à provoquer « l’émotion » des lecteurs. Il manque souvent le quelque chose dans la forme, qui relierait le phénomène à sa dimension profondément tragique.
+
+J’ai donc défié les représentations classiques avec une nouvelle exploration cartographique -- imaginée à partir d’une importante base de données -- en essayant d’intégrer à l'image une dimension humaine qui provoque l’émotion du public. Les nombreuses images et vidéos qui montrent les embarcations qui coulent ou les migrants tombés à l’eau sont peut-être efficaces pour donner une idée de ce qui se joue en Méditerranée, mais ne montrent rien du nombre effarant d’êtres humains qui meurent en tentant de traverser la mer (la carte représente les décès survenus entre 2005 et 2015).
+
+Les données avec lesquelles j’ai créé la carte proviennent de la base [The Migrant Files->http://www.themigrantsfiles.com/] gérée par un groupe de journalistes européens. Cette base de données, qui reprend et complète des bases plus anciennes ([United->http://www.unitedagainstracism.org/] et [Fortress Europe->http://fortresseurope.blogspot.no/]), est la plus exhaustive à ce jour. En général, chaque naufrage (ou événement) est renseigné -- quand les informations sont disponibles -- : date, lieu, nombre de migrants décédés, disparus ou blessés et circonstances de l'accident.
+
+Gardant à l’esprit que je voulais « implanter » l’expérience humaine au centre de l'image, j’ai réinventé une carte à partir d’un fond de carte classique en lui faisant subir toute une série de distorsions.
+
+En réduisant le dessin des pays de destination à une simple ligne épaisse tracée en noir, j’ai « cassé » la vision Nord-Sud habituelle qui est la nôtre, pour privilégier une approche beaucoup plus plate, ou horizontale si vous voulez, qui représente, à mon sens, la « perspective-paysage » que les migrants-voyageurs voient en approchant de la côte. Cette représentation, qui éloigne les pays de destination de leur emplacement réel par rapport à l’Afrique du Nord et à la Turquie, m’a permis de libérer de l'espace sur la page. J’ai bien conscience que cette représentation distordue déforme l’aspect des pays et augmente les distances, mais je crois que cet espace marin artificiellement « agrandi », devenu beaucoup plus grand sur la carte que dans la réalité, correspond beaucoup mieux à l’expérience vécue, et à la perception des migrants qui naviguent avec des boussoles portatives sur des embarcations instables : l’impression d’être au milieu de nulle part, dans l’immensité de la mer, entre inconnu et incertitude.
+
+Chaque victime est figurée par un point : c’est une représentation qui permet, en premier lieu, de prendre conscience de l’ampleur de cette tragédie. Ensuite, c’est une manière d’humaniser la carte en recentrant le regard sur chaque migrant-voyageur plutôt que sur un nombre, une statistique froide et impersonnelle généralement représentée par des symboles dimensionnés à proportion du nombre de vies perdues. Souvent, dans un souci de synthèse et au nom de la « clarté visuelle », la cartographie conventionnelle tend à faire disparaître l’être humain de la carte, mais ce faisant, elle confisque au lecteur la dimension humaine de ce problème, et donc la possibilité de la tristesse ou de la colère. 
+
+J'ai placé les points rouges un par un sur la carte, en utilisant les informations de localisation fournies par la base de données. Seulement, la carte a été considérablement déformée : les informations longitudinales restent globalement correctes, mais en raison de la distorsion verticale, il a fallu reclasser les événements selon qu'ils avaient eu lieu près de la côte, près d’une île ou en pleine mer, et décider d'un emplacement latitudinal approximatif.
+
+Aucun de ces groupes de migrants noyés n’est dessiné de manière identique, car chaque événement, chaque drame est unique, comme sont uniques chacun·e des migrant·es qui ont perdu la vie. Le choix du rouge vif pour les points, c’est pour augmenter le contraste avec le fond blanc : cette symbolique entend représenter le sacrifice de ces migrants-voyageurs, suspendus dans cet inconnu situé quelque part, très loin, entre leur pays d’origine et celui qui nourrissait tous leurs espoirs.
+
+Enfin, ce dispositif graphique est complété par quelques phrases qui partent en petites vagues bleues à partir de quelques points pris au hasard, et qui donnent quelques détails sur les naufrages, les noyades, les sauvetages, les destinations… Ces bribes d’informations ont pour but d’attiser la curiosité des lecteurs : après s’être absorbé de la carte, après avoir pris conscience de l’ampleur de ce drame humain, j’aimerais qu’ils se posent des questions. Qu’ils se demandent par exemple : {« Mais que s’est-il passé ? Quelles sont les histoires cachées derrière tous les autres points ? »}
+
+<p class="text-right caps">↬ Levi Westerveld</p>
+
+{La carte est reproduite ci-dessous en grand format : utiliser les touches + et - pour zoomer et les flèches ou la souris pour vous déplacer dans l'image.}
+
+<div id="leaflet"></div><leaflet|href=levi_cross|w=38727|h=18201|initial=4/0.6/0.7|maxzoom=7|minzoom=1>
+
+Sur le même thème, voir aussi :
+
+<quote>
+
+<p class=small>[Mourir aux portes de l'Europe->https://visionscarto.net/mourir-aux-portes-de-l-europe-2016]</p>
+
+<https://farm1.staticflickr.com/720/32261241752_0b8b834d18_k_d.jpg
+size=medium link="https://visionscarto.net/mourir-aux-portes-de-l-europe-2016">
+
+<p class=small>[Des morts par milliers aux portes de l'Europe->http://www.migreurop.org/IMG/pdf/map_36.1_des_morts_par_milliers_aux_frontieres.pdf]</p>
+
+<https://farm1.staticflickr.com/469/32378957646_8d5b3fd8e4_b_d.jpg
+size=medium link="http://www.migreurop.org/IMG/pdf/map_36.1_des_morts_par_milliers_aux_frontieres.pdf">
+
+<p class=small>Migreurop, {Atlas des migrants en Europe. Géographie critique des politiques migratoires}, Paris, Armand Colin, 144 pages, 2012. Carte réalisée par Nicolas Lambert.</p>
+
+</quote>
+
+
+
+
+--------------------------
+
+PS: Si vous souhaitez commenter, utiliser ce texte ou la carte, ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]. Vous pouvez aussi télécharger le document depuis [archive.org->https://archive.org/details/LeviWesterveldCROSS2000x940].
+
+Le bandeau représente un détail d'une œuvre d'un·e étudiant·e inconnu·e du cours préliminaire du Bauhaus (exposition « L'esprit du Bauhaus », musée des arts décoratifs, Paris, 2016).
+
+
+
+
+--------------------------
+Visionscarto - version du 20 janvier 2017 18:40
