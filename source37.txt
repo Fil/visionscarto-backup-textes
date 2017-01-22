@@ -7,7 +7,6 @@ TITRE:
 --------------------------
 
 AUTEUR: 
-- @Fil
 - Philippe Rivière
 - Maxisole Feni
 - Armand Hough
@@ -67,4 +66,4 @@ PS: En 2002, lors d'un reportage en Afrique du Sud sur la question du sida («[V
 
 
 --------------------------
-Visionscarto - version du 4 juillet 2014 12:54
+Visionscarto - version du 22 janvier 2017 23:25

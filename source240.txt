@@ -7,7 +7,6 @@ Voyager sans visa
 --------------------------
 
 AUTEUR: 
-- @Fil
 - Philippe Rivière
 
 --------------------------
@@ -106,4 +105,4 @@ PS: Ces cartes font partie d'une recherche générale de Visionscarto sur les #f
 
 
 --------------------------
-Visionscarto - version du 10 octobre 2016 11:51
+Visionscarto - version du 22 janvier 2017 23:25
