@@ -35,6 +35,11 @@ TEXTE:
 PS: Si vous souhaitez commenter, utiliser cette figure, ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse mail [->contact@visionscarto.net]
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

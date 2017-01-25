@@ -115,6 +115,11 @@ PS: Ce texte fait partie d'une recherche en cours sur [des terres et des territo
 
 --------------------------
 
+LANG: fr
+
+
+--------------------------
+
 MOTS-CLÉS: 
 - titre blanc
 

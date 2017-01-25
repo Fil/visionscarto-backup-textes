@@ -208,6 +208,11 @@ PS: Si vous souhaitez commenter, réutiliser ces documents, ou simplement joindr
 {Le bandeau représente un fragment d'une œuvre de l'artiste américain [Jerry Gretzinger->http://visionscarto.net/cartes-magiques-de-jerry-gretzinger], présenté au Palais de Tokyo à Paris en 2015.
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

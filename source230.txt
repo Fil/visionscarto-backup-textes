@@ -28,6 +28,11 @@ TEXTE:
 PS: Si vous souhaitez utiliser ce document ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

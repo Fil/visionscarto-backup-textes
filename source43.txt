@@ -57,6 +57,11 @@ Quand on juxtapose sur une même carte le tracé de toutes les frontières europ
 PS: Si vous souhaitez commenter, utiliser ce projet, ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

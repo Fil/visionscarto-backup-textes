@@ -166,6 +166,11 @@ PS: {{Cet article fait partie d’une recherche en cours menée par Patrick Naef
 Si vous souhaitez réagir à cette contribution, ou simplement contacter l'auteur, vous pouvez le faire par courriel via [->contact@visionscarto.net]
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

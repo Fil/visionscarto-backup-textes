@@ -1,0 +1,127 @@
+
+--------------------------
+
+TITRE:
+What would feminist data visualization look like?
+
+--------------------------
+
+AUTEUR: 
+- Catherine D'Ignazio
+
+--------------------------
+
+CHAPO:
+<h4 class=text-right>{by Catherine D’Ignazio}</h4>
+<h5 class="text-right">Assistant Prof of Data Visualization & Civic Media, Journalism Dept, Emerson College, Boston (USA) ; [kanarinka.com->http://kanarinka.com].</h5>
+
+
+--------------------------
+TEXTE:
+
+While there is a lot of hype about data visualization, and a lot of new tools for doing it (my colleague [Rahul Bhargava->http://rahulbotics.com/] and I have counted over 500!), fewer people are thinking critically about the politics and ethics of representation. This, combined with a chart-scared general public, means that data visualizations wield a tremendous amount of rhetorical power. Even when we rationally know that data visualizations do not represent “the whole world”, we forget that fact and accept charts as facts because they are generalized, scientific and seem to present an expert, neutral point of view.
+
+What’s the issue? Feminist standpoint theory would say that the issue is that all knowledge is socially situated and that the perspectives of oppressed groups including women, minorities and others are systematically excluded from “general” knowledge. Critical cartography would say that maps are sites of power and {produce} worlds that are intimately bound up with that power. As Denis Wood and John Krygier note, the choice of what to put on a map {“… surfaces the problem of knowledge in an inescapable fashion as do symbolization, generalization and classification”.} Until we acknowledge and recognize that power of inclusion and exclusion, and develop some visual language for it, we must acknowledge data visualization as one more powerful and flawed tool of oppression.
+
+
+<html><!-- <https://farm1.staticflickr.com/548/31329879084_003ec1589c_o_d.png size=original> --></html>
+
+Can we say this more vividly? Donna Haraway, in her seminal essay on Situated Knowledges, offers a brilliant tour-de-force critiquing not just visual representation but the extreme and perverse privileging of the eyes over the body that has dominated Western thought. If you could, dear reader, read this quote aloud as it truly functions as a piece of performance art:
+
+
+<blockquote>
+
+The eyes have been used to signify a perverse capacity — honed to perfection in the history of science tied to militarism, capitalism, colonialism, and male supremacy — to distance the knowing subject from everybody and everything in the interests of unfettered power. The instruments of visualization in multinationalist, postmodernist culture have compounded these meanings of disembodiment.
+
+The visualizing technologies are without apparent limit. The eye of any ordinary primate like us can be endlessly enhanced by sonography systems, magnetic resonance imaging, artificial intelligence-linked graphic manipulation systems, scanning electron microscopes, computed tomography scanners, color-enhancement techniques, satellite surveillance systems, home and office video display terminals, cameras for every purpose from filming the mucous membrane lining the gut cavity of a marine worm living in the vent gases on a fault between continental plates to mapping a planetary hemisphere elsewhere in the solar system.
+
+Vision in this technological feast becomes unregulated gluttony; all seems not just mythically about the god trick of seeing everything from nowhere, but to have put the myth into ordinary practice. And like the god trick, this eye fucks the world to make techno-monsters.”
+
+<p class="small text-right">Donna Haraway in “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective/Feminist Studies” (1988)</p>
+</blockquote>
+
+The God Trick! Is this not the rhetorical premise and the seductive promise of most data visualization? To see from the perspective of no person, no body? Our appetite for such perspectives is fierce, “gluttonous”, as Haraway characterizes it.
+
+<https://farm1.staticflickr.com/370/31329881944_c161d158f8_o_d.png size=original legend="Seeing the whole world is a fantasy that Michel DeCerteau calls the “totalizing eye” and Donna Haraway calls “the God Trick”. This is the first image taken of the whole earth in 1967.">
+
+And yet, there are ways to do more responsible representation. There are ways to “situate” data visualization and locate it in concrete bodies and geographies. Critical cartographers, counter-mapping artists, indigenous mappers and others have experimented for years with these methods and we can learn from them.
+
+{{{1. Invent new ways to represent uncertainty, outsides, missing data, and flawed methods}}}
+
+While visualizations — particularly popular, public ones — are great at presenting wholly contained worlds, they are not so good at visually representing their limitations. Where are the places that the visualization does not go and cannot go? Can we put those in? How do we represent the data that is missing? [Andy Kirk has an incredible talk about the Design of Nothing->https://www.youtube.com/watch?v=JqzAuqNPYVM] that surveys the field in regards to how designers make decisions about representing uncertainty, including zeros, nulls and blanks. Can we push more designers to take these methods into consideration? Can we ask of our data that it point to its own outsides? 
+
+<https://farm1.staticflickr.com/682/31329885004_fb1aa20b26_o_d.png size=original title="Map to Not Indicate, 1967, by the art collective Art & Language" legend="The map depicts only Iowa and Kentucky and then proceeds to list the many things that NOT represented on it." credit="Part of the Tate Collection" link="http://www.tate.org.uk/art/artworks/art-language-terry-atkinson-map-to-not-indicate-p01357">
+
+Beyond simply missing data — how do we dig into data provenance as an entire subfield of visualization akin to the reporter’s work of fact-checking and verification? Can we collect and represent the data that was never collected? Can we find the population that was excluded? Can we locate the faulty instrument that everyone assumed was working? Can we critically examine the methods of a study rather than accepting the JSON, CSV or API as is? This may seem like it’s not the designer’s job. Someone else prior to them in the pipeline will do that un-sexy investigative work of data anthropology. But if data visualizers don’t take on this responsibility, who does?
+
+{{{2. Invent new ways to reference the material economy behind the data}}}
+
+Akin to this question of data provenance, we also need to ask about the material economy behind the data. What are the conditions that make a data visualization possible? Who are the funders? Who collected the data? Whose labor happened behind the scenes and under what conditions?
+
+For example, the Public Laboratory for Open Technology and Science (a civic science group with whom I am an organizer) has a technique of mapping where you hang a camera from a kite or balloon in order to collect aerial imagery. One side effect of this method that the community has embraced is that the camera also captures imagery of the people mapping. These are the bodies of the data collectors, so often absent from final representations.
+
+<https://farm1.staticflickr.com/548/31329879084_003ec1589c_o_d.png size=original legend="From a Public Lab research note by Eymund Diegal about mapping sewage flows in the Gowanus Canal. Note the people on boats doing the mapping and the balloon tether that links the camera and image back to their bodies." link="https://publiclab.org/notes/eymund-diegel/12-18-2012/mapping-sewage-flows-gowanus-canal-after-sandy-flood-damages-sequel">
+
+Data visualizations often cite data sources as fact on a legend but we could do more. What if we visually problematized the provenance of the data? The interests behind the data? The stakeholders in the data? A single CSV file or streaming feed often has no reference to any of these more human, material elements that are nevertheless essential to understanding the where, why and how of data.
+
+Perhaps one way to solve this would be to have, by default, or to collect oneself, much more robust metadata and to intentionally prioritize the visual display of that metadata. The goal of such visualizations would be to show not just “what the data says” but to show how the data connects to real bodies, systems and structures of power in the wider world.
+
+{{{3. Make dissent possible}}}
+
+While there are plenty of “interactive” data visualizations what we currently mean by this is limited to selecting some filters, sliding some sliders, and viewing how the picture shifts and changes from one stable image to another stable image as a result. These can be powerful methods for diving into a contained world that consists of stable images and stable facts. But as we know from [Wikipedia editing wars->http://www.economist.com/blogs/graphicdetail/2013/08/daily-chart-1]  and [Google Maps Controversies->http://www.businessinsider.com/most-controversial-places-on-google-maps-2013-5] the world is not actually bracketed so conveniently and “facts” are not always what they appear to be.
+
+So one way to re-situate data visualization is to actually destabilize it by making dissent possible. How can we devise ways to talk back to the data? To question the facts? To present alternative views and realities? To contest and undermine even the basic tenets of the data’s existence and collection?
+
+How to do this? Given that [most people working in data are white guys->https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html], it might be as simple as including different people, with different perspectives, in the production of the visualization. For example, the [Detroit Geographical Expedition and Institute->http://ourmaps.net/the-detroit-geographic-expedition-and-institute-dgei/] was a joint project between academic geographers (led by all white men) and inner city youth in Detroit (led by Gwendolyn Warren, a 19-year-old black community activist) in the late 1960s.
+ 
+
+<https://farm1.staticflickr.com/720/31652599563_8f64b815ac_o_d.png size=original class=fullwidth title="Field Notes III: Geography of
+the Children of Detroit" legend="Warren and her colleagues used this map and the overall report to argue for the need “Black planning” that empowered black citizens to make decisions for their communities." credit="Detroit Geographical Expedition and
+Institute, 1971." link=http://archive.lib.msu.edu/maps/temp/geography-children-detroit.pdf>
+
+The map -- “Where Communters Run Over Black Children on the Pointes-Downtown Track”  -- was technologically advanced for its time and somewhat conventional (to our eyes) in its visual strategies. What gives this map its dissent is the title, formulated by the black youth doing the mapping: “Where Commuters Run Over Black Children…” This is not a neutral title. The map could have been called “Where Accidents Happen in Downtown Detroit” (and likely would have been if the city had hired external cartography consultants to map the same data), but from the standpoint of the black families whose children were being killed, it was significant that the children were black, the commuters white, and the events described as “killings” rather than “accidents”.
+
+
+So one can build dissent into the process of creating a visualization by including diverse voices but how about into the end product?
+
+<https://farm1.staticflickr.com/320/31652608973_28b7941806_o_d.png size=original fullwidth legend="Two screenshots from Brooke Singer’s ToxicSites.us which presents maps, visualizations and stories about every superfund site in the USA." link="http://www.toxicsites.us/">
+
+Brooke Singer’s [ToxicSites.us->http://www.toxicsites.us/] creates a report about every [superfund->https://fr.wikipedia.org/wiki/Superfund]  site in the USA and invites contributors to add local stories, images and videos that document the sites (and possibly contradict the data) as well as enable organizing and advocacy efforts to clean them up. This is a form of “talking back” to the data as well as moving the public conversation forward from data to action.
+
+A visualization is often delivered from on high. An expert designer or team with specialized knowledge finds some data, does some wizardry and presents their artifact to the world with some highly prescribed ways to view it. Can we imagine an alternate way to include more voices in the conversation? Could we effect visualization collectively, inclusively, with dissent and contestation, at scale?
+
+{{{What else?}}}
+
+These are just three design suggestions that point towards a feminist ethics and politics of data visualization. What else? I’d love to hear what other aspects of data visualization we could re-think to make it more situated, more feminist and ultimately, more responsible. 
+
+<p class="text-right caps">↬ Catherine D'Ignazio</p>
+
+
+
+
+
+<quote>
+{{References}}
+
+Certeau, M. & Rendall, S. (1984). The practice of everyday life. Berkeley: University of California Press.
+
+Haraway, D.. (1988). Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective. Feminist Studies, 14(3), 575–599. http://doi.org/10.2307/3178066
+
+Wood, D., & Krygier, J. (2009). Critical cartography. The International Encyclopedia of Human Geography. New York and London: Elsevier.
+</quote>
+
+
+--------------------------
+
+PS: Originally published at https://civic.mit.edu/feminist-data-visualization. Post your thoughts [here->mailto:contact@visionscarto.net] or [@kanarinka->https://twitter.com/kanarinka] on Twitter and let’s continue the conversation.
+
+
+--------------------------
+
+LANG: en
+
+
+
+
+--------------------------
+Visionscarto - version du 23 January 2017 10:44

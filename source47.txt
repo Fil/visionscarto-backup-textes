@@ -148,6 +148,11 @@ PS: N'hésitez pas à nous écrire si vous avez des remarques ou des questions :
 
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

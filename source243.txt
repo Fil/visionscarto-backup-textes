@@ -28,6 +28,11 @@ TEXTE:
 PS: Pour nous contacter, n'hésitez pas à écrire à [->contact@visionscarto.net].
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

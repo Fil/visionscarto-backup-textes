@@ -156,6 +156,11 @@ PS: <img13|left> Ce texte a été publié dans {[Datalogie. Formes et imaginaire
 Pour toute question ou commentaire, n'hésitez pas à nous écrire à l'adresse [->contact@visionscarto.net].
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

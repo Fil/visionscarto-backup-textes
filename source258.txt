@@ -29,6 +29,11 @@ TEXTE:
 PS: If you want to comment on this document, reuse it or simply to contact the author, please email us at [->contact@visionscarto.net]
 
 
+--------------------------
+
+LANG: en
+
+
 
 
 --------------------------

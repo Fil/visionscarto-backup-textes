@@ -161,6 +161,11 @@ C'est un champ d'expérimentation pour l'art, la cartographie et la représentat
 Si vous souhaitez réagir à cette contribution, ou simplement contacter l'auteure, vous pouvez le faire par mail via [->contact@visionscarto.net]
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

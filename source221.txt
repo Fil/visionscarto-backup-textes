@@ -29,6 +29,11 @@ TEXTE:
 PS: Si vous souhaitez réagir, contribuer, commenter, utiliser cette carte, ou simplement contacter l'auteur, nous vous invitons à nous écrire via  [->contact@visionscarto.net]
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

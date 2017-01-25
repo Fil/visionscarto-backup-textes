@@ -32,6 +32,11 @@ TEXTE:
 PS: If you would like to comment, to contribute or simply to use this map, or eventually contact the author, please write at [->contact@visionscarto.net]
 
 
+--------------------------
+
+LANG: en
+
+
 
 
 --------------------------

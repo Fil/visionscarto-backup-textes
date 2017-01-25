@@ -35,6 +35,11 @@ Nous avons - par hasard - retrouvé dans le dossier les esquisses préparatoires
 
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

@@ -29,6 +29,11 @@ Map presented at the [Planetary Security Conference->http://www.planetarysecurit
 PS: If you wish to comment on or reuse these documents, or simply to contact the author, pealse send us an email at [->contact@visionscarto.net].
 
 
+--------------------------
+
+LANG: en
+
+
 
 
 --------------------------

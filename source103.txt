@@ -199,6 +199,11 @@ La carte classique, qui reste un des outils les plus importants du géographe, s
 PS: Si vous souhaitez réagir à cette contribution, ou simplement contacter l'auteure, vous pouvez le faire par mail via [->contact@visionscarto.net]
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

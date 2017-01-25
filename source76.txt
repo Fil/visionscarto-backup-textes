@@ -77,6 +77,11 @@ La mise en place de ces nouvelles routes n'absorberait qu'une partie du trafic d
 PS: Si vous souhaitez commenter, utiliser le texte ou la carte de cet article, ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse mail [->contact@visionscarto.net]
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

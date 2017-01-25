@@ -121,6 +121,11 @@ PS: Si vous souhaitez commenter, utiliser le texte ou les cartes de cet article,
 
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

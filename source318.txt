@@ -95,6 +95,11 @@ Rien n'est vraiment simple en cartographie.
 PS: Si vous souhaitez réagir, contribuer, commenter, utiliser ce texte ou les images, ou simplement contacter l'auteur, nous vous invitons à nous écrire à l'adresse  [->contact@visionscarto.net].
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

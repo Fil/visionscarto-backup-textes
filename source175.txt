@@ -42,6 +42,11 @@ Cette carte a été utilisée comme base pour la composition d'une esquisse publ
 
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

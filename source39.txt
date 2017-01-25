@@ -44,6 +44,11 @@ PS: Ceci est un travail en cours. Vous pouvez trouver le tableau de données (au
 
 --------------------------
 
+LANG: fr
+
+
+--------------------------
+
 MOTS-CLÉS: 
 - titre blanc
 

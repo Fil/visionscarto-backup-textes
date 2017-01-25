@@ -60,6 +60,11 @@ PS: S’il y a d’autres espaces que vous souhaiteriez voir alimenter en images
 
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

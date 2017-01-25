@@ -35,6 +35,11 @@ TEXTE:
 PS: Si vous souhaitez contacter l'auteur, apporter une précision ou corriger une erreur, vous pouvez nous écrire en utilisant le mail  [->contact@visionscarto.net].
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

@@ -35,7 +35,7 @@ What's important to understand is that the Voronoi diagram is not always meant t
 
 <https://farm1.staticflickr.com/640/32166992456_269f06fd76_o_d.png legend="UX example by Nadieh Bremer" link="http://bl.ocks.org/nbremer/61cd485e399b6a71d5fb2b1072fbc6c1">
 
-the following variation by Frank Lebeau shows the underlying (hidden) cells:
+the following variation by Frank Lebeau shows the underlying (hidden) cells, which can be computed with the [d3-distanceLimitedVoronoi plugin->https://github.com/Kcnarf/d3-distanceLimitedVoronoi]:
 
 <https://farm1.staticflickr.com/390/32166992286_06b6723ff7_o_d.png link="http://bl.ocks.org/Kcnarf/c6e9c98a55287e6cd03aae7080b9ec90">
 
@@ -125,6 +125,7 @@ var voronoi = d3.voronoi()
 
 <https://farm1.staticflickr.com/486/32167097796_02d4bef62d_o_d.png legend="Voronoi Fractals by Jos Dirksen" link="https://bl.ocks.org/josdirksen/806e33c678753cd5133c1d40d73e8360">
 
+<https://farm1.staticflickr.com/546/32362680192_e9139b1f87_o_d.png legend="Voronoi Treemap by Michael K. Edwards" link="https://bl.ocks.org/mkedwards/759e719eefe36cf9c8ab">
 
 <h2>Extensions</h2>
 
@@ -268,7 +269,7 @@ We should be able to approximate this by sampling points on the paths, and mergi
 
 <h4>Arbitrary clipping</h4>
 
-Rectangular clipping is nice for demos and some applications but it's a mathematical monstruosity. Circular clipping is also a thing, with a radius around each site, but current implementations rely on the browser to do the clipping in screen space. There is a need for something neater in this section.
+Rectangular clipping is nice for demos and some applications but it's a mathematical monstruosity. Circular clipping is also a thing, with a radius around each site. However, implementations that rely on the browser to do the clipping in screen space are not simple nor sustainable. Instead, use either <code>voronoi.find()</code> or the algorithm implemented in Franck Lebeau's [d3-distanceLimitedVoronoi plugin->https://github.com/Kcnarf/d3-distanceLimitedVoronoi].
 
 
 
@@ -290,9 +291,14 @@ PS: This research would not have been possible without the tremendous support an
 
 --------------------------
 
+LANG: en
+
+
+--------------------------
+
 MOTS-CLÉS: 
 - texte sans-serif
 
 
 --------------------------
-Visionscarto - version du 9 January 2017 11:32
+Visionscarto - version du 25 January 2017 10:04

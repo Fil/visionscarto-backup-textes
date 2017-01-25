@@ -42,6 +42,11 @@ Les polices de caractères sont [Cardo->http://scholarsfonts.net/cardofnt.html] 
 
 --------------------------
 
+LANG: fr
+
+
+--------------------------
+
 MOTS-CLÉS: 
 - titre blanc
 - texte sans-serif

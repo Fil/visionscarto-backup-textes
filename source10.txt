@@ -171,6 +171,11 @@ Pour créer un accordéon :
 
 --------------------------
 
+LANG: fr
+
+
+--------------------------
+
 MOTS-CLÉS: 
 - titre blanc
 

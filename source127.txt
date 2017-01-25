@@ -222,6 +222,11 @@ PS: <img7|left> Entretien publié dans {Vacarme,} n°~71, sous le titre «[Les t
 
 --------------------------
 
+LANG: fr
+
+
+--------------------------
+
 MOTS-CLÉS: 
 - texte sans-serif
 

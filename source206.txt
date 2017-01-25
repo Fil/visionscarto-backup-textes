@@ -29,6 +29,11 @@ Je viens de la coder pour la bibliothèque des projections géographiques avanc�
 
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

@@ -18,6 +18,11 @@ La machine n'a rien trouvé qui corresponde à votre demande. Dommage… Avez-vo
 
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

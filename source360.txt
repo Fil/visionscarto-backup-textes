@@ -1,0 +1,132 @@
+
+--------------------------
+
+TITRE:
+Pour une pratique féministe de la visualisation de données
+
+--------------------------
+
+AUTEUR: 
+- Catherine D'Ignazio
+
+--------------------------
+
+CHAPO:
+<h4 class=text-right>{par Catherine D’Ignazio}</h4>
+<h5 class="text-right">Professeure-assistante de visualisation de données et de médias civiques au Emerson College, Boston (États-Unis) ; [kanarinka.com->http://kanarinka.com].</h5>
+
+
+--------------------------
+TEXTE:
+
+La visualisation de données, ou infographie, est à la mode et chacun s'enthousiasme pour les nouveaux outils qui permettent d'en produire — nous en avons dénombré, avec mon collègue [Rahul Bhargava->http://rahulbotics.com/], plus de cinq cents. Malgré cette richesse technique, on manque souvent d'outils permettant une réflexion critique sur la politique et l'éthique de la représentation. Et comme le grand public est plutôt facile à impressionner avec des graphiques, la « data visualization » acquiert un grand pouvoir rhétorique. Quand bien même nous savons rationnellement que ces images ne représentent pas « le monde entier », nous avons tendance à l'oublier, et à accepter les graphiques comme des faits car ils sont généralisés, scientifiques et semblent présenter un point de vue neutre et expert. 
+
+Quel est le problème ? La théorie féministe du point de vue situé rappelle que toute connaissance est située socialement et que les perspectives des groupes opprimés — femmes, minorités et autres — sont exclues de manière systématique de la connaissance dite « générale ». La cartographie critique dirait que les cartes sont des sites du pouvoir et produisent des mondes qui sont intimement associés à ce pouvoir. Comme le soulignent Denis Wood et John Krygier, le choix de ce que l'on place sur la carte {« fait inévitablement surgir le problème de la connaissance, tout comme les opérations de symbolisation, de généralisation et de classification ».} Il faudra bien admettre l'existence de ce pouvoir d'inclure et d'exclure, apprendre à le dépister et développer un langage visuel pour le décrire. Dans l'immédiat, il importe de reconnaître que la visualisation de données est un des outils de pouvoir parmi les plus puissants et les plus biaisés.
+
+<html><!-- <https://farm1.staticflickr.com/548/31329879084_003ec1589c_o_d.png size=original> --></html>
+
+Comment le dire plus clairement ? Donna Haraway, dans son essai fondateur sur les savoirs situés (voir les références ci-dessous), offre une critique brillante non seulement de la représentation visuelle mais de la préférence extrême et perverse donnée aux yeux sur le corps dans la pensée occidentale. Toi qui t'apprêtes à lire ces lignes, je t'encourage à le faire à voix haute, car il s'agit en réalité d'une performance artistique :
+
+<blockquote>
+
+Les yeux ont servi à  signifier une aptitude perverse -- parfaitement affinée tout au long de l’histoire d’une science liée au militarisme, au capitalisme, au colonialisme et à la suprématie mâle -- aptitude qui éloigne le sujet connaissant de chacun et de tout dans l’intérêt d’un pouvoir sans entrave. Les instruments de visualisation dans la culture multinationale et postmoderne ont aggravé ces significations de désincarnation.
+
+» Les technologies de visualisation sont sans limites apparentes; l’œil de n’importe quel primate ordinaire comme nous peut sans cesse être amélioré par des systèmes d’ultrasons, d’imagerie par résonance magnétique, systèmes de manipulation graphique à intelligence artificielle, microscopes électroniques, tomographie assistée par ordinateur, techniques d’amélioration de la couleur, systèmes de surveillance par satellite, écrans personnels et professionnels, caméras pour tous les usages, depuis l’observation de la muqueuse des parois intestinales d’un ver marin vivant dans les fumées volcaniques d’une faille entre les plaques continentales jusqu’à la cartographie de l’hémisphère d’une planète, où qu’elle se situe dans le système solaire.
+
+» La vision, dans ce festin technologique, tourne à la gloutonnerie non contrôlée ; toute perspective cède devant une vision infiniment mobile, qui ne devient plus seulement mythique à cause du truc divin qui consiste à voir tout depuis nulle part, mais parce qu’elle a transformé le mythe en pratique ordinaire. Et comme le truc divin, cet œil baise le monde pour créer des monstres technos. »
+
+<p class="small text-right">Donna Haraway, «Savoirs situés : question de la science dans le féminisme et privilège de la perspective partielle»</p>
+</blockquote>
+
+Le truc divin, tour de passe-passe de Dieu ! N'est-ce pas la prémisse rhétorique et la promesse séduisante de la plupart des infographies ? D'exercer le regard à partir d'une perspective qui n'appartient à aucune personne, à aucun corps ? Notre appétit pour ce type de perspectives est féroce, {«glouton»,} comme le caractérise Donna Haraway.
+
+<https://farm1.staticflickr.com/370/31329881944_c161d158f8_o_d.png size=original legend="Voir le monde entier est un fantasme que Michel de Certeau appelait «l'œil totalisant», et Donna Haraway «le truc divin». Ci-dessus, la première photo de la planète entière, prise en 1967">
+
+Et pourtant, il existe des façons de procéder à des représentations plus responsables. Il existe des moyens pour «situer» le regard et le localiser dans des corps et des géographies concrètes. Les cartographes critiques, les artistes de la contre-cartographie, les pratiquants de cartographie participative et d'autres développent des expérimentations et des méthodes pour cela depuis des années et ont beaucoup à nous apprendre.
+
+{{{1. Inventer de nouvelles manières de représenter l'incertitude, l'extérieur, les données manquantes et les méthodes insatisfaisantes}}}
+
+Si les infographies — je ne parle pas ici des outils de recherche et d'exploration, mais des représentations publiques et populaires —  excellent à présenter des mondes entièrement contenus, elles ne savent pas représenter visuellement leurs limites. Où sont les lieux où l'enquête n'est pas allée, qu'elle n'a pas pu atteindre ? Comment les indiquer ? Comment représente-t-on les données manquantes ? Andy Kirk a fait cet [exposé remarquable sur le {design du rien}->https://www.youtube.com/watch?v=JqzAuqNPYVM], qui recense diverses manières de représenter l'incertitude et d'intégrer le zéro, l'absent et le vide. Comment encourager plus de designers à prendre ces méthodes en considération ? Peut-on demander à nos données qu'elles montrent aussi ce qui constitue leur extérieur ?
+
+ 
+
+<https://farm1.staticflickr.com/682/31329885004_fb1aa20b26_o_d.png size=original title="Map to Not Indicate, 1967, par le collectif artistique Art & Language" legend="La « carte où ne pas indiquer » ne représente que l'Iowa et le Kentucky, puis établit la liste des différents éléments qui ne sont pas représentés" credit="Collection Tate" link="http://www.tate.org.uk/art/artworks/art-language-terry-atkinson-map-to-not-indicate-p01357">
+
+Et au-delà des données manquantes : comment concevoir la provenance des données comme un champ entier de la visualisation de données — à l'instar du travail de {fact checking} et de vérification chez les journalistes? Est-il possible de lister et de représenter les informations qui n'ont jamais été collectées ? Peut-on identifier l'instrument erroné, celui dont tout le monde supposait qu'il marchait? Est-il possible d'avoir une critique des méthodes d'une étude, et de ne pas se borner à accepter les formats de fichiers CSV, JSON ou les interfaces de programmation telles qu'elles ont été établies ? On peut penser que ce n'est pas le travail des designers, que quelqu’un d'autre en amont aura pris la peine de faire cette enquête un peu barbante d'anthropologie des données. Mais si celles et ceux qui visualisent les données n'endossent pas cette responsabilité, qui le fera ?
+
+
+
+{{{2. Inventer de nouvelles façons de signaler l'économie matérielle derrière les données}}}
+
+Quelles sont les conditions matérielles qui ont rendu cette infographie possible ? Qui l'a financée ? Qui a collecté les informations ? Quel travail a été nécessaire en coulisses et comment la production de ce graphique s'est-elle déroulée ?
+
+Par exemple, le Public Laboratory for Open Technology and Science — un groupe de science citoyenne dont je fais partie — utilise une technique de cartographie consistant à suspendre une caméra à un cerf-volant où à un ballon pour collecter des photos aériennes. Un effet secondaire de cette méthode, adopté avec entrain par la communauté, est que la caméra capture aussi l'image des personnes qui collectent les images. On voit le corps des collecteurs des données, un objet généralement absent des représentations sous forme de produit fini.
+
+<https://farm1.staticflickr.com/548/31329879084_003ec1589c_o_d.png size=original legend="Extrait d'une note de recherche d'Eymund Diegal pour le Public Lab au sujet d'une cartographie des flux d'égouts dans le canal Gowanus, à Brooklyn. On remarque les gens sur les bateaux qui collectent les images et le câble qui les relie physiquement au ballon et à la caméra." link="https://publiclab.org/notes/eymund-diegel/12-18-2012/mapping-sewage-flows-gowanus-canal-after-sandy-flood-damages-sequel">
+
+Les infographies citent souvent les sources de données en légende mais il est possible de faire plus. Serait-il possible de problématiser visuellement la question de la provenance des informations ? Des intérêts derrière les « données » ? Des diverses parties prenantes ? Un fichier CSV ou un flux d'informations ne contient souvent aucune référence à ces éléments plus matériels, plus humains, qui sont pourtant essentiels pour comprendre le où, le pourquoi et le comment des données.
+
+Une façon de résoudre cette question pourrait être d'avoir, par défaut, ou d'aller chercher soi-même des métadonnées plus robustes et de mettre une priorité intentionnelle sur la représentation visuelle de ces métadonnées. L'objectif de ce type de visualisation ne serait plus seulement de montrer « ce que disent les données » mais aussi de montrer comment ces informations se connectent à des corps existants, des systèmes et des structures de pouvoir dans le monde au sens large, au-delà de ce qui est représenté.
+
+
+{{{3. Rendre possible le désaccord}}}
+
+Beaucoup d'infographies sont « interactives », au sens que l'on peut, à travers des filtres, des menus et des boutons, voir comment l'image se déplace et se modifie, d'une position stable à une autre. Ces méthodes sont puissantes pour plonger dans un monde contenu, fermé, qui consiste en une série de faits stables et d'images stables. Mais comme on le sait si on étudie les [guerres d'édition de Wikipedia->http://www.economist.com/blogs/graphicdetail/2013/08/daily-chart-1] ou les [controverses sur Google Maps->http://www.businessinsider.com/most-controversial-places-on-google-maps-2013-5], le monde ne se laisse pas si facilement mettre entre parenthèses, et les « faits » ne sont pas toujours ce qu'ils prétendent être.  
+
+Une manière de re-situer les visualisations de données pourrait être de les déstabiliser en rendant les désaccords possibles. Comment créer des manières de répondre aux données ? De mettre en question les faits ? De présenter des points de vue et des réalités alternatives ? De contester et même de saper les bases de l'existence de ces données et des méthodes par lesquelles elles ont été acquises ?
+
+Comment procéder ? Sachant que [la plupart des gens qui travaillent sur les données sont des hommes blancs->https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html], il s'agit simplement d'inclure des gens différents, avec des points de vue différents, dans la production des visualisations. Ainsi par exemple, le [Detroit Geographical Expedition and Institute->http://ourmaps.net/the-detroit-geographic-expedition-and-institute-dgei/] était né, à la fin des années 1960, d'une collaboration entre des géographes universitaires, dont les responsables étaient des hommes blancs, et des jeunes du centre ville de Detroit conduits par Gwendolyn Warren, une militante de la communauté noire de 19 ans.
+
+<https://farm1.staticflickr.com/720/31652599563_8f64b815ac_o_d.png size=original class=fullwidth title="Field Notes III: Geography of
+the Children of Detroit" legend="Warren et ses collègues utilisèrent cette carte pour illustrer le besoin d'une « planification noire » qui permette aux citoyens noirs de prendre des décisions pour leur communauté." credit="Detroit Geographical Expedition and
+Institute, 1971.">
+
+Cette carte, intitulée « Where Commuters Run Over Black Children on the Pointes-Downtown Track », était technologiquement en avance sur son temps. Peut-être est-elle assez conventionnelle (à nos yeux) dans sa stratégie visuelle. Mais ce qui donne à cette carte son caractère dissident, c'est le titre, formulé par les jeunes Noirs qui ont produit la carte. « Où les banlieusards qui rentrent du boulot écrasent les enfants noirs ». Un titre qui n'est pas neutre. On est loin de « Localisation des accidents de la route dans le centre de Detroit », titre qui aurait probablement été donné à la carte si elle avait été élaborée par des consultants extérieurs employés par la ville. Mais du point de vue des familles noires dont les enfants avaient été tués, il ne faisait aucun doute que les enfants étaient noirs, les banlieusards blancs, et les événements décrits comme des «meurtres» plutôt que des «accidents».
+
+Si l'on peut intégrer la contestation dans le processus de production, peut-on aller plus loin et permettre aussi aux voix critiques de s'exprimer au sein du produit final ?
+
+<https://farm1.staticflickr.com/320/31652608973_28b7941806_o_d.png size=original fullwidth legend="Captures d'écran du site de Brooke Singer, ToxicSites.us, qui présente des cartes, des visualisations et des articles sur chacun des sites «superfund» aux États-Unis.">
+
+[ToxicSites.us->http://www.toxicsites.us/], un site web géré par Brooke Singer, met en ligne un rapport sur chacun des sites « superfund » — ces lieux répertoriés par le CERCLA, l'agence américaine en charge des [sites souillés par des déchets dangereux->https://fr.wikipedia.org/wiki/Superfund].
+
+Le site invite les contributeur·e·s à ajouter des reportages locaux, des images et des films qui documentent ces sites (et contredisent potentiellement les données), et cherche à faciliter l'organisation et le plaidoyer pour les efforts de nettoyage. Permettre de « répondre aux données » invite aussi à transformer la conversation en action.
+
+Le plus souvent, une visualisation est livrée d'en haut. Un·e designer expert·e ou une équipe dotée d'une connaissance spécialisée trouve des informations, applique ses recettes magiques et présente au monde un artefact, avec des manières très dirigées de l'observer et d'interagir avec lui. Peut-on imaginer une façon différente d'inclure des voix différentes dans la conversation ? Serait-il possible de produire à grande échelle des visualisations de données qui soient collectives, inclusives et qui intègrent le dissensus et la contestation? 
+
+{{{Pour aller plus loin}}}
+
+Les trois suggestions que nous venons de formuler pointent vers une éthique et une politique féministes de la visualisation de données. Que peut-on faire d'autre ? J'attends vos idées sur les autres aspects de la visualisation de données que nous pourrions repenser afin de la rendre plus située, plus féministe et, en fin de compte, plus responsable.
+
+<p class="text-right caps">↬ Catherine D'Ignazio</p>
+
+
+
+
+
+<quote>
+{{Références}}
+
+Michel de Certeau {The practice of everyday life,} University of California Press, Berkeley, 1984 (trad. par Steven Rendall). ({L'Invention du quotidien}, Gallimard, Paris, 1990.)
+
+Donna Haraway, “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective”, {Feminist Studies,} 14(3), 575–599  (1988). Traduction en français dans {Le Manifeste cyborg et autres essais. Sciences - Fictions - Féminismes,} éds. Laurence Allard, Delphine Gardey et Nathalie Magnan, Exils, Paris, 2007. La plupart des textes de Donna Haraway sont accessibles, avec leurs traductions, sur [->https://monoskop.org/Donna_Haraway].
+
+Denis Wood, John B. Krygier, {Critical cartography. The International Encyclopedia of Human Geography,} Elsevier (2009).
+</quote>
+
+
+--------------------------
+
+PS: Article traduit par Philippe Rivière. En mémoire de notre amie Nathalie Magnan, qui avait fait connaître Donna Haraway en France avec la [traduction du “Manifeste cyborg”->https://monoskop.org/Donna_Haraway].
+
+Vous pouvez nous écrire à l'adresse [contact@visionscarto.net->mailto:contact@visionscarto.net] ou à [@kanarinka->https://twitter.com/kanarinka] sur Twitter, pour faire avancer la conversation.
+
+
+--------------------------
+
+LANG: fr
+
+
+
+
+--------------------------
+Visionscarto - version du 23 janvier 2017 12:52

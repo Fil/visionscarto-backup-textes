@@ -95,6 +95,11 @@ La distance représentée ainsi, avec ses graduations, c’est la route, le voya
 PS: Si vous souhaitez réagir à cette contribution, ou simplement contacter l'auteur, vous pouvez le faire par courriel via [->contact@visionscarto.net]
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

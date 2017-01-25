@@ -25,6 +25,11 @@ TEXTE:
 PS: Photo de Philippe Rekacewicz - Si vous souhaitez utiliser ce document, nous vous invitons à nous contacter sur ce [mail->contact@visionscarto.net]
 
 
+--------------------------
+
+LANG: fr
+
+
 
 
 --------------------------

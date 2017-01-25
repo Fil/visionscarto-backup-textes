@@ -30,6 +30,11 @@ TEXTE:
 PS: If you would like to comment, use or contact the author, please use  [->contact@visionscarto.net]
 
 
+--------------------------
+
+LANG: en
+
+
 
 
 --------------------------
