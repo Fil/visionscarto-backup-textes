@@ -46,7 +46,7 @@ Et pourtant, il existe des façons de procéder à des représentations plus res
 
 {{{1. Inventer de nouvelles manières de représenter l'incertitude, l'extérieur, les données manquantes et les méthodes insatisfaisantes}}}
 
-Si les infographies — je ne parle pas ici des outils de recherche et d'exploration, mais des représentations publiques et populaires —  excellent à présenter des mondes entièrement contenus, elles ne savent pas représenter visuellement leurs limites. Où sont les lieux où l'enquête n'est pas allée, qu'elle n'a pas pu atteindre ? Comment les indiquer ? Comment représente-t-on les données manquantes ? Andy Kirk a fait cet [exposé remarquable sur le {design du rien}->https://www.youtube.com/watch?v=JqzAuqNPYVM], qui recense diverses manières de représenter l'incertitude et d'intégrer le zéro, l'absent et le vide. Comment encourager plus de designers à prendre ces méthodes en considération ? Peut-on demander à nos données qu'elles montrent aussi ce qui constitue leur extérieur ?
+Si les infographies — je ne parle pas ici des outils de recherche et d'exploration, mais des représentations publiques et populaires —  excellent à présenter des mondes entièrement contenus, elles ne savent pas représenter visuellement leurs limites. Où sont les lieux où l'enquête n'est pas allée, qu'elle n'a pas pu atteindre ? Comment les indiquer ? Comment représente-t-on les données manquantes ? [Andy Kirk->https://twitter.com/visualisingdata] a fait cet [exposé remarquable sur le {design du rien}->https://www.youtube.com/watch?v=JqzAuqNPYVM], qui recense diverses manières de représenter l'incertitude et d'intégrer le zéro, l'absent et le vide. Comment encourager plus de designers à prendre ces méthodes en considération ? Peut-on demander à nos données qu'elles montrent aussi ce qui constitue leur extérieur ?
 
  
 
@@ -129,4 +129,4 @@ LANG: fr
 
 
 --------------------------
-Visionscarto - version du 23 janvier 2017 12:52
+Visionscarto - version du 25 janvier 2017 15:07

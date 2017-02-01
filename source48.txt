@@ -15,12 +15,7 @@ AUTEUR:
 TEXTE:
 
 |{{Titre :}}| Transport maritime : routes principales et routes alternatives |
-|{{Mots-clés :}} | #Transport
-#Transport_maritime
-#Arctique
-#Piraterie_maritime
-#Eurasie
-#Rapport_piraterie_maritime |
+|{{Mots-clés :}} | #Transport #Transport_maritime #Arctique #Piraterie_maritime #Eurasie #Rapport_piraterie_maritime #Corridors #Corridor_multimodal |
 |{{Apparition(s) :}} | Prévue pour le rapport [«UNOSAT Global Report on Maritime Piracy - a geospatial analysis 1995-2013»->http://www.unitar.org/unosat/piracy] mais finalement non publiée |
 |{{Auteur :}} | Philippe Rekacewicz |
 |{{Date de création :}} | Janvier 2014 |
@@ -45,4 +40,4 @@ LANG: fr
 
 
 --------------------------
-Visionscarto - version du 7 février 2015 13:11
+Visionscarto - version du 30 janvier 2017 21:04
