@@ -16,11 +16,11 @@ TEXTE:
 
 |{{Titre :}}| Opérations de maintien de la paix en 2015 et principaux contributeurs (2005-2015) |
 |{{Mots-clés :}} | #Guerre #Conflits #Frontières #Paix #Nations_unies #ONU |
-|{{Apparition(s) :}} | Cette carte a été présentée à la conférence [Planetary Security->http://www.planetarysecurity.nl/] à La Haye aux Pays-Bas (2-3 novembre 2015). |
+|{{Apparition(s) :}} | Cette carte a été présentée à la conférence [Planetary Security->https://www.planetarysecurityinitiative.org/] à La Haye aux Pays-Bas (2-3 novembre 2015). |
 |{{Auteur :}} | Philippe Rekacewicz |
 |{{Date :}} | 2015 |
 
-<https://farm1.staticflickr.com/595/22950245532_6d67be4f88_k_d.jpg size=original class=fullwidth>
+<https://farm1.staticflickr.com/582/32551721041_6eac103305_k_d.jpg size=original class=fullwidth>
 
 
 #ressources_pédagogiques
@@ -31,12 +31,7 @@ TEXTE:
 PS: Si vous souhaitez commenter, utiliser ce document ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 18 novembre 2015 10:24
+Visionscarto - version du 24 août 2017 10:24

@@ -1,0 +1,41 @@
+
+--------------------------
+
+TITRE:
+Respiration planétaire
+
+--------------------------
+
+AUTEUR: 
+- Nadieh Bremer
+
+
+
+--------------------------
+TEXTE:
+
+|{{Titre:}}| A Breathing Earth (Respiration planétaire) |
+|{{Mots-clés:}} | #Art #Couleurs #Végétation #Cycles #Terre #d3.js |
+|{{Autrice:}} | Nadieh Bremer |
+|{{Date de création:}} | Mai 2017 |
+
+<blockquote>Observez la Terre “respirer” au cours de sa rotation annuelle. Tous les organismes vivants dépendent de ces cycles dans la croissance des plantes: pour se nourrir, pour l'oxygène qu'ils respirent, etc. Et si nous autres humains avons commencé à modifier ces cycles, il faut espérer que ce spectacle continuera à faire partie de notre vie pour les millénaires à venir.”</blockquote>
+
+En exploitant des [données->https://www.star.nesdis.noaa.gov/smcd/emb/vci/VH/index.php] de l'administration américaine des Océans et de l'Atmosphère (NOAA), la spécialiste de la visualisation de données Nadieh Bremer a concu cette magnifique image de la “respiration de la planète”, qui fait apparaître le cycle saisonnier de la croissance des plantes.
+
+<https://farm5.staticflickr.com/4171/34730124775_79bdd9209d_h_d.jpg size=original link=http://www.datasketch.es/april/code/nadieh/ title="A Breathing Earth" legend="Cliquer pour afficher la version animée" credit="Nadieh Bremer, 2017">
+
+<blockquote>La variable visualisée sur cette carte s'appelle “verdeur” (greenness), ou en termes plus scientifiques l'indicateur de végétation de différence normalisée (NVDI). La “verdeur” peut servir à estimer la naissance et la sénescence de la végétation, le début de la saison agricole et autres phases phénologiques (autrement dit, récurrentes). Dans les zones sans végétation (désert, haute montagne etc), les valeurs affichées correspondent aux conditions de surface.”</blockquote>
+
+Dans [un article détaillé sur datasketch.es->http://www.datasketch.es/april/code/nadieh/] Nadieh indique aussi comment elle a réglé le défi technique consistant à animer 50~000 points de données dans le navigateur Web.
+
+
+--------------------------
+
+PS: Pour nous contacter, n'hésitez pas à nous écrire à l'adresse [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 26 mai 2017 10:37

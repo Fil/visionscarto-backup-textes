@@ -16,7 +16,7 @@ TEXTE:
 
 |{{Titre :}}| Djihadisme, conflits et interventions étrangères au Sahel |
 |{{Mots-clés :}} | #Djihadisme #Conflits #Guerre #Sahel #Afrique #Maghreb #France #États-unis |
-|{{Apparition(s) :}} | Cette carte a été présentée à la conférence [Planetary Security->http://www.planetarysecurity.nl/] à La Haye aux Pays-Bas (2-3 novembre 2015). |
+|{{Apparition(s) :}} | Cette carte a été présentée à la conférence [Planetary Security->https://www.planetarysecurityinitiative.org/] à La Haye aux Pays-Bas (2-3 novembre 2015). |
 |{{Auteur :}} | Philippe Rekacewicz |
 |{{Date :}} | Janvier 2016. |
 
@@ -30,12 +30,7 @@ TEXTE:
 PS: Si vous souhaitez commenter, utiliser ce document ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 22 janvier 2016 14:03
+Visionscarto - version du 24 août 2017 10:22

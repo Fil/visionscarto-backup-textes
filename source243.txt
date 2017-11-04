@@ -15,7 +15,7 @@ AUTEUR:
 TEXTE:
 
 |{{Titre :}}| Dessin - Les planètes. |
-|{{Mots-clés :}} | #Graphisme #Art #Sémiologie_graphique #Ombre #Étude_graphique #Contraste #Couleur #Dessin |
+|{{Mots-clés :}} | #Graphisme #Art #Sémiologie_graphique #Ombre #Étude_graphique #Contraste #Couleurs #Dessin |
 |{{Matériel :}} | Gouache et acrylique. |
 |{{Auteur :}} | Oskar Rekacewicz |
 |{{Date de création :}} | 2015 |
@@ -28,12 +28,7 @@ TEXTE:
 PS: Pour nous contacter, n'hésitez pas à écrire à [->contact@visionscarto.net].
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 3 avril 2016 13:44
+Visionscarto - version du 30 avril 2017 21:50

@@ -12,7 +12,7 @@ AUTEUR:
 --------------------------
 
 CHAPO:
-En 1923, la publication d'une série de figures montrant l'évolution de la construction de logements et la production de produits laitiers constitue le premier acte d'un projet que le philosophe et économiste Otto Neurath (1886-1945) mènera toute sa vie : trouver une manière efficace de représenter des données statistiques grâce à un langage visuel concis. Un demi-million de visiteurs se pressèrent à l'hôtel de ville de Vienne (Autriche) pour l'exposition «~Aménagement urbain, quartiers communautaires et jardins familiaux~» où étaient présentées ces figures. Il y était suggéré que la façon dont les jardins et quartiers de Vienne s'étaient développés au cours des cinq années précédentes préfigurait une nouvelle manière de cultiver, et surtout de distribuer la nourriture en milieu urbain. C'est à travers l'architecture, l'urbanisme et la planification urbaine qu'Otto Neurath s'est passionné pour la cartographie statistique et la visualisation des données basée sur l'utilisation de pictogrammes.
+En 1923, la publication d'une série de figures montrant l'évolution de la construction de logements et la production de produits laitiers constitue le premier acte d'un projet que le philosophe et économiste Otto Neurath (1882-1945) mènera toute sa vie : trouver une manière efficace de représenter des données statistiques grâce à un langage visuel concis. Un demi-million de visiteurs se pressèrent à l'hôtel de ville de Vienne (Autriche) pour l'exposition «~Aménagement urbain, quartiers communautaires et jardins familiaux~» où étaient présentées ces figures. Il y était suggéré que la façon dont les jardins et quartiers de Vienne s'étaient développés au cours des cinq années précédentes préfigurait une nouvelle manière de cultiver, et surtout de distribuer la nourriture en milieu urbain. C'est à travers l'architecture, l'urbanisme et la planification urbaine qu'Otto Neurath s'est passionné pour la cartographie statistique et la visualisation des données basée sur l'utilisation de pictogrammes.
 
 <h4 class="text-right">{par Sophie Hochhäusl}</h4>
 <h5 class="text-right">Doctorante en histoire de l'architecture et de l'urbanisme, université Cornell (État de New-York).</h5>
@@ -159,12 +159,7 @@ Près d'un siècle après Otto Neurath, on peut se demander s'il ne serait pas t
 PS: Si vous souhaitez commenter cet article, contribuer avec des informations complémentaires ou simplement contacter l'auteure (en anglais ou en allemand); vous pouvez utiliser l'adresse courriel [->contact@visionscarto.net]
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 3 mars 2016 08:38
+Visionscarto - version du 17 octobre 2017 21:20

@@ -17,7 +17,7 @@ TEXTE:
 |{{Titre :}}| Seconde guerre mondiale - L'empire du Japon s’étend... |
 |{{Mots-clés :}} | #Seconde_guerre_mondiale #sgm #Histoire
 #Japon #Asie #Empire_japonais
-#Chine #Asie_du_Sud_Est
+#Chine #Asie_du_sud-est
 #Colonisation |
 |{{Apparition(s) :}} | Dossiers et documents, Histoire au jour le jour, Le Monde. |
 |{{Auteur :}} | Philippe Rekacewicz |
@@ -34,12 +34,7 @@ TEXTE:
 PS: Si vous souhaitez contacter l'auteur, apporter une précision ou corriger une erreur, vous pouvez nous écrire en utilisant le mail  [->contact@visionscarto.net].
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 10 mai 2015 00:20
+Visionscarto - version du 3 mai 2017 10:30

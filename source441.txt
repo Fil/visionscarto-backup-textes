@@ -1,0 +1,93 @@
+
+--------------------------
+
+TITRE:
+Proyección Bertin (1953)
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+- Sylvain Lesage
+
+--------------------------
+
+CHAPO:
+Es la proyección estrella de la escuela cartográfica francesa. Creada por Jacques Bertin en 1953, está utilizada a diario por todos los cartógrafos que desean representar fenómenos a una escala global. Aquí presentamos una formula para reproducirla, no a través del dibujo, sino de un código informático.
+
+<h4 class=text-right>{investigación & desarrollo: Philippe Rivière}</h4>
+
+
+
+--------------------------
+TEXTE:
+
+<https://github.com/visionscarto/fonds-de-cartes/raw/master/images/visionscarto-bertin1953-simple.png size=original
+title="Proyección Bertin 1953, aproximada por nuestra formula">
+
+{Si busca un fondo de mapa para usar en sus proyectos, no descargue esa imagen: mejor ingrese a [nuestra página dedicada->440].}
+
+La proyección Bertin de 1953 se presenta bajo la forma de un dibujo, que viene con la explicación siguiente:
+
+<blockquote>{Proyección a compensación regional en la cual la compensación ya no es homogénea, sino buscada en una mayor deformación de los océanos, en beneficio de una menor deformación de los continentes.»}
+<p class="small text-right">Jacques Bertin, {Sémiologie graphique,} 1967.</p></blockquote>
+
+Se utiliza comúnmente para mapas geopolíticos, porque — como se lo enzeña en el Instituto de Estudios Políticos de París — {« [la] situación mundial de fin de guerra fría necesita una proyección que represente la menor distorción posible en el polo norte, lugar central de la conflictividad de ese periodo. La proyección de Jacques Bertin 1953 a compensación regional posee esta propiedad ».}
+
+Otra de sus propiedades contribuye a su interés científico, pero también estético: es una de las pocas proyecciones que preserva aproximadamente las superficies, sin por eso deformar los países de manera demasiada grotesca. Con la excepción notable de América del Norte, que se encuentra fuertemente « torcida » (razón por la cual no tuvo mucho éxito en lo Estados Unidos).
+
+Estas propiedades son, se sabe, irreconciliables. Es matemáticamente imposible extender una esfera (la superficie del globo terráqueo) sobre una superficie plana (el papel) sin crear {{tensiones elásticas}} (que impiden preservar las superficies — una propiedad que se llama {equivalencia}), {{torsiones}} (que impiden preservar los ángulos, o {conformidad}) o {{cortes}} (que impiden preservar las rutas).
+
+Entonces toda proyección plana resulta de un compromiso entre estas diferentes exigencias, y Jacques Bertin propone a lo largo de sus investigaciones varias soluciones, adaptadas a diferentes situaciones.
+
+<https://farm5.staticflickr.com/4350/36696907916_08fa1989c4_b.jpg size=original title="Algunas proyecciones y sus ventajas" credit="Jacques Bertin, {Sémiologie graphique,} edición de 1967">
+
+Su dibujo de 1953 (retomado aquí en {Sémiologie graphique}, página 295, esquema 13 [y nota 12, un error de dedo]) muestra la « visión », e indica el camino a seguir. Pero a la hora de los sistemas de información geográfica (SIG), tener un fondo de mapa en forma de dibujo resulta insuficiente. Para poder atribuir de manera automática valores a unas formas (por ejemplo, asignando un color a cada país, para hacer un mapa coroplético), se requiere de estas formas que sean nombradas, según un referencial estándar. Y si queremos posicionar datos georeferenciados en un fondo de mapa, se necesita que el fondo de mapa mismo esté georeferenciado.
+
+Para poder trabajar con esta proyección, necesitábamos encontrar su formula. Y, tras haber investigado, tuvimos que aceptar la evidencia: tal formula no existía.
+
+Anne Le Fur, cartógrafa-geógrafa y miembro del [Taller de creación cartográfica AFDEC->http://www.afdec-cartographie.fr/], ha sido alumna de Jacques Bertin. Nos explica: <blockquote>{El trabajo de Jacques bertin era dibujar, de manera artística y con mucho talento. (…) Jacques Bertin tenía un globo de vidrio transparente, sobre el cual había trazado una cuadrícula meridianos / paralelos. Y lo proyectaba, en el sentido literal de la palabra. Con diferentes ángulos de vista, proyectaba esta cuadrícula sobre un papel. No tenía nada de matemático. »}</blockquote>
+
+Callejón sin salida, entonces, en nuestra búsqueda de una formula. ¿Pero no erán suficientes los indicios para {crear} una formula que retomaría ese enfoque? Recapitulemos: teníamos el método « visual » de proyección {en el sentido propio}; la búsqueda de una deformación mínima en los continentes; la conservación de las superficies, sobre el continente… ¡y el dibujo!
+
+Luego de mucho haber tanteado en la niebla, dibujado y redibujado el mapa, la luz finalmente apareció. Partiendo de una proyección de Briesemeister, y [aplicándole algunas « deformaciones »->https://bl.ocks.org/Fil/5b9ee9636dfb6ffa53443c9006beb642], logramos obtener una superposición « aceptable » con el dibujo de Bertin, de tal forma que lo pudimos retomar y difundir desde entonces.
+
+Encontrará aquí [su formula->https://github.com/d3/d3-geo-projection/blob/master/src/bertin.js], bajo la forma de un script para la biblioteca [D3.js->http://d3js.org/]. (Ver la documentación de [d3-geo-projection->https://github.com/d3/d3-geo-projection#geoBertin1953].) Poneos a disposición de toda persona interesada este código y esta formula, bajo una licencia libre sin restricción.
+
+También puede [descargar fondos de mapa->440] realizados con esta proyección, en el formato SVG.
+
+No dude en utilizarla, y por adelanto le agradecemos por enviarnos una imagen de los mapas que producirá con ella, que sea en un ámbito escolar o profesional, o hasta para su afición — porque no hay nada más relajante que colorear un fondo de mapa con lápices de colores.
+
+<p class="caps text-right">↬ Philippe Rivière</p>
+
+~
+
+<small>{Con aportes de: [Anne Le Fur->http://www.afdec-cartographie.fr/]; [Mike Bostock->http://d3js.org/]; [Jason Davies->https://www.jasondavies.com/]; [Bruno Bergot->http://labo.eliaz.fr/article119.html]; [Christian Mercat->http://www.entrelacs.net/]; [Agnès Stienne->http://visionscarto.net/_agnes-stienne_]; [Philippe Rekacewicz->http://visionscarto.net/_philippe-rekacewicz_]. ¡Gracias!
+}</small>
+
+
+<h3 class="text-center">* * *</h3>
+
+~
+
+<quote>
+{{{Un desarrollo a seguir}}}
+
+Es muy posible que mejores formulas permitan obtener formas casi idénticas sobre los continentes, pero con menos defectos en los océanos. Trabajamos también en una solución (aproximada) del cálculo de la proyección inversa. Finalmente, sería muy útil transponer esta formula para otros software y lenguajes de programación. Entonces, la formula propuesta debe tender a mejorarse, y sus ideas son bienvenidas.
+</quote>
+
+
+
+--------------------------
+
+PS: Traducido por Sylvain Lesage. Le invitamos a comentar este artículo, a proponer mejoras o a enviarnos sus mapas a la dirección [->mailto:contact@visionscarto.net].
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- secondaire
+
+
+--------------------------
+Visionscarto - version du 1ro de octubre de 2017 10:46

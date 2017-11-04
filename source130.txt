@@ -1,0 +1,87 @@
+
+--------------------------
+
+TITRE:
+L'impact des méga-navires
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+- Philippe Rivière
+- Agnès Stienne
+- Olaf Merk
+
+--------------------------
+
+CHAPO:
+L'[International Transport Forum->http://www.internationaltransportforum.org/], une unité de recherche de l'OCDE, a publié en mai 2015 un rapport sur  « L'impact des méga-navires », piloté par Olaf Merk ([PDF->https://www.itf-oecd.org/sites/default/files/docs/15cspa_mega-ships.pdf]). Nous en reprenons ici les principaux graphiques, réalisés par {{Agnès Stienne}}, {{Philippe Rekacewicz}} et {{Philippe Rivière}}.
+
+
+
+
+--------------------------
+TEXTE:
+
+Cette analyse s'intéresse aux conséquences de la croissance constante de la taille des porte-conteneurs. Si le plus gros des navires en circulation en 2015 était capable de transporter jusqu'à 19~200 conteneurs, des bateaux de 21~000 conteneurs [seront livrés->https://www.joc.com/maritime-news/container-lines/mega-ships-drive-capacity-upgrades-across-three-alliances_20170905.html] dès 2017. Cette course au gigantisme, très récente puisqu'elle démarre à l'orée des années 2000, ne semble pas près de s'arrêter. Mais est-elle soutenable ?
+
+<https://farm1.staticflickr.com/276/18905774121_8d85306476_o_d.jpg size=original caption="Comment appréhender la taille des méga-navires?" fullwidth link>
+
+<https://farm4.staticflickr.com/3858/18715223970_4cbb78f2eb_o_d.jpg size=original caption="Croissance des navires de transport" fullwidth link>
+
+{(Le TEU, ou [équivalent vingt-pieds->https://fr.wikipedia.org/wiki/%C3%89quivalent_vingt_pieds], est l'unité de mesure de la taille des navires de transport.)}
+
+Les économies d'échelle invoquées pour construire toujours plus gros se heurtent à certains handicaps. Le nombre de ports en capacité de recevoir les porte-conteneurs au-delà d'une certaine taille est limité et il leur est impossible de franchir le canal de Panama.
+
+À l'échelle mondiale, les principales routes du transport maritime international représentent une ceinture entourant le globe à une latitude comprise entre 10° sud et 50° nord, elle court de l'Asie à l'Europe (méditerranéenne et du Nord), et de l'Asie de l'Est à la Californie.
+
+<https://farm6.staticflickr.com/5330/18715221648_65cf7978f9_o_d.jpg size=original caption="Capacité (en TEU)" fullwidth link>
+
+L'essentiel du trafic porte sur l'Europe et l'extrême Orient, où les ports principaux fournissent des services à une catégorie de navires de grande capacité, comme le montrent les cartes suivantes.
+
+<https://farm6.staticflickr.com/5519/18715237688_e05bac74d4_o_d.jpg size=original caption="Principaux ports d'Europe du Nord (pour les transporteurs reliant l'extrême Orient)" link>
+
+<https://farm1.staticflickr.com/407/18715231248_7999c002fe_o_d.jpg size=original caption="Principaux ports d'extrême Orient (pour la route de l'Europe)"  link>
+
+<https://farm6.staticflickr.com/5547/18905752941_b5fd381839_o_d.jpg size=original caption="Principaux ports de la Méditerranée (pour la route de l'extrême Orient)"  link>
+
+
+Les trois cartes ci-dessous montrent la durée moyenne de séjour des navires dans les principaux ports mondiaux, par type de navire. Les grands ports de commerce sont représentés par des surfaces proportionnelles au nombre de navires reçus chaque mois. (Les ports acceptant des méga-navires sont figurés par des carrés.)
+
+<https://farm1.staticflickr.com/403/18715181170_cb2cd949d9_o_d.jpg size=original caption="Temps de traitement moyen par port" fullwidth link>
+
+Zoomons sur les deux régions principales :
+
+<https://farm1.staticflickr.com/558/18905733171_cfd79fc85a_o_d.jpg size=original caption="Temps de traitement moyen par port (Extrême Orient)" fullwidth link>
+
+<https://farm5.staticflickr.com/4482/37510807780_53d416eabe_o.jpg size=original caption="Temps de traitement moyen par port (Europe)" fullwidth link>
+
+~
+
+L'exploitation des méga-navires est fortement ressentie sur le plan collectif — qu'il s'agisse de l'emploi des dockers, ou encore de l'impact sur les infrastructures portuaires. Quand un porte-conteneurs géant accoste pour charger ou débarquer une cargaison, toute la logistique portuaire se concentre, sur une courte durée, autour de ses besoins. La noria de trains ou de camions qui dessert ces ports se voit alors imposer un rythme particulièrement soutenu.
+
+<https://farm1.staticflickr.com/516/18905742121_dfd69f4750_o_d.jpg size=original caption="Taille moyenne des navires de transport" fullwidth link>
+
+L'étude de la «productivité à quai» détaille la distribution de la capacité de traitement des cargaisons dans les principaux ports mondiaux.
+
+<https://farm4.staticflickr.com/3703/18716712969_7a4e5e6c7e_o_d.jpg size=original caption="Productivité à quai" fullwidth link>
+
+
+Enfin, ces ports nécessitant des investissements conséquents sont de plus en plus gérés sous la forme de {joint-ventures} (co-entreprises) entre les grands opérateurs du secteur. La cartographie, presque abstraite, de ces accords, permet d'appréhender ce réseau industriel.
+
+<https://farm6.staticflickr.com/5512/18876756346_6724c413ff_o_d.jpg size=original caption="Joint-ventures" fullwidth link>
+
+{(Résumé rédigé par Visionscarto.)}
+
+
+--------------------------
+
+PS: Ces images ont été produites par Visionscarto pour le rapport de l'International Transport Forum de l'OCDE publié en mai 2015 et intitulé “The Impact of Mega-Ships” ([PDF->https://www.itf-oecd.org/sites/default/files/docs/15cspa_mega-ships.pdf]). Pour tout renseignement ou remarque, n'hésitez pas à nous écrire à l'adresse [->contact@visionscarto.net].
+
+En bandeau : Piet Mondrian, composition n° 11, 1913.
+
+
+
+
+--------------------------
+Visionscarto - version du 21 octobre 2017 12:34

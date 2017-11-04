@@ -72,11 +72,6 @@ PS: Cet article a été publié par {[CityLab->http://www.citylab.com/], The Atl
 Traduction pour Visionscarto : Jasmine Rivière-Poupon.
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------

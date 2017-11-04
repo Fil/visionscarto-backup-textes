@@ -29,12 +29,7 @@ Je viens de la coder pour la bibliothèque des projections géographiques avanc�
 
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 11 janvier 2016 15:59
+Visionscarto - version du 4 mai 2017 10:40

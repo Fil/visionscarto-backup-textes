@@ -28,12 +28,17 @@ Des ateliers et des ressources pour mieux connaître les outils — du crayon g
 
 Il y aura donc du SIG, du drone et du robot autant que d'esquisses crayonnées, d'œuvres d'art, de narration ou d'exploration de livres anciens.
 
-<h3 class="text-right">Philippe~Rekacewicz &~Philippe~Rivière
-<br /><small>animateurs du site Visionscarto</small></h3>
-
 Qui que vous soyez, nous vous invitons à venir à la rencontre de nouveaux domaines, à découvrir ces croisements entre représentation carto(graphique), art, science et politique.
 
 « Visionscarto » se veut, plus que tout, le lieu d’interaction et de rencontre des esprits curieux.
+
+Ce site n'existerait pas sans l'apport des autrices et auteurs qui acceptent de nous confier leurs œuvres ou leurs textes, ainsi que de celles qui  participent à l'élaboration, l'édition, la traduction et la correction de toutes les contributions. Nous remercions tout particulièrement à ce titre Cristina Del Biaggio et Agnès Stienne.
+
+Remercions aussi Arnaud Martin, qui vient de rafraîchir le site et lui a apporté des outils de navigation plus adaptés aux centaines de cartes et de billets proposés. 
+
+
+<h3 class="text-right">Philippe~Rekacewicz &~Philippe~Rivière
+<br /><small>animateurs du site Visionscarto</small></h3>
 
 
 --------------------------
@@ -41,12 +46,7 @@ Qui que vous soyez, nous vous invitons à venir à la rencontre de nouveaux doma
 PS: Pour nous contacter, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 23 avril 2016 15:27
+Visionscarto - version du 23 avril 2017 21:52

@@ -1,0 +1,92 @@
+
+--------------------------
+
+TITRE:
+Bertin Projection (1953)
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+--------------------------
+
+CHAPO:
+Created by Jacques Bertin in 1953, this projection was the go-to choice of the French cartographic school when they wished to represent phenomena on a global scale. We present a formula to reproduce and automate it by computer code.
+
+<h4 class=text-right>{research & development: Philippe Rivière}</h4>
+
+
+--------------------------
+TEXTE:
+
+<https://github.com/visionscarto/fonds-de-cartes/raw/master/images/visionscarto-bertin1953-simple.png size=original
+title="Bertin projection 1953, approached by our formula">
+
+{If you are looking for a base map for your projects, do not download this image: go instead to [our dedicated page->438].}
+
+The 1953 Bertin projection was originally presented in the form of a drawing which came with the following explanation:
+
+<blockquote>{Projection with regional compromise in which the compromise is no longer homogeneous but is modified for a larger deformation of the oceans, to give a lesser deformation of the continents.”}
+<p class="small text-right">Jacques Bertin, {Semiology of Graphics,} 1967 (translated by William J. Berg, 1983).</p></blockquote>
+
+It is commonly used for geopolitical maps, because -- as taught at Sciences-Po -- {“the end of the Cold War world situation requires a projection that presents the lowest possible distortion at the North Pole, a high point of conflict during this period. The projection of Jacques Bertin 1953 with regional compensation owns this property.”}
+
+Another property contributes to its scientific, but also aesthetic interest: it is one of the rare projections to preserve almost all surfaces, without distorting the countries in too grotesque a way. A notable exception is North America, which appears highly twisted. This is why this projection has little chance of success in the United States.
+
+These properties — preserving shape and preserving areas — are, as we know, irreconcilable. It is mathematically impossible to spread a sphere (the surface of the globe) on a flat surface (paper) without creating {{elastic stresses}} (which prevent preservation of surfaces - a property called {equivalence}), {{twists}} (which prevent preservation of angles, or {conformality}) or {{cuts}} (which prevent preservation of paths).
+
+Any flat projection is therefore a compromise between these dissonant demands, and during his research Jacques Bertin proposed several solutions, adapted to different situations.
+
+<https://farm5.staticflickr.com/4350/36696907916_08fa1989c4_b.jpg size=original title="A few projections and their advantages" credit="Jacques Bertin, {Sémiologie graphique,} 1967 edition">
+
+Bertin's 1953 drawing (reproduced here in {Semiology of Graphics}, page 295 of the French edition, figure 13) shows the “vision” and indicates the way forward. But in our time of geographical information systems (GIS), having a base map in the form of a drawing is no longer acceptable. In order to be able to automatically assign values to shapes (for example, by indicating one color per country, to make a choropleth), these shapes must be named according to a standard reference frame. And if you want to position geo-referenced data on a base map, this base must itself be geo-referenced.
+
+To be able to work with the Bertin projection, we had to find the formula t translate the drawing to the computer. And, after investigation, we had to face the obvious: such a formula did not exist.
+
+Anne Le Fur, cartographer, geographer and a member of the [AFDEC Cartographic Creation Workshop->http://www.afdec-cartographie.fr/], is a former student of Jacques Bertin. She explains:
+<blockquote>{Jacques Bertin's work was drawing, artistic and very talented. (...) Jacques Bertin had a transparent glass globe on which he had drawn a meridian / parallel grid reference. And he was projecting it, literally. With different angles of view, he projected this grid onto a paper. There was nothing mathematical about it.”}</blockquote>
+
+End of the line, then, in terms of the quest for a formula. But weren't the clues sufficient to {create} a formula that would take this approach? Let's recap: we had the “visual” projection method {in the literal sense}; the search for minimal distortion in continents; the preservation of areas on the continents... and the drawing!
+
+After much probing, drawing and redrawing the map, the light finally turned on. Starting from a Briesemeister projection, and [applying some “warping” to it->https://bl.ocks.org/Fil/5b9ee9636dfb6ffa53443c9006beb642], one ends up getting a “fairly good” superposition with Bertin's drawing, as it had been reproduced and diffused since then.
+
+You will find here [its formula->https://github.com/d3/d3-geo-projection/blob/master/src/bertin.js], coded for the [D3.js library->http://d3js.org/]. See the documentation of [d3-geo-projection->https://github.com/d3/d3-geo-projection#geoBertin1953]. We make this code and formula available to anyone interested in using it, under an unrestricted free license.
+
+You can also [download base maps->438] created with this projection, in SVG format.
+
+Do not hesitate to use them, and we thank you in advance if you would like to send us an image of the maps you produce with it, whether in a school or professional setting, or even for your hobbies -- because there is nothing more relaxing than drawing a map with colored pencils.
+
+<p class="caps text-right">↬ Philippe Rivière</p>
+
+~
+
+<small>{With precious help from: [Anne Le Fur->http://www.afdec-cartographie.fr/]; [Mike Bostock->http://d3js.org/]; [Jason Davies->https://www.jasondavies.com/]; [Bruno Bergot->http://labo.eliaz.fr/article119.html]; [Christian Mercat->http://www.entrelacs.net/]; [Agnès Stienne->http://visionscarto.net/_agnes-stienne_]; [Philippe Rekacewicz->http://visionscarto.net/_philippe-rekacewicz_]; [RJ Andrews->http://infowetrust.com/]. Merci!}</small>
+
+
+<h3 class="text-center">* * *</h3>
+
+<https://gateway.ipfs.io/ipfs/QmckNg7S5qiLHPGuutA7GKbg7jMiKFx6n6JSrti23DHDF6/2017-07/terre-projection-bertin/bertin-gray.jpg size=medium title="Images of the Earth made with this projection"  link="https://visionscarto.net/earth-bertin-projection">
+
+~
+
+<quote>
+{{{What's next}}}
+
+It is quite possible that better formulas can produce almost identical shapes on continents, but with fewer defects in the oceans. We are also working on an approximate solution for the inverse projection calculation. Finally, it would be useful to transpose this formula for other software and programming languages. We intend to improve the proposed formula. Your ideas are welcome. 
+</quote>
+
+
+--------------------------
+
+PS: We invite you to comment on this article, suggest improvements or send us your maps to [->mailto:contact@visionscarto.net].
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- secondaire
+
+
+--------------------------
+Visionscarto - version du 1 October 2017 10:44

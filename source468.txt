@@ -1,0 +1,41 @@
+
+--------------------------
+
+TITRE:
+Planets
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+
+
+--------------------------
+TEXTE:
+
+|{{Title:}}| Planets -- an experiment in #d3.js and #WebGL |
+|{{Keywords:}} | #space #projections |
+|{{Author:}} | Philippe Rivière |
+|{{Date:}} | October 2017 |
+
+<https://visionscarto.net/maps/planets/preview.jpg link=https://visionscarto.net/maps/planets/>
+
+
+
+
+
+--------------------------
+
+PS: This is a preview of our experiments with WebGL projections. Please email us [->contact@visionscarto.net] if you want to participate.
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- pas à la une
+- secondaire
+
+
+--------------------------
+Visionscarto - version du 18 October 2017 18:09

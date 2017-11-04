@@ -12,7 +12,7 @@ AUTEUR:
 --------------------------
 
 CHAPO:
-A 3.700 metros de altura, en la capital boliviana, al visitante rápidamente le falta el aire cuando sube las cincuenta gradas que llevan a la r00thouse, la gran casa que sirve de punto de encuentro para los militantes del software libre. Una bandera negra con calavera flota sobre la fachada rosada. Su color esta un poco pasado: ya son siete años que se instalaron aquí. El presupuesto muy escaso que logran juntar esta esencialmente dedicado para un proyecto estrella, la red mesh. En efecto, los hackers de La Paz sueñan en grande: desplegar, sobre toda la capital boliviana, un acceso internet público.
+A 3.700 metros de altura, en la sede de gobierno boliviano, al visitante rápidamente le falta el aire cuando sube las cincuenta gradas que llevan a la r00thouse, la gran casa que sirve de punto de encuentro para los militantes del software libre. Una bandera negra con calavera flota sobre la fachada rosada. Su color esta un poco pasado: ya son siete años que se instalaron aquí. El presupuesto muy escaso que logran juntar esta esencialmente dedicado para un proyecto estrella, la red mesh. En efecto, los hackers de La Paz sueñan en grande: desplegar, sobre toda la ciudad, un acceso internet público.
 
 <h4 class="text-right">{por Philippe Rivière}</h4>
 
@@ -99,12 +99,7 @@ _ {Foto del encabezado: vista sobre el Illimani desde la r00thouse.}
 PS: Si quiere reaccionar, contribuir, comentar, utilizar este texto o las imágenes, o simplemente contactar el autor, le invitamos a escribirnos mediante [->contact@visionscarto.net]
 
 
---------------------------
-
-LANG: es
-
-
 
 
 --------------------------
-Visionscarto - version du 26 de octubre de 2015 23:35
+Visionscarto - version du 16 de abril de 2017 21:41

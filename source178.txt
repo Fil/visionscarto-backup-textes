@@ -17,7 +17,7 @@ TEXTE:
 |{{Titre :}}| Moyen-Orient : géographie du chaos |
 |{{Mots-clés :}} | #Moyen-Orient #Proche-Orient #Syrie #Irak #Golfe #Israël #Palestine #Yémen #Afrique_de_l_est #Corne #Conflits #Guerre |
 |{{Apparition :}} | Dans plusieurs revues mensuelles.
-Carte présentée à la conférence [Planetary Security->http://www.planetarysecurity.nl/] à La Haye (Pays-Bas), les 2 et 3 novembre 2015|
+Carte présentée à la conférence [Planetary Security->https://www.planetarysecurityinitiative.org/] à La Haye (Pays-Bas), les 2 et 3 novembre 2015|
 |{{Auteur :}} | Philippe Rekacewicz |
 |{{Date de création :}} | 2009 mise à jour en 2010, 2013 et 2015 |
 
@@ -29,12 +29,7 @@ Carte présentée à la conférence [Planetary Security->http://www.planetarysec
 PS: Si vous souhaitez commenter, utiliser ce document ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 17 novembre 2016 15:49
+Visionscarto - version du 24 août 2017 10:24

@@ -35,11 +35,6 @@ TEXTE:
 PS: Cette carte nous a été confiée par notre amie madmeg ; si vous souhaitez l’utiliser, envoyez-nous un email. Et nous vous invitons à découvrir [le site de l'artiste->http://madmeg.org/] : une véritable mine aux trésors.
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------

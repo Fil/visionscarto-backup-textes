@@ -17,7 +17,7 @@ AUTEUR:
 TEXTE:
 
 |{{Titre :}}| Conflits et tensions politiques dans le Caucase en 2012|
-|{{Mots-clés :}} | #Caucase #Caucase-Sud #Caucase-Nord #Guerres #Conflits #Russie #Énergie |
+|{{Mots-clés :}} | #Caucase #Caucase-Sud #Caucase-Nord #Guerre #Conflits #Russie #Énergie |
 |{{Apparition(s) :}} | Atlas géopolitique du Caucase, Jean Radvanyi et Nicolas Beroutchachvili, Autrement, 2010. |
 |{{Auteur(s) :}} | Philippe Rekacewicz, sur la base de diverses esquisses élaborées avec Manana Kurtubadze et Jean Radvanyi |
 |{{Date :}} | Janvier 2012. |
@@ -35,12 +35,7 @@ PS: Si vous souhaitez commenter, utiliser cette carte, ou simplement contacter l
 
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 14 mars 2016 10:36
+Visionscarto - version du 7 juin 2017 17:44

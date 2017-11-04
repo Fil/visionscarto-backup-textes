@@ -188,11 +188,6 @@ size=medium link="http://visionscarto.net/seconde-guerre-mondiale-etats-unis-rec
 PS: Si vous souhaitez contacter les auteurs, apporter une précision, corriger une erreur, vous pouvez le faire en utilisant le mail  [->contact@visionscarto.net].
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------

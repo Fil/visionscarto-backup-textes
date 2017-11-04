@@ -45,11 +45,6 @@ NDLR: Les victimes haïtiennes ont porté l'affaire devant les tribunaux, afin d
 PS: Visionscarto a traduit ce projet en français, et contribué à diffuser ce travail dans la presse ({[Le Monde->http://abonnes.lemonde.fr/sciences/visuel/2014/11/14/les-chemins-du-cholera-pour-comprendre-l-epidemie-d-ebola_4523892_1650684.html?xtmc=cholera&xtcr=1]}, 14/11). Si vous souhaitez contacter l'auteure, republier cette carte ou la traduire dans d'autres langues, n'hésitez pas à nous écrire à [->contact@visionscarto.net].
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------

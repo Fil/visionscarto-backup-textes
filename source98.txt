@@ -373,11 +373,6 @@ PS: Si vous souhaitez commenter, utiliser le texte, ou simplement contacter l'au
 
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------

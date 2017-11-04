@@ -15,13 +15,7 @@ AUTEUR:
 TEXTE:
 
 |{{Titre :}}| Transport maritime par conteneurs en 2010  |
-|{{Mots-clés :}} | #Transport
-#Transport_maritime
-#Conteneurs
-#Arctique
-#Piraterie_maritime
-#Eurasie
-#Rapport_piraterie_maritime |
+|{{Mots-clés :}} | #Transport #Transport_maritime #Conteneurs #Arctique #Piraterie_maritime #Eurasie |
 |{{Apparition(s) :}} | Rapport [«UNOSAT Global Report on Maritime Piracy - a geospatial analysis 1995-2013»->http://www.unitar.org/unosat/piracy] |
 |{{Auteur :}} | Philippe Rekacewicz |
 |{{Date de création :}} | Décembre 2013 |
@@ -34,12 +28,7 @@ TEXTE:
 
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 7 février 2015 13:12
+Visionscarto - version du 30 avril 2017 21:58

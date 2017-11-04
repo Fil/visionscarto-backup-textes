@@ -232,11 +232,6 @@ Les recherches avec différentes combinaisons de mots clés donnent des résulta
 PS: Si vous souhaitez contacter l'auteur, apporter une précision, réagir à cette contribution, vous pouvez le faire en utilisant le mail  [->contact@visionscarto.net].
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------

@@ -59,11 +59,6 @@ Vous trouverez ci-dessous la présentation détaillée du projet et des infos co
 
 --------------------------
 
-LANG: fr
-
-
---------------------------
-
 MOTS-CLÉS: 
 - titre noir
 

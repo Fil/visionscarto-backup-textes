@@ -1,0 +1,93 @@
+
+--------------------------
+
+TITRE:
+La projection de Lee et ses paper toys
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+--------------------------
+
+CHAPO:
+Pour occuper un après-midi pluvieux, quoi de mieux qu'un petit bricolage avec ce globe tétraédrique, à découper et replier ? On sort les ciseaux et la colle, et il ne reste qu'à imprimer la planète sur quatre faces triangulaires…
+
+
+
+--------------------------
+TEXTE:
+
+<http://www.progonos.com/furuti/MapProj/Normal/ProjPoly/Foldout/Tetrahedron/Img/Z1/im2_IMG_0501A.jpg size=small link title="Tétraèdre" legend="Le pôle sud est au centre." credit="Photo: Carlos Furuti, 2014" right> Une fois réalisée la vue de référence (ci-contre) proposée par [Carlos Furuti->http://www.progonos.com/furuti/MapProj/Normal/ProjPoly/Foldout/Tetrahedron/tetrahedron.html], on a envie d'autres images. Comment les réaliser soi-même ?
+
+Le découpage de la planète en un tétraèdre ne pose pas de problème particulier : si on choisit le pôle sud comme centre de la face principale, le pôle nord forme alors le sommet opposé.
+
+La symétrie des faces impose que les trois autres sommets soient des points situés sur un même parallèle, à 120 degrés d'écart. Ce parallèle est délicat à calculer : il est situé sous l'équateur, à une distance du centre de la Terre égale à un tiers du rayon. D'où la formule mathématique {-arcsin}(⅓), soit une latitude de -19,5~degrés.
+
+Les sommets des quatre faces étant décidés, la sphère est découpée en quatre triangles sphériques, qu'il faut maintenant «aplatir» sur un triangle plan. La contrainte est la suivante : chacun des trois côtés, une ligne géodésique sur la sphère, doit être représenté par une ligne droite sur le plan. 
+
+
+<https://gateway.ipfs.io/ipfs/QmZZ9LA4b3BMnYG3nLUB1iKUMMEo3PhXezKhgtVfYWcw11/2017-08/planetes-lee/tetra%20paper%20planets%20-%20ian%20johnson.jpg size=medium title="Planètes de papier" credit="Ian Johnson" link>
+
+La solution la plus simple à ce problème est d'utiliser la formule [gnomonique->https://fr.wikipedia.org/wiki/Gnomonique] ; en effet celle-ci a la propriété de transformer {tous} les segments de géodésique en segments de droite, et donc en particulier nos trois segments. Cette solution a été publiée par le révérend A. J. Potter en 1925 ({The Geographical Teacher}, Vol. 13, No. 1, [PDF->http://www.jstor.org.sci-hub.cc/stable/40556441]). Hélas, comme on le voit ci-dessous, elle déforme fortement les angles et les surfaces.
+
+<https://bl.ocks.org/Fil/d5313cd939947169df5c37e896e5aa38>
+
+Une autre solution a été proposée en 1976 par Laurence Patrick Lee, dans le numéro spécial de {Cartographica} déjà évoqué pour [la projection de Cox->https://visionscarto.net/la-projection-conforme-de-cox]. Comme pour cette dernière, la projection choisie par Lee est {conforme}, c'est-à-dire qu'elle préserve les angles, et les formes géographiques sont donc bien plus fidèles et reconnaissables.
+
+<https://bl.ocks.org/Fil/c36ed66a4d50d77150712c80642a78d5>
+
+
+C'est cette projection que nous avons choisie pour nos modèles à découper (en français “paper toys”, en anglais paper models ou paper crafts), et implémentée pour [d3.js->https://d3js.org/]. Il faut noter que c'est la projection préférée de [Jason Davies->https://www.jasondavies.com/], co-auteur du module géographique et de nombreuses des projections de D3.  
+
+Dans l'aspect ci-dessous, on place le pôle sud au centre, ce qui met en évidence la continuité entre les océans de la Terre, et fait pointer le pôle nord vers le haut (donc plus pratique pour les papertoys).
+
+<https://bl.ocks.org/Fil/79d2073c50e02b1b4f74e3f330183581>
+
+
+Nous vous proposons ci-dessous plusieurs lunes — [Terre-1->https://fr.wikipedia.org/wiki/Lune], [Japet ou Iapetus->https://fr.wikipedia.org/wiki/Japet_(lune)], [Phobos->https://fr.wikipedia.org/wiki/Phobos_(lune)] — et planètes — [Terre->https://fr.wikipedia.org/wiki/Terre], [Jupiter->https://fr.wikipedia.org/wiki/Jupiter_(plan%C3%A8te)] et [Mars->https://fr.wikipedia.org/wiki/Mars_(plan%C3%A8te)] —, réalisées à partir d'images libres (Natural Earth) ou du domaine public (NASA). Et une carte du ciel.
+
+<p class="text-right caps">↬ Philippe Rivière.</p>
+
+
+{Pour d'autres paper toys, voir notre page “[Paper planets, and how to make them->https://visionscarto.net/paper-planets-and-how-to-make-them]”.}
+
+{{N'hésitez pas à nous envoyer les photos de vos réalisations, nous les signalerons ci-dessous :}}
+
+<https://ipfs.io/ipfs/QmS4NF9Bsf3La9Xi9g1xJsxD39pPpoRxT1uwMF1WTL4Ai6/2017-08/planetes-lee/jupiter%20-%20ian%20johnson.jpg size=medium link="https://photos.google.com/share/AF1QipMfYy8lEorkiYLHOQCgmCeQb0Fsvd95a6Lfw_yDKnY5__Zauh2XTb39oshpxA1fcA?key=NGdKV0pCcl9YdzhWeXZENUtNakFqVE5rSDR5Q3dB"
+title="Planet Papers (série photos)"
+credit="Pliage et photos : Ian Johnson (@enjalot)">
+
+<html><style>
+.classeur h3 {
+    position: relative;
+    left: 0px;
+    top: 0px;
+    transform: rotate(-60deg)translate(-100px,-24px);
+    z-index: 4;
+    text-align: left;}
+</style></html>
+<classeur|rep=projection-lee>
+
+
+<quote>
+{{{Quelques précisions techniques}}}
+
+{{Déformations.}} Parce qu'elle est conforme, la projection de Lee ne peut pas être équivalente, c'est-à-dire préserver les surfaces (les deux notions sont exclusives l'une de l'autre). Ici, les quatre pointes du tétraèdre sont des singularités, où la déformation de surface tend vers l'infini. Ce qui explique pourquoi, sur les fichiers ci-dessous, les pixels apparaissent de manière très visible au voisinage des quatre sommets, même quand l'image originale est de très haute définition.
+
+{{Implémentation.}} Pour écrire cette projection pour D3, nous nous sommes appuyés à nouveau sur les travaux de M. D. McIlroy, «Wallpaper Maps» ([PDF->http://www.cs.dartmouth.edu/~doug/wallpaper.pdf]), 2011. Chaque face est d'abord transformée par une projection stéréographique basée sur son centre, ce qui aplatit le triangle sphérique. Ce résultat intermédiaire est ensuite transformé par une fonction elliptique complexe appelée [fonction de Dixon->https://en.wikipedia.org/wiki/Dixon%27s_elliptic_functions], et dont McIlroy donne une méthode de calcul.
+
+
+</quote>
+
+
+--------------------------
+
+PS: Si cet article vous a plu, ou pour toute autre question, nous attendons vos remarques à l'adresse [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 28 septembre 2017 15:40

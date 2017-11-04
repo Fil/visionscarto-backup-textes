@@ -1,0 +1,119 @@
+
+--------------------------
+
+TITRE:
+Mony Hong, habité par la forêt
+
+--------------------------
+
+AUTEUR: 
+- Cristina Del Biaggio
+- Alberto Campi
+- Mony Hong
+
+--------------------------
+
+CHAPO:
+Dans le village de Leng Ness, dans la forêt tropicale cambodgienne, une rencontre inopinée avec un passionné cartographe, en lutte contre la déforestation et pour les droits des peuples autochtones. Mony Hong nous fera découvrir la région, ses cartes et son projet.
+
+<h4 class="text-right">{par Cristina Del Biaggio (texte), Alberto Campi (photos) et Mony Hong (cartes)}</h4>
+
+
+
+
+
+--------------------------
+TEXTE:
+
+<https://gateway.ipfs.io/ipfs/QmZ3t7RCLf5A6vchEeA3hBXUwz9FdVWXJBwSpMhtxZ3JvX/2017-07/mony/000_camb_18012017_12793_M.jpg size=original link title="Le dernier fabricant de couteaux de la région savoure une cigarette roulée avec du tabac cultivé dans ses champs." credit="Photo: Alberto Campi, 2017.">
+
+<blockquote>{S'il y a de l'espoir dans le monde, il ne se rencontre pas dans les salles de conférences sur le changement climatique ou dans les villes pleines de gratte-ciels. Il se trouve en bas, au ras du sol, dans les bras des personnes qui  bataillent chaque jour pour protéger leurs forêts, leurs montagnes et leurs fleuves, parce que les forêts, les montagnes et les fleuves les protègent.»}
+<cite>Arundhati Roy, {In marcia con i ribelli}, Guanda, 2012.</cite></blockquote>
+
+Mony ne cherche pas les touristes, les touristes viennent à lui. Nous aussi, on est allé vers lui, alors qu'il était assis dans notre hôtel à Sen Monorom, une contrée du nord-est du Cambodge. Une région difficile à atteindre il y a encore quatre ans lorsque les 127 km de route reliant Snuol à Gan Lung et financée par la Chine n'étaient pas encore terminés. Le monde d'avant la route, quand la petite ville était presque exclusivement accessible en avion, a laissé des traces : la piste d'atterrissage, désormais désuète, fait partie du paysage urbain.
+
+
+<https://farm5.staticflickr.com/4421/36488316200_171f5a98a8_o_d.png size=original link title="Sen Monorom et sa piste d'atterrissage surdimensionnée." credit="Capture d'écran Google Maps.">
+
+Mony sirote son café glacé, seul, assis à une grande table en bois massif. Déjà la veille au soir, il était assis à la même table. Ce petit hôtel est décidément son {Stammtisch}. Mony ne lâche pas des yeux son téléphone portable. Tout le monde ici, comme en Europe, est dépendant de cet objet. Mais Mony ne consulte pas les réseaux sociaux. Il parcourt son pays — grâce à Google Earth. Ce pays dont il connaît presque tous les recoins par cœur. Parfois, les cartes c'est lui qui les produit. Dans sa ville natale, des photocopies de la carte de Mony circulent, passant des mains des propriétaires d'hôtels à celles des touristes, gratuitement, et malgré le copyright.
+
+<https://gateway.ipfs.io/ipfs/QmZ3t7RCLf5A6vchEeA3hBXUwz9FdVWXJBwSpMhtxZ3JvX/2017-07/mony/003_hotel.jpg size=original link title="L'hôtel de Sen Monorom affiche la possibilité de se procurer la carte locale... dessinée par Mony Hong." credit="Photo: Alberto Campi, 2017.">
+
+Le panneau d'un hôtel de Sen Monorom annonce mettre à disposition une {local map} pour les touristes. C'est la carte dessinée à la main par Mony...
+
+<https://gateway.ipfs.io/ipfs/QmSyqiX3oCmdS5XW425V2quXHpPFjY2C1dfbZTvVyi2PkA/2017-07/mony/003%20Mony%20map%20forest.jpg size=original link title="Carte de localisation." credit="Photo: Alberto Campi, 2017.">
+
+Nous aussi l'avons reçue, la carte de Mony, et utilisée pour sillonner les environs de la petite ville qui, il y a dix ans encore, était nichée au milieu de la forêt tropicale. Aujourd'hui, des hectares sans fin de plantations — hévéas, manioc,  poivriers et anacardiers — ont supplanté les arbres séculaires, faisant ainsi disparaître les animaux sauvages et contraignant les peuples autochtones à (sur)vivre en se réfugiant à Sen Monorom.
+
+<https://gateway.ipfs.io/ipfs/QmZ3t7RCLf5A6vchEeA3hBXUwz9FdVWXJBwSpMhtxZ3JvX/2017-07/mony/004_poivre_camb_13012017_8994_M.jpg size=original link title="Plantation de poivriers à Sen Monorom" credit="Photo: Alberto Campi, 2017.">
+
+<https://gateway.ipfs.io/ipfs/QmZ3t7RCLf5A6vchEeA3hBXUwz9FdVWXJBwSpMhtxZ3JvX/2017-07/mony/005_caoutchouc_camb_16012017_10888_M.jpg size=original link title="Plantation d'hévéas" credit="Photo: Alberto Campi, 2017.">
+
+{« Le processus de déforestation,} m'explique Mony, {agit sur deux fronts : une déforestation à grande échelle, via l'achat de “concessions sur des terres” cédées par le gouvernement cambodgien en vue d'y développer des plantations; et une déforestation sélective, opérée par des habitant·es de la région, souvent issu·es de familles autochtones, qui choisissent les meilleurs arbres et les vendent aux scieries.»}
+
+Pour Kyle Frankel Davis et Kailiang Yu, de l'université de Virginie, la superposition des deux phénomènes, déforestation à grande et petite échelles, place le Cambodge parmi les trois premiers pays au taux de déforestation le plus élevé. Leur étude,  publiée  en 2015 dans [Nature Geoscience->http://www.nature.com/ngeo/journal/v8/n10/abs/ngeo2540.html], montre l'impact et l'urgence de sauver les zones forestières qui subsistent.
+
+Davis et al. ont ainsi calculé que, entre 2000 et 2012, 12,4% de la forêt qui existait au début du siècle avaient été cédés sous forme de {Economic land concessions} (ELCs) à des investisseurs nationaux ou étrangers. Soit une surface de plus de 2 millions d'hectares de terres : ou encore, 36% des terres agricoles.
+
+La région du nord-est du Cambodge, qui comprend la province du Mondulkiri, est parmi les plus touchées par la déforestation. Les auteurs s'alarment des conséquences de ces transactions foncières : {« Outre l'impact économique et social sur les communautés locales, il est à craindre que l'exclusion des anciens exploitants agricoles provoque une diminution des capacités de gestion de l'environnement. »}
+
+<https://gateway.ipfs.io/ipfs/QmZ3t7RCLf5A6vchEeA3hBXUwz9FdVWXJBwSpMhtxZ3JvX/2017-07/mony/006_coupe_bois_camb_18012017_12279_M.jpg size=original link title="Coupe de bois sélective dans la forêt" credit="Photo: Alberto Campi, 2017.">
+
+Les conséquences sociales désastreuses ont fait l'objet d'un documentaire, {Rubber in a Rice Bowl}, réalisé par les chercheur·es Helena Ziherl, Reto Steffen et Christophe Gironde en 2015 (le film est [disponible en ligne->https://www.youtube.com/watch?v=PEzp2e8WRP0]) : augmentation de la pauvreté ; perte des terres vendues à des investisseurs locaux ou étrangers ; substitution de la culture vivrière (riz) par la culture de produits d'exportation ; augmentation de la malnutrition ; émigration vers les villes de la région ou vers la capitale.
+
+C'est contre le {hold up} de la jungle et la paupérisation des populations touchées par la déforestation que lutte Mony, inlassablement. Son but : protéger un bout de forêt situé à quelques dizaines de kilomètres de Sen Monorom, une forêt qui l'habite, de jour comme de nuit. Une forêt dont il  a esquissé le territoire sur une carte:
+
+<https://gateway.ipfs.io/ipfs/QmZ3t7RCLf5A6vchEeA3hBXUwz9FdVWXJBwSpMhtxZ3JvX/2017-07/mony/008_map_community__by_mony.jpg size=original link title="Carte de Mony Hong du territoire qu'il espère voir transformé en aire protégée dédiée à l'écotourisme. Ce territoire se situe à quelques dizaines de kilomètres à l'est de la ville de Sen Monorom." credit="Auteur: Mony Hong, 2017.">
+
+Cette carte dessinée est omniprésente dans sa tête. Il peut se réveiller à trois~heures du matin si une question trouble son sommeil : comment créer une zone protégée, comment collecter l'argent pour sa mise en place et comment le répartir, comment dissuader les membres de la communauté de vendre le bois collecté dans la forêt, comment reconsidérer le travail des éléphants dans la communauté -- l'interdire ou l'encadrer ?-, ou encore à quel·le chef·fe de communauté parler en premier ?
+
+Mony sait que le temps est compté, que les bulldozers peuvent à tout moment faire leur apparition dans «sa» forêt. Il suffit qu'une grande entreprise passe un accord avec les autorités locales pour que le poivre ou le manioc remplace les essences tropicales, et que les animaux sauvages et les populations autochtones en soient chassés.
+
+Alberto Campi et moi avons suivi Mony dans «sa» forêt durant trois jours et deux nuits, en dormant chez les habitant·es. Dans le village de Leng Ness, nous avons pu ainsi discuter avec les membres de la communauté autochtone qui vit dans ce bout de terre.
+
+Mony nous a fait visiter le territoire où il compte implanter son projet d'écotourisme. Il s'agit d'une zone, située à une trentaine de kilomètres de Sen Monorom (voir carte ci-dessous), composée d'une dizaine de villages autochtones comptant environ 1~200~habitants appartenant au peuple Bunong, une minorité autochtone résidant sur les hautes terres du Cambodge. Nous avons rencontré les villageois et la cheffe de la communauté qui expriment du respect envers Mony et son projet, qui est désormais celui d'une communauté.
+
+<https://gateway.ipfs.io/ipfs/QmZ3t7RCLf5A6vchEeA3hBXUwz9FdVWXJBwSpMhtxZ3JvX/2017-07/mony/002_map_by_mony.jpg size=original link title="Localisation (en vert) de la zone que Mony veut sauver par rapport à la ville de Sen Monorom." credit="Dessinée par Mony Hong.">
+ 
+
+<p class="text-right caps">↬ Cristina Del Biaggio</p>
+
+<quote>
+{Pour entrer en contact avec Mony Hong :}
+
+-* [Sa page personnelle->http://www.mondulkiritourguide.com/] 
+
+-* [Son compte Facebook->https://www.facebook.com/profile.php?id=100000027611408&fref=ts]
+
+-* [La page de financement participatif ({crowdfunding}) en faveur du projet de Mony->https://www.generosity.com/community-fundraising/rainforest-eco-lodge-cambodia]
+
+
+
+Vous pouvez aussi écrire à l'adresse [->contact@visionscarto.net] pour toute demande de précisions.
+</quote>
+
+<https://gateway.ipfs.io/ipfs/QmagYk4rmsNZrr9w4kVcNJyuDtfykK1xbsVNYTeiJDmyrR/2017-07/mony/cheffe.jpg size=large link legend="Mony Hong présente à la cheffe du village et aux habitant·es les avancées dans le projet d'écotourisme. Les villageois·es sont enthousiastes à l'idée de pouvoir accueillir des touristes et partagent l'idée de Mony: l'arrivée d'étranger·es dans la forêt permettrait de combattre la déforestation et améliorer leurs conditions de vie. Les éléphants, dont le nombre est en train de diminuer drastiquement, pourraient également être protégés." credit="Photo: Alberto Campi, 2017.">
+<https://gateway.ipfs.io/ipfs/QmZ3t7RCLf5A6vchEeA3hBXUwz9FdVWXJBwSpMhtxZ3JvX/2017-07/mony/camb_18012017_12014_M.jpg size=large link legend="Mony Hong (chemise verte). À sa gauche, assis sur la dernière marche de l'escalier de sa maison: Sidorn Chann, maître de l'école du village." credit="Photo: Alberto Campi, 2017.">
+<https://gateway.ipfs.io/ipfs/QmZ3t7RCLf5A6vchEeA3hBXUwz9FdVWXJBwSpMhtxZ3JvX/2017-07/mony/camb_18012017_12044_M.jpg size=large link legend="Des élèves de l'école du village." credit="Photo: Alberto Campi, 2017.">
+<https://gateway.ipfs.io/ipfs/QmZ3t7RCLf5A6vchEeA3hBXUwz9FdVWXJBwSpMhtxZ3JvX/2017-07/mony/camb_18012017_12084_M.jpg size=large link legend="La carte du monde affichée dans l'école du village, composée de deux classes." credit="Photo: Alberto Campi, 2017.">
+<https://gateway.ipfs.io/ipfs/QmZ3t7RCLf5A6vchEeA3hBXUwz9FdVWXJBwSpMhtxZ3JvX/2017-07/mony/camb_18012017_12218_M.jpg size=large link legend="Leçon dans l'école du village." credit="Photo: Alberto Campi, 2017.">
+<https://gateway.ipfs.io/ipfs/QmZ3t7RCLf5A6vchEeA3hBXUwz9FdVWXJBwSpMhtxZ3JvX/2017-07/mony/camb_18012017_12706_M.jpg size=large link legend="La fabrication des couteaux" credit="Photo: Alberto Campi, 2017.">
+<https://gateway.ipfs.io/ipfs/QmZ3t7RCLf5A6vchEeA3hBXUwz9FdVWXJBwSpMhtxZ3JvX/2017-07/mony/camb_18012017_12749_M.jpg size=large link legend="À la tombée de la nuit, les jeunes du village cuisinent de la viande." credit="Photo: Alberto Campi, 2017.">
+<https://gateway.ipfs.io/ipfs/Qmcg9RAPBTHcpQTxD4m7Eyg36PLAg5AdBTY9pUyd3Txc5r/2017-07/mony/camb_18012017_12610_M.jpg size=large link legend="Les enfants du village." credit="Photo: Alberto Campi, 2017.">
+
+Voir aussi «[L’espoir dans une forêt cambodgienne->https://www.lacite.info/hublot/fevrier-2017]», {La Cité,} Genève, février~2017.
+
+<https://gateway.ipfs.io/ipfs/QmZ3t7RCLf5A6vchEeA3hBXUwz9FdVWXJBwSpMhtxZ3JvX/2017-07/mony/camb_19012017_13116_M.jpg size=large link legend="Lors de la réunion du village, proposée par Mony Hong pour parler du futur projet d'écotourisme, les participant·es sont recensé·es. La présence des personnes qui ne savent pas écrire est documentée par la prise des empreintes digitales." credit="Photo: Alberto Campi, 2017.">
+
+
+
+
+--------------------------
+
+PS: Vous souhaitez réutiliser ou commenter cet article ? N'hésitez pas à nous écrire à l'adresse [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 29 août 2017 07:50

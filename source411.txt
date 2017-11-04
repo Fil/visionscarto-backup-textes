@@ -1,0 +1,48 @@
+
+--------------------------
+
+TITRE:
+Tierra, proyección Bertin
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+
+
+--------------------------
+TEXTE:
+
+|{{Título:}}| Tierra, proyección Bertin |
+|{{Autor:}} | Philippe Rivière |
+|{{Fecha de creación:}} | 2 de mayo de 2017 |
+|{{Palabras clave:}} | #NASA #proyecciónes #Bertin #d3.js |
+|{{Aparición:}} | inédito |
+|{{Fuentes:}} | Imágenes fuentes: [Visible Earth, NASA->https://visibleearth.nasa.gov/view_cat.php?categoryID=1484], [Natural Earth->http://www.naturalearthdata.com/downloads/10m-raster-data/10m-gray-earth].
+Proyección: [Jacques Bertin (1953)->https://visionscarto.net/proyeccion-bertin-1953] por Visionscarto. |
+
+<https://gateway.ipfs.io/ipfs/QmciqTxicE1qkj3wESi5NjhrczGgSFBjoPEyBVCGA6LBhg/2017-07/terre-projection-bertin/bluemarble.jpg size=original title="Blue Marble" link>
+
+<https://gateway.ipfs.io/ipfs/QmciqTxicE1qkj3wESi5NjhrczGgSFBjoPEyBVCGA6LBhg/2017-07/terre-projection-bertin/modis.jpg size=original title="MODIS" link>
+
+<https://gateway.ipfs.io/ipfs/QmciqTxicE1qkj3wESi5NjhrczGgSFBjoPEyBVCGA6LBhg/2017-07/terre-projection-bertin/nightlights.jpg size=original title="Night Lights"  link>
+
+<https://gateway.ipfs.io/ipfs/QmckNg7S5qiLHPGuutA7GKbg7jMiKFx6n6JSrti23DHDF6/2017-07/terre-projection-bertin/bertin-gray.jpg size=original title="Gray Earth"  link>
+
+
+--------------------------
+
+PS: Traducción: Sylvain Lesage
+
+Para comentar, reutilizar estos documentos o ponerse en contacto con el autor, puede escribir a [->contact@visionscarto.net].
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- pas à la une
+
+
+--------------------------
+Visionscarto - version du 1ro de octubre de 2017 10:44

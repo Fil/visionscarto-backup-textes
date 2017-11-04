@@ -1,0 +1,76 @@
+
+--------------------------
+
+TITRE:
+Paper planets, and how to make them
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+--------------------------
+
+CHAPO:
+At the D3.js unconf this September in San Francisco, Visionscarto brought some paper planets. Nothing like “cut, fold, glue” to understand how map projections work, and how far they are from the true shape of the globe. Here's how we made them, and the PDF files to download and print if you want to play.
+
+<h4 class=text-right>{by Philippe Rivière}</h4>
+
+
+
+--------------------------
+TEXTE:
+
+<https://farm5.staticflickr.com/4436/36661413664_5e85ac8865_z_d.jpg>
+
+<https://farm5.staticflickr.com/4470/37370063891_8f76cba316_z_d.jpg>
+
+<https://farm5.staticflickr.com/4391/37370064881_055c43d3b1_z_d.jpg>
+
+<https://farm5.staticflickr.com/4473/36661414224_5941da99d1_z_d.jpg>
+
+The projections for these paper planets were chosen among those that one can cut and fold back into a polyhedron. They were:
+
+-- A [gnomonic cube->https://bl.ocks.org/Fil/14ddff5e46b6fe9341dae91c3c83304b], i.e. a cube holding a gnomonic projection on each face — based on [Enrico Spinielli->http://enrico.spinielli.net/]'s work;
+-- A conformal tetrahedron, our implementation of [L. P. Lee's projection->https://visionscarto.net/projection-de-lee];
+-- A butterfly projection, based on [Steve Waterman->http://www.watermanpolyhedron.com/]'s work (already available in d3); 
+-- The [Cahill-Keyes->http://www.genekeyes.com/] M-shaped projection, based on Mary Jo Graça's implementation, and ported to javascript by [Enrico->http://bl.ocks.org/espinielli/5689783];
+-- Buckminster Fuller's famous [Dymaxion Air Ocean->https://www.bfi.org/about-fuller/big-ideas/dymaxion-world/dymaxion-map] map, with a fresh implementation by us (to be published);
+-- Finally, a “Voronoi” projection, invented and implemented by us (to be published, maybe!).
+
+All these projections are based on d3.js's [geo module->https://github.com/d3/d3-geo] by Mike Bostock and Jason Davies. The most recent ones make use of the “clip-polygon” feature, originally created by Jason and [adapted to d3v4->https://github.com/d3/d3-geo-polygon] by us, that allows more types of polyhedral projections into [d3-geo-projection->https://github.com/d3/d3-geo-projection]. This work is in the process of being released.
+
+Public domain images of several planets and moons were projected: the [Earth->https://visibleearth.nasa.gov/view_cat.php?categoryID=1484], our Moon, Mars, Phobos, Iapetus, Saturn… To compute the actual projections, we used a custom script that, depending on the projection and the size of the images, needs up to 15 minutes to process. (We don't plan to release this script, but please contact us if you'd like to know more.)
+
+You can find the PDFs below, ready to print. Note however that they were made for large format (11”&times;17”) paper. Should you want to print them, don't do it at home -- visit a professional print shop (or [steal from work->https://stealfromwork.crimethinc.com/]), you'll get much better quality in ink and paper, and it will certainly cost less.
+
+Another option is to print on photo paper, which gives a very nice glossy result that is easy to fold, and the ink doesn't crack on the edges. However it can quickly become expensive for larger prints. (And if you are in San Francisco, please contact the [Unconf organizers->https://twitter.com/d3unconf], who might be able to give you a few pages from a secret stash.)
+
+{{[View and Download the files from archive.org->https://archive.org/details/PaperPlanets]}}
+
+<https://archive.org/download/PaperPlanets/1DymaxionBlueIapetus.jpg link=https://archive.org/download/PaperPlanets/1DymaxionBlueIapetus.pdf title="1. Dymaxion Blue and Iapetus" legend="Click to download PDF">
+
+<https://archive.org/download/PaperPlanets/2LeeJupiterPhobos.jpg link=https://archive.org/download/PaperPlanets/2LeeJupiterPhobos.pdf title="2. Lee’s tetrahedral projection -- Jupiter and Phobos" legend="Click to download PDF">
+
+<https://archive.org/download/PaperPlanets/3VoronoiCahill-keyes.jpg link=https://archive.org/download/PaperPlanets/3VoronoiCahill-keyes.pdf title="3. Cahill-Keyes (schematic) and Voronoi projections" legend="Click to download PDF">
+
+<https://archive.org/download/PaperPlanets/4LunaBlueckVoronoi.jpg link=https://archive.org/download/PaperPlanets/4LunaBlueckVoronoi.pdf title="4. Cahill-Keyes (blue Earth) and Voronoi projections, cubic Luna" legend="Click to download PDF">
+
+<https://archive.org/download/PaperPlanets/5DymaxionGrayLuna2.jpg link=https://archive.org/download/PaperPlanets/5DymaxionGrayLuna2.pdf title="5. Dymaxion gray, Lee's Luna" legend="Click to download PDF">
+
+<https://archive.org/download/PaperPlanets/6MarsButterfly.jpg link=https://archive.org/download/PaperPlanets/6MarsButterfly.pdf title="6. Cubic Mars, Butterfly Earth" legend="Click to download PDF">
+
+
+
+{{PS: }} Huge thanks to Ian and Siu-mei!
+
+
+--------------------------
+
+PS: Are you using these toys in an innovative, artistic, pedagogical way? We would be delighted to discover your work. Please email us at [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 28 September 2017 19:12

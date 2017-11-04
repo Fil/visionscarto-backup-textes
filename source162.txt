@@ -115,14 +115,9 @@ PS: Ce texte fait partie d'une recherche en cours sur [des terres et des territo
 
 --------------------------
 
-LANG: fr
-
-
---------------------------
-
 MOTS-CLÉS: 
 - titre blanc
 
 
 --------------------------
-Visionscarto - version du 17 octobre 2015 18:57
+Visionscarto - version du 3 mai 2017 00:03

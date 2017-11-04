@@ -38,11 +38,6 @@ PS: Interactive visualization developed by [World Nuclear Industry Status Report
 If you would like to comment or reuse this interactive map, or contact the authors, please email [->contact@visionscarto.net].
 
 
---------------------------
-
-LANG: en
-
-
 
 
 --------------------------

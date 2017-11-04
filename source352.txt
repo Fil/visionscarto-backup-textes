@@ -85,11 +85,6 @@ PS: Translation by the author revised by Alexander Cook.
 If you wish to comment on or reuse this report, or simply contact the author, please don't hesitate to send an email to [->contact@visionscarto.net]
 
 
---------------------------
-
-LANG: en
-
-
 
 
 --------------------------

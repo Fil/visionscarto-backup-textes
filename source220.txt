@@ -1,0 +1,94 @@
+
+--------------------------
+
+TITRE:
+Projection Bertin (1953)
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+--------------------------
+
+CHAPO:
+C’est la projection de choix de l’école cartographique française. Créée par Jacques Bertin en 1953, elle fait le quotidien de tous les cartographes qui souhaitent représenter des phénomènes à une échelle globale. Nous présentons ici une formule pour la reproduire par un code informatique, et non plus seulement par le dessin.
+
+<h4 class=text-right>{recherche & développement : Philippe Rivière}</h4>
+
+
+--------------------------
+TEXTE:
+
+<https://github.com/visionscarto/fonds-de-cartes/raw/master/images/visionscarto-bertin1953-simple.png size=original
+title="Projection Bertin 1953, approchée par notre formule">
+
+{Si vous cherchez un fond de carte à utiliser pour vos projets, ne téléchargez pas cette image : rendez-vous plutôt sur [notre page dédiée->254].}
+
+La projection Bertin de 1953 se présente sous la forme d'un dessin, qui vient avec l’explication suivante:
+
+<blockquote>{Projection à compensation régionale dans laquelle la compensation n’est plus homogène mais recherchée dans une plus grande déformation des océans, au bénéfice d’une moindre déformation des continents.»}
+<p class="small text-right">Jacques Bertin, {Sémiologie graphique,} 1967.</p></blockquote>
+
+Elle est couramment employée pour des cartes géopolitiques, car — comme on l’enseigne à Sciences-Po — {« [la] situation mondiale de fin de guerre froide nécessite une projection qui présente la plus faible distorsion possible au pôle nord, haut lieu de conflictualité de cette période. La projection de Jacques Bertin 1953 à compensation régionale possède cette propriété ».}
+
+Une autre propriété contribue à son intérêt scientifique, mais aussi esthétique : elle est une des rares projections à préserver à peu près les surfaces, sans pour autant déformer les pays de manière trop grotesque. À l’exception notable de l’Amérique du Nord, qui se trouve fortement « tordue » (raison pour laquelle elle n’a guère de chance de succès aux États-Unis).
+
+Ces propriétés sont, on le sait, irréconciliables. Il est mathématiquement impossible d’étaler une sphère (la surface du globe terrestre) sur une surface plane (le papier) sans créer des {{tensions élastiques}} (qui empêchent de préserver les surfaces — une propriété qu'on appelle {équivalence}), des {{torsions}} (qui empêchent de préserver les angles, ou {conformité}) ou des {{découpes}} (qui empêchent de préserver les chemins).
+
+Toute projection plane relève donc d’un compromis entre ces différentes exigences, et Jacques Bertin propose au cours de ses recherches plusieurs solutions, adaptées à différentes situations.
+
+<https://farm5.staticflickr.com/4350/36696907916_08fa1989c4_b.jpg size=original title="Quelques projections et leurs avantages" credit="Jacques Bertin, {Sémiologie graphique,} édition de 1967">
+
+Son dessin de 1953 (repris ici dans {Sémiologie graphique}, page 295, schéma 13 [et note 12, une faute de frappe]) montre la « vision », et indique la marche à suivre. Mais à l’heure des systèmes d’informations géographiques (SIG), avoir un fond de carte sous forme d’un dessin ne suffit plus. Pour pouvoir attribuer de façon automatique des valeurs à des formes (par exemple, en indiquant une couleur par pays, pour faire un choroplèthe), il faut que ces formes soient nommées, selon un référentiel standard. Et si l’on veut positionner des données géoréférencées sur un fond de carte, il faut que ce fond de carte soit lui-même géoréférencé.
+
+Pour pouvoir travailler avec cette projection, il nous fallait donc en trouver la formule. Et, après enquête, il a bien fallu se rendre à l’évidence : une telle formule n’existait pas.
+
+Anne Le Fur, cartographe-géographe et membre de l’[Atelier de création cartographique AFDEC->http://www.afdec-cartographie.fr/], est une ancienne élève de Jacques Bertin. Elle nous explique :
+<blockquote>{Le travail de Jacques Bertin était du dessin, artistique et de très grand talent. (…) Jacques Bertin avait un globe en verre transparent, sur lequel il avait tracé un carroyage méridiens / parallèles. Et il le projetait, au sens propre. Avec différents angles de vue, il projetait ce carroyage sur un papier. Ça n’avait rien de mathématique. »}</blockquote>
+
+Cul-de-sac, donc, pour ce qui est de la quête d’une formule. Mais les indices n’étaient-ils pas suffisants pour {créer} une formule qui reprendrait cette approche ? Récapitulons : nous avions la méthode « visuelle » de projection {au sens propre} ; la recherche d’une déformation minimale dans les continents ; la conservation des surfaces, sur le continent… et le dessin !
+
+Après avoir beaucoup tâtonné, dessiné et redessiné la carte, la lumière a fini par se faire. En partant d'une projection de Briesemeister, et [en lui appliquant quelques « déformations »->https://bl.ocks.org/Fil/5b9ee9636dfb6ffa53443c9006beb642], on finit par obtenir une « assez bonne » superposition avec le dessin de Bertin, tel qu'il a pu être repris et diffusé depuis lors.
+
+Vous trouverez ici [sa formule->https://github.com/d3/d3-geo-projection/blob/master/src/bertin.js], sous la forme d’un script pour la bibliothèque [D3.js->http://d3js.org/]. {Cf.} la documentation de [d3-geo-projection->https://github.com/d3/d3-geo-projection#geoBertin1953]. Nous mettons à la disposition de toute personne intéressée ce code et cette formule, sous une licence libre sans restriction.
+
+Vous pouvez aussi [télécharger des fonds de cartes->254] réalisés avec cette projection, au format SVG.
+
+N’hésitez pas à vous en servir, et nous vous remercions d’avance si vous voulez bien nous envoyer une image des cartes que vous aurez produites avec, que ce soit dans un cadre scolaire ou professionnel, voire même pour vos loisirs — car il n’y a rien qui détende plus que de colorier un fond de carte avec des crayons de couleur.
+
+<p class="caps text-right">↬ Philippe Rivière</p>
+
+~
+
+<small>{Avec le concours de: [Anne Le Fur->http://www.afdec-cartographie.fr/]; [Mike Bostock->http://d3js.org/]; [Jason Davies->https://www.jasondavies.com/]; [Bruno Bergot->http://labo.eliaz.fr/article119.html]; [Christian Mercat->http://www.entrelacs.net/]; [Agnès Stienne->http://visionscarto.net/_agnes-stienne_]; [Philippe Rekacewicz->http://visionscarto.net/_philippe-rekacewicz_]. Merci!
+}</small>
+
+
+<h3 class="text-center">* * *</h3>
+
+<https://gateway.ipfs.io/ipfs/QmckNg7S5qiLHPGuutA7GKbg7jMiKFx6n6JSrti23DHDF6/2017-07/terre-projection-bertin/bertin-gray.jpg size=medium title="Images de la Terre réalisées avec cette projection"  link="https://visionscarto.net/terre-projection-bertin">
+
+~
+
+<quote>
+{{{Un développement à suivre}}}
+
+Il est fort possible que de meilleures formules permettent d'obtenir des formes presque identiques sur les continents, mais présentant moins de défauts dans les océans. Nous travaillons aussi sur une solution (approchée) du calcul de la projection inverse. Enfin, il serait utile de transposer cette formule pour d'autres logiciels et langages de programmation. La formule proposée a donc vocation à s'améliorer, et vos idées sont les bienvenues. 
+</quote>
+
+
+--------------------------
+
+PS: Nous vous invitons à commenter cet article, à proposer des améliorations ou à nous envoyer vos cartes à l'adresse [->mailto:contact@visionscarto.net].
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- pas à la une
+- secondaire
+
+
+--------------------------
+Visionscarto - version du 19 octobre 2017 15:04

@@ -18,6 +18,8 @@ CHAPO:
 
 <h5> Ont contribué à cet ouvrage :<br>Alberto Campi, Alexandre Gillet, Jean-François Staszak , Jean-Baptiste Bing, Claire Camblain, Ruggero Crivelli, Hy Dao, Bernard Debarbieux, Cristina Del Biaggio, Juliet Fall, Frédéric Giraut, Allison Huetz, Clémence Lehec, Bertrand Lévy, Thierry Maeder, Jacques Michelet, Muriel Monnard, Raphaël Pieroni, David Pillonel, Anne Sgard, Estelle Sohier.</h5>
 
+<p>~</p>
+
 <h4 class="text-right">{Photos d’[Alberto Campi}->http://www.albertocampiphoto.com/]</h4>
 <h5 class="text-right">membre du collectif de journalistes indépendants [We Report->http://www.wereport.fr/]</h5>
 
@@ -187,12 +189,7 @@ Histoire à suivre...
 PS: Si vous souhaitez réagir, contribuer, commenter, utiliser ce texte, les images ou les cartes, ou simplement contacter les auteurs, vous êtes priés de contacter  [l'ambassade du Brozoufland->contact@visionscarto.net]
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 21 mai 2016 20:54
+Visionscarto - version du 28 mai 2017 16:05

@@ -15,7 +15,7 @@ AUTEUR:
 TEXTE:
 
 |{{Titre :}}| Dessin - Le clown. |
-|{{Mots-clés :}} | #Graphisme #Art #Sémiologie_graphique #Étude_graphique #Niveaux_de_lecture #Double_niveau_de_lecture #Couleur #Dessin |
+|{{Mots-clés :}} | #Graphisme #Art #Sémiologie_graphique #Étude_graphique #Niveaux_de_lecture #Double_niveau_de_lecture #Couleurs #Dessin |
 |{{Matériel :}} | Pastels gras. |
 |{{Auteur :}} | Oskar Rekacewicz |
 |{{Date de création :}} | 2015 |
@@ -28,12 +28,7 @@ TEXTE:
 PS: Pour nous contacter, n'hésitez pas à écrire à [->contact@visionscarto.net].
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 3 avril 2016 13:43
+Visionscarto - version du 30 avril 2017 21:50

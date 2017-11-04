@@ -1,0 +1,42 @@
+
+--------------------------
+
+TITRE:
+Cartogramme législatif
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+- François Sermier
+
+
+
+--------------------------
+TEXTE:
+
+|{{Titre :}}| Cartogramme législatif |
+|{{Auteurs :}} | Philippe Rivière et François Sermier |
+|{{Date de création :}} | 10 mai 2017 |
+|{{Mots-clés :}} | #France #élections #cartogramme #interactif |
+|{{Apparition :}} | {Bastamag,} sous le titre [« Législatives : quelles ambitions pour la gauche sociale et écologiste ? »->https://www.bastamag.net/Legislatives-la-carte-des-circonscriptions-ou-la-gauche-sociale-et-ecologiste] |
+|{{Sources : }} | Résultats électoraux : ministère de l'intérieur. |
+
+<https://farm5.staticflickr.com/4160/33825954704_cbc6a98971_h_d.jpg size=original link=https://www.bastamag.net/Legislatives-la-carte-des-circonscriptions-ou-la-gauche-sociale-et-ecologiste>
+
+Ce cartogramme permet de visualiser l'impact sur le premier tour des législatives de juin 2017, en France, d'une éventuelle — improbable ? — union des forces de gauche.
+
+Le calcul est basé sur l'hypothèse d'un report sur une candidature d'union des gauches des voix accordées à Jean-Luc Mélenchon et Benoît Hamon au premier tour de l'élection présidentielle. Quant aux voix données à Nicolas Dupont-Aignan, on considère qu'elles se reporteraient à égalité sur les listes Front national (FN, extrême-droite) et Les Républicains (LR, droite). Le tout se fait au prorata de la participation. En effet, le taux d'abstention joue un rôle crucial dans le fait qu'un·e candidat·e arrivé·e troisième (voire quatrième) au premier tour puisse ou non se maintenir au second : car pour cela il lui faut les suffrages de 12,5~% des électeurs et électrices {inscrites.}
+
+Ces hypothèses ne tiennent compte ni des particularités et personnalités locales, ni des dynamiques politiques qui se jouent dans l'intervalle entre les deux élections. Les calculs effectués ne prétendent donc pas prédire le résultat des législatives ; ils permettent cependant de mesurer l'enjeu d'une union ou désunion des forces {«de gauche sociale et écologiste»,} selon l'expression d'Ivan du Roy dans « [Législatives : comment éviter que les électeurs de Jean-Luc Mélenchon et de Benoît Hamon ne s’éparpillent, façon puzzle->https://www.bastamag.net/Legislatives-comment-eviter-que-les-electeurs-de-Melenchon-et-de-Hamon-ne-s] », article pour lequel cette carte a été conçue.
+
+
+--------------------------
+
+PS: Si vous souhaitez utiliser ce document ou contacter les auteurs, nous vous invitons à le faire via l’adresse contact@visionscarto.net ; un forum est également ouvert [sur le site de Bastamag->https://www.bastamag.net/Legislatives-la-carte-des-circonscriptions-ou-la-gauche-sociale-et-ecologiste].
+
+
+
+
+--------------------------
+Visionscarto - version du 15 mai 2017 09:23

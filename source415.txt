@@ -1,0 +1,381 @@
+
+--------------------------
+
+TITRE:
+Théodore Monod le Saharien
+
+--------------------------
+
+AUTEUR: 
+- Bruno Lecoquierre
+
+--------------------------
+
+CHAPO:
+Théodore Monod avait grand soif d'explorations, lesquelles se sont souvent effectuées dans des conditions climatiques et sanitaires extrêmes. Mais même s'il essayait de se surpasser, il ne cherchait jamais l'« exploit ». Il allait toujours jusqu’au bout... ou presque. {«Le Tanezrouft est un désert intégral, ignoré des indigènes eux-mêmes,} dira-t-il. {Il faut pourtant se décider à aller voir ce qu’il y a dedans, et, s’il n’y a rien, à aller voir qu’il n’y a rien, de façon à en être sûr.»}  
+
+<h4 class="text-right">{par Bruno Lecoquierre}</h4>
+<h5 class="text-right">Professeur à l’université du Havre.</h5>
+
+
+--------------------------
+TEXTE:
+
+Théodore Monod, disparu le 22 novembre 2000 à 98~ans, était un grand voyageur et un savant polyvalent : ichtyologue, géologue, botaniste et préhistorien. Professeur au Muséum d’histoire naturelle de Paris et directeur de l’Institut français d’Afrique Noire à Dakar (IFAN) de 1939 à 1965, il a aussi été un remarquable explorateur, menant plusieurs missions d’une grande témérité dans des régions sahariennes qui étaient encore inconnues des Européens au XXe~siècle.
+
+<https://farm4.staticflickr.com/3894/14887963156_42c5466250_o.jpg size=original title="Théodore Monod dans l'Adrar de Mauritanie (Oued Akerdil) en décembre 1998"
+credit="© Bruno Lecoquierre" right>
+
+Curieusement,  ce grand Saharien, que les journalistes avaient surnommé le « fou du désert », n’a été connu du grand public que très tardivement, lorsqu’un film de télévision réalisé par Karel Prokop (« Le vieil homme et le désert ») l’a rendu subitement médiatique en 1989. Théodore Monod avait alors… 87~ans et donnait l’image d’une sorte de patriarche, barbu et l’œil malicieux, la peau burinée par soixante-quinze années d’expéditions en milieu désertique. Devenu presque aveugle, il continuait pourtant à voyager et il effectua sa toute dernière mission dans l’Adrar de Mauritanie, entre le 6 et le 20~décembre 1998, à l’âge de 96~ans.
+
+Parmi les 124 voyages répertoriés dans sa carrière [[Bruno Lecoquierre, {Théodore Monod, étonnant voyageur}, {La Géographie}, n°~1504, mars 2002.]], beaucoup auraient pu être retenus. Mais ne sont évoqués ici que les itinéraires de ses principales missions d’exploration saharienne. En effet, le long voyage de seize mois dans l’ouest saharien en 1934-1935, la première traversée du Tanezrouft avec le lieutenant Brandstetter en 1936 et les quatre missions d’exploration au long cours à travers la Majabat al Koubra, entre 1953 et 1960, semblaient être les illustrations les plus évidentes de la « longue carrière » du voyageur Monod.
+
+Ces expéditions en font l’une des grandes figures de l’exploration saharienne du XXe~siècle, aux côtés de Conrad Kilian, Henri Lhote et de quelques officiers méharistes français qui ont parfois été de remarquables découvreurs.
+
+Les itinéraires reconstitués ici collent au plus près à la réalité des parcours de Théodore Monod, mais ils ont été simplifiés afin d’en rendre la lecture cartographique plus aisée. Les itinéraires de l’expédition 1934-1935 et de la traversée du Tanezrouft avaient été publiés par Théodore Monod dans {Méharées} en 1937 et les itinéraires des expéditions dans la Majabat al Koubra sont parus dans {L’émeraude des Garamantes} et dans {Majâbat al-Koubra}. Les uns et les autres étaient cependant peu lisibles sur le plan cartographique et il était utile de redessiner ces cartes pour les rendre plus accessibles. 
+
+{{{1934-1935 : l’Ouest saharien}}}
+
+Les années 1930 sont une période faste pour l’exploration saharienne. Le Sahara français est totalement « pacifié » après la prise de Tindouf en 1934 et la pratique de la razzia s’éteint au même moment. Dans son livre {Le sel du désert}, l’exploratrice française Odette du Puigaudeau évoque sa rencontre, en 1937, aux salines de Taoudenni, avec Sidi Mohammed El Aïssaoui, le dernier razzieur connu :
+
+<blockquote>
+
+{Moi, El Aïssaoui, j’ai mené trente-sept rezzou… Quand on décidait de faire un grand razzi, les R’Gueïbat donnaient les chameaux, les fusils et tout ce qu’il fallait, et quelques hommes aussi, mais c’était nous, les Touabir, qui arrangions toutes choses pour le mieux et qui conduisions les autres du Maroc au Sénégal et au Soudan, partout où il y avait de beaux chameaux et des esclaves vigoureux.»}
+
+</blockquote>
+
+El Aïssaoui mena son dernier rezzou en 1934 [[Bruno Lecoquierre, « Le Sahara, terre mythique d’exploration », 2001.]].
+
+<https://farm4.staticflickr.com/3899/14888409256_ebf30fd869_o.jpg size=original title="Expédition de 1934-1935">
+
+La très longue expédition que Théodore Monod va organiser en 1934 et 1935 dans tout l’ouest du Sahara n’est cependant pas la première pour lui. Deux missions l’avaient précédée : le voyage initiatique entre Port-Etienne [[Actuellement Nouadhibou, en Mauritanie. Ce premier voyage saharien de Théodore Monod est raconté dans {Maxence au désert}, Actes Sud, 1995.]]  et Saint-Louis du Sénégal, en 1923, et la mission Augiéras-Draper, entre Tamanrasset et Tombouctou, en 1927 et 1928. Monod avait aussi passé l’année 1929 dans l’Adrar Ahnet pour y effectuer son service militaire comme chamelier de 2e~classe dans la compagnie saharienne du Tidikelt-Hoggar. 
+
+Au départ de Saint-Louis, en mars 1934, l’explorateur trace les grandes lignes de son programme :
+
+<blockquote>
+
+{Je n’ai, officiellement, que deux points fixes pour encadrer mes pérégrinations futures : la région de Chinguetti, en Mauritanie, où il me faut rechercher une météorite géante, colossale, fabuleuse (cent mètres de long et quarante de haut, affirme l’informateur…), et celle d’Asselar, au Soudan [[Il s’agit du Soudan français, c’est-à-dire le Sahel. Asselar se trouve dans le petit massif du Timétrine, sur la bordure occidentale de l’Adrar des Iforas.]].}
+
+{Là, je dois reprendre l’étude du gisement où, en 1927, nous avions, mon collègue et ami M. Besnard et moi-même, la bonne fortune de pouvoir recueillir le précieux squelette d’un homme fossile. De Chinguetti à Asselar, il y a d’ailleurs plus de mille deux cents kilomètres à vol d’oiseau, donc infiniment davantage à “vol” de chameau… »}
+
+<small>Méharées – Explorations au vrai Sahara, 1937.</small>
+
+</blockquote>
+
+L’expédition va s’effectuer, comme toujours avec Monod, dans une configuration légère : six à dix chameaux (Ce sont en réalité des dromadaires, mais on parle de « chameaux » dans tout le Sahara) et trois à quatre chameliers. Il va aussi bénéficier de l’aide logistique constante – et parfois aussi de l’accompagnement – des militaires des compagnies méharistes françaises disséminées dans cet immense espace.
+
+Beaucoup plus que la recherche de la météorite de Chinguetti, qui était son principal argument de départ, les étapes les plus remarquables de ce long périple seront l’exploration du Guelb er Richat, dans le massif de l’Adrar, en Mauritanie, celle de la falaise de Tichit, dans la région de l’Aouker, en Mauritanie toujours, et les reconnaissances effectuées dans l’extrême nord du Mali, aux salines de Taoudenni et de Teghazza, et sur la bordure orientale de la Majabat al Koubra, de part et d’autre de la frontière actuelle entre la Mauritanie et le Mali. 
+
+Le Guelb er Richat est une curieuse formation géologique au nord-est de Ouadane, bien visible sur les photos de satellite ; elle présente un assemblage de falaises concentriques qui, vues de haut, font inévitablement penser à un impact de météorite. Cette région avait été sommairement décrite dès 1916 par les militaires français puis évoquée par Ernest Psichari dans son livre {Les voix qui crient dans le désert}, publié après sa mort en 1920 : 
+
+<blockquote>
+
+{Ouadane est à la porte d’une immense cuvette, étirée vers le nord-est, et tapissée d’herbes chères aux chameaux} [[Il s’agit ici de la dépression qui borde le Richat à l’ouest, entre l’enceinte extérieure de la formation et la falaise bordière du plateau de Chinguetti.]]{.»}
+
+</blockquote>
+
+Une première carte au 1/500~000e faisant mention du Richat avait été dressée en 1922 par le Service géographique de l’Afrique occidentale française. La structure, encastrée dans le plateau gréseux de Chinguetti, présente une altitude qui dépasse tout juste 500~mètres au centre mais s’étend sur près de 50~kilomètres de diamètre d’un bord à l’autre. Au sol, on n’en repère les structures circulaires et concentriques que parce que l’on sait qu’elles existent. Aucune exploration n’avait été menée dans ce site encore largement inconnu. Le premier, Théodore Monod va s’y aventurer, les 7 et 8 juillet 1934 ; il va décrire précisément la formation et s’interroger sur son origine. Les notes de son journal d’exploration démontrent que, dès sa première exploration [[{Cahier de récolte} n°~1 (13 mars au 9 août 1934). La retranscription de cette page du cahier provient de Bruno Lecoquierre, {Parcourir la Terre}, L’Harmattan, 2008. La version originale de cette page du journal de route s’y trouve aussi reproduite.]]de ce lieu où il reviendra si souvent par la suite, il en avait pressenti l’organisation générale : 
+
+<blockquote>
+
+{7 juillet – Marche 4h15-9h55. M’étant aperçu que mes ordres de la veille avaient été ou mal compris ou transgressés, je me suis dirigé droit sur le centre du Richat que nous étions en train de contourner et non pas de traverser par le milieu comme je le désirais. Nous avions campé dans le premier sillon (Juif  ou Zweïk – le petit juif étroit)~[[Juif ou Djouif : sillon, gouttière, dépression.]], de là, escalade de la 2e~crête (399 à 4h40), grès – descente dans le Juif el Alkham (356 à 4h50) – traversée par un Khenig la 3e~crête (pendage 10°) – descente dans le Juif dayet el guelb (grès tachetés ; premiers calcaires (gris) et  “brèches” calcaires) – traversée de la crête~4 (380 à 5h10) et descente dans le dayet el guelb ou dayet el mujram (d. de l’intestin), avec un admirable sol polygonal (335 à 5h25) – franchi une 5e~crête (grès à marques violettes) – un Juif sans nom (325 à 5h35) – une 6e crête large (362 à 5h45) – une dépression sans nom, pour attaquer ensuite le massif central (guelb er Richat), 385~m au point culminant à 6h35. Le centre topographique est occupé par une dépression entourée de guelbs ; un oued coupe le centre. Toute la partie centrale du Richat est faite de brèches calcaires, de silex rouges, de grès. Le tout probablement très métamorphisé. Mais nulle part n’apparaissent de roches éruptives. Au centre du guelb, plusieurs blocs de calcaires à “collenia” [[Collenia = stromatolithes.]], de taille intermédiaire entre celles d’Amder et celles d’hier. En somme le Richat est une gigantesque boutonnière ouverte dans le dhar, un dôme arasé faisant apparaître les termes inférieurs aux grès du dhar.»} 
+
+</blockquote>
+
+L’explication la plus couramment admise est qu’un dôme magmatique s’est formé là, sur un croisement de lignes de failles, il y a cent millions d’années environ, et s’est arrêté de croître avant que le dôme ne fût devenu volcan. Les vieux grès du cambrien soulevés par la surrection du dôme ont ensuite été le jeu des fractures et de l’érosion pour présenter ce système de cuestas concentriques qui donne aujourd’hui au Richat son caractère un peu mystérieux.
+
+Après une longue exploration du massif de l’Adrar, et sans avoir trouvé la météorite, l’explorateur prend enfin la route du sud pour gagner Tombouctou où il va pouvoir participer à l’{azalaï}, la grande caravane qui monte chercher le sel aux mines de Taoudenni. Au pied de la falaise qui domine de 300~mètres la vaste dépression sablonneuse de l’Aouker, Théodore Monod atteint Tichitt le 14 septembre 1934 :
+
+<blockquote>
+
+ {Tichitt. Battu sans répit des vents – et de quels vents ! à décorner les antilopes plus de deux cents jours l’an, noyant tout dans la poussière, le sable, le gravier, vous emprisonnant d’un mur blanchâtre, opaque…}
+
+{[…] Le village vit de sa sebkha où l’on recueille, à la surface du sol, une croûte de sel impur que viennent chercher pour l’alimentation de leur bétail, les gens du Hodh et du Sahel. Ils paient en nature, aux habitants de Tichit, le sel qu’ils emportent, leur laissant, par charge du chameau, deux francs cinquante de marchandises (mil, beurre, feuilles de baobab, thé, sucre, etc.).}
+
+{[…] A Tichitt, je séjournai sept jours ; c’est depuis mon départ d’Aleg, avec un arrêt de quatre jours à Atar, mon repos le plus long. J’arrive d’ailleurs fatigué, fiévreux, un peu humilié, et surtout légèrement alarmé, de cette défaillance physique, quand le plus rude, avec les grandes randonnées de l’hiver, est encore à faire. Suffirai-je aux sept mois d’efforts qui m’attendent ? Pour l’instant, j’utilise de mon mieux l’arrêt à Tichitt : collections préhistoriques, gravures rupestres et, surtout, enquête sur la langue azzer}[[{Méharées}.]]{.»}
+
+</blockquote>
+
+Théodore Monod arrive à Tombouctou le 25 octobre pour en repartir le 29 avec l’{azalaï} :
+
+<blockquote>
+
+{Trois mille chameaux vont monter à Taoudenni pour y charger des barres de sel. En interminables files, comme autant de tronçons d’un serpent géant, se déplaçant à la surface du sol d’un mouvement lent et continu – une vraie progression de mille pattes – l’azalaï se glisse d’abord entre les derniers acacias du sahel… »}
+
+</blockquote>
+
+Il est à Taoudenni le 18 novembre et décide de pousser, en compagnie d’un détachement du groupe nomade du Timétrine [[Léonce Joleaud, « Journal de la Société des Africanistes », 1935.]], jusqu’aux anciennes salines de Teghazza  [[Les salines de Taoudenni furent mises en exploitation par les Songhaï en 1585 pour remplacer celles de Teghazza qui étaient revendiquées par le sultan du Maroc (Capot-Rey, 1953). La grande piste transsaharienne qui aboutissait à Oualata fut alors déviée vers Tombouctou.]]où, comme il le note dans {Méharées}, ne l’avaient précédé que deux civils : Ibn Battoutah en 1352 et René Caillié en 1828. Revenu à Taoudenni, il s’associe au groupe nomade d’Araouane, composé de quatre militaires français  [[Dont le capitaine Gufflet et le lieutenant Bruge.]]et de quelques « tirailleurs soudanais » : {« Des mois durant, nous avons erré à travers les solitudes de l’Erg Chech, de l’Azlef, du Hank, du Lemriyé, paysages sans formes et sans couleurs, plaines, regs, dunes, regs, plaines dunes, et ainsi de suite} [[{Méharées}]]{.»} 
+
+Le tracé (simplifié) de l’itinéraire sur la carte illustre l’invraisemblable appétit de découverte de l’explorateur et de ses compagnons, dans des conditions climatiques parfois très inhabituelles :
+
+<blockquote>
+
+{Quel drôle de temps : tonnerre toute la journée, il pleut moins qu’hier, mais ce matin, il y avait un brouillard épais, une véritable mer de nuages qui s’étendait à nos pieds dans la vallée (nous somme sur une colline) et de laquelle émergeait le sommet des dunes ! Des dunes dans une mer de nuages ! Que nous reste-t-il à voir ? Un tremblement de terre ? Un déluge ? Finirons-nous la traversée du Djouf} [[Le Djouf est l’ancien nom de la Majabat al Koubra. L’appellation Djouf  (ou « ventre » en arabe) avait été donnée à la dépression de Taoudenni par Heinrich Barth au XIXe~siècle, et par extension au vaste espace qui correspond à la Majabat ; le nom de Majabat al Koubra, ou « Etendue de la grande solitude », donné par Théodore Monod, est emprunté au chroniqueur arabe El Bekri (XIe~siècle).]]{en pirogue ? Il faut désormais s’attendre à tout et ne plus s’étonner de rien} [[{Ibidem}, journée du 8 février 1935.]]{.»}
+
+</blockquote>
+
+Les problèmes physiques ajoutent aussi à la difficulté de cette très longue expédition, comme en arrivant à Tinioulig (où se trouvent d’anciennes salines) :
+
+<blockquote>
+
+{Mauvaise journée : j’ai une saleté au pied, très douloureuse. Hier matin, j’ai voulu essayer de marcher, mais je n’ai pu tenir que deux heures. Aujourd’hui, toute l’étape à chameau : cela me vexe mais il n’y a vraiment pas moyen de faire autrement. En réalité, je ne puis plus marcher : hier, j’avais probablement un brin de fièvre. Pourvu que cela se tasse vite ! D’abord, cela m’empêche totalement de travailler ; ensuite cela risque de compliquer le voyage si je deviens un simple colis, et cela à la veille du grand raid final} [[« Les carnets de Théodore Monod », 1997, journée du 23 février 1935.]]{.»}
+
+</blockquote>
+
+Le grand raid final, c’est la jonction entre Tinioulig et Araouane, sur la bordure orientale de la Majabat al Koubra, soit une méharée de 600~kilomètres environ sans ravitaillement en eau (1er au 15~mars). 
+
+A Araouane, Théodore Monod quitte le groupement méhariste et poursuit sa route 400~kilomètres vers l’est afin de revoir le site d’Asselar, dans le massif du Timétrine, où il avait découvert un squelette fossile lors de la mission Augiéras-Draper de 1927. D’Asselar, il décide enfin de pousser dans l’Adrar des Iforas pour se rendre au camp du Groupe nomade du Timétrine où s’ébauche avec le lieutenant Brandstetter le projet de traversée du Tanezrouft, initialement prévu en conclusion de ce long voyage et qui sera finalement réalisé l’année suivante. Il ne reste plus qu’à rejoindre Tombouctou {« à travers un Azaouad calciné, à franchir en diagonale – quatre cents kilomètres – par une température maintenant torride}[[{Méharées}.]]{...»}
+
+Dans ses carnets, à la date du 10 avril 1935, l’explorateur résume les nombreuses difficultés physiques qu’il a rencontrées tout au long de son expédition :
+
+<blockquote>
+
+{Ce que j’aurai dégusté, quand même, au cours de ce voyage ! Rien de bien dramatique sans doute, pas de coup de sabre sur le crâne, pas de balle dans le ventre, mais une très solide accumulation de désagréments physiques des plus variés. »}
+
+</blockquote>
+
+Théodore Monod fait référence aux blessures reçues par l’explorateur anglais Alexander Laing lors de sa tentative pour atteindre Tombouctou en 1826, à la suite d’une attaque de Touaregs près de la guelta d’In Zize (à la limite entre l’Adrar Ahnet et le Tanezrouft).
+
+<blockquote>
+
+{Je ne serai pas mécontent, après pareille séance de mortification, de goûter un peu la « douceur du nid ». Mais nous sommes ainsi faits que le lendemain du jour où je serai descendu de chameau, pour de bon, à Tombouctou, et où j’aurai repris la vie « civilisée », je regretterai les libres et brutales chevauchées du désert et ne songerai qu’à remettre ça. »}
+
+</blockquote>
+
+{{{Le Tanezrouft}}}
+
+Le tracé de l’itinéraire de ce très long voyage de 1934-35 s’inscrit principalement dans deux régions sahariennes : la Mauritanie, de l’Adrar à l’Aouker, et le nord du Mali, de Tombouctou à Teghazza. En observant cet itinéraire sur la carte, on remarque qu’un vaste espace sépare les deux régions visitées : c’est la Majabat al Koubra à laquelle Monod s’attaquera dans les années~1950. Avant cela, c’est à un autre espace vide qu’il va s’intéresser, celui qui borde vers l’est les régions parcourues dans le Sahara malien : le Tanezrouft [[Les parties sur le Tanezrouft et la Majabat al Koubra sont inspirées de Bruno Lecoquierre, « Théodore Monod, étonnant voyageur », {La Géographie}, n°~1504, mars 2002.]]. 
+
+Rentré à Paris en juin 1935, Théodore Monod ne va pas y demeurer bien longtemps. Il débarque à Alger au début de novembre en compagnie d’Olga, sa femme, qui l’a accompagné jusqu’aux portes du Sahara. Le trajet se fait en voiture jusqu’à Reggane où l’attend le lieutenant Brandstetter qui sera son compagnon d’exploration. Mais avant d’attaquer le Tanezrouft, Monod veut compléter ses observations de l’année précédente. Il quitte donc Reggane à chameau en direction de Taoudenni puis prend la direction de Tindouf où il passe Noël :
+
+<blockquote>
+
+{Demain matin, quittant Tindouf, j’aurai devant moi plus de deux mille kilomètres de route, à pied et à chameau, de rudes étapes, des marches épuisantes, mais aussi de ces bons sommeils de bête fatiguée, quotidiens miracles de la nature qui vous amènent à l’aube en état de recommencer l’effort de la veille}[[{Méharées}]]{.»}
+
+</blockquote>
+
+Il est de retour à Taoudenni le 22 janvier puis retrouve Brandstetter à In Dagouber le 27 janvier :
+
+<blockquote>
+
+{In Dagouber, c’était, jusqu’à présent, l’extrême limite de la zone connue, vers le nord-est, en direction du Sud algérien. Au delà, le Tanezrouft, désert intégral, ignoré des indigènes eux-mêmes. Il faut pourtant se décider à aller voir ce qu’il y a dedans, et, s’il n’y a rien, à aller voir qu’il n’y a rien, de façon à en être sûr. »}
+
+</blockquote>
+ 
+<https://farm4.staticflickr.com/3915/14908335281_fc6989594c_o.jpg size=original title="Expédition du Tanezrouft.">
+
+La mission se compose de cinq personnes (Monod, Brandstetter et trois chameliers). Elle quitte In Dagouber – où se trouve le campement du Groupe nomade du Timétrine – le 3 février 1936 et se dirige tout d’abord vers le puits de Sobti :
+
+<blockquote>
+
+{Les adieux, à In Dagouber, ont été amicaux, mais entièrement dépourvus d’émotion. Sans doute n’y a-t-il guère lieu d’en manifester, ou du moins les Sahariens ne sont-ils pas gens à s’étonner aisément, à s’attendrir, à s’inquiéter. Pour eux, tout est si simple : à quoi bon s’émouvoir pour si peu ? »}
+
+</blockquote>
+
+A partir du 8 février, après le passage à Sobti (6~février), l’expédition va s’effectuer à marche forcée sur près de 500~kilomètres (les 10, 11 et 12~février, environ 59~kilomètres ont été parcourus dans la journée). Elle se termine le 14 à Ouallen, sur les contreforts de l’Adrar Ahnet. Monod, cependant, n’est pas satisfait des résultats géologiques et entreprend, avec l’aide supplémentaire de deux méharistes de la compagnie saharienne du Touat, une traversée « retour » plus septentrionale.
+
+Dans son livre {L’exploration du Sahara} paru en 1938, Henri-Paul Eydoux raconte ainsi cette deuxième traversée du Tanezrouft :
+
+<blockquote>
+
+{Cette fois, la marche fut accélérée ; on réussit à faire jusqu’à 66~kilomètres par jour. Partis le 19 février (en réalité, le départ eut lieu le 20 février), Monod et Brandstetter n’atteignaient un puits que le 1er~mars, hommes et bêtes étant épuisés. C’est ainsi que cent dix ans après que Laing y eut le premier pénétré, deux jeunes français avaient définitivement triomphé du Tanezrouft en le traversant dans sa plus grande largeur. »}
+
+</blockquote>
+
+L’expédition atteint le puits de Bir ed Deheb dans l’erg Chech le 1er~mars, puis Grizim le 6 mars – où le géologue découvre enfin le substratum et les stromatolithes qu'il poursuivait depuis In Dagouber – et revient ensuite au nord-est vers Adrar où la mission se termine le 19 mars.  
+
+<https://farm6.staticflickr.com/5565/14911393545_c6277ef206_o.jpg size=original title="Coupure de presse.">
+
+{{{La décennie Majabat}}}
+
+Après avoir passé plusieurs années à l’étude géologique de l’Adrar de Mauritanie, Théodore Monod décide, au début des années 1950, de se tourner vers un nouveau territoire d’exploration, la Majabat al Koubra :
+
+<blockquote>
+
+ {La géologie de l’Adrar se trouvait sommairement dégrossie et l’amateur, sa tâche achevée avec la publication de ses observations en 1952, devait céder la place aux spécialistes, aux vrais géologues. Où aller maintenant ?… Pourquoi ne pas regarder vers l’est où les plateaux gréseux de l’Adrar et du Tagant plongent sous des sables s’étendant sur un bon millier de kilomètres de long d’un seul tenant, jusqu’à ceux de l’erg Chech et de l’Azaouad, jusqu’à Araouane et Tombouctou ? Quelques 250~000~kilomètres carrés sans un point d’eau, un gigantesque no man’s land deviné mais encore pratiquement inexploré} [[{L’émeraude des Garamantes}, 1984.]]{.»}
+
+</blockquote>
+
+Six expéditions vont être montées en onze~ans, entre décembre 1953 et décembre 1964. Théodore Monod est âgé de 51~ans lorsqu’il entreprend cette série de reconnaissances. Fidèle à ses habitudes, il opte pour une organisation légère (deux chameliers et une caravane de cinq chameaux) et un régime dur (étapes longues, restriction de la nourriture et de l’eau). Il faut imaginer ce que pouvaient représenter de telles expéditions dans les années 1950, sans moyens de communication et, bien sûr, sans système de positionnement par satellite. La Majabat n’avait jamais été traversée dans le sens de la longueur et il n’existait pas de cartographie précise de cette immense contrée grande comme la moitié de la France où {« personne n’est venu depuis le néolithique ».} 
+
+<https://farm4.staticflickr.com/3868/14910593862_a2fd55867a_o.jpg size=original title="Expédition dans la Majabat al Koubra">
+
+Les quatre grandes expéditions à travers la Majabat qui ont été cartographiées ici ont été organisées entre deux « ports » sur la rive nord de la Majabat – et donc au sud du massif de l’Adrar (El Ghallâouîya et Ouadane) et deux « ports » sur les rives sud et est de la Majabat (Aratâne et Araouane). El Ghallâouîya sera deux fois port de départ et une fois port d’arrivée et Ouadane verra partir deux expéditions. Sur l’autre rive, Aratâne verra passer trois expéditions sur quatre et Araouane deux ; ces deux localités ne seront jamais des terminus et la quatrième mission les visitera successivement (Araouane puis Aratâne, avant de se terminer à Tichit). 
+
+<https://farm6.staticflickr.com/5552/14724389367_7d6589fce3_o.jpg size=original>
+
+Quoi qu'en dise l’auteur de {Majâbat al-Koubrâ}, qui argumente sur la question au risque de donner l’impression qu’il cherche à se justifier [[Voir, par exemple : {Majâbat al-Koubrâ}, page~16.]], les objectifs de ces expéditions étaient davantage du domaine de l’exploration que de celui de la recherche scientifique, car c’est un pays où {« il n’y a ni arbres, ni point d’eau, ni oued et très exceptionnellement un caillou} [[« Souvenirs sahariens d’un vieux géologue amateur », Mémoire de la Société Géologique de France, 1995.]]{»}. Ou peut-être étaient-ils surtout de l’ordre du cheminement personnel ? Il s’agissait d’aller au bout de soi-même et de ses possibilités physiques et psychiques, d’où la satisfaction et une certaine fierté qui transparaissent dans les récits de ces traversées au long cours. Mais ceux-ci expriment aussi l’extrême difficulté de la tâche entreprise et les nombreux moments de découragement.
+
+Ainsi, lors du premier voyage, au cours duquel les températures souvent froides (et parfois négatives) sont accentuées par le vent :
+
+<blockquote>
+
+{27-12-1953. Journée de misère : nuages, vent froid. Ailleurs on se plaindrait, et à juste titre. Ici, on fera semblant de trouver cela très normal et hautement divertissant. Effroyable monotonie : rien de romantique, pas d’oasis perdue, pas de palais enchanté mais tout de même un événement aujourd’hui : une crotte de chameau, aussi rassurante et annonciatrice que la colombe de Noé… Il y a donc une terre ferme quelque part et nous en approchons} [[{L’émeraude des Garamantes}, 1984.]]{.»}
+
+</blockquote>
+
+Ou encore, le 1er~janvier 1954 :
+
+<blockquote>
+
+{Les pieds vont mal. Cela devient gênant. Et les trois heures dix de marche de ce matin n’ont pas arrangé les choses. Pour la première fois, à l’arrivée, je me suis étendu, immobile et fatigué. Ce n’est pourtant pas le moment de s’écouter et de se prendre en compassion. La route est encore longue jusqu’à la maison…} [[{Tais-toi et marche…}, 2002.]]{.»}
+
+</blockquote>
+
+Arrivée le 1er janvier 1954 à Aratâne, la petite caravane repart aussitôt vers le nord-ouest en direction de Chinguetti. Elle atteint le 13 janvier le puits d’Oguilet en-Nemadi et y demeure une journée :
+
+<blockquote>
+
+{Arrivés au puits dans l’après-midi. “Au puits” est une façon de parler, en fait dans une cuvette où le voyageur a le droit de creuser un oglat} [[Un oglat (ou abankor dans le Hoggar) est un trou peu profond creusé dans une fond d’oued et dans lequel l’eau sourd.]]{dans le sable. Ce que nous avons fait. L’eau est abondante, un peu saumâtre, hélas. Mais c’est de l’eau et c’est ce qui compte.»}
+
+</blockquote>
+
+Chinguetti est atteinte le 20 janvier.
+
+Le deuxième voyage, plus long, sera aussi le plus dur. L’explorateur sait maintenant dans quoi il s’engage (toutes les citations qui suivent sont tirées de {L’émeraude des Garamantes}, 1984) :
+
+<blockquote>
+
+{J’ai commis l’imprudence, peu avant le travail au sol, de survoler le terrain : je n’aurais pas dû, j’en ai trop vu, j’en ai trop vu à la fois. Par terre, pardon, par sable, c’est plus miséricordieux : on n’en voit jamais qu’un petit bout simultanément et on peu arriver à s’imaginer que « c’est bientôt fini », mais de 1000~mètres d’altitude, le subterfuge devient impossible, et force est de se rendre à l’évidence : il y en a de cette saloperie de sable, d’un bout à l’autre, c’est pratiquement sans limites à l’échelle humaine : on est entré, car elle existe, bien que peu soupçonnée des citadins et des hyperboréens, dans la partie sableuse de la planète. »} 
+
+</blockquote>
+
+Pour diminuer les risques, un groupe d’accompagnement avec deux chameaux exclusivement chargés d’eau accompagne la caravane pendant les huit premiers jours :
+
+<blockquote>
+
+{19-12-1954. Ce matin à l’aube nous avons partagé l’eau : la petite équipe d’accompagnement (2~goumiers) est repartie pour l’Adrar, tandis que la tête de la fusée poursuit sa trajectoire ; 3~hommes, 5~chameaux, 2~tonnelets (30~litres), 6~bonnes guerbas (120~litres) et 2~médiocres (30~litres)… Il n’y a plus désormais qu’à foncer, tout droit, vers le puits qui se cache là-bas à une quinzaine de jours de marche, par-delà plus de 600~kilomètres de sable. »}
+
+</blockquote>
+ 
+La traversée sera terriblement éprouvante :
+
+<blockquote>
+
+{26-12-1954. Vent de sable et fatigue : ça devient monotone, je le sais, mais on n’y peut rien, c’est comme ça ; le temps semble se ralentir au fur et à mesure qu’on approche du but… J’ai toujours aussi soif et me mets à boire la nuit, une fois la lampe à carbure éteinte, les quelques centimètres cubes d’eau croupie qu’elle peut encore contenir… »}
+
+</blockquote>
+
+Et le 28~décembre 1954 :
+
+<blockquote>
+
+{Plus de 10~heures de route dans les pieds et dans le derrière. Vent, soleil et fatigue. Pas une gorgée de liquide entre 6~heures du matin et 6~heures du soir… Effroyable pays, même pour les bédouins, d’ailleurs stupéfaits de se découvrir en train de traverser une terra incognita, haut fait dont ils parleront longtemps sous la tente.»}
+
+</blockquote>
+
+L’arrivée sur Araouane (240~kilomètres au nord de Tombouctou), après vingt jours de traversée, sera hasardeuse :
+
+<blockquote>
+
+{1er~janvier 1955. Grande mauvaise journée : plus de 10~heures de route et toujours pas d’Araouane ! Alors, après la dérive des continents, celle des postes militaires ? Nous marchons toujours, la chaleur s’en mêle : il serait grand temps d’aboutir. Que je n’aime pas cette odeur de chameau échauffé ! »}
+
+</blockquote>
+
+La caravane a un peu dévié vers le sud et devra à des traces de chasseurs d’addax de retrouver la bonne direction le 3~janvier. Après deux jours passés à Araouane, il faudra pourtant repartir pour une nouvelle traversée d’environ 600~km  en direction du puits d’El Mrâyer, à 250~km à l’est d’El Ghallâouîya, où un rendez-vous a été fixé avec un détachement du goum de Chinguetti qui doit apporter de l’eau. Les deux caravanes y arriveront à une heure d’intervalle !
+
+La troisième expédition, plus courte, permet, à partir de Ouadane, de rejoindre Aratâne puis Ras el Ma, à l’ouest du lac Faguibine, en traversant l’aklé Aouana. Ce dernier s’avère difficile à franchir : 
+
+<blockquote>
+
+{Un aklé d’ondes courtes, bas, serré, maillant, reste décidément la pire des dunes… On passe quand-même, bien sûr, mais des jours et des jours d’aklé, c’est, physiquement et psychologiquement, très dur. »}
+
+</blockquote> 
+
+Avec la quatrième mission au départ d’El Ghallâouîya, Monod a le projet de progresser en suivant {« une ligne  brisée à cinq segments »} afin, explique-t-il, de {« battre davantage de terrain »}. Mais craignant {« un allongement un peu excessif du trajet et une navigation trop incertaine »}, il pique droit sur Araouane. Vingt-cinq jours et 800~kilomètres plus tard, la caravane erre sans savoir où elle est :
+
+<blockquote>
+
+{Le 15~janvier, après 25~jours de route, si nous ne sommes pas « perdus » – ce serait un bien grand mot – je dois avouer ignorer si nous nous trouvons au nord ou au sud d’Araouane.»}
+
+</blockquote>
+
+Finalement, avec 60~kilomètres d’erreur de navigation, l’explorateur touche au but le lendemain {« pour tomber sans vergogne sur un de ces riz au lait au chocolat qui comptent dans une vie ».}
+ 
+Les deux dernières missions ne seront pas des traversées – à ce titre, elles n’ont pas été reportées sur la carte. Elles seront consacrées à la recherche d’une « épave-dépôt » renfermant des baguettes de laiton et des cauris, sans doute abandonnée par une caravane en difficulté, à environ 300~kilomètres au sud-est d’El Ghallâouîya (approximativement au sud d’El Mrâyer). L’épave sera découverte lors du second voyage : {« La caravane malchanceuse venait sans doute du Sud marocain, elle datait à peu près du XIIe~siècle.»}
+
+Avec la Majabat, Théodore Monod a atteint le sommet de sa carrière saharienne et ceux qui l’ont côtoyé savent qu’il en parlait volontiers et qu’il ne cachait pas les difficultés rencontrées, même plusieurs dizaines d’années après. Beaucoup plus tard, en décembre 1993 et janvier 1994, sentant venir l’âge (il avait tout de même 91~ans !), il eut l’idée de repartir une dernière fois à chameau dans la Majabat :
+
+<blockquote>
+
+{Vu de l’extérieur, il ne paraissait pas extrêmement raisonnable, dirons-nous, qu’un voyage de ce type soit entrepris pas un vieillard de quatre-vingt-onze ans et qui voit mal. Le dernier point est secondaire puisque les pieds sont encore valides mais ces pieds marchent de façon un peu ralentie.»}
+
+</blockquote>
+
+Cette expédition se termina le 9~janvier 1994 à Ouadane. Ce jour-là, Théodore Monod descendit pour la dernière fois de chameau. Son dernier voyage eut lieu dans l’Adrar de Mauritanie, son « diocèse », en décembre 1998.
+
+<p class="text-right caps">↬ Bruno Lecoquierre</p>
+
+{{{Bibliographie}}}
+
+-- Euloge Boissonnade, {Conrad Kilian, explorateur souverain}, Editions France-Empire, 1971.
+
+-- René Caillié (1830), {Voyage à Tombouctou,} La Découverte/Poche, 1996.
+
+-- Robert Capot-Rey, {Le Sahara français,} PUF, 1953.
+
+-- Jean-Marc Durou, {L’exploration du Sahara,} Actes Sud, 1993.
+
+-- Henri-Paul Eydoux, {L’exploration du Sahara,} Gallimard, 1938.
+
+-- Henri-Paul Eydoux, {L’homme et le Sahara,} Gallimard, 1943.
+
+-- Emile-Félix Gautier, {Le Sahara}, Payot, 1950.
+
+-- Henri-Jean Hugot, {Le Sahara avant le désert}, Editions des 
+Hespérides, 1974.
+
+-- Jean-Claude Hureau, {Le siècle de Théodore Monod}, Parc National du Haut Niger (PNHN)/Actes Sud, 2002.
+
+-- Ibn Battutah (1355), {Voyages,} FM/La Découverte, Librairie François Maspero, 1982 (traduction française de Charles Defrémery et Beniamino Raffaelo Sanguinetti en 1858).
+
+-- Léonce Joleaud, « La mission Monod en Mauritanie et au Soudan », {Journal de la Société des Africanistes}, n°~5-2, 1935.
+
+-- Bruno Lecoquierre, « Le Sahara, terre mythique d’exploration », {Cahiers de sociologie économique et culturelle}, Le Havre : Institut de sociologie économique et culturel, n°~36, 2001.
+
+-- Bruno Lecoquierre, « Théodore Monod étonnant voyageur », {La Géographie}, Paris : Société de géographie, n°~1504 (mars 2002).
+
+-- Bruno Lecoquierre, « Un diocèse saharien. Le dernier voyage de Théodore Monod », {Eménir} (revue des amis des déserts et d’érémologie), n°~27 (premier semestre 2003).
+
+-- Bruno Lecoquierre, {Parcourir la Terre – Le voyage, de l’exploration au tourisme}, L’Harmattan, collection « Là-bas », 2008.
+
+-- Henri Lhote, {Dans les campements touaregs,} Amiot-Dumont, 1951.
+
+-- Henri Lhote, {A la découverte des fresques du Tassili}, Arthaud, 1973.
+
+-- Cyrille Monod, {Les carnets de Théodore Monod,} Pocket, 1997 et 1999.
+
+-- Théodore Monod, {L’Adrar Ahnet - Contribution à l’étude archéologique d’un district saharien,} Paris : Institut d’ethnologie, 1932.
+
+-- Théodore Monod, {Méharées}, Je sers, 1937.
+
+-- Théodore Monod, « De Tripoli à Tombouctou. Le dernier voyage de Laing », Paris, Société française d’histoire d’outre-mer, 1977.
+
+-- Théodore Monod, {L’émeraude des Garamantes}, Actes sud, 1984 et 1992.
+
+-- Théodore Monod, (avec Brigitte Zanda), {Le fer de Dieu – Histoire de la météorite de Chinguetti}, Actes Sud, 1992.
+
+-- Théodore Monod, {Maxence au désert,} Actes Sud, 1995.
+
+-- Théodore Monod, (avec Marc de Gouvenain), {Majâbat al-Koubra}, Actes Sud, 1996.
+
+-- Théodore Monod, {Tais-toi et marche… - Journal d’exploration, El Ghallaouya-Aratane-Chinguetti}, Actes Sud, 2002 (texte publié par Cyrille Monod).
+
+-- Odette du Puigaudeau (1936), {Pieds nus à travers la Mauritanie}, Phébus, 1992.
+
+-- Odette du Puigaudeau (1940), {Le sel du désert}, Phébus, 2001.
+
+-- Odette du Puigaudeau (1949), {Tagant}, Phébus, 1993.
+
+-- Pierre Rognon, {Biographie d’un désert – Le Sahara}, L’Harmattan, 1989 et 1994.
+
+
+--------------------------
+
+PS: Si vous souhaitez commenter, utiliser ce document ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 23 mai 2017 17:37

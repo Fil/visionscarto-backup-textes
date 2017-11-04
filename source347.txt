@@ -8,6 +8,8 @@ La ville de l'avenir sous le crayon des collégiens
 
 AUTEUR: 
 - Manon Boisseau, Léopold Marchand, Thomas Brault, Claire Kjerulf, Aela Guet, Agathe Prébet, Amaëlle Kelfoun, Elsa Masson, Élise Cocault, Lisa Paimparé
+- Olivier Godard
+- Marie Masson
 
 --------------------------
 
@@ -205,15 +207,10 @@ Toutes ces cartes racontent une histoire, l'histoire du monde tel que le voient 
 
 PS: Si vous souhaitez commenter, réutiliser ces documents, ou simplement joindre les auteur·es, n'hésitez pas à écrire à l'adresse [contact@visionscarto.net->mailto:contact@visionscarto.net].
 
-{Le bandeau représente un fragment d'une œuvre de l'artiste américain [Jerry Gretzinger->http://visionscarto.net/cartes-magiques-de-jerry-gretzinger], présenté au Palais de Tokyo à Paris en 2015.
-
-
---------------------------
-
-LANG: fr
+{Le bandeau représente un fragment d'une œuvre de l'artiste américain [Jerry Gretzinger->http://visionscarto.net/cartes-magiques-de-jerry-gretzinger], présenté au Palais de Tokyo à Paris en 2015.}
 
 
 
 
 --------------------------
-Visionscarto - version du 28 décembre 2016 00:43
+Visionscarto - version du 2 novembre 2017 10:32

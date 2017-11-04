@@ -1,0 +1,46 @@
+
+--------------------------
+
+TITRE:
+Terre, projection Bertin
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+
+
+--------------------------
+TEXTE:
+
+|{{Titre :}}| Terre, projection Bertin |
+|{{Auteur :}} | Philippe Rivière |
+|{{Date de création :}} | 2 mai 2017 |
+|{{Mots-clés :}} | #NASA #projections #Bertin #d3.js |
+|{{Apparition :}} | inédit |
+|{{Sources : }} | Images sources : [Visible Earth, NASA->https://visibleearth.nasa.gov/view_cat.php?categoryID=1484], [Natural Earth->http://www.naturalearthdata.com/downloads/10m-raster-data/10m-gray-earth].
+Projection : [Jacques Bertin (1953)->https://visionscarto.net/projection-bertin-1953] par Visionscarto. |
+
+<https://gateway.ipfs.io/ipfs/QmciqTxicE1qkj3wESi5NjhrczGgSFBjoPEyBVCGA6LBhg/2017-07/terre-projection-bertin/bluemarble.jpg size=original title="Blue Marble" link>
+
+<https://gateway.ipfs.io/ipfs/QmciqTxicE1qkj3wESi5NjhrczGgSFBjoPEyBVCGA6LBhg/2017-07/terre-projection-bertin/modis.jpg size=original title="MODIS" link>
+
+<https://gateway.ipfs.io/ipfs/QmciqTxicE1qkj3wESi5NjhrczGgSFBjoPEyBVCGA6LBhg/2017-07/terre-projection-bertin/nightlights.jpg size=original title="Night Lights"  link>
+
+<https://gateway.ipfs.io/ipfs/QmckNg7S5qiLHPGuutA7GKbg7jMiKFx6n6JSrti23DHDF6/2017-07/terre-projection-bertin/bertin-gray.jpg size=original title="Gray Earth"  link>
+
+
+--------------------------
+
+PS: Si vous souhaitez commenter, utiliser ces documents ou simplement contacter l'auteur, nous vous invitons à le faire via l’adresse contact@visionscarto.net
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- pas à la une
+
+
+--------------------------
+Visionscarto - version du 13 septembre 2017 01:10

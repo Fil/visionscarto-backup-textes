@@ -1,0 +1,75 @@
+
+--------------------------
+
+TITRE:
+Et flernasjonalt Ukraina
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+- Marianne Slotta
+
+--------------------------
+
+CHAPO:
+Siden starten av Ukrainakrisen har jeg sett mange kart som med varierende grad av kvalitet framstiller den ukrainske befolkningens flernasjonale karakter. Jeg har laget noen, men med litt frustrasjon fordi jeg kun hadde kilder som var for generelle og med dårlig geografisk lokalisering.
+
+<h4 class="text-right">{av Philippe Rekacewicz}</h4>
+<h5 class="text-right">geograf, kartograf og informasjonsdesigner</h5>
+<h5 class="text-right">Oversatt på norsk av Marianne Slotta (Arendal)</h5>
+
+
+
+
+--------------------------
+TEXTE:
+
+<H2>Et flernasjonalt Ukraina</H2>
+
+Jeg har altså brukt tallene fra siste tilgjengelige folketelling, dessverre svært gammel (fra 2001), for å prøve ut en ganske klassisk visualiseringsmetode med vekslende striper. Prinsippet er enkelt: hver stripe er proporsjonal med prosentandelen av en nasjonalitet i en region. Hver sekvens representerer 100 % av befolkningen, og gjentas så mange ganger som nødvendig for å dekke regionens totale territorium. Fordi det ikke var mulig å representere alle nasjonalitetene i denne skalaen, har jeg kun beholdt de to, tre eller fire første og gruppert resten i kategorien «andre nasjonaliteter». 
+
+Det er synd, fordi det er de minst tallrike samfunn som diskrimineres mest. Neste etappe blir å ta opp kartet og utforske de ulike visuelle framstillingsformene for å få fram disse minoritetsbefolkningene (for eksempel moldover, aserbadjanere, grekere, armenere, slovaker eller polakker).
+Fra et metodisk synspunkt forklarer folketellingens ordliste at «nasjonalitet (ikke i form av innbygger, men heller «etnisk» tilhørighet) {er blitt registrert etter erklæring fra «de svarende» uten at det foreligger skriftlige bekreftelser. De mindreåriges nasjonalitet har blitt definert av foreldrene. Der foreldrene er av ulik opprinnelse, har barnet fått morens nasjonalitet».}
+
+
+Dette kartet gir imidlertid allerede ganske detaljert informasjon; kommentarer til det som måtte komme fram på nytt, eller styrker og svakheter ved framstillingen mottas med takk (epostadresse finnes nederst på siden). 
+
+
+<https://farm3.staticflickr.com/2889/33548351031_c4177dfbea_o_d.jpg size=original class=fullwidth>
+
+I følge Den [Ukrainske Stats statistiske komité->
+http://2001.ukrcensus.gov.ua/eng/results/general/nationality/] som koordinerte den siste offisielle folketellingen i 2001, besto befolkningen (da folketellingen fant sted, det vil si for litt mer enn et tiår siden) av mer enn 130 nasjonaliteter og etniske grupper. 
+
+Det er svært interessant å sammenlikne tallene for hele landet (inkludert Krim) fra de to siste folketellingene i 1989 og 2001. Den ukrainske befolkningen går fra 72, 7 % i 1989 til 78,8 % i 2001, imens den russiske går fra 22,1 % i 1989 til 17, 3 i 2001.	
+
+Siden oppløsningen av Sovjetunionen og Ukrainas uavhengighet i 1991 har migrasjonen mellom Russland og Ukraina vært opprettholdt med bred global støtte. Det er derfor mulig at mange russere bestemte seg for (som i de andre tidligere sovjetrepublikkene) å flytte til Russland. Det er også mulig at en del av dem som erklærte seg for russere i 1989 identifiserte seg som ukrainere i folketellingen i 2001.
+
+Videre gir folketellingen fra 2001 også interessante tall vedrørende  [befolkningsstrukturen etter språk->http://2001.ukrcensus.gov.ua/eng/results/general/language/] : hver innbygger hadde mulighet til å opplyse om sitt morsmål. Blant de 78,8 % som identifiserte seg som ukrainere opplyste 14,8 % at russisk var deres morsmål (og 85,2 hadde ukrainsk). Blant de 17,3 % som identifiserte seg som russiske, opplyste 3,9 % at ukrainsk var deres morsmål (og 95,9 % hadde russisk).
+
+Og til slutt viser tallene fra [befolkningsdivisjonen i FNs finans- og sosialdepartement ->http://esa.un.org/unpd/wpp/unpp/panel_population.htm] utviklingen av disse prosentene i en demografisk kontekst: den ukrainske befolkningen sank betraktelig fra 51, 6 millioner innbyggere i 1990 til 49 millioner i 2001.
+
+<https://farm4.staticflickr.com/3871/32805530814_b8ed118866_k_d.jpg size=large>
+
+For å laste ned statistikk og kartografiske filer, produsere ditt eget kart (og eventuelt sende meg det), klikk her: 
+
+|{{Fil statistikk:}} |<doc3|left>|
+|{{Fil kart over nasjonaliteter:}} |<doc4|left>|
+|{{Kart over det tause Ukraina:}} |<doc5|left>|
+
+Og dersom du ønsker å debattere eller presentere dokumenter i forbindelse med denne utprøvingen, kan du koble deg opp mot seenthis.net: andre flernasjonale kart over Ukraina [her->http://seenthis.net/messages/254758].
+
+
+--------------------------
+
+PS: Om dere ønsker å kommentere eller å bruke disse dokumentene, vennligst ta contact med [->contact@visionscarto.net].
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- secondaire
+
+
+--------------------------
+Visionscarto - version du juni 24., 2017 14:03

@@ -1,0 +1,35 @@
+
+--------------------------
+
+TITRE:
+<multi>[fr] Qui ? [en]Who? [es]¿Quién? </multi>
+
+--------------------------
+
+AUTEUR: 
+- Romy Duhem-Verdière
+- Arnaud Martin
+- Jasmine Rivière-Poupon
+- Sylvain Lesage
+- Pere Millán-Martínez
+
+--------------------------
+
+CHAPO:
+Autrices, cartographes, peintresses, dessinateurs, programmeuses, photographes, traductrices, rêveurs, chercheuses… ils et elles font Visionscarto.
+
+
+--------------------------
+TEXTE:
+
+<div class=fullwidth><auteurs|></div>
+
+
+
+
+
+
+
+
+--------------------------
+Visionscarto - version du 26 octobre 2017 12:33

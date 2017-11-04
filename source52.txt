@@ -16,13 +16,7 @@ TEXTE:
 
 |{{Titre :}}| Piraterie et anti-piraterie dans le monde en 2013 |
 |{{Mots-clés :}} | #Transport
-#Transport_maritime
-#Piraterie_maritime
-#Rapport_piraterie_maritime
-#justice
-#armées
-#marine_militaire
-#militarisation |
+#Transport_maritime #Piraterie_maritime #Justice #Armées #Marine_militaire #Militarisation |
 |{{Apparition(s) :}} |Rapport [«UNOSAT Global Report on Maritime Piracy - a geospatial analysis 1995-2013»->http://www.unitar.org/unosat/piracy] |
 |{{Auteur :}} | Philippe Rekacewicz |
 |{{Date de création :}} | Janvier 2014 |
@@ -35,12 +29,7 @@ TEXTE:
 
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 7 février 2015 13:13
+Visionscarto - version du 30 avril 2017 21:58

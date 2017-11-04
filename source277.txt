@@ -21,7 +21,7 @@ Fermeture et démantèlement en 2002 (par M. Nicolas Sarkozy) du centre d'héber
 --------------------------
 TEXTE:
 
-{{{[L'aller->#aller] et [le retour->#retour], deux projets graphiques sur les migrants}}}
+{{{L'aller et le retour, deux projets graphiques sur les migrants}}}
 
 L'association néerlandaise [United for Intercultural Action->http://www.unitedagainstracism.org/] a constitué (et met régulièrement à jour) un fichier de trente pages répertoriant les décès (connus)  des personnes ayant tenté de rejoindre la « Forteresse Europe » depuis 1993. La liste est effrayante, mais elle reste une simple liste. L'artiste [Banu Cennetoglu->http://www.turkishculture.org/whoiswho/visual-arts/installation-artist/banu-cennetoglu-2005.htm] avait déjà été à l'origine du projet « [La Liste->http://www.unitedagainstracism.org/archive/pages/list-exhibition.htm#2] », dont l'objectif était d'afficher des extraits du [fichier->http://www.unitedagainstracism.org/wp-content/uploads/2015/06/Listofdeaths22394June15.pdf] (PDF) sur une centaine d'abribus à Amsterdam en 2007 pour mettre en contact direct le grand public avec cette cette terrible réalité.
 
@@ -44,9 +44,6 @@ Le titre est d'un sobriété exemplaire  : « Instruction relative à l’éloig
 style neutre et « acceptable ». Puis vient le pire... : une série de fiches techniques illustrées par des photographies, véritables mises en scène des gestes à réaliser dans toutes les situations qui peuvent survenir. Dans cette deuxième partie, les techniques très brutales présentées comportent un risque vital pour ceux que la première partie appelle les « reconduits » (asphyxie, coma...).
 
 La différence entre le discours et les images est saisissante. Il y a dans ce document exceptionnel comme une sorte de schizophrénie, comme si la première partie (la loi) était totalement déconnectée de la seconde (la violence). Pour montrer le cynisme et l'absurdité d'un tel manuel, il me semblait utile de superposer les deux pour en montrer le lien intime et aberrant.
-
-
-[#aller<-]
 
 {{{Schengen, la frontière la plus dangereuse du monde}}}
 
@@ -266,8 +263,6 @@ La différence entre le discours et les images est saisissante. Il y a dans ce d
 
 81 - Un inconnu, originaire du Zaïre, a été tué par balle à bout portant durant son interrogatoire dans un commissariat de police de Paris en France (7 avril 1993).
 
-[#retour<-]
-
 {{{Déplacements forcés : l'image et le discours}}}
 
 <https://farm6.staticflickr.com/5564/14904905191_96772fe540_o.gif size=original>
@@ -334,12 +329,7 @@ La différence entre le discours et les images est saisissante. Il y a dans ce d
 PS: Ces deux projets ont fait l'objet de publications séparées en support papier (format~A4), qui ont été spécialement adaptées pour cette version Internet. Pour tout commentaire ou demande de reproduction de cet article, n'hésitez pas à écrire à l'autrice de cet article via [->contact@visionscarto.net].
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 19 mai 2016 23:35
+Visionscarto - version du 3 mai 2017 11:14

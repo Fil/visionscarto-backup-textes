@@ -16,7 +16,7 @@ TEXTE:
 
 |{{Título:}}| Esperanza de vida escolar en la enseñanza formal, de la primaria
 a la superior |
-|{{Palabras-claves:}} | #Educación #Escolarización #Escuela #Indicador |
+|{{Palabras claves:}} | #Educación #Escolarización #Escuela #Indicador |
 |{{Apariciones:}} | Mapa inédito. |
 |{{Autor:}} | Philippe Rekacewicz |
 |{{Fecha de creación:}} | Septiembre de 2016 |
@@ -32,12 +32,7 @@ a la superior |
 PS: Para comentar, reutilizar este artículo o ponerse en contacto con el autor, puede escribir a [->contact@visionscarto.net].
 
 
---------------------------
-
-LANG: es
-
-
 
 
 --------------------------
-Visionscarto - version du 5 de septiembre de 2016 11:17
+Visionscarto - version du 3 de mayo de 2017 11:19

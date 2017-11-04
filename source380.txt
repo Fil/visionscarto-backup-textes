@@ -1,0 +1,41 @@
+
+--------------------------
+
+TITRE:
+Le développement d'Internet
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+- Philippe Rivière
+
+
+
+--------------------------
+TEXTE:
+
+|{{Titre :}}| Le développement d'Internet |
+|{{Mots-clés :}} | #Internet #Numérique #Informatique #Datacenters |
+|{{Apparition :}} | [L'État du monde 2017->http://www.editionsladecouverte.fr/catalogue/index-Qui_gouverne_le_monde___-9782707190987.html], {« Qui gouverne le monde ? »}, La Découverte, Paris, 2016. |
+|{{Auteurs :}} | Philippe Rivière, Philippe Rekacewicz |
+|{{Date de création :}} | Juillet 2016 |
+|{{Sources : }} | [ITU, ICT Development Index 2015->http://www.itu.int/net4/ITU-D/idi/2015/], [Datacenter Map->http://www.datacentermap.com/] |
+
+<https://farm3.staticflickr.com/2634/32032365144_6b5104e302_o_d.jpg size=original class=fullwidth link>
+
+
+
+--------------------------
+
+PS: Si vous souhaitez commenter, utiliser ce document ou simplement contacter les auteurs, nous vous invitons à le faire via l'adresse [->contact@visionscarto.net]
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- secondaire
+
+
+--------------------------
+Visionscarto - version du 28 août 2017 16:17

@@ -16,7 +16,7 @@ TEXTE:
 
 |{{Titre :}}| La Chine dans son environnement géopolitique |
 |{{Sous-titre :}}| La Chine et l'Inde, nouvelles puissances maritimes |
-|{{Mots-clés :}} | #Chine #Inde #Asie #Asie_du_sud_est #Pacifique #Armement #États-Unis #Japon #Mer #Océans #Géopolitique |
+|{{Mots-clés :}} | #Chine #Inde #Asie #Asie_du_sud-est #Pacifique #Armement #États-Unis #Japon #Mer #Océans #Géopolitique |
 |{{Sources :}} | Sources : {Atlas de la République populaire de Chine} ; Wayne Bert, {The United States, China and Southeast Asian Security: A Changing of the Guard?}, Palgrave Macmillan, New York, 2003 ; {Asia Times}, 7 avril 2006 ; Didier Ortollan et Jean-Pierre Pirat, {Atlas géopolitique des espaces maritimes}, Technip, Paris, 2008 ; United States Department of Defence (DoD). |
 |{{Apparition(s) :}} | dans diverses revues mensuelles |
 |{{Auteur :}} | Philippe Rekacewicz |
@@ -42,12 +42,7 @@ Cette carte a été utilisée comme base pour la composition d'une esquisse publ
 
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 25 novembre 2016 12:24
+Visionscarto - version du 3 mai 2017 10:22

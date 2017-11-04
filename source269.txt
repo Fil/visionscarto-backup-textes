@@ -137,11 +137,6 @@ PS: Si vous souhaitez commenter, utiliser le texte ou les figures, ou simplement
 
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------

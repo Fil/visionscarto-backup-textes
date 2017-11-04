@@ -1,0 +1,43 @@
+
+--------------------------
+
+TITRE:
+Les 500 universités les plus importantes au monde
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+- Philippe Rivière
+
+
+
+--------------------------
+TEXTE:
+
+|{{Titre :}}| Les 500 universités les plus importantes au monde |
+|{{Mots-clés :}} | #Universités #Savoir #Éducation #Connaissance #Formation |
+|{{Apparition(s) :}} | [L'État du monde 2017->http://www.editionsladecouverte.fr/catalogue/index-Qui_gouverne_le_monde___-9782707190987.html], {« Qui gouverne le monde ? »}, La Découverte, Paris, 2016. |
+|{{Auteur :}} | Philippe Rivière, Philippe Rekacewicz |
+|{{Date de création :}} | Juillet 2016 |
+
+Un mot de méthodologie. Dès sa conception, cette carte a suscité une discussion : fondée sur le classement de Shanghaï, elle ne critique pas frontalement cet indicateur mais le reprend comme une « donnée de base ». Mais comme tout classement — qu'on parle de vins, de santé ou d'enseignement — Shanghaï est extrêmement problématique. Peut-on dire d'une université qui ne peut s'enorgueillir ni de Prix Nobel ni de résultats publiés dans les revues scientifiques majeures, mais dispense un enseignement de qualité à des dizaines de milliers d'étudiant·e·s, qu'elle n'est pas «importante» ? De plus, Shanghaï a des effets aberrants. La raison : plus les établissements sont petits, et indépendamment de la qualité de leur production, moins ils ont de chances d'être cotés. On observe donc dans certains pays des regroupements d'établissements qui semblent dictés par le désir de progresser non pas tant dans la qualité de l'enseignement et de la recherche que dans ce classement.
+
+Cela étant dit, le problème du choix des données est courant en cartographie. La notion même de croissance économique, par exemple, est fondamentalement viciée ; néanmoins, et malgré ses défauts, elle permet de dessiner une carte de la richesse relative des nations. Il nous semble ainsi que, sans accorder trop de crédit aux détails du classement de Shanghaï, les agrégats par pays reflètent un paysage académique mondial fortement inégalitaire, dominé par les États-Unis et l'Europe, où l'Asie progresse à grands pas et où l'ancien bloc de l'Est, puissance académique importante jusqu'à la chute du mur de Berlin, n'est toujours pas parvenu à se reconstruire.
+
+Un meilleur titre pour cette carte eût certainement été « Les 500 universités les mieux classées par … » Nous conservons cependant le titre sous lequel cette carte a été publiée dans {L'État du Monde.}
+
+
+<https://farm1.staticflickr.com/563/32875294255_984c44c6c1_o_d.png size=original class=fullwidth link>
+
+
+
+--------------------------
+
+PS: Si vous souhaitez commenter, utiliser ce document ou simplement contacter les auteurs, nous vous invitons à le faire via l'adresse [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 28 février 2017 09:01

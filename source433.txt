@@ -1,0 +1,64 @@
+
+--------------------------
+
+TITRE:
+Base de données : l'inspection générale des finances
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+- Agnès Rousseaux
+
+--------------------------
+
+CHAPO:
+Après les scandales de corruption et d'emplois fictifs qui ont émaillé la campagne pour l'élection présidentielle française de 2017, des projets législatifs dits « de moralisation » se concentrent essentiellement sur la déontologie des parlementaires, des membres du gouvernement et des exécutifs locaux. Rien ne concerne la haute fonction publique. Et pourtant…
+
+
+--------------------------
+TEXTE:
+
+… et pourtant, celle-ci n’est pas exempte de conflits d’intérêts. Un « grand corps » en particulier concentre de telles situations : l’Inspection générale des finances, l’un des trois grands corps administratifs de l’État, dont est issu le président de la République Emmanuel Macron. Alors que les inspecteurs des finances sont en théorie destinés aux plus hauts postes de l’administration française, notamment au sein du ministère des Finances, à la direction du Budget ou à celle du Trésor, ils se retrouvent souvent à la tête de banques et d’assurances.
+
+Ces pratiques de « pantouflage » sont connues, mais elles sont peu documentées, du fait du manque de données facilement accessibles. Les rédactions d’{Alternatives Économiques} et de {Bastamag} ont donc fait un travail d’enquête pour recenser les inspecteurs généraux des finances des promotions des quarante dernières années (1976 à 2016), en recoupant des sources publiques.
+
+<https://gateway.ipfs.io/ipfs/QmZe3RUaBugXDEzcEH3FarhJAMrc3BYH4yYNjCKPiG17Ph/2017-06/igf-dark.png title="Infographie interactive" credit="Philippe Rivière, visionscarto.net" link=https://www.alternatives-economiques.fr/hauts-fonctionnaires-preferent-prive/00079448>
+
+{Pour visualiser les carrières de plus de 300 personnes sur une période de quarante ans, nous avons proposé un système d'arbustes, composés de branchages émanant d'un tronc commun — ce tronc étant la formation et l'intégration dans le corps de l'Inspection des finances, point de départ de chacun des tracés, qui forment les branches de l'arbuste. Chaque parcours individuel est figuré par une série de traits représentant un emploi ou un poste. Les carrières ne sont pas toujours linéaires, certains cumulant parfois des responsabilités dans plusieurs secteurs. Une tendance se dégage néanmoins, selon que la branche penche plutôt à droite, vers l'industrie et la banque, ou vers la gauche (administrations et entreprises du secteur public). Certains parcours frappent par leur chemin en zig-zag, passant plusieurs fois du service de l'État à celui d'intérêts privés. D'autres au contraire sont parfaitement rectilignes. L'infographie permet de faire une comparaison d'une “génération” d'inspecteurs à l'autre.}
+
+<quote>
+
+Lire le dossier, écrit et coordonné par Agnès Rousseaux :
+
+{{Sur {Alternatives Économiques} :}}
+
+— «[Ces hauts fonctionnaires qui préfèrent le privé->https://www.alternatives-economiques.fr/hauts-fonctionnaires-preferent-prive/00079448]» (avec Claire Alet).
+
+
+{{Sur {Bastamag} : }}
+
+— « 1/3 [Ces énarques chargés de piloter la politique économique de la France qui préfèrent “pantoufler” dans les banques->https://www.bastamag.net/Ces-enarques-charges-de-piloter-la-politique-economique-de-la-France-qui]».
+— « 2/3 [Inspecteurs des finances : une caste “d’élite” qui a pour mission principale de réduire les dépenses publiques->https://www.bastamag.net/Inspecteurs-des-finances-une-caste-d-elite-qui-a-pour-mission-principale-de]».
+— « 3/3 [Être banquier et haut fonctionnaire : peut-on éviter les conflits d’intérêts au sommet de l’État ?->https://www.bastamag.net/Etre-banquier-et-haut-fonctionnaire-peut-on-eviter-les-conflits-d-interets-au]».
+
+(Dossier publié le 27 juin 2017.)
+</quote>
+
+
+--------------------------
+
+PS: N'hésitez pas à nous écrire à l'adresse [->contact@visionscarto.net] pour toute question concernant cette infographie ou la base de données. L'élaboration de cette dernière est un travail de longue haleine, et cette visualisation, partielle, n'en est qu'une première étape.
+
+En bandeau : photographie d'un stand du marché de Cedynia, à quelques mètres du poste frontalier entre la Pologne et l'Allemagne.
+<https://farm5.staticflickr.com/4277/34726318174_94776e2ce1_z_d.jpg size=medium credit="Photographie: Ph. Reka.">
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- secondaire
+
+
+--------------------------
+Visionscarto - version du 28 juin 2017 00:17

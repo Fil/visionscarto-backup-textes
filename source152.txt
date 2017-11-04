@@ -186,11 +186,6 @@ PS: Pour commenter ou reproduire cet article, n'hésitez pas à nous écrire à 
 
 --------------------------
 
-LANG: fr
-
-
---------------------------
-
 MOTS-CLÉS: 
 - titre noir
 - texte sans-serif

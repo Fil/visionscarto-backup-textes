@@ -68,7 +68,7 @@ Que voit-on ? La mondialisation à l’œuvre, puisque pas moins de six~pays sur
 
 <https://farm4.staticflickr.com/3875/14894058138_78cc5ee1b1_o_d.png>
 
-(Nous avons aussi expérimenté pour l’occasion le site storymap, qui permet de faire des cartes animées en téléchargeant un fichier csv de données géo- et time-codées ; cependant, comme [le résultat brut de décoffrage n’est guère satisfaisant->http://mapstory.org/maps/1855/].)
+(Nous avons aussi expérimenté pour l’occasion le site storymap, qui permet de faire des cartes animées en téléchargeant un fichier csv de données géo- et time-codées ; cependant, [le résultat brut de décoffrage n’est guère satisfaisant->http://mapstory.org/maps/1855/].)
  
 Autre leçon à tirer : avec les bons outils il est relativement aisé d’extraire de l’information pour la traiter et produire des cartes de façon automatique.
 
@@ -148,12 +148,7 @@ PS: N'hésitez pas à nous écrire si vous avez des remarques ou des questions :
 
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 25 septembre 2016 15:28
+Visionscarto - version du 2 septembre 2017 22:20

@@ -50,11 +50,6 @@ TEXTE:
 PS: Si quiere reutilizar los mapas o simplemente contactar el autor, por favor escriba a la dirección [->contact@visionscarto.net].
 
 
---------------------------
-
-LANG: es
-
-
 
 
 --------------------------

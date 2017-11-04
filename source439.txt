@@ -1,0 +1,73 @@
+
+--------------------------
+
+TITRE:
+Cox conformal projection
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+
+
+--------------------------
+TEXTE:
+
+<https://farm5.staticflickr.com/4418/36608754402_a0f9209e14_o.jpg size=original title="Cox Projection, South aspect" credit="Philippe Rivière, 2017" link=https://bl.ocks.org/Fil/1aafd8fa22b62243290674384c364dd0>
+
+Jacques-François Cox (1898-1972) is a Belgian astronomer, who will become rector of the Free University of Brussels (ULB). In 1935, he describes, in the {Bulletin de la Classe des Sciences} published by the Royal Academy, a “representation of the entire surface of the earth in an equilateral triangle.”
+
+Three years later, Joseph Antoine Magis, who works as a computer at the Royal Observatory of Belgium, offers a formula and numerical tables that allow its precise computation with the means of the times.
+
+He suggests an application, to draw the Gulf stream:
+
+<https://farm5.staticflickr.com/4214/35113320516_6707777c2b_o_d.png
+size=medium title="Sketch of a map of the Gulf stream" credit="J. Magis, 1938">
+
+
+This projection is {conformal}, meaning that it preserves the angles:  two paths that cross on the planet with a certain angle are represented on the plane with the same angle.
+
+This is made at the expense of surfaces, which as a consequence cannot be equivalent. But, as Magis notes, the area distorsion is less, in the central region of the map, than it is on the traditional conformal projections (Mercator's, Lambert's). {“Though it was imagined as a way to solve a theoretical problem,} concludes Magis, {this canvas therefore has a practical interest in mathematical geography for the proper representation of equatorial regions, notably for Insulindia and for the Belgian Congo.”} However, the complexity of the necessary computations will in practice prohibit its use.
+
+
+In 1976, Laurence Patrick Lee, computer at the [Department of Survey and Land Information->https://en.wikipedia.org/wiki/Department_of_Survey_and_Land_Information] of New Zealand, drawing on the work of the American geographer Oscar S. Adams, publishes a mathematical tour de force in which he proposes a general approach for conformal projections on the Platonic solids (the tetrahedron, the cube, etc). His article, more than a hundred pages long, warrants a special issue of the scientific journal {Cartographica}. He shows how some of these projections are linked to one of [Dixon's elliptic functions->https://en.wikipedia.org/wiki/Dixon%27s_elliptic_functions] named {sm}, and produces numeric tables.
+
+In 2011, the mathematician and computer science researcher Malcolm Douglas McIlroy introduces a more precise computation method, based on two Taylor series. This method is the one that we are currently implementing for [d3.js->https://bl.ocks.org/Fil/1aafd8fa22b62243290674384c364dd0].
+
+In a classical view, ignoring Antarctica:
+
+<https://farm5.staticflickr.com/4225/34767332830_f77a94f7be_h_d.jpg size=medium link title="Cox Projection, South aspect, ignoring Antarctica" credit="Philippe Rivière, 2017" link=https://bl.ocks.org/Fil/8277a0a590dec3debf142bcd1e827416>
+
+Here is the North aspect, which looks a bit grotesque:
+<https://farm5.staticflickr.com/4202/35113808466_3f858dd890_b_d.jpg size=medium title="Projection Cox, North aspect" credit="Philippe Rivière, 2017" link=https://bl.ocks.org/Fil/ce9d55cc070126b66fb86bc03b84b3f4>
+
+
+By assembling several of these triangles, one can obtain interesting wallpaper or tiling effects.
+
+<https://farm5.staticflickr.com/4232/35132758796_7a52c1f41f_o_d.png size=original title="Six equilateral triangles in a chain dance" credit="Philippe Rivière, 2017" link=https://bl.ocks.org/Fil/52615c5735550a8fd325b0316d896d67>
+
+{{Bibliography}}
+
+-- J. F. Cox, “Représentation de la surface entière de la terre dans un triangle équilatéral,” {Bulletin de la Classe des Sciences,} Académie Royale de Belgique, 5, 21: 66-71. Bruxelles, 1935. [I'm still looking for a copy of this article!]
+
+-- J. Magis, “Calcul du canevas de la représentation conforme de la sphère entière dans un triangle équilatéral,” {Bulletin Geodésique,} 247-256. Paris, 1938.
+
+-- L. P. Lee, “Conformal Projections Based On Dixon Elliptic Functions,” {Cartographica: The International Journal for Geographic Information and Geovisualization}, Vol. 13, # 1, June 1976.
+
+-- M. D. McIlroy, Wallpaper Maps ([PDF->http://www.cs.dartmouth.edu/~doug/wallpaper.pdf]), 2011.
+
+
+--------------------------
+
+PS: For any question or suggestion, please send an email to [->contact@visionscarto.net]. Thank you!
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- secondaire
+
+
+--------------------------
+Visionscarto - version du 24 August 2017 18:14

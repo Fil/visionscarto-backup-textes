@@ -1,0 +1,263 @@
+
+--------------------------
+
+TITRE:
+Quand les géographes cherchaient leur chemin...
+
+--------------------------
+
+AUTEUR: 
+- Bruno Lecoquierre
+
+--------------------------
+
+CHAPO:
+... Ou l'exploration de la Terre, entre mythes et réalité. Dans l’histoire, les explorations ont souvent été engagées pour vérifier des hypothèses théoriques ou des mythes, les premières se transformant souvent en légendes au fil du temps. Le continent austral, le « passage du Nord-Ouest » et Tombouctou ont été trois des grands mythes du XVIIIe siècle et de la première moitié du XIXe siècle, dont les explorateurs ont essayé de percer les secrets...
+
+
+<h4 class="text-right">{par Bruno Lecoquierre}</h4>
+<h5 class="text-right">Professeur à l’université du Havre.</h5>
+
+
+--------------------------
+TEXTE:
+
+
+{{{Le continent austral : un mythe antique }}}
+
+L’existence d’un continent au sud de la Terre a été formulée dès l’Antiquité. Cette terre légendaire était déjà mentionnée par Claude Ptolémée au IIe siècle après J.-C. dans sa {Géographie}. Il y évoquait {« Au sud, une terre inconnue fermant la mer de l’Inde »} (VII, V). Les savants l'avaient imaginée afin d’équilibrer les masses continentales de l’hémisphère Nord. Selon Elisée Reclus, {« les terres émergées devaient occuper exactement sur la rondeur planétaire autant d’espace que les cavités océaniques »} [[{Nouvelle géographie universelle}, tome XIV.]]. 
+
+Au XVIe siècle, ce continent légendaire était porté sur toutes les cartes sous le nom d’Antichtones ou de Terra Australis : sur celle de Pomponius Mela au Ier siècle comme sur celles d’Oronce Fine (1536, 1590), Antoine Lafréry (1553), Guillaume Le Testu (1555), Abraham Ortelius (1570 et 1587) ou encore Gérard Mercator en 1595. Bien visible sur les cartes, il était représenté comme une immense masse de terre occupant le sud de la Terre, recouvrant la partie méridionale de l’Atlantique, de l’océan Indien et d’une partie du Pacifique, au point de pratiquement rejoindre la Patagonie en ne laissant qu’un mince passage entre l’Atlantique et le Pacifique. 
+
+<https://farm5.staticflickr.com/4192/34293274110_84a40a1cd6_k_d.jpg size=large title="Mappemonde en forme de cœur."
+legend="Oronce Fine, {Recens et integra orbis descriptio}, 1536." credit="Gallica, Bibliothèque Nationale de France." link>
+
+<https://farm5.staticflickr.com/4174/33868224753_d3c7b7a4bf_k_d.jpg size=large title="O caput elleboro dignum (Monde dans une tête de fou)"
+legend="Carte attribuée à Oronce Fine, publiée en 1590, Collection d'Anville." credit="Bibliothèque Nationale de France. Droits réservés." link>
+
+Cette croyance en l’existence d’un immense continent austral était encore tout à fait vivace au XVIIIe siècle. En 1749, dans le deuxième tome de son {Histoire naturelle}, Buffon (Georges-Louis Leclerc, comte de Buffon) présentait par exemple l’état des connaissances de l’époque sur les terres australes de cette manière :
+
+<blockquote>
+{Presque toutes les terres qui sont du côté du pôle antarctique nous sont inconnues ; on sait seulement qu’il y en a, et qu’elles sont séparées de tous les autres continents par l’Océan. […] Car ce qui nous reste à connaître du côté du pôle austral est si considérable, qu’on peut sans se tromper l’évaluer à plus du quart de la superficie du globe ; en sorte qu’il peut y avoir dans ces climats un continent terrestre aussi grand que l’Europe, l’Asie et l’Afrique, prises toutes trois ensemble. »} 
+
+</blockquote>
+
+<https://farm4.staticflickr.com/3893/14723919178_ae77a39432_o.jpg size=original title="Atlantis pars altera. Geographia nova totius mundi"
+legend="Mercator, {Atlas}, 1595." credit="Gallica, Bibliothèque Nationale de France." right>
+
+Les grandes missions océaniques du XVIIIe siècle vont faire une large place à la recherche de ce continent qui avait déjà été recherché au XVIIe siècle par les Espagnols Pedro Fernandez de Quiros [[Pedro Fernandez de Quiros (1565-1614). Navigateur et explorateur portugais au service de la couronne d'Espagne. En 1603, il part chercher la "Terra Australis", et découvre les îles Marquises et les Nouvelles-Hébrides (qui seront ainsi nommées par Cook). Il pourrait également avoir découvert Tahiti en 1606. Source : Ferdinand Hoefer, {Nouvelle biographie générale depuis les temps les plus reculés jusqu’à nos jours}, Didot, Paris, 1862.]] et Luis Vaez de Torres [[Luis Vaez de Torres (date de naissance inconnue-1613). Second de Pedro Fernandez de Quiros pendant son expédition dans le Pacifique sud, c’est le premier navigateur à avoir emprunté le détroit entre la Nouvelle-Guinée et l’Australie, qui porte désormais son nom (détroit de Torres). Source : [Wikipedia->http://fr.wikipedia.org/wiki/Luis_V%C3%A1ez_de_Torres].]] ainsi que par le Hollandais Abel Tasman [[Abel Tasman (1603-1659). Explore  le Pacifique à partir de Batavia (actuelle Djakarta) en 1639, puis, en 1642, découvre l’actuelle Tasmanie, qu’il nomme "Terre de Van Diemen", du nom de son protecteur. Source : Percival Serle, {Dictionary of australian biography}, Angus and Robertson, Sydney, 1949.]]. Pendant l’été 1738, la Compagnie des Indes envoya, pour des raisons commerciales, le Français Jean-Baptiste Bouvet de Lozier dans l’Atlantique sud avec deux frégates. Au cours d’une violente tempête, il aperçut une terre par 54° sud [[Il s’agissait de l’île Bouvet, actuellement sous pavillon norvégien.]] et, en référence au jour de la découverte, le 1er janvier 1739, la baptisa cap de la Circoncision [[Jusqu’à la réforme liturgique de Vatican II, le 1er janvier était dans la religion chrétienne la fête de la circoncision de Jésus.]]. La découverte de cette terre, que le navigateur ne put explorer, vint alimenter le mythe du continent austral qui était défendu par nombre d’intellectuels et de savants de cabinet, comme Charles de Brosses [[Charles de Brosses (1709-1777). Historien, archéologue et magistrat. Sur les conseils de Buffon, écrit en 1756 une Histoire des navigations aux terres australes. Inventeur des noms « Australasie » et « Polynésie ». Source : Ferdinand Hoefer, {Nouvelle biographie générale depuis les temps les plus reculés jusqu’à nos jours}, Didot, Paris, 1853.]] et Alexander Dalrymple [[Alexander Dalrymple (1737-1808). Géographe et hydrographe écossais de la Compagnie des Indes Orientales. Grand défenseur de l’existence du continent austral, il continua à en affirmer l’existence même après les preuves contraires apportées par Cook après son second voyage (1772-1775). Il est surtout reconnu pour sa cartographie et ses relevés des côtes. Source : [Australian dictionary of biography online->http://www.adb.online.anu.edu.au/biogs/A010263b.htm].]].
+
+<quote>
+
+<https://farm5.staticflickr.com/4169/34677437225_c4b0220bb5_z_d.jpg size=large title="Le Cap de la Circoncision, actuelle Ile Bouvet." credit="Hassius, 1746.">
+
+Le Cap de la Circoncision apparaît nettement au sud de l'Afrique, à la jonction des océans Atlantique et Indien. Cette terre, alors considérée comme étant la pointe septentrionale du continent austral, avait été découverte huit ans plus tôt par Jean-Baptiste Bouvet de Lozier. Curieusement, cette mappemonde ne fait pas apparaître le continent austral. Sans doute était-il difficile de dessiner dans la même région du monde une terre réellement existante et relativement bien localisée et un continent imaginaire dont l'existence n'était en rien avérée.
+
+</quote>
+
+{{{Les deux géographies du siècle des Lumières}}}
+
+La question du continent austral illustre bien le profond hiatus qui séparait les deux catégories d’acteurs se réclamant de la géographie au XVIIIe siècle : les savants de cabinet et les navigateurs. Les premiers, seuls, pouvaient cependant s’honorer de porter ce titre. Les voyageurs, aussi prestigieux fussent-ils, n’ont pas été considérés comme de véritables géographes jusqu’à la fin du siècle. Les savants-géographes, comme les Delisle père et fils [[Claude (1644-1720) et Guillaume Delisle (1675-1726), tous deux géographes et cartographes. Connus pour leur recherche d’une cartographie rigoureuse, notamment en utilisant les mesures de latitude et longitude, ils ont surtout travaillé sur l’Amérique du Nord et le Golfe du Mexique. Guillaume Delisle fut admis en 1702 comme élève à l’Académie royale des sciences et fut le premier "géographe du roi" en 1718. Source : Monique Pelletier, [{Les Amériques, de la découverte à la cartographie de Martin Waldseemüller à Guillaume Delisle du 16e au 18e siècle}->http://209.85.135.104/search?q=cache:Nt42c0dRMAUJ:fig-st-die.education.fr/actes/actes_2006/pelletier/article.htm+guillaume+delisle+exploration&hl=fr&ct=clnk&cd=2&gl=fr], Actes du Festival international de géographie (Saint-Dié-des-Vosges), 2006.]], Philippe Buache [[Philippe Buache (1700-1773). Géographe français formé par Guillaume Delisle, il devint géographe du roi en 1729 et entra un an plus tard à l’Académie des sciences. Source : [ImagoMundi->http://www.cosmovisions.com/Buache.htm].]], et de Brosses en France, ou Alexander Dalrymple en Angleterre, exploitaient les récits des voyageurs pour élaborer des théories que d’autres voyageurs tenteraient ensuite de vérifier. Cette distinction fut soulignée dans de nombreux textes.
+
+En 1708, Bernard de Fontenelle (1657-1757), auteur d'ouvrages de vulgarisation scientifique, dont les préoccupations annonçaient l’esprit des Lumières écrit :
+
+<blockquote>
+
+{Les philosophes ne courent guère le monde, et ceux qui le courent ne sont ordinairement guère philosophes. »}
+
+</blockquote>
+
+
+Dans ces textes, la critique est le plus souvent adressée aux voyageurs, violemment attaqués pour leurs inexactitudes, comme le suggère Jean-Jacques Rousseau en 1755 : 
+
+<blockquote>
+
+{Les particuliers ont beau aller et venir, il semble que la philosophie ne voyage point.}
+
+{J’ai passé ma vie à lire des relations de voyage. J’ai fini par laisser là les voyageurs… Je n’en ai jamais trouvé deux qui m’aient donné la même idée du même peuple. »}
+
+</blockquote>
+
+Condorcet va dans le même sens :
+
+<blockquote>
+
+{Les voyageurs sont presque toujours des observateurs inexacts ; ils voient les objets avec trop de rapidité, au travers des préjugés de leur pays. »} 
+
+</blockquote>
+
+En 1781, Denis Diderot se montre encore plus incisif sur ce sujet dans l’{Histoire philosophique et politique des Deux Indes} de l’abbé Raynal (1781) : 
+
+<blockquote>
+
+{L’homme contemplatif est sédentaire, et le voyageur est ignorant ou menteur. Celui qui a reçu le génie en partage dédaigne les détails minutieux de l’expérience, et le faiseur d’expériences est presque toujours sans génie. »} 
+
+</blockquote>
+
+{{{La preuve par l'exploration}}}
+
+Après une longue interruption des missions océaniques, la fin de la guerre de Sept Ans, signée en 1763, va rendre possible le redémarrage des expéditions d’exploration maritimes, sur fond de concurrence franco-anglaise. L’objectif est d’abord de rechercher le continent austral que Jean-Baptiste Bouvet pensait avoir aperçu. Les expéditions de John Byron (en 1764-66) [[John Byron (1723-1786). Navigateur britannique qui participa à la guerre de Sept Ans puis explora l’Atlantique sud et les côtes de Patagonie entre 1764 et 1766. Source : Ferdinand Hoefer, {Nouvelle biographie générale depuis les temps les plus reculés jusqu’à nos jours}, Didot, Paris, 1853.]], Louis-Antoine de Bougainville (1766-1769), Nicolas-Thomas Marion-Dufresne (1771-1772) [[Nicolas-Thomas Marion-Dufresne (1724-1772). Navigateur et explorateur français. En 1770, il propose d’organiser une mission pour ramener à Tahiti Aoutourou, l’indigène embarqué par Bougainville lors de son expédition autour du monde. Après la mort d’Aoutourou à Madagascar, l’expédition part pour les mers australes. Ils découvrent alors l’île de Crozet, l’île Marion et l’île du prince Edouard. Source : Ferdinand Hoefer, {Nouvelle biographie générale depuis les temps les plus reculés jusqu’à nos jours}, Didot, Paris, 1860.]], Yves-Joseph de Kerguelen (1771-1772, 1773-1774) [[Yves-Joseph de Kerguelen de Trémarec (1734-1772). Navigateur français. Après plusieurs expéditions dans les mers du Nord, il est envoyé en mission dans les mers australes. Avec ses navires la Fortune et le Gros-Ventre, il découvre en 1772, sans y débarquer, les îles que Cook nomma les "îles de la Désolation" et qui, plus tard, porteront son nom. Source : Ferdinand Hoefer, {Nouvelle biographie générale depuis les temps les plus reculés jusqu’à nos jours}, Didot, Paris,1860 et [Wikipedia->http://fr.wikipedia.org/wiki/Yves_Joseph_de_Kerguelen_de_Tr%C3%A9marec].]] et James Cook lors de ses deux premiers voyages (1768-1771 et 1772-1775), vont ainsi avoir pour mission plus ou moins officielle de rechercher ce fameux continent. En 1773, Cook s’aventure jusqu’à 71° 11’ de latitude sud et peut démontrer l’inexistence de la terre australe dans l’étendue qu’on lui prêtait :
+
+<blockquote>
+
+{J’ai fait le tour de l’hémisphère austral dans une haute latitude et je l’ai traversé de manière à prouver sans réplique qu’il n’y a point de continent, à moins qu’il ne soit près du pôle. »}
+
+</blockquote>
+
+Il faudra ensuite attendre 1840 pour que Jules Dumont d’Urville atteigne, le premier, une côte du continent antarctique, la baptisant « Terre Adélie », du nom de sa femme.
+
+Véritable prétexte à l’exploration, cette recherche occasionna de très nombreuses découvertes de terres nouvelles dans le Pacifique et en Océanie, en dépit de ce que Jean-François de Lapérouse écrit à ce sujet au début du récit de son voyage autour du monde :
+
+<blockquote>
+
+{Le capitaine Bouvet avait cru apercevoir, le 1er janvier 1739, une terre par les 54° sud : il paraît aujourd’hui que ce n’était qu’un banc de glace ; et cette méprise a retardé les progrès de la géographie. »}
+
+</blockquote>
+
+Cette méprise n’a pas retardé les progrès de la géographie ; elle les a, au contraire, assurément suscités.
+
+<https://farm4.staticflickr.com/3843/14910680715_6913e830dd_o.jpg size=original title="« Les deux premiers voyages de circumnavigation de la terre. De l'est à l'ouest (Maghalaes) et de l'ouest à l'est (Cook) »"
+credit="Élisée Reclus, {Nouvelle géographie universelle}, tome XIX, 1889. Cartographie de Charles Perron.">
+
+Avec la reprise de l’exploration, les navigateurs multiplient les découvertes et mettent souvent en évidence les erreurs dans lesquelles se complaisent les savants de cabinet. Au début du récit de son voyage autour du monde (1766-1769), Bougainville laisse ainsi éclater son exaspération : 
+
+<blockquote>
+
+{ Je suis voyageur et marin, c’est-à-dire un menteur et un imbécile aux yeux de cette classe d’écrivains paresseux et superbes qui, dans l’ombre de leur cabinet, philosophent à perte de vue sur le monde et ses habitants, et soumettent impérieusement la nature à leurs imaginations. Procédé bien singulier, bien inconcevable, de la part des gens qui, n’ayant rien observé par eux-mêmes, n’écrivent, ne dogmatisent que d’après des observations empruntées de ces mêmes voyageurs auxquels ils refusent la facilité de voir et de penser. »}
+
+</blockquote>
+
+Dans les premières lignes du récit de son expédition (1785-1788), Lapérouse, moins vindicatif mais tout aussi critique, s’élève contre les « faiseurs de systèmes ». Par la suite (1790-1795), George Vancouver [[George Vancouver (1757-1798). Navigateur britannique qui accompagna Cook lors de ses deuxième et troisième expéditions puis, entre 1790 et 1795, mena une expédition vers les côtes de la Nouvelle Hollande (Australie), les archipels Sandwich (Hawaï), les Galapagos et la côte nord-ouest de l’Amérique du Nord. Source : Bruno Lecoquierre, {Parcourir la Terre. Le voyage, de l’exploration au tourisme}, L’Harmattan, Paris, 2008.]], à la suite de son tour du monde (1790-95), défend finalement le rôle primordial des navigateurs et de leurs « infatigables travaux » :
+
+<blockquote>
+
+{Ils ont principalement dirigé leurs recherches vers tout ce qui pouvait être utile ; ils ont exposé, avec simplicité, les faits qu’ils ont recueillis ; et n’ayant que la vérité pour but, ils ont dédaigné de répandre et encourager des opinions spécieuses, ou de se livrer à des hypothèses ingénieuses et séduisantes ; en se tenant fidèlement à ce principe, ils ont placé la géographie au-dessus des conjectures. »}
+
+</blockquote>
+
+{{{Le « passage du nord-ouest »}}}
+
+<https://farm5.staticflickr.com/4180/33837988724_f474a3e2e0_o_d.jpg size=original title="« Carte des nouvelles découvertes au nord de la mer du sud tant à l’est de la Sibérie et du Kamtchatka qu’à l’ouest de la Nouvelle France »" credit="Philippe Buache (carte « dressée sur les mémoires de M. Delisle »), 1750. Droits réservés." right>
+
+Un autre mythe fondamental était celui de l’existence d'un passage maritime reliant les océans Atlantique et Pacifique à travers l’Amérique du Nord, vers 50-55° de latitude nord. Cette théorie avait pris de l’importance au début du XVIIIe siècle lorsque le géographe Guillaume Delisle avait imaginé une « Mer de l’ouest » à l’emplacement des Rocheuses canadiennes, sur la foi des récits douteux dus aux espagnols Martin d’Aguilar, Juan de Fonca et à l’amiral de Fonte (ou de Fuentes). En 1592, Juan de Fonca aurait en effet découvert, vers 47° de latitude nord sur la côte pacifique de l’Amérique du Nord, une entrée menant à une grande mer intérieure ; l’amiral de Fonte, quant à lui, aurait pénétré à l’intérieur du continent en 1640 par une rivière, située à 43° de latitude nord, qui l’aurait ensuite mené par une succession de cours d'eau et de lacs jusqu’à un village indien où il aurait rencontré un navire venu de Boston. Ce « système » sera perfectionné et cartographié par Philippe Buache, gendre de Delisle (Broc, 1994). 
+
+<quote>
+
+<https://farm5.staticflickr.com/4159/34300072080_a4298b6dc2_o_d.jpg size=original>
+
+<blockquote>
+
+{Cette MER DE L’OUEST (disoit Mr Delisle dans un Mémoire imprimé en 1707 au sujet d’un Procès de contrefaction) est une de mes Découvertes ; mais comme il n’est pas toujours propos de publier ce que l’on sçait ou ce que l’on croit sçavoir, je n’ai pas fait graver cette Mer de l'Ouest dans les ouvrages que j’ai rendu publics, ne voulant pas que les Etrangers profitassent de cette Découverte, quelle qu’elle pût être, avant que l’on eut reconnu dans ce Royaume si l’on en pourrait tirer quelque avantage. Mais je l’avois mis sur le Globe Manuscrit que j’eus l'honneur de présenter (en 1697.) à M. le Chancelier Boucherat, et j’ai donné (en 1700.) à M. le Comte de Pontchartrain les preuves de l’existence de cette mer. »}
+
+<small>Texte extrait de l’« Essai d'une carte que Mr Guillaume Delisle (...) avoit joint à son Mémoire présenté à la Cour en 1717 sur la Mer de l’ouest », Philippe Buache, 1752. Source : Bibliothèque nationale de France, [Gallica->http://gallica.bnf.fr/ark:/12148/btv1b6700196m.item].</small>
+
+</blockquote>
+
+</quote>
+
+Les Anglais rechercheront ce passage avec Samuel Hearne  [[Samuel Hearne (1745-1792). Explorateur britannique. En 1768, il fut chargé par la compagnie Hudson Bay de relever les côtes de l’Amérique du Nord, mais surtout de trouver une communication entre les deux océans à travers le continent, ainsi que des gisements d’or et de cuivre qui avaient été signalés par les Indiens. Il profita de ce voyage pour rechercher les traces de trois navigateurs disparus en recherchant ces mines (Knight, Barlow et Vaughan). Source : Ferdinand Hoefer, {Nouvelle biographie générale depuis les temps les plus reculés jusqu’à nos jours}, Didot, Paris,1858.]] puis Cook en 1778, comme le fera à son tour Lapérouse en 1786 avant de conclure à l’inexistence du passage :
+
+<blockquote>
+
+{Je crois devoir exposer mon avis sur le prétendu canal de Saint-Lazare de l’amiral de Fuentes. Je suis convaincu que cet amiral n’a jamais existé, et qu’une navigation dans l’intérieur de l’Amérique, à travers les lacs et les rivières, et faite en aussi peu de temps, est si absurde que sans l’esprit de système, qui est préjudiciable à toutes les sciences, des géographes d’une certaine réputation auraient rejeté une histoire dénuée de toute vraisemblance et fabriquée en Angleterre, dans le temps où les partisans et les détracteurs du passage du nord-ouest soutenaient leur opinion avec autant d’enthousiasme qu’on pouvait en mettre, à cette même époque en France, aux questions de théologie cent fois plus ridicules encore. La relation de l’amiral de Fuentes est donc comme ces fraudes pieuses que la saine raison a rejetées depuis avec tant de mépris, et qui ne peuvent soutenir le flambeau de la discussion. »}
+
+</blockquote>
+
+George Vancouver, lors de son tour du monde (effectué entre 1790 et 1795), explore à son tour la côte nord-ouest de l’Amérique du Nord et arrive à la même conclusion[[George Vancouver,{Voyage de découvertes à l’Océan Pacifique du nord et autour du monde}, Imprimerie de la République, Paris, 1798, an VIII (1799-1800) pour la version française.]] : 
+
+<blockquote>
+
+{Maintenant que nous avons atteint le but principal que le roi s’était proposé en ordonnant ce voyage, je me flatte que notre reconnaissance très précise de la côte Nord-Ouest de l’Amérique dissipera tous les doutes, et écartera toutes les fausses opinions concernant un passage par le Nord-Ouest ; qu’on ne croira plus qu’il y ait une communication possible pour les vaisseaux entre la mer Pacifique du Nord et l’intérieur du continent de l’Amérique, dans l’étendue que nous avons parcourue. »}
+
+</blockquote>
+
+Dans ses {Mémoires d’outre-tombe}, Chateaubriand évoque également ce mythe qui lui a servi de prétexte pour organiser un voyage en Amérique du Nord en 1791, en plein tourmente révolutionnaire :
+
+<blockquote>
+
+ {Quand je formai le projet de découvrir le passage au nord-ouest, on ignorait si l’Amérique septentrionale s’étendait sous le pôle en rejoignant le Groënland, ou si elle se terminait à quelque mer contiguë à la baie d’Hudson et au détroit de Behring. »}
+
+</blockquote>
+
+{{{Tombouctou, la perle du désert}}}
+
+Au XIXe siècle, un autre mythe géographique majeur a suscité à son tour l’exploration : celui de Tombouctou, dont les richesses faisaient rêver tous les Européens.
+
+<blockquote>
+
+{La légende de richesse qui planait sur la cité nigérienne était bien faite pour séduire les esprits à l’époque où triomphaient à la fois le romantisme et le mercantilisme. Et cependant, Tombouctou vivait sur une réputation périmée, comme allaient le montrer les premiers explorateurs qui y entrèrent. L’Europe était hantée par ses fabuleux trésors, ignorant qu’ils n’existaient plus depuis longtemps ; elle poursuivait un mythe… »}
+
+<small>Henri-Paul Eydoux, {L’exploration du Sahara}, Gallimard, Paris, 1938.</small>
+
+</blockquote>
+
+Cette exploration s’est effectuée dans des conditions différentes de celles évoquées précédemment. La compétition que vont se livrer les deux principales puissances coloniales européennes, la France et l’Angleterre,  va se cristalliser autour de Tombouctou à travers les projets de deux explorateurs, Alexander Gordon Laing et René Caillié. Avec des méthodes fort différentes, ils vont tenter tour à tour d’atteindre la cité mythique, qu’aucun Européen n’avait pu encore visiter (Si l’on excepte le cas du matelot français Paul Imbert, vendu comme esclave à la suite d’un naufrage le long des côtes africaines vers 1630, et mort au Maroc après avoir vécu à Tombouctou).
+
+Le major Laing est le premier à tenter l’aventure. Il est officiellement chargé de cette mission par le gouvernement britannique, et quitte Tripoli en grand uniforme le 16 juillet 1825 juste après avoir épousé Emma Warrington, la fille du consul anglais, à qui il promet de ne s’absenter que cinq mois. Son voyage à travers le Sahara central va en fait durer treize mois. Après une attaque de touaregs à la limite entre l’Adrar Ahnet et le Tanezrouft qui le laissent pour mort, il entre finalement à Tombouctou le 13 août 1826. Quittant la ville le 22 septembre en direction du nord, il est assassiné deux jours plus tard à Seheb, à une cinquantaine de kilomètres sur la piste de Taoudenni [[L’étude la plus complète sur le voyage de Laing a été réalisée par Théodore Monod : {De Tripoli à Tombouctou, le dernier voyage de Laing}, Société française d’histoire d’outre-mer, Saint-Denis, 1977.]]. Toutes ses notes sont détruites, ce qui contribuera à entourer de mystère son formidable exploit.
+
+Le voyage de René Caillié va être en tout point différent de celui de Laing. Très tôt passionné par l’Afrique et obsédé par Tombouctou, il voyage en solitaire et de sa propre initiative. Il choisit ainsi de se faire passer pour musulman en se faisant appeler Abdallahi (l’esclave de Dieu), et se familiarise pendant neuf mois avec la langue arabe et les pratiques de l’islam au Sénégal. Il entend parler de la tentative de Laing lors d’un séjour au Sierra Leone et décide de partir sans tarder. Il part le 19 avril 1827 et manque de perdre la vie pendant la traversée de l’Afrique de l’Ouest. Atteignant finalement Djenné le 14 mars 1828, il atteint Tombouctou le 20 avril :
+
+<blockquote>
+
+{Enfin nous arrivâmes à Temboctou, au moment où le soleil touchait à l’horizon. Je voyais donc cette capitale du Soudan, qui depuis si longtemps était le but de tous mes désirs. En entrant dans cette cité mystérieuse, je fus saisi d’un sentiment inexprimable de satisfaction : je n’avais jamais éprouvé une sensation pareille, et ma joie était extrême… Revenu de mon enthousiasme, je trouvai que le spectacle que j’avais sous les yeux ne répondait pas à mon attente ; je m’étais fait de la grandeur et de la richesse de cette ville une toute autre idée : elle n’offre, au premier aspect, qu’un amas de maisons en terre, mal construites… »}
+
+</blockquote>
+
+<https://farm4.staticflickr.com/3909/14724024749_2b3af22fb7_o.jpg size=original title="« Vue de la ville de Temboctou prise du sommet d'une colline à l'est »" credit="Gravure extraite de l'atlas illustrant le carnet de voyage de René Caillié, publié en 1830.">
+
+René Caillié demeure à Tombouctou jusqu’au 4 mai et en profite pour décrire la ville, qui ne correspond en rien à l’idée que l’on s’en fait en Europe. Puis il se joint à une caravane maure de six cents chameaux qui emprunte la piste du sel en direction du Maroc. La traversée va durer plus de soixante-quinze jours dans des conditions extrêmement difficiles. Le 12 août, le voyageur exténué arrive à Fès puis le 27 septembre à Tanger où il est recueilli par le consul de France, Jacques Delaporte. Les Anglais, n’admettant pas qu’un voyageur solitaire ait réussi là où un officier britannique avait échoué, mettent aussitôt en doute son récit. L'explorateur allemand Heinrich Barth, parvenant à son tour à Tombouctou en 1853, authentifiera l’exploit de René Caillié : 
+
+<blockquote>
+
+{C’est un vrai bonheur pour moi de rendre justice à un voyageur qui a bien dû souffrir des attaques incessantes dirigées contre son caractère et sa véracité, et qui est mort avant d’avoir fait taire la malveillance et la calomnie. Je regarde comme un devoir de proclamer ici, sans scrupule, sans arrière-pensée, René Caillié comme un des plus véridiques explorateurs de l’Afrique. »}
+
+</blockquote>
+
+Les théories savantes, aussi incongrues que certaines d’entre elles puissent aujourd’hui paraître, ont toujours permis des avancées décisives grâce aux explorations qu’elles provoquaient. En tentant de vérifier les mythes, les explorateurs non seulement révélaient des vérités géographiques mais bien souvent faisaient également des découvertes fortuites qui amélioraient encore l’état des connaissances. 
+
+Et puis, il faut bien l’admettre, les explorateurs eux-mêmes ont souvent été des inventeurs de mythes, les inventeurs de leurs propres mythes, comme Christophe Colomb voyant dans l’Orénoque un fleuve du Paradis terrestre, Gonzalo Pizarro [[Gonzalo Pizarro (1502-1548). Conquistador espagnol qui participa à la conquête de l’Empire inca aux côtés de son frère, Francisco Pizarro (qui fonda Lima). Nommé gouverneur de Quito, il partit en 1541 avec une importante expédition à la recherche de la cannelle mais aussi de la mythique eldorado. L’expédition, partie de l’actuel Chili, traversa la Cordillère des Andes et atteignit le fleuve Amazone. Source : [Wikipedia->http://fr.wikipedia.org/wiki/Gonzalo_Pizarro] et Ferdinand Hoefer, {Nouvelle biographie générale depuis les temps les plus reculés jusqu’à nos jours}, Didot, Paris, 1858.]] partant dans la forêt amazonienne à la recherche de l’Eldorado, ou encore comme Michel Vieuchange construisant le mythe de Smara, la ville interdite aux chrétiens, fondée au début du XXe siècle par Ma el Aïnin aux confins du Maroc et de la Mauritanie, qu’il atteint le 1er novembre 1930, avant de mourir d’épuisement quatre semaines plus tard à Agadir [[Ses notes de voyage furent publiées en 1932 par son frère, qui l’attendait et l’avait recueilli au retour de Smara.]].
+
+<p class="text-right caps">↬ Bruno Lecoquierre</p>
+
+
+{{{Bibliographie}}}
+
+- Germaine Aujac, {Claude Ptolémée, astronome, astrologue, géographe}, [Comité des travaux historiques et scientifiques->http://www.cths.fr/] (CTHS), Paris, 1993.
+
+- Jean-Marc Besse, {Voir la Terre}, Actes Sud, Paris, 2000.
+
+- Jean-Marc Besse, {Les grandeurs de la Terre. Aspects du savoir géographique à la Renaissance}, [ENS Editions->http://editions.ens-lsh.fr/simclient/home.asp?INSTANCE=ENSEDITIONS], Lyon, 2003.
+
+- Louis-Antoine de Bougainville, {Voyage autour du monde}, [La Découverte->http://www.editionsladecouverte.fr/], Paris, 1997 (1771).
+
+- Numa Broc, {La géographie de la Renaissance}, Comité des travaux historiques et scientifiques, Paris, 1986.
+
+- Numa Broc, {Dictionnaire illustré des explorateurs et grands voyageurs français du XIXe siècle}, Comité des travaux historiques et scientifiques, Paris, 1988.
+
+- René Caillié, {Voyage à Tombouctou}, La Découverte, Paris, 1996 (1830).
+
+- James Cook, {Relations de voyages autour du monde}, La Découverte, Paris, 1998 (1773-1784), 455 p. (trad. G. Rives, 1998)
+
+- Roger Frison-Roche, {L’esclave de Dieu}, [Flammarion->http://www.flammarion.com/], 1985.
+
+- Jean-François de Lapérouse, {Voyage autour du monde sur l’Astrolabe et la Boussole}, La Découverte, Paris, 1997(1788).
+
+- Bruno Lecoquierre, {Parcourir la Terre. Le voyage, de l’exploration au tourisme}, [L’Harmattan->http://www.editions-harmattan.fr/], Paris, 2008.
+
+- Théodore Monod, De {Tripoli à Tombouctou. Le dernier voyage de Laing, Paris}, [Société française d’histoire d’outre-mer->http://sfhom.free.fr/], Saint-Denis, 1977.
+
+- Guillaume Raynal, {Histoire philosophique et politique des Deux Indes}, François Maspero, Paris, 1981.
+
+- Daniel Roche, {Humeurs vagabondes. De la circulation des hommes et de l’utilité des voyages}, [Fayard->http://www.fayard.fr/Site/CtlPrincipal], Paris, 2003.
+
+
+
+--------------------------
+
+PS: Si vous souhaitez commenter, utiliser ce document ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse [->contact@visionscarto.net]
+
+
+
+
+--------------------------
+Visionscarto - version du 24 mai 2017 18:30

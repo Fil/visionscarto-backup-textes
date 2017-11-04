@@ -1,0 +1,45 @@
+
+--------------------------
+
+TITRE:
+Réacteurs nucléaires en construction — données mondiales
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+- Philippe Rivière
+- Mycle Schneider
+- Julie Hazemann
+
+
+
+--------------------------
+TEXTE:
+
+|{{Titre:}}| Global Nuclear Power Database |
+|{{Mots-clés:}} | #Nucléaire #Énergie #Interactif |
+|{{Parution:}} | {The Bulletin of the Atomic Scientists} |
+|{{Auteur·es:}} | Julie Hazemann, Philippe Rekacewicz, Philippe Rivière, Mycle Schneider |
+|{{Date de création:}} | janvier 2017 |
+
+<https://farm1.staticflickr.com/619/32097367271_b383d6b6a3_o_d.png link=http://thebulletin.org/global-nuclear-power-database>
+
+<quote>Sur les 55~chantiers de construction de réacteur en cours dans le monde, combien sont en retard sur les prévisions ? Quels sont les 13~pays qui construisent des centrales nucléaires ? Quels sont les principaux fournisseurs industriels de technologies ? Combien de temps un réacteur particulier a-t-il mis pour être connecté au réseau électrique ? Et pour 90~d’entre eux, pendant combien de temps ont-il été en construction avant d’être abandonnés ?
+
+Pour approfondir ces questions ou en savoir plus sur chacun des 754~réacteurs nucléaires qui ont été mis en construction entre 1951 et le 1er janvier 2017, vous pouvez explorer notre « [Global Nuclear Power Database->http://thebulletin.org/global-nuclear-power-database] » sur le site internet de la prestigieuse revue {Bulletin of the Atomic Scientists.}
+</quote>
+
+
+
+--------------------------
+
+PS: Une visualisation interactive développée par le [World Nuclear Industry Status Report (WNISR)->http://www.worldnuclearreport.org/] et [Visionscarto->https://visionscarto.net/] pour le [Bulletin of the Atomic Scientists->http://thebulletin.org/], avec le soutien du [Pulitzer Center on Crisis Reporting->http://pulitzercenter.org/].
+
+Si vous souhaitez commenter ou réutiliser cette cartographie interactive, ou simplement contacter les auteur·es, n'hésitez pas à nous écrire à [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 3 août 2017 08:03

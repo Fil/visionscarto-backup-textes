@@ -51,11 +51,6 @@ TEXTE:
 PS: Si vous souhaitez réutiliser ces cartes, ou simplement contacter l'auteur, n'hésitez pas à écrire à l'adresse [->contact@visionscarto.net].
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------

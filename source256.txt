@@ -15,7 +15,7 @@ AUTEUR:
 TEXTE:
 
 |{{Titre :}}| Implantation humaine |
-|{{Mots-clés :}} | #villes #routes #monde #population #basiques #méthodologie |
+|{{Mots-clés :}} | #Villes #Routes #Monde #Population #Basiques #Méthodologie #Démographie #Urban_matter |
 |{{Apparition :}} | Visionscarto, mars 2016. |
 |{{Auteur :}} | Philippe Rivière |
 |{{Date :}} | 2016. |
@@ -30,12 +30,7 @@ size=original class=fullwidth>
 PS: Si vous souhaitez commenter, utiliser ce document ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 25 septembre 2016 15:29
+Visionscarto - version du 30 mars 2017 11:57

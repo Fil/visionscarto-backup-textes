@@ -22,7 +22,7 @@ Il fallait trouver un mode de représentation plus libre, capable de se fondre d
 
 Elle cerne ici les contours théoriques et méthodologiques de cet outil, en décrit les étapes de création, et s'interroge sur les impacts, l'utilité et ses limites, à partir de l’expérimentation faite sur le terrain au Maroc, à Marrakech, au printemps 2010.
 
-Ce projet, guidé par Marianne Blidon, Agnès Lambert et Béatrice Collignon, a été publié une première fois en septembre 2011 sur l'ancien site « Visions cartographiques ».
+Projet guidé par Marianne Blidon, Agnès Lambert et Béatrice Collignon.
 
 
 --------------------------
@@ -199,12 +199,7 @@ La carte classique, qui reste un des outils les plus importants du géographe, s
 PS: Si vous souhaitez réagir à cette contribution, ou simplement contacter l'auteure, vous pouvez le faire par mail via [->contact@visionscarto.net]
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 17 novembre 2016 16:00
+Visionscarto - version du 6 septembre 2017 11:20

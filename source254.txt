@@ -1,0 +1,97 @@
+
+--------------------------
+
+TITRE:
+Fonds de cartes
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+
+
+--------------------------
+TEXTE:
+
+Vous trouverez ci-dessous une petite série de fonds de cartes à télécharger. C'est le début d'une collection appelée à s'agrandir au fil du temps.
+
+Créés par nos soins, {{ils sont à votre disposition, gratuitement et librement}} pour tous usages cartographiques : aussi bien pour l'enseignement de la géographie, de l'histoire, que pour peindre, dessiner, colorier, réfléchir à l'organisation du monde…
+
+{<sc>Attention, version préliminaire</sc>. Après plusieurs mois d'élaboration, nous avons le plaisir de pouvoir enfin partager ces fichiers. Mais nous savons qu'ils comportent encore quelques bugs et omissions, notamment dans les îles et les micro-États. Nous comptons sur votre regard et votre expérience pour nous signaler ceux que nous avons manqués, nous les corrigerons dès que possible. Tous vos commentaires, et suggestions d'améliorations ou de compléments, seront donc plus que bienvenus à l'adresse email [->contact@visionscarto.net]. Merci d'avance !}
+
+
+Dans un premier temps, nous partageons le planisphère avec les frontières de 2017, suivant trois projections :
+-- Bertin (1953)
+-- Robinson
+-- Winkel-Tripel.
+
+Deux fonds de carte centrés sur les pôles sont aussi disponibles. La projection choisie pour ceux-là est [azimutale équivalente->https://fr.wikipedia.org/wiki/Projection_azimutale_%C3%A9quivalente_de_Lambert], qui préserve les rapports de surfaces.
+
+Le format PNG devrait être imprimable en format A4, et utilisable tel quel.
+
+Pour aller plus loin, les fichiers sont aussi disponibles dans le format vectoriel SVG, ce qui permet de travailler la carte dans un logiciel spécialisé comme [Inkscape->https://framalibre.org/content/inkscape] (ou Illustrator) pour faire ressortir certains objets géographiques, et d'imprimer en bonne qualité. 
+
+<p class="text-right caps">↬ Philippe Rivière.</p>
+
+
+<quote>
+Vous faites de ces fonds de cartes un usage innovant, pédagogique, artistique, ou autre : nous aurons grand plaisir à découvrir vos travaux. N'hésitez pas à nous envoyer vos productions, esquisses et dessins, à l'adresse email [->contact@visionscarto.net] ou, si le fichier est trop lourd, via un site comme [lut.im->https://lut.im/] ou [framadrop->https://framadrop.org/]. (Ne vous inquiétez pas, nous ne les ferons pas circuler sans votre permission.)
+</quote>
+
+<classeur|rep=fonds-de-cartes>
+
+~
+
+<quote>
+
+{Voici quelques indications pour vous permettre d'utiliser ces fonds SVG dans un logiciel de dessin vectoriel :}
+
+{{{Identifiants}}}
+
+<https://gateway.ipfs.io/ipfs/QmZqKh1EYpN5GAhi942DFgx76kDHmdmL76GJGh7X3KjMaj/2017-07/calques-fonds-de-cartes.png size=small right link title="Organisation des calques">
+
+Les lieux (villes, pays, continents…) sont tous identifiés de manière systématique et standard, ce qui permet de les colorier, ou d'en prélever les contours pour isoler telle ou telle région.
+
+Nous avons choisi l'anglais comme base technique de nommage, afin de coller à la nomenclature de la plupart des logiciels et des bases de données internationales. 
+
+{{{Calques d'informations}}}
+
+Plusieurs calques sont disponibles (la plupart sont masqués par défaut). Vous pouvez les activer de façon individuelle, pour afficher différentes informations :
+-- l'emplacement de la capitale de chaque pays ;
+-- les populations (symboles proportionnels au nombre d'habitants) ;
+-- une estimation de la taille de leur économie (symboles proportionnels à leur produit intérieur brut) ;
+-- les « petits États », qui n'ont pas une surface assez importante pour être visible à cette échelle planétaire, sont présents sur un calque à part.
+
+Chaque pays est représenté par un chemin (comportant un ou plusieurs polygones) nommé et identifié par son code ISO, ce qui facilite le travail cartographique.
+
+{{{Organisation des calques}}}
+
+Un calque regroupe tous les pays. Mais les frontières ne sont pas simplement les « bords des pays ». Les frontières terrestres forment un tracé à part, ainsi que les traits de côte. De même, les cinq continents sont présents sur un calque situé « en-dessous » de celui des pays.
+
+Le continent Antarctique est géré à part, et masqué par défaut sur la plupart des projections.
+
+Cette approche en couches permet de créer des présentations différenciées, et de créer des effets visuels. Cette logique n'est pas figée, et nous sommes ouverts à toute suggestion d'amélioration ou d'ajout qui puisse répondre à divers besoins.
+
+</quote>
+
+<html><!--
+{{Nos sources et méthodes }} sont détaillées dans les projets [Fonds de cartes->https://github.com/visionscarto/fonds-de-cartes], [Geo-data->https:github.com/visionscarto/some-geo-data] et [ne_110m_fixes->https://github.com/Fil/ne_110m_fixes].
+--></html>
+
+
+--------------------------
+
+PS: Vous faites de ces fonds de cartes un usage innovant, pédagogique, artistique, ou autre : nous aurons grand plaisir à découvrir vos travaux. N'hésitez pas à nous envoyer vos productions, esquisses et dessins, à l'adresse email [->contact@visionscarto.net] ou, si le fichier est trop lourd, via un site comme [lut.im->https://lut.im/] ou [framadrop->https://framadrop.org/]. (Ne vous inquiétez pas, nous ne les ferons pas circuler sans votre permission.)
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- titre noir
+- texte sans-serif
+- secondaire
+
+
+--------------------------
+Visionscarto - version du 25 septembre 2017 05:51

@@ -1,0 +1,239 @@
+
+--------------------------
+
+TITRE:
+¡La Semiología gráfica de Jacques Bertin cumple cincuenta años!
+
+--------------------------
+
+AUTEUR: 
+- Gilles Palsky
+
+--------------------------
+
+CHAPO:
+En 1967 apareció la primera edición del tratado fundacional de Jacques Bertin: {Sémiologie graphique. Les diagrammes, les réseaux, les cartes.} Esta obra parece abrir un nuevo campo de conocimiento, la  «semiología gráfica» o ciencia de la representación gráfica de datos. Fue el lingüista especializado en semiótica Georges Mounin quien propuso a Bertin esta expresión y quien, por cierto, celebró la obra con bastantes cumplidos en las páginas del diario {Le Monde} de 16 de marzo de 1968. Mounin saluda a Bertin como el «Saussure de la semiología gráfica». Por qué insistir en esta publicación medio siglo después? 
+
+<h4 class="text-right">{por Gilles Palsky}</h4>
+<h5 class="text-right"> Profesor en la universidad Paris 1 Panthéon-Sorbonne.</h5>
+
+
+
+--------------------------
+TEXTE:
+
+La razón es sencilla: el tratado de Jacques Bertin se ha impuesto como una suerte de doxa cartográfico y ha modelado la práctica de generaciones de cartógrafos desde los años 1970. En 2011, con motivo del Congreso Internacional de Cartografía en París, rendí homenaje a Bertin, fallecido el año anterior, y pude medir la influencia y actualidad de sus ideas a partir del número de citas de la {Semiología} en Google Scholar entre 2000 y 2010. El número de referencias al tratado de Bertin era considerablemente superior al de otras obras consideradas «clásicas» de la cartografía contemporánea. La experiencia, repetida en 2017 (con todas las limitaciones que presenta un sondeo de este tipo), da un resultado muy similar.
+
+<https://farm5.staticflickr.com/4226/34148897464_bafd2076a0_k_d.jpg size=medium title="Número de citas de obras cartográficas clásicas en «Google Scholar», período 2000-2017" legend 
+="Resultados registrados el 1 de mayo de 2017" right link>
+
+Este eco siempre tan contemporáneo del pensamiento de Bertin justifica volver la mirada a su ópera magna más allá de cualquier oportunismo conmemorativo. Es imposible restituir la riqueza y la complejidad de un tratado de 430 páginas. Me limitaré en un primer momento a subrayar algunos aspectos que permiten apreciar la originalidad en el momento de su publicación. Luego mostraré cómo esta obra, juzgada entonces como estupefaciente, se inscribe sin embargo en un contexto intelectual, a pesar de que Bertin eligiera abstraerse. Finalmente, adoptando un punto de vista crítico, intentaré señalar algunos límites o ángulos muertos de la semiología gráfica de Bertin.
+
+<h2> Un tratado fundacional</h2>
+
+La {Semiología gráfica} presenta antes que nada una serie de características innovadoras. La primera originalidad es que no se trata de un manual de cartografía sino que tiene en consideración el conjunto de la expresión gráfica. Como indica el subtítulo de la obra, trata de mapas, diagramas y redes, éstas últimas entendidas como grafos interrelaciónales. Estos diferentes modos constituyen «la parte racional del mundo de las imágenes[[
+    Las ediciones de 1967 y 1973 difieren en algunos puntos: la introducción teórica y el capítulo dedicado al procesamiento gráfico de la información. Las citas se extraen en su mayor parte de la edición original. Cito la edición de 1973 solo cuando se desvía de la edición de 1967.
+]]» (1973, 6), siendo la parte «irracional»  el conjunto de fotografías, pinturas, etc.
+
+El conjunto de los métodos gráficos fue designado por Bertin como «la gráfica», un sistema que él considera monosémico, es decir, que sus elementos o signos tienen un significado fijado de antemano y único, representado, por ejemplo, en la leyenda de un mapa (1973, 6). Este enfoque integral hace de Bertin un precursor no sólo para los cartógrafos, sino también para los especialistas en análisis visual de datos o en diseño gráfico.
+
+<https://farm5.staticflickr.com/4206/35122714635_06a23f3a34_o_d.jpg size="original" title="El problema gráfico" credit="Todas las imágenes siguientes son páginas del libro en la edición de 1967." link>
+
+Una segunda característica novedosa atañe al principio mismo subyacente a la obra, que puede ser identificado como un cambio de paradigma en lo que concierne a las representaciones gráficas y, más particularmente, a la cartografía. Hasta el momento, la «buena representación» debía ser esencialmente precisa y completa. Con Bertin, la prioridad se convierte en la eficacia de la comunicación. El tercer capítulo de la Semiología comienza con un ejercicio de virtuosismo por el que, a partir de una misma información (la distribución de la población activa según los tres principales sectores económicos de los departamentos franceses), Bertin construye un centenar de representaciones gráficas diferentes, diagramas o mapas. Frente a esta gama de posibilidades, ¿cómo hacer una elección razonada, libre de subjetividad?
+
+<https://farm5.staticflickr.com/4235/35018715736_41c26bdfc5_o_d.jpg size="medium" right title="Serie cuantitativa" credit="JB, 1967." link>
+
+Bertin, inspirándose en el «coste mental de la percepción» de Georges Zipf, se apoya en la noción de eficacia y escribe:
+
+<blockquote>
+
+{Importa entonces definir un criterio preciso, mensurable, a partir del cual podamos clasificar las construcciones, definir incontestablemente la mejor y explicar, si ha lugar, porqué unos lectores prefieren una construcción y otros otra.  Nosotros llamaremos a este criterio “la eficacia”.»}
+
+</blockquote>
+
+«La eficacia» se define por la proposición siguiente: 
+
+<blockquote>
+
+{… si para obtener una respuesta correcta y completa a una pregunta dada, manteniendo todo lo demás igual, una construcción requiere un tiempo de observación menor que otra construcción, diremos que la primera es más eficaz para esta pregunta».} (1967, 139).
+
+</blockquote>
+
+Es trabajo del diseñador producir imágenes, es decir {«formas perceptibles en el instante mínimo de visión»} (1967, 142).
+ 
+Una representación se relaciona con una serie de preguntas a las que un lector debe poder responder a un menor coste mental. El lector se encuentra entonces integrado en el proceso al tener en cuenta sus capacidades.
+
+He aquí la tercera gran innovación del tratado: la exposición, no de un método, sino de una «gramática» inédita que reposa sobre el análisis previo de la información (el significado) y los medios del sistema gráfico (el significante). Esta gramática está compuesta de reglas que son la garantía de la eficacia pretendida. Bertin detalla reglas de construcción y reglas de legibilidad. Las primeras se aplican a la transformación de una información en dibujo (construcción en una imagen, empleo correcto de las variables visuales, etc.), las segundas se orientan a facilitar la lectura habida cuenta de las capacidades del ojo humano (densidad de símbolos, umbrales de lectura y umbrales de separación de las figuras, etc.).
+
+<https://farm5.staticflickr.com/4284/35092012616_80e924b101_o_d.jpg size="medium" right title="Las variables visuales: tamaño, valor, grano, color, orientación, forma." credit="JB, 1967." link>
+
+Este somero análisis no se completaría si no evocáramos los antecedentes del procesamiento gráfico de datos imaginados por Bertin. En efecto, la imagen, o forma eficaz, no admite según el autor más que tres variaciones visuales, las dos dimensiones del plano y una variable llamada de tercera dimensión, lo que permite traducir tres «componentes» de la información. En el caso de un mapa, el orden geográfico moviliza las dos dimensiones del plano por lo que el «mapa-imagen» no admite más que una variable suplementaria (1967, 173 y 321). Cuando la información es compleja, ésta se debe simplificar de antemano.
+
+Se trata, por ejemplo, para unidades espaciales caracterizadas por varios indicadores estadísticos, de despejar los tipos de espacios a los que corresponden ciertas combinaciones de estos indicadores. Bertin señala brevemente las posibilidades de análisis estadístico dado que él prefiere los métodos de procesamiento visual desarrollados en su laboratorio: matrices ordenables, ficheros imagen, abanicos de curvas. Varias de estas herramientas requieren una manipulación manual, a base de permutaciones y reclasificaciones. Así, para las matrices, el laboratorio de Bertin concibe un material que facilita el proceso, hecho de pequeños cubos perforados y varillas (material llamado «dominó»). Bertin evoca con agrado su descubrimiento de la  « movilidad » de la imagen como un momento determinante en la evolución de su pensamiento y considera el procesamiento visual de datos como el aspecto más original de sus trabajos, que desarrolla en su monografía de 1977, {La graphique et le traitement graphique de l’information,} en la que insiste en la importancia de la «gráfica dinámica»:
+
+<blockquote>
+Este punto es fundamental. Es la movilidad interna de la imagen lo que caracteriza la gráfica moderna. Ya no “dibujamos” una gráfica de una vez por todas. Las “construimos” y las reconstruimos (las manipulamos) hasta el momento en el que todas las relaciones que alberga han sido percibidas» (1977, 5).
+</blockquote>
+
+
+<https://farm5.staticflickr.com/4217/35123067735_5f3ef7553d_o_d.jpg size="medium" right title="Porcentajes" credit="JB, 1967." link>
+
+En esta obra, el orden de las prioridades cambia. Los métodos de procesamiento se  muestran en primer lugar y de forma detallada (175 páginas), los principios generales que siguen no ocupan más que unas cincuenta páginas.
+
+<h2>¿Una obra suspendida?</h2>
+
+Uno de los aspectos más sorprendentes de la obra de Bertin es que parece no sustentarse en ninguna fuente. {«La semiología gráfica es un libro único»} escribió C~Koeman en 1971. La ausencia de bibliografía y de notas justifica por sola este epíteto. En realidad, la falta de referencias no es total: autores extraños son citados en el cuerpo del texto y Zipf, antes mencionado, es objeto de una sola nota a pie de página. De hecho, la reflexión se elabora a partir de la experiencia acumulada en el seno del laboratorio de cartografía que dirigió Bertin en el EPHE (luego EHESS). Ésta se basa sobre una compilación de una masa de documentos gráficos, el ejercicio de una mirada crítica con respecto a éstos, la búsqueda de principios directores que permitan clasificarlos. Ésta se debe también a los trabajos realizados por los investigadores de la Escuela, a esta necesidad de responder en poco tiempo a una solicitud multiforme y pluridisciplinar. Bertin elaboró así, según la afortunada expresión de R.~Estivals {«la teoría de su práctica»} (Estivals, 2000).
+
+<https://farm5.staticflickr.com/4216/35018715016_d80741430a_o_d.jpg
+ size="medium" right title="Colores" credit="JB, 1967." link>
+
+El autor de la {Semiología} no intenta situarse en relación a la lingüística u otras teorías y procedimientos semiológicos, ni utiliza un vocabulario que permita apertura y diálogo (Metz, 1971, 758—). Su actitud es la misma con respecto a la teoría de la información que él excluye de su reflexión desde las primeras páginas de su tratado (1967, 9). Esta distancia en relación a estos dos conjuntos teóricos es claramente reivindicada:
+
+<blockquote>
+{¿Debo decir que todos mis ensayos para aplicar los elementos de estos dos sistemas preliminares has sido infructuosos? Que durante más de tres años me he empleado sin éxito (pero no sin reflexiones constructivas) y que, para salir, necesariamente en un momento dado, estructuré el conjunto de mis observaciones del modo que me pareció menos detestable»} (Bertin, 1971, 768). 
+
+</blockquote>
+
+Esta posición es apoyada por Georges Mounin en el informe que libra al diario {Le Monde} en 1970: «Bertin estaría perdido si pretendiera hacer entrar a priori en un marco lingüístico las realidades que descubre». Sin embargo, que la «primera teoría orgánica de un sistema semiológico (o semiótico) otra que las lenguas naturales» (Mounin, 1970, 227) se aísla de la teoría general de los signos resulta sorprendente.
+
+<https://farm5.staticflickr.com/4214/35083382586_5fc2611c63_o_d.jpg size="original" right title="Diagrama: la crisis de los misiles de Cuba, 1962" credit="JB, 1967." link>
+
+Esta práctica de tierra quemada no prohibe señalar algunos elementos del contexto intelectual de la obra. Si Bertin pretende dejar de lado la teoría de la información, su tratado lleva la marca del famoso modelo de la comunicación de Shannon y Weaver (1948) orientada a la transmisión óptima de los mensajes. El esquema «fuente → emisor → canal → receptor → destinatario» pone el acento, más allá del «canal» (que puede ser un mapa) sobre los procesos en el seno del sistema, y propone sobre todo acordar los caracteres semánticos de los mensajes con las capacidades de los destinatarios.
+
+La intrusión del destinatario, o lector del mapa, es como hemos dicho, un aspecto fundamental de la Semiología. Observamos por otra parte que, en el mismo periodo, una mutación similar se siente en la cartografía anglosajona, con el movimiento del {cognitive map-design} basado en los trabajos de Arthur H. Robinson (Palsky, 2012).
+
+Otro aspecto contextual al que se ha prestado poca atención hasta ahora, es la eclosión y florecimiento del movimiento estructuralista, en particular en Francia, a partir de la mitad de los años 1950. Varios autores acercan la obra de Bertin a esta corriente de pensamiento, como su interés por las «componentes» que permiten reducir la diversidad de los datos, o también el acento que él pone en las relaciones que existen entre los datos así como entre los signos gráficos. La noción de variable visual es tan radicalmente nueva que permite a Bertin situar su análisis, no al nivel del signo, sino en el seno de una serie de signos. Propone así una especie de esquema de organización del lenguaje gráfico, alejado de las aproximaciones formales que prevalecían en los tratados anteriores de cartografía. Podemos notar por diversión lo que Mounin, que veía en Bertin el «Saussure de la semiología gráfica», decía de Saussure, el fundador de la semiología moderna, que era un «estructuralista sin saberlo» (Mounin, 1968). Bertin es también, sin duda, un estructuralista sin saberlo.
+
+
+<https://farm5.staticflickr.com/4220/34312885543_d0ce8fd726_o_d.jpg size="medium" right title="Combinación de variables" credit="JB, 1967." link>
+
+Finalmente hay que recordar que la semiología gráfica se inscribe en una corriente de interés global por las imágenes de toda naturaleza y por su significación. Bertin es arrastrado por esta ola: le vemos escribir en {Communications} (Bertin, 1970), colaborar en el grupo «Gens d’image[[
+    La gente de imagen, creada por el periodista Albert Plécy en 1955, reúne a personalidades que hacen «trabajo creativo en el campo de la imagen». Plécy organiza «Días internacionales de la imagen» en Porquerolles, de 1962 a 1973. Bertin presenta el gráfico durante los días de 1963.
+]]» o en el equipo «Schéma et schématisation[[
+    El grupo de esquema y esquematización, fundado por R. Estivals, A. Moles, G. Matoré, etc., se ocupa en particular de los «esquemas gráficos».
+]]» entre 1964 y 1967. El tratado de 1967 es un hito importante en la historia de las investigaciones en comunicación visual. Umberto Eco sitúa Bertin junto a Johannes Itten, Roland Barthes o Erwin Panofsky en la descripción del campo semiótico que hace en 1972 (Eco, 1972, 17).
+
+<h2>Deconstruir la semiología</h2>
+
+Como los diez mandamientos, las variables visuales son ocho. Las reglas de la semiología son invariablemente blandidas como un mantra por los cartógrafos, profesionales o académicos, principalmente francófonos. Esta invocación acompaña a menudo sus lamentos en relación a la avalancha contemporánea de mapas mediocres que testimonian un «grado cero de la escritura».
+
+Evaluar la aportación de Bertin es, sin embargo, medir igualmente los límites de su tratado, sus ángulos muertos, por la reflexión contemporánea. Esta cuestión de las reglas es un punto importante. Varios cartógrafos contemporáneos (Waldo Tobler, Christopher Board, Mark Monmonier) subrayaron muy pronto la ausencia de base experimental de todos estos « mandamientos », su carácter rígido y perentorio. Esto no los descalifica ya que se podría tratar de una intuición acertada.
+
+
+<https://farm5.staticflickr.com/4247/34671353690_781ebb3a1a_o_d.jpg size="medium" right title="Cartogramas" credit="JB, 1967." link>
+
+En revancha, esto puede incitar a una nueva mirada crítica hacia la gramática bertiniana y a recusar el fetichismo del « buen » mapa, único y conforme. No podemos encerrarnos en esta cuestión de las reglas que permitirían construir el mapa apropiado sin tener en cuenta el discurso de la cartografía crítica, formulada e partir de los años 1990. John Brian Harley, el principal representante de este pensamiento crítico, recuerda en un texto célebre (Harley, 1991) que los cartógrafos solo se interesan por las reglas técnicas, jurídicas o gráficas, y no se preocupan mucho por los valores trascendentales de los mapas, de su justicia moral y social. Qué tipo de mapa es bueno, qué suerte de cartografía es justa? Porqué la excelencia gráfica sería por ella misma un criterio de juicio? La cartografía no se puede reducir a «la aplicación de reglas de diseño inflexibles» (Harley, 1991), aunque ellas mismas justifiquen en definitiva la existencia social de cartógrafos profesionales y conforte su posición sobresaliente de expertos en lo visual.
+
+Las reflexiones de Harley introducen también una forma de relativismo cultural en una disciplina que ancla su discurso en la eficacia y en la comunicación. Los mapas se hacen, lejos de las reglas de la semiología y las simples convenciones de la cartografía occidental, ya se trate de mapas personales o colectivos elaborados en línea con ayuda de interfaces de programación (API), o de formas provenientes de cartografías autóctonas o participativas. No las podemos aprehender contentándonos en un discurso normativo. Sería necesario admitir la posibilidad de semiologías alternativas que no tuvieran por principio la eficacia.
+
+
+<https://farm5.staticflickr.com/4274/35018709646_5a1e43ccd9_o_d.jpg
+ size="medium" right title="Tramas de puntos" credit="JB, 1967." link>
+
+Esta cuestión nos conduce a subrayar lo que constituye el principal ángulo ciego del sistema de Bertin: las nociones de regla, de eficacia o de « imagen » no tienen en cuenta los aspectos culturales de la lectura de una representación gráfica y, en particular, los conocimientos previos.
+
+Ya en 1971, C. Metz estimaba que Bertin podría haberse preocupado de estudiar los vínculos que unen el código técnico de la gráfica con las {«múltiples codificaciones socioculturales que podemos observar en una civilización en la que las gráficas se utilizan»} (Metz, 1971, 766). En la nueva introducción de la edición de 1973 de la {Semiología,} Bertin resuelve el problema proclamando que la gráfica es un {«sistema monosémico»,} lo que evacúa a priori toda interpretación o discusión:
+
+<blockquote>
+
+{Esta discusión es fundamental dado que otorga todo el sentido a “la gráfica” en relación con otras formas de visualización. Qué es, en realidad, emplear un sistema monosémico? Es consagrar a la reflexión un momento durante el cual buscamos reducir al máximo la confusión, en un cierto dominio y por un cierto tiempo, todos los participantes se ponen de acuerdo sobre ciertos significados, {{y convienen no discutir más}} }[[
+    Subrayado por el autor.
+]]{»} (Bertin, 1973). 
+
+</blockquote>
+
+Es una postura bastante extravagante y, sin embargo, regularmente reiterada. 
+
+Su reto es claro: dominar la comunicación y poner las reglas de un sistema «purificado», es decir, exclusivamente científico, riguroso y neutro. Es olvidar que aunque una leyenda predefine un significado, un signo se puede siempre revestir con otros al leerlo. Un signo no es jamás denotativo, igualmente connota, y todas sus connotaciones se transfieren al objeto. Un mapa tiene más que un sentido literal: desarrolla también otros significados metafóricos o simbólicos.
+
+<https://farm5.staticflickr.com/4272/34736560940_f27d8b4dfc_o_d.jpg
+size="original" title="Tramas regulares de círculos de tamaño creciente" credit="JB, 1967." link>
+
+Sigamos con el análisis: para Bertin, la lectura de un mapa se asimila a una sola percepción visual. «Percibir una gráfica requiere dos tiempos de percepción. 1. De qué cosas trata? 2. Cuál es la relación entre estas cosas?» La percepción reenvía al ojo y a la visión (ver la imagen como perceptible en el «instante mínimo de visión»). Dicho de otro modo más simple, Bertin desconoce la dimensión mental de la lectura de las imágenes, y más globalmente, la aportación de la psicología cognitiva, que no es una novedad en los años 1960 y 70. Para él, el ojo y la percepción se identifican con todo el pensamiento. Comprendemos porqué esto le permite construir un sistema que él imagina universal (simple mecanismo psicológico, idéntico en todos los individuos), pero también porqué las reglas de su gramática son dadas como absolutas y, por así decirlo, transculturales.
+
+<https://farm5.staticflickr.com/4197/34993046541_c40d2e0fb2_o_d.jpg size=medium title="Modelo global de decodificación visual" legend ="Cómo leer un signo visual" credit="Groupe Mu, {Traité du signe visuel : Pour une rhétorique de l'image}, Seuil, 1992, page 91." right>
+
+La eficacia no puede, sin embargo, ser absoluta: ésta depende de los hábitos perceptivos, de la educación de la mirada, ésta se construye. Es interesante, además, remarcar que Bertin fisura un poco su edificio teórico al introducir la idea de aprendizaje:
+
+<blockquote>
+
+{Numerosas observaciones demuestran que el lector se instala normalmente en el nivel elemental de lectura y que éste experimenta dificultades para adoptar el nivel medio y todavía más para el nivel de conjunto. Los redactores gráficos contribuyen a este hábito cuando todavía libran al consumo público un número excesivo de figuraciones que obligan al lector a adoptar la percepción elemental. (Curvas sin un orden en particular, cartografía enciclopédica… juego de los 7 errores!). Pero a medida que las construcciones en una imagen se multipliquen y que los redactores observen la ineficacia de las figuraciones o sitúen la información en un nivel anecdótico, el lector aprenderá a utilizar mejor los medios perceptivos de los que está dotado»} (1967, 153). 
+
+</blockquote>
+
+Esto es decir algo como que: «las reglas universales de la semiología no son universales pero se volverán universales cuando todo el mundo las haya adoptado...»
+
+
+<https://farm5.staticflickr.com/4211/34248047733_3a422f0388_o_d.jpg
+ size="medium" right title="Volúmenes" credit="JB, 1967." link>
+
+<h2>La semiología gráfica como fuente de investigación en representación gráfica</h2>
+
+La {Semiología gráfica} conserva una dimensión de obra mítica y fundacional, como testimonia la reciente reedición de la versión en inglés por un editor anglosajón de software SIG y de cartografía (Bertin, 2011). Para los estadísticos y los especialistas en visualización de información, el interés en los trabajos de Bertin no decae desde los años 1980. En cuanto a los cartógrafos, éstos están en deuda con Bertin por el surgimiento de su disciplina. Bertin les ha permitido basar sus preocupaciones prácticas en un trasfondo teórico. Él modificó el modo como estaba considerada la cartografía en el dominio académico, otorgándole una dignidad científica y librándola de la geografía, su cercano y engorroso ascendiente.
+
+Una de las reflexiones más frecuentes en relación a la {Semiología} y su posteridad es que buena parte de los cartógrafos contemporáneos olvidan demasiado a menudo las buenas reglas del tratado. Otra observación recurrente es que la semiología gráfica debería adaptarse a la pantalla, evolucionar hacia una «semiología infográfica» (Laurini et Müller, 1997). Lo que sorprende de los manuales de cartografía franceses más recientes es que la gramática formulada por Bertin es retomada integralmente o modificada de forma marginal.
+
+Se puede, sin embargo, presentar una crítica externa que postula que toda la disciplina no se encuentra gobernada por el principio de eficacia, así como una crítica interna que señala la fragilidad de ciertos conceptos o preceptos del discurso semiológico. Rendir homenaje al tratado de Bertin cincuenta años después de su primera edición es, sin duda, considerarlo un campo de investigación más que un conjunto de dogmas intangibles.
+
+
+<p class="text-right caps">↬ Gilles Palsky</p>
+
+<https://farm5.staticflickr.com/4248/34737139650_e1a7e4271f_o_d.jpg
+size="original" title="Sombras" credit="JB, 1967" link>
+
+<quote>
+
+{{Fuentes citadas en el texto:}}
+
+- Jacques Bertin (1967), {Sémiologie graphique. Les diagrammes. Les réseaux. Les cartes}, Paris/La Haye, Mouton ; Paris, Gauthier-Villars.
+
+- Jacques Bertin (1970), «[La graphique->http://www.persee.fr/doc/comm_0588-8018_1970_num_15_1_1221]», {Communications} 15, p. 955-964.  
+
+- Jacques Bertin (1971), «[Réponse à Christian Metz->http://www.persee.fr/doc/ahess_0395-2649_1971_num_26_3_422442]», {Annales, Economies, Sociétés, Civilisations} 26 (3-4), 768-770.
+
+- Jacques Bertin (1973), {Sémiologie graphique. Les diagrammes, les réseaux, les cartes}, Paris/La Haye, Mouton ; Paris, Gauthier-Villars.
+
+- Jacques Bertin (1977), {La graphique et le traitement graphique de l’information}, Paris, Flammarion.
+
+- Jacques Bertin (2011), {Semiology of Graphics: Diagrams, Networks, Maps}, Redlands, Calif., ESRI Press.
+
+- Umberto Eco (1972), {La structure absente. Introduction à la recherche sémiotique}, Paris, Mercure de France.
+
+- Robert Estivals (2000), {Théorie du schéma graphique}, Paris, SSB.
+
+- John Brian Harley (1991), «[Can There Be a Cartographic Ethics?->http://cartographicperspectives.org/carto/index.php/journal/article/view/cp10-harley/1093]», {Cartographic Perspectives} 10, p. 9-16.
+
+- Cornelis Koeman (1971), «The principle of communication in cartography», {International Yearbook of Cartography} 11, p. 47-53.
+
+- Robert Laurini, Jean-Claude Müller (1997), «La Cartographie de l'an 2000», {Revue Internationale de Géomatique} 7 (1), p. 87-106. 
+
+- Christian Metz (1971), «[Réflexions sur la “Sémiologie graphique” de Jacques Bertin->http://www.persee.fr/doc/ahess_0395-2649_1971_num_26_3_422441]», {Annales, Economies, Sociétés, Civilisations} 26 (3-4), p. 741-767.
+
+- Georges Mounin (1968), {Saussure ou le structuraliste sans le savoir,} Paris, Seghers.
+
+- Georges Mounin (1970), «La sémiologie graphique», {in : Introduction à la sémiologie}, Paris, Éditions de Minuit, p. 226-229. (Publication originale : Le Monde, 16 mars 1968).
+
+- Gilles Palsky, Marie-Claire Robic (1998), «[Aux sources de la sémiologie graphique->https://cybergeo.revues.org/554]», {Bulletin du Comité Français de Cartographie} 156, p. 32-43.
+
+- Gilles Palsky (2012), «Map Design vs Sémiologie graphique : Réflexions sur deux courants de la cartographie théorique» ([PDF->http://www.lecfc.fr/new/articles/212-article-1.pdf]), {Cartes & géomatique} 212, p. 7-12.
+
+- George Kingsley Zipf (1935), {The Psycho-biology of Language: An Introduction to Dynamic Philology}, Boston, Houghton Mifflin company.
+
+</quote>
+
+
+
+
+--------------------------
+
+PS: Traducido por Pere Millán-Martínez. Para cualquier pedido o sugerencia, por favor contáctenos [->contact@visionscarto.net]. ¡Gracias!
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- secondaire
+
+
+--------------------------
+Visionscarto - version du 26 de octubre de 2017 12:34

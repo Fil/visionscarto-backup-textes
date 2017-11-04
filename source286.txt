@@ -166,11 +166,6 @@ Si la visualisation de données géospatiales a déjà une riche histoire, celle
 PS: Cet article, originellement publié par Stamen (“[An ode to d3.js projections->https://hi.stamen.com/an-ode-to-d3-js-projections-9d6477d6da0b]”) a été traduit de l'anglais, pour visionscarto, par Philippe Rivière. Si vous souhaitez le commenter, le réutiliser, ou vous adresser à l'auteur, n'hésitez pas à écrire à [->contact@visionscarto.net].
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------

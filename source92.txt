@@ -37,11 +37,6 @@ Cholera is one of the world’s most successful pathogens, the culprit behind no
 PS: Visionscarto has translated this project in French and helps its circulation in the media. To contact the author, republish the map or translate it in other languages, please contact us: [->contact@visionscarto.net].
 
 
---------------------------
-
-LANG: en
-
-
 
 
 --------------------------

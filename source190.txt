@@ -16,7 +16,7 @@ TEXTE:
 
 |{{Titre :}}| Qui fabrique les armes, et qui les achète ? |
 |{{Mots-clés :}} | #Armement #Conflits #Guerre #Russie #États-Unis #Chine #France #Europe |
-|{{Apparition(s) :}} | Cette carte a été présentée à la conférence [Planetary Security->http://www.planetarysecurity.nl/] à La Haye aux Pays-Bas (2-3 novembre 2015). |
+|{{Apparition(s) :}} | Cette carte a été présentée à la conférence [Planetary Security->https://www.planetarysecurityinitiative.org/] à La Haye aux Pays-Bas (2-3 novembre 2015). |
 |{{Auteur :}} | Philippe Rekacewicz |
 |{{Date :}} | 2015. |
 
@@ -30,12 +30,7 @@ TEXTE:
 PS: Si vous souhaitez commenter, utiliser ce document ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 13 décembre 2015 23:48
+Visionscarto - version du 24 août 2017 10:25

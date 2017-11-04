@@ -1,0 +1,45 @@
+
+--------------------------
+
+TITRE:
+A Breathing Earth
+
+--------------------------
+
+AUTEUR: 
+- Nadieh Bremer
+
+
+
+--------------------------
+TEXTE:
+
+|{{Title:}}| A Breathing Earth |
+|{{Keywords:}} | #art #colors #vegetation #cycles #Earth #d3.js |
+|{{Author:}} | Nadieh Bremer |
+|{{Created:}} | May 2017 |
+
+<blockquote>Watch and see our Earth “breathing” throughout the year. All living organisms depend on these cycles in the growth of plants; for food, for oxygen, and more. Although we humans have started to affect these cycles, hopefully this gorgeous spectacle will be part of our lives for millennia to come.”</blockquote>
+
+Using [data->https://www.star.nesdis.noaa.gov/smcd/emb/vci/VH/index.php] from the U.S. National Oceanic and Atmospheric Administration (NOAA), data designer Nadieh Bremer designed this striking “Breathing Earth” visualisation of the seasonal cycles of plant growth.
+
+<https://farm5.staticflickr.com/4171/34730124775_79bdd9209d_h_d.jpg size=original link=http://www.datasketch.es/april/code/nadieh/ title="A Breathing Earth" legend="Click to see the animated version" credit="Nadieh Bremer, 2017">
+
+<blockquote>The specific variable visualized in the map is called “Greenness,” or in more scientific terms; the no noise (smoothed) Normalized Difference Vegetation Index (SMN). Greenness can be used to estimate the start and senescence of vegetation, start of the growing season and phenological phases. For areas without vegetation (desert, high mountains, etc.), the displayed values characterize surface conditions.”</blockquote>
+
+Nadieh's [detailed article on datasketch.es->http://www.datasketch.es/april/code/nadieh/] also points at how she approached the technical challenge of animating 50,000 points in the browser.
+
+
+--------------------------
+
+PS: If you wish to contact us please write to [->contact@visionscarto.net].
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- pas à la une
+
+
+--------------------------
+Visionscarto - version du 26 May 2017 09:58

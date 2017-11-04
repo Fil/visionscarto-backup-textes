@@ -12,11 +12,11 @@ AUTEUR:
 --------------------------
 
 CHAPO:
+Auteur, avec Sébastien Boussois, de « [Comment Israël expulsa les Palestiniens (1947-1949)->http://www.editionsatelier.com/index.php?page=shop.product_details&flypage=bookshop-flypage.tpl&product_id=317&category_id=1&manufacturer_id=1&keyword=Vidal&option=com_virtuemart&Itemid=1] », publié aux Editions de l’Atelier et qui propose une synthèse de vingt ans de travaux des « nouveaux historiens israéliens », Dominique Vidal fait ici le lien entre les révélations de ces chercheurs et leur traduction cartographique.
+
 <h4 class=text-right>{par Dominique Vidal}</h4>
 <h5 class="text-right">Journaliste et historien. Directeur, avec Bertrand Badie, de « L'État du monde » (La Découverte).
 </h5>
-
-Auteur, avec Sébastien Boussois, de « [Comment Israël expulsa les Palestiniens (1947-1949)->http://www.editionsatelier.com/index.php?page=shop.product_details&flypage=bookshop-flypage.tpl&product_id=317&category_id=1&manufacturer_id=1&keyword=Vidal&option=com_virtuemart&Itemid=1] », publié aux Editions de l’Atelier et qui propose une synthèse de vingt ans de travaux des « nouveaux historiens israéliens », Dominique Vidal fait ici le lien entre les révélations de ces chercheurs et leur traduction cartographique.
 
 
 --------------------------
@@ -98,12 +98,7 @@ PS: Si vous souhaitez commenter, utiliser ce texte ou les cartes, ou simplement 
 Le bandeau représente un extrait d'une carte établie en 1949 par Sami Hadawi (Palestine Arab Refugee Office), disponible à la Librairie du Congrès à Washington DC.
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 27 janvier 2017 21:41
+Visionscarto - version du 28 septembre 2017 06:41

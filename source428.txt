@@ -1,0 +1,74 @@
+
+--------------------------
+
+TITRE:
+La proyección conforme de Cox
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+
+
+--------------------------
+TEXTE:
+
+<https://farm5.staticflickr.com/4418/36608754402_a0f9209e14_o.jpg size=original title="Proyección de Cox, aspecto Sur" credit="Philippe Rivière, 2017" link=https://bl.ocks.org/Fil/1aafd8fa22b62243290674384c364dd0>
+
+
+Jacques-François Cox (1898-1972) es un astrónomo belga, que será rector de la Universidad libre de Bruselas (ULB). En 1935, redacta un artículo en el Boletín de la Clase de Ciencias publicado por la Academia Real de Bélgica, donde describe una «representación de la superficie entera de la tierra en un triángulo equilátero».
+
+Tres años más tarde, Joseph Antoine Magis, calculador en el Observatorio real de Bélgica, propone una formula y unas tablas de números que permiten su cálculo preciso con las herramientas de la época.
+
+Sugiere una aplicación, para dibujar el Gulf stream:
+
+<https://farm5.staticflickr.com/4214/35113320516_6707777c2b_o_d.png
+size=medium title="Bosquejo de un mapa del Gulf Stream" credit="J. Magis, 1938">
+
+Esta proyección es {conforme,} significa que conserva los ángulos: dos caminos que se cruzan en el planeta con un cierto ángulo son representados en el plano por el mismo ángulo.
+
+Se hace en detrimento de las superficies, que por ende ya no pueden ser equivalentes. Pero, como lo hace notar Magis, la alteración de las superficies es menor, en la región central del mapa, que sobre las proyecciones conformes clásicas (de Mercator, de Lambert, etc). {«Entonces,} concluye, {aunque haya sido imaginado para responder a un problema teórico, el lienzo que estudiamos presenta un interés práctico en Geografía matemática para la representación conforme de las regiones ecuatoriales, en particular para la Insulindia y también para el Congo belga.»} Sin embargo, la complejidad de los cálculos impedirá su uso en la práctica.
+
+En 1976, Laurence Patrick Lee, calculador en el [ministerio del territorio de Nueva Zelanda->https://en.wikipedia.org/wiki/Department_of_Survey_and_Land_Information], apoyándose en los trabajos del geógrafo estadounidense Oscar S. Adams, logra una proeza matemática al proponer un planteamiento general de las proyecciones conformes sobre los sólidos de Platón (el tetraedro, el cubo, etc). Su artículo, largo de más de cien páginas, fue objeto de un número especial de la revista {Cartographica.} Muestra que estas proyecciones están ligadas a una función elíptica de  [Dixon->https://en.wikipedia.org/wiki/Dixon%27s_elliptic_functions] llamada {sm,} y produce a su vez unas tablas que permiten calcular unos valores aproximados.
+
+En 2011, el matemático e investigador en informática Malcolm Douglas McIlroy, presenta un método de cálculo más preciso, que utiliza dos series de Taylor. Es este último método que estamos implementando para [d3.js->https://bl.ocks.org/Fil/1aafd8fa22b62243290674384c364dd0].
+
+En un uso más clásico, ignorando el Antártico:
+
+<https://farm5.staticflickr.com/4225/34767332830_f77a94f7be_h_d.jpg size=medium link title="Proyección Cox, aspecto Sur, sin el Antártico" credit="Philippe Rivière, 2017" link=https://bl.ocks.org/Fil/8277a0a590dec3debf142bcd1e827416>
+
+
+Y ahora su aspecto Norte, un poco grotesco:
+
+<https://farm5.staticflickr.com/4202/35113808466_3f858dd890_b_d.jpg size=medium title="Proyección Cox, aspecto Norte" credit="Philippe Rivière, 2017" link=https://bl.ocks.org/Fil/ce9d55cc070126b66fb86bc03b84b3f4>
+
+Al ensamblar diferentes triángulos por sus bordes, es posible obtener unos efectos de pavimento interesantes.
+
+<https://farm5.staticflickr.com/4232/35132758796_7a52c1f41f_o_d.png size=original title="Seis triángulos equiláteros se dan la mano" credit="Philippe Rivière, 2017" link=https://bl.ocks.org/Fil/52615c5735550a8fd325b0316d896d67>
+
+
+{{Bibliografía}}
+
+-- J. F. Cox, « Représentation de la surface entière de la terre dans un triangle équilatéral », {Bulletin de la Classe des Sciences,} Académie Royale de Belgique, 5, 21 : 66-71. Bruxelles, 1935. {(Representación de la superficie entera de la tierra en un triángulo equilátero», Boletín de la Clase de Ciencias, Academia Real de Bélgica)} [¡Si saben cómo obtener una copia de este artículo, me ayudaría mucho!]
+
+-- J. Magis, « Calcul du canevas de la représentation conforme de la sphère entière dans un triangle équilatéral », {Bulletin Geodésique,} 247-256. Paris, 1938. {(«Cálculo del lienzo de la representación conforme de la esfera entera en un triángulo equilátero», Boletín Geodésico.)}
+
+-- L. P. Lee, “Conformal Projections Based On Dixon Elliptic Functions,” {Cartographica: The International Journal for Geographic Information and Geovisualization,} Vol. 13, # 1, June 1976. {(“Proyecciones conformes basadas en las funciones elípticas de Dixon,” Cartographica: El Diario Internacional de Información Geográfica y Geovisualización.)}
+
+-- M. D. McIlroy, {Wallpaper Maps} ([PDF->http://www.cs.dartmouth.edu/~doug/wallpaper.pdf]), 2011. {(Pavimento con Mapas)}
+
+
+--------------------------
+
+PS: Traducido por Sylvain Lesage. Para cualquier pedido o sugerencia, por favor contáctenos [->contact@visionscarto.net]. ¡Gracias!
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- secondaire
+
+
+--------------------------
+Visionscarto - version du 28 de septiembre de 2017 13:18

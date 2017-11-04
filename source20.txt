@@ -31,7 +31,7 @@ Quelques plugins ont été développés ou renforcés pour les besoins de ce sit
 - [ressource->http://zone.spip.org/trac/spip-zone/browser/_plugins_/ressource], qui nous permet de gérer les différents formats d'images.
 - [tuile->https://bitbucket.org/recifs/tuile], qui nous permet d'afficher des cartes avec un système de zoom (par exemple [->5]).
 
-Le code spécifique des squelettes et feuilles de style du site est consultable sur notre compte [bitbucket->https://bitbucket.org/recifs/squelettes-visionscarto].
+Le code spécifique des squelettes et feuilles de style du site est consultable sur notre compte [github->github.com/visionscarto/squelettes-visionscarto-net/].
 
 Les polices de caractères sont [Cardo->http://scholarsfonts.net/cardofnt.html] pour le texte (police libre sous licence SIL), et [Nitti Grotesk->http://www.boldmonday.com/fr/nittigrotesk/] (non libre) pour les titres, les légendes (et certains articles comme celui que vous avez sous les yeux).
 
@@ -42,15 +42,10 @@ Les polices de caractères sont [Cardo->http://scholarsfonts.net/cardofnt.html] 
 
 --------------------------
 
-LANG: fr
-
-
---------------------------
-
 MOTS-CLÉS: 
 - titre blanc
 - texte sans-serif
 
 
 --------------------------
-Visionscarto - version du 9 mai 2014 12:56
+Visionscarto - version du 3 mai 2017 11:05

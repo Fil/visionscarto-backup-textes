@@ -1,0 +1,175 @@
+
+--------------------------
+
+TITRE:
+L’argument visuel et le bonheur : l’Isotype d'Otto Neurath
+
+--------------------------
+
+AUTEUR: 
+- Nepthys Zwer
+
+--------------------------
+
+CHAPO:
+Au milieu des années 1920, l’économiste autrichien Otto Neurath (1882-1945) crée la « Méthode viennoise de statistique par l’image » - {Wiener Methode der Bildstatistik} en allemand - le système graphique d’information rebaptisé un peu plus tard Isotype (International System Of Typographic Picture Education). L’Isotype connut une carrière internationale : ses icônes appartiennent désormais à notre culture visuelle… 
+
+<h4 class="text-right">{par Nepthys Zwer}</h4>
+<h5 class="text-right">Docteure en Études germaniques.</h5>
+
+
+--------------------------
+TEXTE:
+
+L’aventure de l’Isotype commence à Vienne à la fin de la Première Guerre mondiale, poursuit son chemin en exil aux Pays-Bas et en Grande-Bretagne avec la création d’instituts Isotype et se prolonge jusqu'aux années 1970 grâce à Marie Reidemeister Neurath (1898-1986), la compagne d’Otto Neurath, qui assure la publication des ouvrages selon la méthode qu’elle a contribué à développer[[Le département de typographie de l’université de Reading héberge aujourd’hui la collection Isotype léguée par Marie Neurath. Consulter : [Otto and Marie Neurath Isotype Collection->https://www.reading.ac.uk/typography/collectionsandarchives/typ-collections.aspx]]].
+
+Pour comprendre l'entreprise graphique d'Otto Neurath et ce qui lie inextricablement l’« argument visuel » et le bonheur, il faut remonter au tout début de l'engagement social de l'économiste.
+
+<h2>L’Isotype, des chiffres mis en image</h2>
+
+Avant de s’imposer dans le champ de la signalétique, les pictogrammes de la méthode viennoise sont à la base du système de mise en graphiques de données statistiques qu’Otto Neurath a élaboré avec l’artiste [Gerd Arntz->http://www.gerdarntz.org/] (1900-1988). La méthode relève du graphisme d’information (en français, le terme « infographie » désigne plutôt des « dessins numériques »). Les magnifiques planches et affiches conçues dans les ateliers du Musée social et économique de Vienne (Gesellschafts- und Wirtschaftsmuseum, GWM) entre 1925 et 1934[[L’actuel Musée économique et social de Vienne (ÖGWM) consacre une exposition permanente à Otto Neurath et à sa méthode. Voir [Otto Neurath – Sprechende Zeichen->http://www.wirtschaftsmuseum.at/otto_neurath]. Nous remercions ici le musée qui nous autorise à reproduire gracieusement ces œuvres.]] témoignent de l'intention originelle de Neurath de développer une méthode de « statistique par l’image », la « méthode viennoise » ou {Bildstatistik}.
+
+Le concept de départ est simple : plutôt que de chercher à représenter des données précises, {« des chiffres à virgule que l’on oublierait tout aussitôt »}, on représente des quantités globales que l’on peut facilement comparer entre elles. Il serait, par exemple, de peu d’intérêt de connaître le nombre exact de migrants occidentaux dans les années 1920. Par contre, on peut facilement se faire une idée de la balance migratoire globale des différents pays au moyen d’un graphique Isotype : 
+
+<https://farm5.staticflickr.com/4447/37169424373_e200fba386_o_d.jpg size=large title="Planche 74 : « Mouvements migratoires de pays importants 1920-27. »" legend="Gesellschaft und Wirtschaft. Bildstatistisches Elementarwerk, 1930." credit="Otto Neurath" link>
+
+Cet exemple illustre bien les principales conventions de l’Isotype. De part et d’autre d’un axe central se répartissent, pour différents pays, le nombre d’émigrés (les voyageurs se dirigeant vers la droite) par rapport au nombre d’immigrés (ceux qui vont vers la gauche). Chaque silhouette représente un nombre arrondi - ici 250 000 migrants. Pas besoin d’en savoir davantage pour comparer les masses en mouvement et leur attribuer un pays précis. On appréhende en quelques coups d’œil les soldes migratoires des pays, puis les masses les unes par rapport aux autres et, à la troisième lecture, - selon Neurath, une bonne affiche n’a que trois niveaux de lecture - les routes empruntées (terre ou mer).
+
+La méthode repose, et c’est là sa spécificité, sur la répétition d’un symbole unique représentant une quantité déterminée et permet de comparer facilement entre elles des masses de différents objets ou leur évolution dans le temps.
+
+Ces images sont réalisées à partir de données statistiques collectées dans des ouvrages et revues spécialisées ou conçues {ad hoc} puis soumises au processus dit de « transformation » : l’équipe de spécialistes du GWM se concerte pour transcrire de façon optimale les données en image. Avec très peu de précisions écrites et sur la base de conventions de lecture pour les symboles, les couleurs, la disposition et la direction des éléments – que l'on comprend de façon quasi intuitive – on peut visualiser efficacement une information complexe. Une fois ces principes acquis, on est en mesure de comprendre facilement toutes les significations de l’Isotype. Et, aussi, de tirer ses propres conclusions des informations exposées.
+
+La méthode d'origine, la « Bildstatistik », s’est affinée avec le temps. Les premières silhouettes étaient assez grossières en raison de la technique de découpe utilisée à l'époque. Elles comportaient aussi des ornements qui gênaient la lecture au lieu de la fluidifier. Gerd Arntz a œuvré à la stylisation et à la standardisation des signes et à la simplification des images.
+
+Dans une démarche minimaliste, renonçant à toute fioriture, à tout détail qui ne serait pas absolument indispensable à l’identification des symboles, les lignes graphiques ont atteint une sobriété extrême, elles se sont apurées.
+
+ <https://farm5.staticflickr.com/4502/37169424903_5e3bdfb74a_o_d.jpg size=large title="Planche 87 : « Chômeurs. »" legend="Gesellschaft und Wirtschaft. Bildstatistisches Elementarwerk, 1930." credit="Otto Neurath" link>
+
+Tout en veillant à diversifier les modes de représentation pour éviter les confusions, la méthode n’a cessé de s’améliorer, ses conventions se sont fixées, par exemple, pour ce qui concerne l'association des signes[[Sur la méthode et son évolution, voir : Marie Neurath et Robin Kinross, {The transformer. Principles of making Istoype}, London, Hyphen Press, 2009.]]   :
+
+<https://farm5.staticflickr.com/4455/37179385894_45224284bd_k_d.jpg size=medium>
+
+Ainsi furent mis au point, au fil du temps, un lexique, une grammaire et un style, faisant de la méthode, dans l’esprit de Neurath, une sorte de « langage visuel ». Ce n’est qu’avec l’exil forcé de l’intelligentsia (en raison des persécutions nazies, l’équipe de Neurath quitte Vienne pour les Pays-Bas en 1934, puis la Grande-Bretagne en 1940) que la méthode prend le nom d’Isotype (International System Of TYpographic Picture Education, ou, en français, Système international d'éducation par les images typographiques).
+
+Cette méthode permet de représenter des variations quantifiées dans le temps, mais se révèle être tout aussi efficace pour les représentations spatiales, ouvrant un champ nouveau pour la visualisation cartographique du monde :
+
+ <https://farm5.staticflickr.com/4484/24037319888_411ed047a8_o_d.jpg size=large title="Planche 15 : « L'Allemagne au XVe siècle. »" legend="Gesellschaft und Wirtschaft. Bildstatistisches Elementarwerk, 1930." credit="Otto Neurath" link>
+
+<https://farm5.staticflickr.com/4511/37179385554_b799ed7090_o_d.jpg size=large title="Planche 13 : « Cultures de l’Amérique ancienne vers 1500. »" legend="Gesellschaft und Wirtschaft. Bildstatistisches Elementarwerk, 1930." credit="Otto Neurath" link>
+
+Dès ses débuts, la méthode viennoise s’exporte dans le monde entier : le régime soviétique[[Sur l’institut Izostat de Moscou, voir [Pictorial statistics and the Vienna Method->http://isotyperevisited.org/2009/09/pictorial-statistics-and-the-vienna-method.html].]], les autorités nord-américaines (notamment dans le cadre du {New Deal}[[Rudolf Modley (1906-1976), formé par Otto Neurath, a contribué à diffuser la méthode aux États-Unis avec sa Pictorial Statistics Incorporated.]]) et enfin les travaillistes britanniques[[Le ministre de la reconstruction, William Beveridge (1879-1963), a utilisé l’Isotype pour sa compagne d’information sur le projet de sécurité sociale du parti travailliste.]] y ont recours pour leurs campagnes de communication. L’Isotype se retrouve partout où les gouvernements cherchent à impliquer l’opinion publique dans leurs entreprises et vantent leurs politiques sociales ou économiques.
+
+<https://farm5.staticflickr.com/4464/24037319718_c56c6e10fd_o_d.jpg size=medium title="« Image de propagande du Mississippi Valley Committee (New Deal). »" legend="journal Survey Graphic d’avril 1936, p. 237." link>
+ 
+Paul Otlet, le Corbusier, Paul Rotha[[Voir, par exemple, le film de Paul Rotha : [{« A few ounces a day »}->http://collections.libraries.indiana.edu/IULMIA/items/show/2] de 1941, basé sur la méthode Isotype.]]  s’y intéressent de près. À l'heure de la Seconde Guerre mondiale, la méthode et ses symboles sont devenus des standards des techniques de l’information.
+
+<https://farm5.staticflickr.com/4461/24037319568_42e1dc0e80_o_d.jpg size=large title="« Women and a New Society. »" legend=" Charlotte Luetkens, 1946." link>
+
+Le graphiste [Otl Aicher->http://www.historygraphicdesign.com/the-age-of-information/the-international-typographic-style/172-otl-aicher], par exemple, s’en inspire pour dessiner les pictogrammes des Jeux olympiques de Munich en 1972 :
+
+<https://farm5.staticflickr.com/4496/23761274258_6844c08f24_o_d.jpg size=large title="« Logotypes utilisés pour les jeux olympiques de Munich en 1972. »" legend="Otl Aicher." link>
+
+<h2>Offrir des arguments visuels</h2>
+
+L’Isotype est donc l’ultime perfectionnement de la {Bildstatistik} originelle, Neurath n’utilisant lui-même plus que ce premier terme pour qualifier l’ensemble de son invention.
+
+En dépit de son originalité, elle n’est cependant qu’une méthode de visualisation parmi d’autres. On retrouve des icônes semblables à celles de l’Isotype dans nombre d’illustrations contemporaines, voire des usages bien antérieurs à sa création, ici des pictogrammes en tous points semblables à ceux de l’Isotype chez le géographe [Patrick Geddes->https://visionscarto.net/patrick-geddes-geographe-anarchiste-ecossais] :
+
+<https://farm5.staticflickr.com/4469/24037319418_ba80a0cd52_o_d.jpg size=large title="« The valley section. »" legend=" Patrick Geddes, 1909." link>
+ 
+Et la technique de la répétition de symboles unitaires est, par exemple, déjà évoquée en 1914 dans un ouvrage de William C. Brinton sur les méthodes de représentation graphiques :
+
+<https://farm5.staticflickr.com/4464/24037319278_6cbf98fcde_o_d.jpg size=large title="« Graphic methods for presenting facts. »" legend=" William C. Brinton,  1914." link>
+ 
+Le début du XXe siècle a clairement vu se peaufiner les méthodes de représentation imagée des statistiques, avec des choix graphiques parfois très proches de ceux de l’Isotype, ici la barre médiane chez le statisticien Wladimir Woytinsky :
+
+<https://farm5.staticflickr.com/4474/37909638811_83badd21d0_k_d.jpg size=large title="« Die Welt in Zahlen. »" legend=" Wladimir S. Woytinsky, 1925-1928." link>
+  
+Neurath connaissait la plupart de ces productions et s’en est inspiré. S’il n’a pas inventé la mise en graphiques de statistiques, il est cependant le seul à avoir conçu un véritable système là où les autres ont apporté des solutions graphiques au cas par cas. Sa méthode est le fruit d’une mise au point de longue haleine, les multiples commandes passées au GWM et aux instituts Isotype dans les champs les plus divers ayant été autant d’occasions de perfectionnement. 
+
+En 1918, Neurath avait déjà eu l’occasion de réaliser quelques planches pour une exposition du Musée de l’économie de guerre de Leipzig, dont il fut brièvement le directeur[[À propos des activités de ce musée, voir Günther Sandner, {Otto Neurath. Eine politische Biographie}, Wien, Zsolnay, 2014, 351 p., p. 91-99.]]. Ce musée avait pour objectif de montrer l’économie et la vie quotidienne des Allemands en temps de guerre. 
+
+C’est pourtant à Vienne, en tant que secrétaire général de la Fédération viennoise du lotissement coopératif (Österreichischer Verband für Siedlungs- und Kleingartenwesen), que Neurath pose les bases du GWM. En 1923, suite à l’organisation d’une grande exposition, naît un petit musée dédié aux réalisations de l’association, lequel deviendra le Musée économique et social, ouvert en janvier 1925. Le GWM, financé par la municipalité sociale-démocrate et des organismes sociaux, sert, par conséquent, de vitrine à la politique municipale des sociaux-démocrates. La méthode viennoise est alors expérimentée dans certaines écoles dans le cadre de la grande réforme scolaire des « austromarxistes » (Relire à ce propos [« Otto Neurath et « l’orchestration » de la politique urbaine »->https://visionscarto.net/otto-neurath-orchestration-urbaine]).
+
+<https://farm5.staticflickr.com/4487/37632329630_a230dd5505_o_d.jpg size=original title="« Exposition permanente du GWM inaugurée en 1927 dans la Volkshalle de la mairie de Vienne. »" link>
+  
+Selon le principe des musées sociaux, le GWM ne montre pas d’objets, mais expose des informations relatives à l’environnement social et économique sur de grandes planches graphiques. 
+
+<https://farm5.staticflickr.com/4447/37858147182_904fdde93c_o_d.jpg size=medium title="« Mortalité infantile et taille des familles. »" legend=" Planches reproduites dans le journal Bildungsarbeit." credit="Blätter für sozialistisches Bildungswesen, janvier 1929, n° 1, p. 11." link>
+
+<https://farm5.staticflickr.com/4465/37179379244_a3987477fe_o_d.jpg size=medium title="« Mouvements monétaires générés par le commerce extérieur de l’Autriche. »" legend=" Planches reproduites dans le journal Bildungsarbeit." credit="Blätter für sozialistisches Bildungswesen, janvier 1929, n° 1, p. 11.">
+
+<https://farm5.staticflickr.com/4485/24037317808_94548f0eae_o_d.jpg size=medium title="« Développement des syndicats libres en Autriche. »" legend=" Planches reproduites dans le journal Bildungsarbeit." credit="Blätter für sozialistisches Bildungswesen, janvier 1929, n° 1, p. 7.">
+        
+Neurath s’emploie à faire la promotion de son travail dès ses débuts, en expliquant inlassablement les principes de sa méthode et vantant ses mérites.
+
+Dans d’innombrables articles parus dans la presse sociale-démocrate viennoise, il explique la mission d’{Aufklärung} sociale qu’il assigne à la {Bildstatistik}. Recourant à une pure rhétorique socialiste et marxiste, Neurath fait de sa méthode un instrument de la lutte des classes. En effet, à l’ère du déclin de l’ordre bourgeois capitaliste, dans le monde globalisé et financiarisé de l’économie de marché, où la « façon de penser statistique » s’est imposée partout, l’outil statistique – confisqué par les classes au pouvoir – doit être mis au service des masses laborieuses. Il devient primordial de comprendre, par exemple, les rapports de cause à effet entre mortalité infantile et revenu :
+
+<https://farm5.staticflickr.com/4501/37632331950_84831b22e8_o_d.jpg size=large title="« Planche 92 : Mortalité infantile et revenu. »" legend=" Gesellschaft und Wirtschaft. Bildstatistisches Elementarwerk, 1930." credit="Otto Neurath." link>
+
+Comme ces données chiffrées, parfois complexes, sont simplifiées et mises en images, elles sont dès lors accessibles « à des personnes moins instruites ». Ainsi informés de la réalité économique et sociale dans laquelle ils évoluent et de la façon dont cela impacte leur vie, les prolétaires peuvent se forger un avis propre, étayer leurs dires par des arguments et œuvrer ainsi à leur propre émancipation[[Voir, notamment, Otto Neurath, {Lebensgestaltung und Klassenkampf}, Berlin, Laubsche Verlagsbuchhandlung, 1928, 151 p.]].
+
+En dehors de la presse sociale-démocrate, les articles n’intègrent cependant pas cette dimension politique et, en raison de l’internationalisation croissante du travail du GWM, la rhétorique socialiste est absente du discours de l’exil. 
+
+Par principe, la {Bildstatistik} - Isotype s’adresse à tous. Elle fournit des arguments, des preuves tangibles de la réalité sociale ou économique et rend compréhensible tout ce qui peut prendre la forme d'un pictogramme, {« qu’il s’agisse d’une maison, d’un animal, d’une ville, des conditions sociales au sein d’un groupe ou de la structure de l’économie mondiale[[Otto Neurath, {« Beeldstatistiken van het Gesellschafts- und Wirtschaftsmuseum te Weenen »}, in Bouw en Techniek, 3/19, Amsterdam, 1932, p. 191.]] »}.
+
+Dans la mesure où sa méthode a une visée éducative, Neurath revendique la filiation de l’Isotype avec l’encyclopédisme des Lumières. Universelle, elle rend le savoir accessible à tous (aux lettrés comme aux illettrés) et, l’utilisation d'un langage imagé évite les pièges du langage écrit ou parlé (manipulations, transmission de préjugés). La démocratisation de ce savoir ne procède pas d'une simplification, qui « populariserait » ce qui est savant, mais d’une « humanisation », en adaptant un savoir complexe aux spécificités des publics. L’Isotype éduque ainsi à l’argumentation et généralise un peu la conception scientifique du monde ({wissenschaftliche Weltauffassung}) que Neurath développe par ailleurs dans son travail avec le Cercle de Vienne[[Voir la récente réédition du manifeste du Cercle de Vienne de 1929, avec des traductions en plusieurs langues : Friedrich Stadler et Thomas E. Uebel (éds.), {Wissenschaftliche Weltauffassung. Der Wiener Kreis. Hrsg. vom Verein Ernst Mach (1929)}, 2012.]].
+
+Le monde moderne est celui de la communication par l’image, de messages clairs, simples, qu’il faut comprendre instantanément. À « l’ère du regard », cette technique utilisée par la publicité doit être mise au service de la connaissance.
+
+<https://farm5.staticflickr.com/4477/24037316438_e5e6496645_o_d.jpg size=large title="« Modern Man in the Making. »" legend=" Otto Neurath, 1939." link>
+
+L’Isotype doit donc servir {« aux masses de citoyens qui veulent apprendre des choses simples, de façon humaine et non biaisée[[Otto Neurath, {From hieroglyphics to Isotype. A visual autobiography}, édité par Matthew Eve et Christopher Burke, Londres, Hyphen Presse, 2010, p. 114.]] »} et les aider à développer leurs propres {« arguments visuels »}. Il est un {« service public »} d’information et de formation, destiné à l’humanité toute entière, appelée à devenir une communauté mondiale d’individus fraternellement liés les uns aux autres (« {commonwealth of human being} ») et œuvrant de concert.
+
+Aux yeux de son inventeur, l’Isotype est bien plus qu'un simple outil de propagande de la cause prolétaire et de l’éducation populaire ou une méthode graphique. Mais pour comprendre pourquoi un spécialiste de l’économie politique s'est lancé dans une telle aventure, il faut reconnaître dans les motivations de Neurath l'ambition humaniste d’éveiller la conscience sociale de ses contemporains.
+
+<h2>L’économie du bonheur</h2>
+
+Dans l’œuvre publiée de Neurath, on ne trouve pas trace de productions visuelles qui annonceraient l’Isotype. Neurath dit avoir toujours recouru à des dessins et des images pour étayer ses propos lors des conférences qu’il a données, notamment dans les {Volksheime}, les universités populaires de Vienne. Mais ses premiers écrits, consacrés à l’économie, ne contiennent pas d’illustrations, seuls de rares tableaux : 
+
+<https://farm5.staticflickr.com/4478/37632330820_a8fded216a_o_d.jpg size=medium title="« Nationalökonomie und Wertlehre, p. 78. »" legend=" Exemple de tableau comparant différentes combinaisons de « valeurs » non mesurables de plaisirs." credit=" Otto Neurath, 1911." link>
+
+Dans un article de 1911, une précision méthodologique nous indique cependant que la représentation tabellaire est plus souple que la représentation graphique, qui a besoin de données précisément quantifiées[[Otto Neurath, {« Nationalökonomie und Wertlehre, eine systematische Untersuchung »}, in Zeitschrift für Volkswirtschaft, Sozialpolitik und Verwaltung, vol. 20, 1911, p. 51-114, p. 80.]] . Ceci montre la préoccupation précoce de Neurath pour un mode de représentation adapté à des informations non tangibles comme des prévisions ou des données non chiffrables.
+
+Comment justement représenter quelque chose d’aussi intangible que le plaisir et le bonheur qui en découle ? La « quantité de plaisir » n’intéresse pas les économistes, qui se contentent d’étudier les causes du bonheur : les biens, l’argent et l’organisation sociale. Neurath, lui, veut trouver comment déterminer le bonheur maximal escomptable que procurent différentes combinaisons de plaisirs. Différentes options peuvent ainsi être comparées entre elles. Or, pouvoir comparer des options est essentiel dans la gestion de la cité.
+
+Nous assistons ici (en 1911 déjà !) à la mise en place de l’édifice conceptuel de Neurath, entièrement bâti sur le principe de l’amendement possible de l’ordre social : « l’utopiste scientifique » (« l’historien de l’avenir ») est celui qui conçoit et propose des ordres socio-économiques alternatifs encore jamais expérimentés, mais tout à fait plausibles, voire auto-prophétiques. Il est un expert, un technicien de la société ({« Gesellschaftstechniker »}), un ingénieur social qui développe plusieurs projets alternatifs et les soumet aux décideurs politiques[[Voir Nepthys Zwer, {L’ingénierie sociale d’Otto Neurath}, à paraître aux Presses Universitaires de Rouen et du Havre.]].
+
+Pour comparer et discuter ces projets, il faut se les représenter. En disposant d’une connaissance exhaustive de toutes les données comptables des opérations économiques, il est possible de réaliser des projections, de comparer les effets induits par tel ou tel choix règlementaire et d’opter pour la solution la plus satisfaisante pour tous.
+
+<https://farm5.staticflickr.com/4460/24037314888_c904dfe505_o_d.jpg size=large title="« Schéma économique : proposition soumise aux conseils ouvriers de Bavière. »" credit=" Otto Neurath, 1920." link>
+
+L’Isotype repose justement sur cette idée : si l’on veut changer quoi que ce soit dans l’ordre social ou le cours du monde, il faut pouvoir se le représenter correctement, même dans ses dimensions les moins évidentes.
+
+ <https://farm5.staticflickr.com/4480/24037315668_346dd862b0_o_d.jpg size=large title="« Schéma économique. »" legend=" Modern Man in the Making." credit=" Otto Neurath, 1939." link>
+
+Cela suppose que l’information circule, que rien ne soit caché, et que même l’homme de la rue soit en mesure d’interpréter les données les plus complexes afin de peser lui-même sur les décisions politiques ou simplement de comprendre son environnement.
+
+<https://farm5.staticflickr.com/4506/24037315588_5c0376f489_o_d.jpg size=original title="« Planche 79 : Étendue actuelle de l’esclavage. »" legend=" Gesellschaft und Wirtschaft. Bildstatistisches Elementarwerk, 1930." credit="Otto Neurath.">
+
+Si Neurath s’aventure avec tant d’assurance sur le terrain polémique de la meilleure forme d’économie possible, c’est évidemment parce qu’il a une réponse. Son père, Wilhelm Neurath (1840-1901), lui-même économiste politique, lui a transmis la préoccupation d’un système économique plus juste et plus efficace. Et Otto Neurath, fidèle à cet esprit, ne considère pas le système capitaliste comme une fatalité. Formé à la Jeune école historique de l’économie, Neurath a été confronté aux idées du socialisme de la chaire, qui postule l’État social et désigne les scientifiques (économistes, sociologues, experts…) comme conseillers du pouvoir politique. Mais le jeune homme est aussi partie prenante des débats sur le capitalisme qui agitent les sciences sociales allemandes au début du XXe siècle et cherchent à déterminer la vraie nature du capitalisme.
+
+<https://farm5.staticflickr.com/4477/37632330010_fe89bfcfe0_o_d.jpg size=large title="« Intrications financières internationales. »" legend=" Tableau présenté par Neurath au World Social Economic Congress d’Amsterdam en 1931." link>
+
+Toute sa vie, Neurath sera anticapitaliste et refusera l’économie de marché. Ses références aux sociétés précapitalistes, aux utopistes socialistes, ses engagements pour la socialisation, les conseils ouvriers ou l’économie sociale et coopérative sont autant d’entreprises alternatives de solidarité. Selon lui, la planification et l’organisation centralisée de l’activité économique nous épargneraient les crises inhérentes au modèle économique capitaliste. La redistribution des richesses se ferait alors correctement, même dans un ordre politique… non socialiste.
+
+Pour cela, la monnaie, en tant qu’unité d’échange ou de calcul économique, n’est pas indispensable, il est même plus honnête de valoriser les activités et productions humaines en termes de plaisir apporté à un maximum de citoyens. Ceci restitue à la notion de bonheur sa place capitale dans la marche de la cité. La poursuite de l’intérêt général redevient l’objet de l’activité économique, ce qu’il n’aurait jamais dû cesser d’être.
+
+Pour étayer sa théorie, Neurath s’appuie sur l’exemple de l’économie de guerre, dirigée et administrée de façon centralisée, qui a fait les preuves de son efficacité, lui semble-t-il (preuves qu’il expose, comme nous l’avons vu, au musée de Leipzig). Avec l’économie en nature de l’Égypte ancienne, il érige l’économie administrée ({« Verwaltungswirtschaft »}) en modèle et tentera, dans la Révolution allemande de 1918-1919, de la faire adopter par la République des Conseils de Munich. Son projet d’un {Zentralwirtschaftsamt}, d’une grande centrale économique, supposait la création d’une statistique universelle qui permettrait de contrôler et piloter toute l’activité économique et de comparer les effets de différents choix politiques afin de faciliter les prises de décision. La Révolution allemande, on le sait, a avorté et la République de Weimar abandonnera très vite la piste de véritables réformes économiques.
+
+Neurath a réalisé, à son corps défendant, combien ses idées étaient atypiques et radicales et pouvaient effrayer les austromarxistes mêmes. Il les mettra en sourdine et adoptera en exil un langage plus en phase avec le keynésianisme naissant et le souci croissant de la société civile pour la démocratie. Il gardera cependant la blouse de « l’ingénieur social », penseur et proposeur d’alternatives, mais, en tant qu’expert apolitique, reconnaîtra humblement : {« Les experts peuvent nous parler de leurs résultats, mais ils ne peuvent pas décider à notre place, car ils sont influencés par leurs propres désirs et leurs attentes individuelles[[Otto Neurath, {From hieroglyphics to Isotype}, op. cit., p. 7.]]. »}
+ 
+Confiant dans la raison humaine qui, {in fine}, pousserait toujours l’humanité sur la voie du bonheur, sa fonction était alors de contribuer à lui en donner les moyens par une « aide visuelle » à la prise de décision. C’est ce que fait l’Isotype en mettant l’argument visuel au service du bonheur.
+
+<p class="text-right caps">↬ Nepthys Zwer.</p>
+
+
+--------------------------
+
+PS: Vous souhaitez réutiliser, commenter cet article ou contacter l'auteure ? N'hésitez pas à écrire à l'adresse [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 30 octobre 2017 10:37

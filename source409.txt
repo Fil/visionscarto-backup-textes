@@ -1,0 +1,70 @@
+
+--------------------------
+
+TITRE:
+Trois bougies pour un site en mouvement
+
+
+
+
+
+--------------------------
+TEXTE:
+
+<https://farm5.staticflickr.com/4156/34414879975_f72dcc4b3d_o_d.jpg size=medium title="Une surface, territoire inconnu." credit="Jean-Michel Alberola, 2015" right link>
+
+Visionscarto.net vient de souffler sa troisième bougie. En cadeau d'anniversaire, [Arnaud Martin->http://www.paris-beyrouth.org/] nous offre un design plus dynamique et des outils de navigation bien mieux adaptés aux quelque 360 contributions (billets, cartes, photographies et illustrations) actuellement accessibles.
+
+Animé par Philippe Rivière et Philippe Rekacewicz, le site bénéficie de la précieuse collaboration de Cristina Del Biaggio et Agnès Stienne. Nous avons souhaité [dès la conception du site->https://visionscarto.net/a-propos] qu'il soit un lieu ouvert, où s'exprimeraient celles et ceux qui aiment penser et inventer les représentations du monde. Ce site n’existerait pas sans l’apport des {autrices, cartographes, peintresses, dessinateurs, programmeuses, photographes, traductrices, rêveurs, chercheuses} qui nous confient leurs œuvres ou leurs textes — un réseau amical que la page [« Qui? »->https://visionscarto.net/humans] tente de mettre en lumière.
+
+Visionscarto s'est développé à un bon rythme depuis son [premier billet - Sumoud, le combat et la vie d’al-Araqib->https://visionscarto.net/sumoud], offert par la géographe Marion Lecoquierre. Mais il était devenu difficile de s'y retrouver parmi les centaines de contributions du site. 
+<quote>
+
+{Quelques mots sur la refonte du site :}
+
+Le plus urgent était de mettre en place une navigation qui rende mieux compte de la richesse croissante du site. Il n'y avait pas de page d'accueil : on arrivait directement sur un des articles les plus récents ou populaires. L'objectif était d'inviter à entrer directement dans la lecture. Mais pour les habitué·es du site, il devenait difficile de retrouver ou découvrir une archive. La structure du site était minimaliste et la navigation fondée sur un gros lien situé en fin d’article, permettant de consulter l’article précédent, et ainsi de proche en proche de parcourir un chemin imposé à travers le site…
+
+La nouvelle version propose désormais une véritable page d’accueil, qui met en valeur la diversité et le rythme des contributions et documents mis en ligne. Il s'y alternent et différencient les billets complets, les cartes de la collection qui s'enrichit chaque semaine de nos archives ou de créations nouvelles, mais aussi — le site étant ouvert — des reportages photographiques, des études et expérimentations graphiques. Enfin, le menu donne accès à une page où sont classés les billets par auteur·e, et à un index thématique. Des entrées par langue permettent aussi de diffuser Visionscarto dans nos réseaux autres que francophones…
+
+Arnaud a dynamisé (un peu) l’aspect graphique du site développé sur le système de publication SPIP. Grâce à la facilité avec laquelle on peut manipuler les couleurs d’une page à partir d'une image, dans notre cas le bandeau du titre de chaque billet, un jeu de « surlignage » fait ressortir les titres et les intertitres. L'utilisation plus affirmée de la typographie des titres et des liens renforce aussi l'identité graphique. Par ailleurs, une présentation rythmée des listes d’articles devenait indispensable avec l’apparition des nouvelles pages de navigation. Les différentes rubriques sont maintenant bien mieux différenciées.
+
+<https://farm3.staticflickr.com/2846/34020560740_2444d41a9f_o_d.jpg size=medium title="Constitution de surfaces à l'aide de lignes" legend="Étude « structurale »" credit="Grete Reichardt, élève du cours préliminaire de Kandinsky au Bauhaus, 1927." link>
+
+</quote>
+
+Pour autant, cette refonte conserve l'esprit et l'approche choisies en 2014 : donner beaucoup de place aux images et aux textes en pleine largeur, une maquette simple, sans superflu ni tracking publicitaire ; du point de vue du contenu, offrir le plus de diversité possible en abordant une grande variétés de thèmes, n'importe où sur la planète (et même au-delà !), ayant pour fil conducteur la recherche d'une représentation visuelle du réel ou des imaginaires.
+
+<https://farm3.staticflickr.com/2860/34245545272_e30db7be65_o_d.jpg size=medium title="La terre selon la projection Bertin, 1953." legend="Avec les images de la NASA." credit="Philippe Rivière, 2017." right link=https://visionscarto.net/terre-projection-bertin>
+
+PS: Cette révision du site a aussi bénéficié des conseils amicaux de Romy Duhem-Verdière : merci !
+
+Nous aurions pu citer ici quelques exemples de la grande variété des thèmes publiés depuis trois ans, entre réel et imaginaire. Mais ne choisir que quelques contributions serait injuste, et comment choisir ? Voici une bonne occasion de tester la nouvelle navigation : aussi vous invitons-nous à explorer le site à travers ses [thématiques->https://visionscarto.net/tag]. Bonne route ! Et n'oubliez pas de nous dire votre sentiment, en nous envoyant une carte postale à l'adresse habituelle [->contact@visionscarto.net].
+
+Dans nos cartons, des dizaines d'archives ne demandent qu'à être exposées. Mais nous souffrons tout particulièrement du « syndrome de la thèse » : chaque fois qu'une envie nous vient de mettre en ligne une archive existante, ce qui devrait ne prendre que quelques minutes, demande au final réflexion, vérifications, mises à jour des données… Creuser un sujet nous conduit vers de nouveaux projets, qui à leur tour peuvent prendre une journée, une semaine, voire plusieurs mois !
+
+Pour la suite du voyage, nous avons des dizaines de projets en tête — de la carto, de la photo, mais aussi de la musique, du code, et diverses expérimentations —, et espérons que vous aurez envie nous confier les vôtres. Si vous en avez le goût, nous vous invitons à participer, par des relectures, traductions, vérifications etc., à ouvrir et rendre publics les projets, recherches, coups de cœur et contributions du réseau.
+
+
+<https://farm5.staticflickr.com/4186/34404669715_4f5abcb41d_o_d.jpg size=medium title="Charte des couleurs romanes." legend="Musée Ludwig, Cologne." credit="Jim Dine, 1968." link>
+
+<https://farm5.staticflickr.com/4165/34363138216_9a1267dbd9_o_d.jpg size=medium title="Diagramme de l'EABC (Environnement Artificiel Bionique-Cinétique)." legend="Musée d'art contemporain Garage, Moscou." credit="Lev Nussberg, 1968." link>
+
+<https://farm5.staticflickr.com/4167/33563394964_2e7080ec9d_o_d.jpg size=medium title="Atelier de cartographie expérimentale." legend="Université de Strasbourg." credit="Mars 2017." link>
+
+
+
+--------------------------
+
+PS: Le bandeau représente un détail d'une carte extraite de l'ensemble cartographique [« New Pan-African Cartographies »->http://urbannarratives.org/en/research/inspiration/chimurenga-chronic/] créé et réalisé par l'équipe de [Chimurenga->http://www.chimurenga.co.za/] (Afrique du Sud) publié dans leur revue « Chronic » en mars 2015.
+
+Si vous souhaitez entrer en contact avec les auteurs, vous pouvez le faire via l'adresse mail [->contact@visionscarto.net]
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- secondaire
+
+
+--------------------------
+Visionscarto - version du 17 juin 2017 15:33

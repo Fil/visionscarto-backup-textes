@@ -16,7 +16,7 @@ TEXTE:
 
 |{{Titre :}}| Cartographier la guerre |
 |{{Mots-clés :}} | #Guerre #Conflits #Frontières #Russie #États-Unis #Grandes_puissances #Armement #Méthodologie |
-|{{apparition(s) :}} | Cette carte a été présentée à la conférence [planetary Security->http://www.planetarysecurity.nl/] à La Haye aux Pays-Bas (2-3 novembre 2015). |
+|{{apparition(s) :}} | Cette carte a été présentée à la conférence [planetary Security->https://www.planetarysecurityinitiative.org/] à La Haye aux Pays-Bas (2-3 novembre 2015). |
 |{{Auteur :}} | Philippe Rekacewicz |
 |{{Date :}} | 2013, mise à jour en 2015. |
 
@@ -56,12 +56,7 @@ Certaines institutions publient des listes typologiques de conflits ou des carte
 PS: Si vous souhaitez commenter, utiliser ce document ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 25 septembre 2016 15:29
+Visionscarto - version du 24 août 2017 10:23

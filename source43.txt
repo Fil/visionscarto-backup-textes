@@ -47,9 +47,6 @@ En 1991, l’URSS, quatrième et dernier « empire survivant», implose. Les ré
 
 Quand on juxtapose sur une même carte le tracé de toutes les frontières européennes ayant existé depuis un siècle, on mesure le morcellement des territoires de l’Europe médiane. On perçoit en même temps quelques formes connues des Etats contemporains, et de petits bouts de territoire, des lieux emblématiques ayant fait l’objet d’âpres négociations ou de batailles sans concession : Vilnius, Mémel, Königsberg, Dantzig, Tchernovitz et la Galicie orientale, Trieste et l’Istrie…
 
-------
-
-<p class=small>Ce projet de cartographie narrative a été publié dans {Le~Monde diplomatique} d'avril 2013.
 
 
 --------------------------
@@ -57,12 +54,7 @@ Quand on juxtapose sur une même carte le tracé de toutes les frontières europ
 PS: Si vous souhaitez commenter, utiliser ce projet, ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 28 août 2014 11:08
+Visionscarto - version du 9 avril 2017 12:19

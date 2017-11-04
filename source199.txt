@@ -17,7 +17,7 @@ TEXTE:
 
 |{{Titolo:}}| Chi fabbrica le armi e chi le acquista?|
 |{{Parole chiave:}} | #armi #conflitti #guerra #Russia #Stati_Uniti_d’America #Cina #Francia #Europa |
-|{{Pubblicazioni:}} | Questa carta è stata presentata alla conferenza [Planetary Security Conference->http://www.planetarysecurity.nl/] all’Aia, nei Paesi Bassi (2-3 novembre 2015). |
+|{{Pubblicazioni:}} | Questa carta è stata presentata alla conferenza [Planetary Security Conference->https://www.planetarysecurityinitiative.org/] all’Aia, nei Paesi Bassi (2-3 novembre 2015). |
 |{{Autore:}} | Philippe Rekacewicz |
 |{{Data di creazione:}} | 2015. |
 |{{Traduzione:}} | Cristina Del Biaggio |
@@ -31,12 +31,7 @@ TEXTE:
 PS: Se desiderate utilizzare queste carte, o semplicemente contattare l’autore, non esitate a scrivere all’indirizzo [->contact@visionscarto.net].
 
 
---------------------------
-
-LANG: it
-
-
 
 
 --------------------------
-Visionscarto - version du 19 gennaio 2016 08:23
+Visionscarto - version du 24 agosto 2017 10:22

@@ -12,7 +12,7 @@ AUTEUR:
 --------------------------
 
 CHAPO:
-À 3 700 mètres d’altitude, dans la capitale bolivienne, le visiteur s’essouffle rapidement à monter la cinquantaine de marches qui conduit à la r00thouse, la grande maison qui sert de quartier général aux militants du logiciel libre. Un drapeau noir à tête de mort flotte sur la façade rose. Il est un peu défraîchi : cela fait déjà sept ans qu’ils se sont installés ici. Le très modeste budget qu'ils parviennent à rassembler est essentiellement consacré à un projet phare, le réseau mesh. Car les hackers de La Paz rêvent en grand: déployer, sur toute la capitale bolivienne, un accès internet public.
+À 3 700 mètres d’altitude, dans la capitale administrative de la Bolivie, le visiteur s’essouffle rapidement à monter la cinquantaine de marches qui conduit à la r00thouse, la grande maison qui sert de quartier général aux militants du logiciel libre. Un drapeau noir à tête de mort flotte sur la façade rose. Il est un peu défraîchi : cela fait déjà sept ans qu’ils se sont installés ici. Le très modeste budget qu'ils parviennent à rassembler est essentiellement consacré à un projet phare, le réseau mesh. Car les hackers de La Paz rêvent en grand: déployer, sur toute la ville, un accès internet public.
 
 <h4 class=text-right>{par Philippe Rivière}</h4>
 
@@ -88,12 +88,7 @@ PS: Ce reportage a été publié dans {La Cité,} septembre 2015 ([->http://www.
 Si vous souhaitez réagir, contribuer, commenter, utiliser ce texte ou les images, ou simplement contacter l'auteur, nous vous invitons à nous écrire via  [->contact@visionscarto.net]
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 22 mai 2016 11:56
+Visionscarto - version du 16 avril 2017 09:19

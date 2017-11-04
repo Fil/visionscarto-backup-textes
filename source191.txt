@@ -16,7 +16,7 @@ TEXTE:
 
 |{{Title:}}| Who is selling arms, and who buys them?|
 |{{Keywords:}} | #Armament #War #Conflicts #Russia #United_States #France #China #Russia |
-|{{Publication:}} | This map was introduced to the [Planetary Security Conference->http://www.planetarysecurity.nl/] in the Hague - Netherlands (2-3 November 2015). |
+|{{Publication:}} | This map was introduced to the [Planetary Security Conference->https://www.planetarysecurityinitiative.org/] in the Hague - Netherlands (2-3 November 2015). |
 |{{Author:}} | Philippe Rekacewicz |
 |{{Date:}} | 2015. |
 
@@ -29,12 +29,7 @@ TEXTE:
 PS: If you wish to comment on or reuse this map, or to contact the author, please write to [->contact@visionscarto.net].
 
 
---------------------------
-
-LANG: en
-
-
 
 
 --------------------------
-Visionscarto - version du 25 December 2015 19:09
+Visionscarto - version du 24 August 2017 10:26

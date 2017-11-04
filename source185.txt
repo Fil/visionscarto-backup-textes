@@ -15,8 +15,8 @@ AUTEUR:
 TEXTE:
 
 |{{Titre :}}| Espoirs de paix: initiatives internationales, opérations de maintien de la paix, 1990-2015 |
-|{{Mots-clés :}} | #Guerre #Conflits #Frontières #Paix #Nations_unies #ONU #OSCE #Unions_européenne #UE |
-|{{Apparition(s) :}} | Cette carte a été présentée à la conférence [Planetary Security->http://www.planetarysecurity.nl/] à La Haye aux Pays-Bas (2-3 novembre 2015). |
+|{{Mots-clés :}} | #Guerre #Conflits #Frontières #Paix #Nations_unies #ONU #OSCE #Union_européenne #UE |
+|{{Apparition(s) :}} | Cette carte a été présentée à la conférence [Planetary Security->https://www.planetarysecurityinitiative.org/] à La Haye aux Pays-Bas (2-3 novembre 2015). |
 |{{Auteur :}} | Philippe Rekacewicz |
 |{{Date :}} | 2012, mise à jour en 2015. |
 
@@ -31,12 +31,7 @@ TEXTE:
 PS: Si vous souhaitez commenter, utiliser ce document ou simplement contacter l'auteur, nous vous invitons à le faire via l'adresse courriel [->contact@visionscarto.net]
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 18 novembre 2015 10:34
+Visionscarto - version du 24 août 2017 10:22

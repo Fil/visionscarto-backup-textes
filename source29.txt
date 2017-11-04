@@ -12,7 +12,7 @@ AUTEUR:
 --------------------------
 
 CHAPO:
-In 1923, with a series of charts displaying the increased urban production of housing, produce, and dairy goods, the life-long endeavor of the philosopher and economist Otto Neurath (1886-1945) in finding a concise visual language of picture statistics began. Exhibited at the “Allotment Garden, Settlement, and Housing Exhibition” (Kleingarten- Siedlungs- und Wohnbauaustellung) which drew almost half a million spectators into Vienna’s City Hall, the statistical charts suggested that settlements and allotment gardens, built in the city over the past five years, had heralded a novel way of cultivating and distributing food in the city. Neurath’s engagement of matters of architecture, urbanism and organization had thus, through the necessity of exhibiting its benefits to the Viennese public, triggered an interest in statistical mapping and visualization through pictograms.
+In 1923, with a series of charts displaying the increased urban production of housing, produce, and dairy goods, the life-long endeavor of the philosopher and economist Otto Neurath (1882-1945) in finding a concise visual language of picture statistics began. Exhibited at the “Allotment Garden, Settlement, and Housing Exhibition” (Kleingarten- Siedlungs- und Wohnbauaustellung) which drew almost half a million spectators into Vienna’s City Hall, the statistical charts suggested that settlements and allotment gardens, built in the city over the past five years, had heralded a novel way of cultivating and distributing food in the city. Neurath’s engagement of matters of architecture, urbanism and organization had thus, through the necessity of exhibiting its benefits to the Viennese public, triggered an interest in statistical mapping and visualization through pictograms.
 
 <h4 class="text-right">{by Sophie Hochhäusl}</h4>
 <h5 class="text-right">PhD Candidate, History of Architecture and Urbanism, Cornell University.</h5>
@@ -161,12 +161,7 @@ After Neurath, one might ask, should not democracy, if not in the 20th century, 
 PS: If you wish to comment on this article or contribute with additional information, or simply contact the author, please use the following email address : [->contact@visionscarto.net]
 
 
---------------------------
-
-LANG: en
-
-
 
 
 --------------------------
-Visionscarto - version du 22 May 2016 11:54
+Visionscarto - version du 17 October 2017 21:22

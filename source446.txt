@@ -1,0 +1,39 @@
+
+--------------------------
+
+TITRE:
+The water cycle
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rekacewicz
+
+
+
+--------------------------
+TEXTE:
+
+|{{Title:}}| The water cycle |
+|{{Keywords:}} | #Climate_Change #Environment #Water #Eau #Environnement |
+|{{Publication:}} | [Water Vital Graphics->http://staging.unep.org/dewa/assessments/ecosystems/water/vitalwater/], UNEP, 2002. |
+|{{Author:}} | Philippe Rekacewicz |
+|{{Date:}} | 2002 |
+
+<https://farm5.staticflickr.com/4374/36025271874_ae298f6207_o_d.jpg size=original class=fullwidth>
+
+Water is transported in different forms within the hydrological cycle or ‘water cycle’. Igor Shiklomanov and Peter H. Gleick ({Water in Crisis: A Guide to the World's Fresh Water Resources}, Oxford University Press, New York, 1993) estimates that each year about 502,800~km3 of water evaporates over the oceans and seas, 90% of which (458,000~km3) returns directly to the oceans through precipitation, while the remainder (44~800~km3) falls over land.
+
+With evapo-transpiration totalling about 74,200~km3, the total volume in the terrestrial hydrological cycle is about 119,000~km3. About 35% of this, or 44,800~km3, is returned to the oceans as run-off from rivers, groundwater and glaciers. A considerable portion of river flow and groundwater percolation never reaches the ocean, having evaporated in internal runoff areas or inland basins lacking an outlet to the ocean. However, some groundwater that bypasses the river systems reaches the oceans. Annually the hydrological cycle circulates nearly 577,000~km3 of water. 
+
+
+
+--------------------------
+
+PS: If you wish to comment on or reuse this map, or to contact the author, please write to [->contact@visionscarto.net].
+
+
+
+
+--------------------------
+Visionscarto - version du 28 August 2017 08:49

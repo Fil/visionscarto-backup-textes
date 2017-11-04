@@ -1,0 +1,231 @@
+
+--------------------------
+
+TITRE:
+Qui parraine les candidat·es à l'élection présidentielle française ?
+
+--------------------------
+
+AUTEUR: 
+- François Sermier
+
+--------------------------
+
+CHAPO:
+Les maires sont toujours incontournables pour obtenir les parrainages nécessaires pour être candidat·e à l’élection présidentielle, mais leur prépondérance diminue (80,1% des mandats en 2012,  70,6% en 2017). Les candidats des partis sortants François Fillon (Les Républicains) et Benoît Hamon (Parti socialiste) ont une part de représentants de collectivités locales plus forte. La structure des parrainages de Marine Le Pen est très atypique, très forte sous-représentation des maires, se distinguant fortement de l’ensemble des autres candidat·es et, surtout, des parrainages qu’elle avait obtenus en 2012.
+
+<small>Lire aussi sur le même sujet : [Élection présidentielle : âge et genre des parrains·marraines->https://visionscarto.net/parrainages-age-et-sexe]</small>
+
+<h4 class="text-right">{Une analyse de François Sermier}</h4>
+<h5 class="text-right">Statisticien.</h5>
+
+
+--------------------------
+TEXTE:
+
+{{{1 - Règles de présentation}}}
+
+Pour pouvoir participer à l'élection présidentielle en France, il faut :
+
+- être électeur ;
+
+- disposer d'au moins 500 parrainages, provenant d'au moins 30 départements et collectivités d'outre-mer différents, sans qu'il y en ait plus de 10% provenant d'un même département (pour ce décompte, sont considérés comme « départements » d'une part l'ensemble des représentants des Français de l'étranger - député, sénateur ou conseiller, membre de l'Assemblée des Français de l'étranger - le Parlement européen d'autre part) ;
+
+- en confirmer le souhait ;
+
+- fournir une déclaration de patrimoine (et s'engager à en fournir une autre à l'issue du mandat).
+
+Le parrainage, ou plus officiellement, la « présentation d'un·e candidat·e » à l'élection présidentielle, est réservé à une liste de personnes exerçant des mandats électifs. En voici la liste, en 2017, telle que figurant sur le site du Conseil constitutionnel.
+
+| {{mandat}} | {{nombre}} |
+| député | 577 |
+| sénateur | 348 |
+| député européen ressortissant français et élu en France | 74 |
+| conseiller régional | 1 900 |
+| conseiller à l'Assemblée de Corse | 51 |
+| conseiller départemental, y compris du Département de Mayotte | 4 058 |
+| conseiller de Paris | 163 |
+| conseiller métropolitain de Lyon | 165 |
+| maire | 35 910 |
+| maire délégué d'une commune déléguée ou associée | 1 722 |
+| maire d'arrondissement de Paris, de Lyon ou de Marseille | 45 |
+| président du conseil d'une métropole | 15 |
+| président du conseil d'une communauté urbaine | 15 |
+| président du conseil d'une communauté d'agglomération | 226 |
+| président du conseil d'une communauté de communes | 1 842 |
+| membre de l'Assemblée de Guyane | 51 |
+| membre de l'Assemblée de Martinique | 51 |
+| président de la Polynésie française | 1 |
+| membre de l'Assemblée de la Polynésie française | 57 |
+| président du gouvernement de la Nouvelle-Calédonie | 1 |
+| membre d'une assemblée de province de la Nouvelle-Calédonie | 76 |
+| membre de l'Assemblée territoriale des îles Wallis et Futuna | 20 |
+| conseiller territorial de Saint-Barthélemy, de Saint-Martin ou de Saint-Pierre-et-Miquelon | 61 |
+| conseiller à l'Assemblée des Français de l'étranger | 90 |
+
+{<small>Note : Les chiffres mentionnés sont issus de recherches personnelles, soit à partir des données du recensement de la population par l'Insee au 1/01/2017 (nombre de communes, nombre de communes déléguées ou associées), soit à partir de Wikipédia (les différentes assemblées). Ces chiffres ne sont pas tous à jour (pour les communautés de communes, p. ex., ils datent de 2015).</small>}
+
+Soit un total de {{47 519 mandats}}. Étant entendu que le nombre effectif de parrains est très nettement inférieur à ce chiffre du fait du cumul des mandats. Une personne détenant plusieurs mandats ouvrant droit au parrainage ne bénéficie que d'un seul parrainage, il ne reçoit d'ailleurs qu'un seul formulaire (en l'absence de précision sur ce sujet, je suppose que c'est le parrain qui détermine lui-même le mandat qu'il « utilise » pour son parrainage). C'est le Ministère de l'intérieur qui gère le fichier des élus et qui envoie donc les mandats aux intéressés. Le Conseil constitutionnel déclare d'ailleurs ne pas connaître le nombre exact de parrains potentiels.
+
+On retiendra donc de l'ordre de 40 000 parrains potentiels. C'est [{le chiffre}->https://presidentielle2017.conseil-constitutionnel.fr/tout-savoir/parrainages/historique-de-procedure-de-parrainage/] que donne le Conseil.
+
+En opérant quelques regroupements, on obtient :
+
+|{{mandat}}|{{effectif}}|
+| <b>maire</b> | <b>37 677</b> |
+| <b>collectivité territoriale</b> | <b>8 753</b> |
+| département | 4 221 | |
+| région | 1 951 | |
+| outre-mer | 318 | |
+| <b>parlementaire</b> | <b>1 089</b> |
+| député | 577 | |
+| sénateur | 348 | |
+| français de l'étranger | 90 | |
+| député européen | 74 | |
+| <b>total </b>| <b>47 519</b> |
+
+C'est le découpage ternaire que l'on retiendra pour les représentations graphiques ultérieures.
+
+Les règles concernant le parrainage sont fixées depuis 1976 (et donc appliquées telles quelles pour la première fois pour la présidentielle de 1981). Mais jusqu'à 2016 la totalité des parrainages n'étaient pas publiés, seuls l'étaient 500 parrainages par candidat·e, tirés au sort parmi les parrainages validés. Depuis la loi d'avril 2016, la totalité des parrainages sont publiés au fur et à mesure de leur validation, 2 fois par semaine pendant 3 semaines.
+
+{{{2 - Historique}}}
+
+Les règles actuelles ont été fixées en 1976 et se sont donc appliquées pour la première fois en 1981. Le Conseil constitutionnel indique que le nombre de mandats autorisant à accorder un parrainage a peu changé depuis 2012 ; pour les élections antérieures, je ne sais pas.
+
+<https://farm3.staticflickr.com/2828/33583287256_f8120088aa_o_d.jpg size=medium>
+
+| {{élection}} | {{parrainages reçus}} | {{nb candidat·es}} | {{moyenne/candidat}} |
+| 1981 | 16 444 | 10 | 1 644 |
+| 1988 | 15 744 | 9 | 1 749 |
+| 1995 | 14 462 | 9 | 1 607 |
+| 2002 | 17 815 | 16 | 1 113 |
+| 2007 | 16 900 | 12 | 1 408 |
+| 2012 | 15 047 | 10 | 1 505 |
+| 2017 | 14 296 | 11 | 1 300 |
+
+{{{3 - Les parrainages 2012}}}
+
+En 2012, un peu plus d'un tiers des titulaires de mandat ont exercé leur faculté de présentation d'un·e candidat·e.
+
+<https://farm3.staticflickr.com/2897/33465941042_5036bfa9a9_k_d.jpg size=medium>
+
+Les parrainages des candidat·es pour l'élection présidentielle de 2012 ont été publiés dans le {Journal officiel de la République française} (JO) du [31 mars 2012->http://www.conseil-constitutionnel.fr/conseil-constitutionnel/root/bank/download/2012150PDR2012listepresentateurs.pdf] :
+
+| {{Candidat·e}} | {{maire}} | {{communauté communes ou agglo.}} | {{ conseiller gén. ou rég.}} | {{député}} | {{sénateur}} | {{Français de l'étranger}} | {{Parlement européen}} |
+| Joly | 244 | 2 | 232 | 2 | 8 | 4 | 8 |
+| Hollande | 320 | 11 | 135 | 17 | 14 | 2 | 1 |
+| Sarkozy | 324 | 8 | 99 | 47 | 10 | 9 | 3 |
+| Mélenchon | 366 | 3 | 116 | 5 | 8 | | 2 |
+| Le Pen | 390 | 1 | 105 |   | | 3 | 1 |
+| Bayrou | 414 | 4 | 67 | 4 | 6 | 3 | 2 |
+| Poutou | 470 | 4 | 26 |   | | | |
+| Dupont-Aignan | 479 | 1 | 19 |   | 1 | | |
+| Arthaud | 498 |   | 2 |   | | | |
+| Cheminade | 499 |   | 1 |   | | | |
+| Total | 4004 | 34 | 802 | 75 | 47 | 21 | 17 |
+
+{Note : Tout·es les candidat·es ont un total de 500 parrainages, soit 5000 parrainages au total.}
+
+<img18|center>
+
+En utilisant le regroupement en trois catégories proposé ci-dessus (maires, collectivités territoriales autre que communes, mandat national (parlementaires)) on obtient le tableau ci-dessous :
+
+| {{candidat·e}} | {{maire}} | {{coll. territoriales}} | {{parlementaires}} |
+| {{Joly}} | {48,8%} | {46,8%} | {4,4%} |
+| {{Hollande}} | {64,0%} | {29,2%} | {6,8%} |
+| {{Sarkozy}} | {64,8%} | {21,4%} | {13,8%} |
+| {{Mélenchon}} | {73,2%} | {23,8%} | {3,0%} |
+| {{Le Pen}} | {78,0%} | {21,2%} | {0,8%} |
+| {{Bayrou}} | {82,8%} | {14,2%} | {3,0%} |
+| {{Poutou}} | {94,0%} | {6,0%} | {0,0%} |
+| {{Dupont-Aignan}} | {95,8%} | {4,0%} | {0,2%} |
+| {{Arthaud}} | {99,6%} | {0,4%} | {0,0%} |
+| {{Cheminade}} | {99,8%} | {0,2%} | {0,0%} |
+| Total | {80,1%} | {16,7%} | {3,2%} |
+
+Le tableau peut être représenté sur un diagramme triangulaire dans lequel j'ai rajouté le point correspondant à la répartition (en 2017) de l'ensemble des mandats autorisant la présentation d'un·e candidat·e.
+
+<img19|center>
+
+<img20|center>
+
+- Sans surprise, les « petit·es candidat·es » sont parrainé·es quasi exclusivement par des maires.
+
+- Seul Nicolas Sarkozy mobilise un nombre important de parlementaires et, dans une mesure moindre, François Hollande.
+
+- Le poids des collectivités territoriales (autres que communes) indique la présence d'une base d'  « apparatchiks » locaux, membres des conseils généraux et régionaux ; sur cet axe, Eva Joly (Les Verts) se distingue particulièrement (presque {50%} de collectivités territoriales).
+
+{{{4 - Parrainages 2017}}}
+
+Le 18 mars, le Conseil constitutionnel a arrêté la liste des 11 candidat·es ayant rempli les conditions. Dans le tableau suivant, sont présentés par ordre décroissant du nombre de parrainage les parrainages reçus pour chacun d'eux.
+
+<img21|center>
+
+La plupart des candidat·es ont obtenu le plus grand nombre de parrainages lors du troisième lot publié par le Conseil constitutionnel. À l'exception notable de François Fillon pour lequel la première semaine du mois de mars a coïncidé avec la tentative ratée de putsch pour remplacer le candidat issu de {la primaire de la droite et du centre}.
+
+Notons que la deuxième série n'a produit {aucun} parrainage pour François Asselineau, entraînant une protestation officielle auprès du Conseil d'un des maires le soutenant, président de l'Association française des maires ruraux (AFMR).
+
+Dans les graphiques ci-dessous, dissociés entre candidat·es « de droite » et candidat·es « de gauche », nous représentons le rythme de progression de l'arrivée des parrainages, en pourcentage cumulé du total obtenu au final. À droite, Jean Lassalle et Jacques Cheminade n'ont atteint la « barre » des 500 qu'à l'issue de la période de collecte ; c'est le cas de Philippe Poutou pour la gauche.
+
+<img22|center>
+
+<img23|center>
+
+
+{{{5 - Analyse par type de mandat}}}
+
+Nous présentons ci-dessous la répartition des mandats en fonction des 3 grandes catégories exposées ci-dessus, en ordonnant les candidat·es en fonction du poids croissant des maires dans les mandats obtenus.
+
+<img24|center>
+
+
+Sous forme triangulaire en superposant les parrainages de l'année 2012 (estompé et en italique) :
+
+<img25|center>
+
+- Les « petit·es candidat·es » n'ont pratiquement pas bougé (une partie d'entre eux n'ont pas été représenté·es).
+
+- La position de Jean-Luc Mélenchon a très peu évolué également.
+
+- La position de Marine Le Pen est {très} atypique, avec une très forte sous-représentation des maires, en comparaison avec tout·es les autres candidat·es de 2017, mais surtout en comparant à ses résultats de 2012. Pratiquement les deux tiers de ses soutiens sont issus d'une collectivité de communes (ou d'agglomération,...) ou d'un conseil départemental ou régional (ou autre assemblée spécifique à la Corse ou aux DOM et COM). La presse a ainsi parlé d'une « grève » des parrainages de la part des maires ; d'après les données étudiées, elle aurait surtout frappé la candidature de Mme Le Pen.
+
+- Un mouvement semblable - baisse de la part des maires - mais de façon beaucoup moins frappante, s'est opéré entre François Hollande en 2012 et Benoît Hamon en 2017. Il semble qu'une partie des maires qui soutenait le candidat socialiste de 2012 s'est reportée sur celui d'{En Marche !} en 2017, tendance cependant moins marquée chez les élus des collectivités intermédiaires.
+
+- Même type de « translation », moins marquée, entre Nicolas Sarkozy en 2012 et François Fillon en 2017 : le positionnement des soutiens de N. Sarkozy en 2012 sont à peu près équivalent à celui de François Fillon en 2017, mais sans la participation des parlementaires ({ie} le point était situé sur le côté gauche du triangle), et ce malgré les péripéties de la candidature de ce dernier et l'éphémère perspective d'une candidature d'Alain Juppé.
+
+Notons enfin qu'en 2012, seuls un peu moins d'un tiers des parrainages reçus ont été publiés, soit, en supposant des effectifs par candidat·e similaires à ceux de 2017, un taux d'échantillonnage de l'ordre de 1 sur 7 probablement pour les parrains de Nicolas Sarkozy à un taux vraisemblablement voisin de 1 pour les « petit·es candidat·es ». La stabilité de la structure par type de mandat entre 2012 et 2017 (à l'exception, on l'a vu, de Marine Le Pen) laisse à penser qu'il n'y a pas eu sélection des parrainages publiés et est compatible avec le tirage aléatoire que le Conseil dit avoir pratiqué.
+
+{{{6 - Évolution de la structure des parrainages au cours de la période de collecte}}}
+
+Pour terminer l'analyse, nous représenterons les différents lots publiés pour les principaux·ales candidat·es sous forme de graphique triangulaire en pondérant chaque point par le nombre de parrainages (bulles)
+
+<img16|center>
+
+<img17|center>
+
+{<small>Note : L'étiquette est placée sur le point le plus récent (18/03/17).</small>}
+
+- Pour François Fillon, la composition des parrainages n'a que peu changé, à l'exception des deux lots (3 et 7 mars) où la candidature a paru en difficulté et pour lesquels le poids des « notables » du parti a temporairement fléchi.
+
+- Pour Marine Le Pen, la collecte s'est concentrée très fortement sur la date du 7 mars où visiblement le parti a battu le rappel de ses apparatchiks locaux, les points des 1er mars (25 parrainages) et 14 et 18 mars (9 seulement pour ce dernier point) où les maires redeviennent majoritaires concernent des effectifs faibles, voire très faibles.
+- Pour les trois candidats « de gauche », on note l'entrée progressive et continue des cadres locaux ; Jean-Luc Mélenchon partant de très loin mais dont la trajectoire rejoint rapidement celle d'Emmanuel Macron. Benoît Hamon possédait une « avance » certaine qu'il a maintenue au fil de ces presque trois semaines.
+
+
+
+--------------------------
+
+PS: Vos commentaires sur cette analyse sont les bienvenus à [contact@visionscarto.net->mailto:contact@visionscarto.net]
+
+Le bandeau représente un extrait du tableau « Les frères du cosmos » du peintre russe Youri Koroliov (1981).
+
+<https://farm3.staticflickr.com/2874/32809643853_9e18b2aa6b_o_d.jpg size=medium link>
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- secondaire
+
+
+--------------------------
+Visionscarto - version du 24 juin 2017 14:03

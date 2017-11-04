@@ -16,7 +16,7 @@ TEXTE:
 
 |{{Title:}}| Mapping wars|
 |{{Keywords:}} | #War #Conflicts #Borders #Russia #United_States #Power #Armament |
-|{{Publication:}} | This map was introduced to the [Planetary Security Conference->http://www.planetarysecurity.nl/] in the Hague - Netherlands (2-3 November 2015). |
+|{{Publication:}} | This map was introduced to the [Planetary Security Conference->https://www.planetarysecurityinitiative.org/] in the Hague - Netherlands (2-3 November 2015). |
 |{{Author:}} | Philippe Rekacewicz |
 |{{Date:}} | 2013, updated in 2015. |
 
@@ -31,12 +31,7 @@ TEXTE:
 PS: If you wish to comment on or reuse this map, or to contact the author, please write to [->contact@visionscarto.net].
 
 
---------------------------
-
-LANG: en
-
-
 
 
 --------------------------
-Visionscarto - version du 25 December 2015 19:10
+Visionscarto - version du 24 August 2017 10:18

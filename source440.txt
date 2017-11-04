@@ -1,0 +1,101 @@
+
+--------------------------
+
+TITRE:
+Fondos de mapa
+
+--------------------------
+
+AUTEUR: 
+- Philippe Rivière
+
+
+
+--------------------------
+TEXTE:
+
+Aquí presentamos una pequeña serie de fondos de mapa que puedes descargar libremente. Es el inicio de una colección que irá creciendo paulatinamente.
+
+Creados por nosotros para nuestras necesidades, {{están también disponibles para ti, gratuitamente y libremente}}, para todo tipo de uso cartográfico: esperamos que puedan ser utiles para enseñar la geografía, la historia, así como para pintar, dibujar, colorear, y pensar la constitución del mundo…
+
+
+
+{<sc>Es una versión preliminar</sc>. Después de varios meses de trabajo, tenemos el agrado de compartir estos archivos. Pero sabemos que todavía contienen bugs y omisiones, en particular en las islas y los micro-estados. Contamos con sus ojos y su experiencia para ayudarnos a encontrar lo que se nos pasó, y lo arreglaremos a la brevedad. Recibimos con gusto todo tipo de comentario, sugestión y extensión a la dirección [->contact@visionscarto.net]. ¡De antemano, gracias!}
+
+
+En esta primera etapa, compartimos el planisferio con las fronteras de 2017, utilizando tres proyecciones:
+-- Bertin (1953)
+-- Robinson
+-- Winkel-Tripel.
+
+Dos fondos de mapa centrados en los polos están disponibles también. Para esos, elegimos la [proyección acimutal equivalente->https://es.wikipedia.org/wiki/Proyecci%C3%B3n_acimutal_de_Lambert], que conserva las áreas.
+
+Puedes imprimir los archivos PNG y usarlos tal cual. Para ir más allá, los archivos están disponibles también en el formato vectorial SVG, lo que permite trabajar el mapa con software especializado como Inkscape (o Illustrator) para resaltar ciertos elementos geográficos, e imprimir en más alta calidad.
+
+
+<p class="text-right caps">↬ Philippe Rivière.</p>
+
+
+<quote>
+¿Estás utilizando estos fondos de mapa para un uso innovador, artístico, pedagógico? Nos encantaría descubrir tu trabajo. Por favor, no hesites en mandarnos tus dibujos y ensayos por correo electrónico a [->contact@visionscarto.net] o, si los archivos son demasiados pesados, a través de un servicio de envío de archivos como [lut.im->https://lut.im/] o [framadrop->https://framadrop.org/]. (Ten por seguro que no los haremos circular sin tu autorización.)
+</quote>
+
+<classeur|rep=fonds-de-cartes-es>
+
+~
+
+<quote>
+
+{A continuación, presentamos algunas indicaciones para usar estos fondos de mapa SVG en un software gráfico vectorial:}
+
+{{{Identificadores}}}
+
+<https://gateway.ipfs.io/ipfs/QmZqKh1EYpN5GAhi942DFgx76kDHmdmL76GJGh7X3KjMaj/2017-07/calques-fonds-de-cartes.png size=small right link title="Estructura de capas">
+
+Todos los lugares (ciudades, países, continentes…) están identificados de una manera sistemática y estándar, para ayudar a colorearlos, o para encontrar sus contornos y aislar regiones.
+
+Decidimos usar el inglés como idioma técnico de los nombres, de manera a seguir la nomenclatura de la mayoría de los paquetes de software y de las bases de datos internacionales.
+
+{{{Capas de información}}}
+
+Varias capas son disponibles (la mayoría de ellas están ocultas por defecto). Puedes activar las individualmente, de manera a mostrar varios conjuntos de información:
+-- la ciudad capital de cada país;
+-- poblaciones (los símbolos son proporcionales al número de habitantes);
+-- una estimación del tamaño de sus economías (los símbolos son proporcionales a su producto interno bruto);
+-- una capa específica que contiene los “Estados pequeños,” que son invisibles a la escala planetaria.
+
+
+Cada páis está representado por un camino (que contiene uno o varios polígonos), con su nombre, e identificado por su código ISO.
+
+{{{Estructura de capas}}}
+
+Una de las capas contiene todos los países. Pero las fronteras no solo son los “bordes de los países.” Las fronteras terrestres están agrupadas en un camino específico, y otro camino contiene toda la línea del litoral. De la misma manera, los cinco continentes (sin sus fronteras) están presentes en una capa que está “debajo” de la capa de los países.
+
+El continente Antártico está manejado de manera separada, y ocultado por defecto de la mayoría de las proyecciones.
+
+El sistema de capa ayuda a crear proyecciones diferenciadas, y permite efectos visuales. La lógica presentada aquí no está grabada en la piedra, y estamos abiertos a cualquier sugerencia que pueda mejorarla o a añadir capas que podrían tener sentido para varias necesidades.
+
+</quote>
+
+<html><!--
+{{Our sources and methods }} are detailed in the following projects: [Fonds de cartes->https://github.com/visionscarto/fonds-de-cartes], [Geo-data->https:github.com/visionscarto/some-geo-data] and [ne_110m_fixes->https://github.com/Fil/ne_110m_fixes].
+--></html>
+
+
+--------------------------
+
+PS: Traducido por Sylvain Lesage.
+
+¿Estás utilizando estos fondos de mapa para un uso innovador, artístico, pedagógico? Nos encantaría descubrir tu trabajo. Por favor, no hesites en mandarnos tus dibujos y ensayos por correo electrónico a [->contact@visionscarto.net] o, si los archivos son demasiados pesados, a través de un servicio de envío de archivos como [lut.im->https://lut.im/] o [framadrop->https://framadrop.org/]. (Ten por seguro que no los haremos circular sin tu autorización.)
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- titre noir
+- texte sans-serif
+- secondaire
+
+
+--------------------------
+Visionscarto - version du 25 de septiembre de 2017 05:50

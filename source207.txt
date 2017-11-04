@@ -36,11 +36,6 @@ TEXTE:
 PS: Contact: [->contact@visionscarto.net].
 
 
---------------------------
-
-LANG: lv
-
-
 
 
 --------------------------

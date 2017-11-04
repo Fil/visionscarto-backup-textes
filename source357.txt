@@ -291,11 +291,6 @@ PS: This research would not have been possible without the tremendous support an
 
 --------------------------
 
-LANG: en
-
-
---------------------------
-
 MOTS-CLÉS: 
 - texte sans-serif
 

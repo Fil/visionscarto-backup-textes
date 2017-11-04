@@ -1,0 +1,168 @@
+
+--------------------------
+
+TITRE:
+Élection présidentielle :  âge et genre des parrains·marraines
+
+--------------------------
+
+AUTEUR: 
+- François Sermier
+
+--------------------------
+
+CHAPO:
+Dans ce deuxième volet consacré à l'analyse des parrainages des candidat·es à l'élection présidentielle (le premier volet est consultable [ici->https://visionscarto.net/qui-parraine-les-candidats]), François Sermier à étudié l'influence du genre et de l'âge. Pour y parvenir, il a pris en compte le rôle de la composition des différents conseils et assemblées d'élu·es. Si Benoît Hamon et Marine Le Pen ont obtenu le plus grand nombre de parrainages attribués par des femmes, le premier bénéficie d’une nette préférence, Marine Le Pen étant plutôt une candidate d’hommes. Benoît Hamon est aussi le candidat préféré des élu·es les plus jeunes (moins de 50 ans).
+
+<h4 class="text-right">{Une analyse de François Sermier}</h4>
+<h5 class="text-right">Statisticien.</h5>
+
+
+--------------------------
+TEXTE:
+
+{{{ {{Origine et traitement des données}} }}}
+
+{{1 - Fichiers des élu·es}}
+
+Le Ministère de l’Intérieur tient à jour un « répertoire national des élu·es » (RNE) compilant des fichiers de diverses provenances : les assemblées pour les mandats nationaux et régionaux, et les préfectures pour les conseils municipaux, départementaux et autres collectivités territoriales.
+
+L’ensemble des fichiers m'a été transmis à l’exception de ceux tenus par les assemblées territoriales de l’Outre-mer, et l’Assemblée des Français·es de l’étranger.
+
+<https://farm3.staticflickr.com/2945/33789551055_edbc4066e4_o_d.png size=large>
+
+<https://farm4.staticflickr.com/3736/33789550785_e31f719fd7_b_d.jpg size=medium>
+
+Ces fichiers concernent un très grand nombre d’élu·es : ils évoluent en permanence du fait des démissions, décès, etc. Il y a environ une quinzaine de mouvements par jour.
+
+Parmi les député·es, deux élus n'étaient pas identifiés dans la base :
+
+_ • Yannick Trigance, qui remplace Bruno Le Roux depuis le 6 décembre 2016.
+
+_ • Henri Emmanuelli, décédé le 21 mars 2017, deux semaines après la publication de son parrainage.
+
+_ L’un et l’autre ont parrainé Benoît Hamon.
+
+En « consolidant » l’ensemble de ces données, en particulier pour identifier les cumuls, j’obtiens le nombre de 42 149 élu·es susceptibles d’accorder leur parrainage.
+
+<https://farm4.staticflickr.com/3684/33789550705_5b8427edb0_b_d.jpg size=medium right>
+
+{{2 - Fichier des parrainages}}
+
+J’ai cherché à identifier les parrains·marraines en croisant les données publiées par le Conseil constitutionnel avec les différents tableaux du Ministère de l’Intérieur. J’obtiens ainsi le numéro d’identification de l’élu·e (RNE, par la suite). Le tableau ci-dessous est la synthèse du nombre d’identifications obtenues (et donc le nombre de mandats détenus - et identifiés...) pour chaque élu·e.
+
+<https://farm3.staticflickr.com/2860/33639294172_57f2ba8714_o_d.png size=large>
+
+NB : Pour ces opérations, j’ai « fusionné » les différents mandats parlementaires d’une part, et les mandats de conseillères·conseillers régionaux et départementaux d’autre part.
+
+Combien sont-ils à utiliser leur mandat pour accorder un parrainage ? Le Conseil constitutionnel constate : 
+
+ - un tiers seulement des parrains·marraines potentiel·les utilisent leur mandat pour accorder un parrainage ;
+
+ - les parlementaires sont environ 75 % à avoir parrainé un·e candidat·e, mais 37 % d'entre eux·elles ont préféré utiliser un mandat local, soit : 24 député·es dont Nicolas Dupont-Aignan (3 conseillères·conseillers régionaux et 21 maire·sses) et 13 sénatrices·sénateurs (et maire·sses). Seuls 27,5 % des maire·sses et 11 % des président·es d’intercommunalités ont soutenu une candidature.
+
+{{3 - Influence du genre et de l’âge}}
+
+L'identification des parrains·marraines permet l'appariement (parfois un peu laborieux) avec les fichiers du RNE et donc d'associer aux parrains·marraines les variables descriptives.
+
+Mais pour interpréter la composition des parrainages par genre et par âge, il faut comparer à la répartition de ces mêmes variables dans la population des parrains·marraines potentiel·les. Et donc analyser la base RNE. Il faut également tenir compte des mandats utilisés pour les parrainages car les diverses assemblées et conseils ont des compositions très différentes ce qui induit un très fort effet de structure. Ainsi, on a vu dans le billet précédent que Marine Le Pen présente une forte sur-représentation des conseils départementaux et régionaux dans lesquels la parité entre hommes et femmes est assurée contrairement aux autres mandats.
+
+{3.1 - Analyse d'après le genre}
+
+<https://farm3.staticflickr.com/2818/32976673413_d967b6f17e_h_d.jpg size= medium right link>
+
+Le mode de scrutin par binôme des conseils départementaux assure mécaniquement la parité homme-femme dans ces assemblées.
+
+Les modalités contraignantes des scrutins par liste des conseils régionaux, du Parlement européen et, très partiellement, du Sénat visent à garantir la parité mais n'y parviennent pas. Dans le cas de ce dernier, les modalités sont très largement contournées...
+
+<https://farm3.staticflickr.com/2924/33410864150_9655e3bfd9_o_d.png size=large>
+
+La répartition des mandats des parrains·marraines potentiel·les selon le genre est énoncée dans le tableau suivant :
+
+<https://farm3.staticflickr.com/2875/33666023111_16b8200149_o_d.png size=large>
+
+On constate que dans l’ensemble les hommes ont un peu plus accordé leur parrainage ({+1,8%}) que les femmes ({-1,8%}).
+
+La différence des soutiens entre les femmes et les hommes est figurée dans le graphique ci-dessous :
+
+<https://farm3.staticflickr.com/2816/33633170772_3cdd920e31_o_d.jpg size =large>
+
+_ • les femmes parrainent Benoît Hamon avec un différentiel de plus de {10%} par rapport aux hommes ;
+
+_ • les hommes parrainent Emmanuel Macron ;
+
+_ • François Fillon est pratiquement neutre ;
+
+_ • dans une moindre mesure, Marine Le Pen a un léger avantage chez les hommes;
+
+_ • et Jean-Luc Mélenchon un léger avantage chez les femmes ;
+
+_ • parmi les « petit·es » candidat·es, Jacques Cheminade, Nicolas Dupont-Aignan et Jean Lassalle, les parrainages sont fortement « masculins », ceux de Nathalie Arthaud, nettement plus « féminins ».
+
+{3.2 Analyse par âge : fonction de répartition des années de naissance}
+
+<https://farm3.staticflickr.com/2873/33633171922_2674724b17_o_d.png size=large>
+
+De notoriété publique, le Sénat est l’assemblée dont les membres sont les plus âgé·es. ; cela se vérifie dans les données du Ministère de l’Intérieur. Viennent ensuite les maire·sses, le collège électoral du Sénat, et enfin les président·es d’intercommunalités.
+
+<https://farm3.staticflickr.com/2899/33633172542_f69baa3a1a_o_d.jpg size=medium link>
+
+Les conseillères·conseillers régionaux sont, de loin, les plus jeunes, suivi·es par les élu·es des conseils départementaux.
+
+Des calculs similaires permettent alors de comparer la pyramide des âges des parrains et des marraines à celle de l’ensemble des élu·es.
+
+<https://farm4.staticflickr.com/3939/33811702645_0a74d79a7c_b_d.jpg size=medium link>
+
+<https://farm3.staticflickr.com/2875/33666009782_366d311401_b_d.jpg size=medium link title="Cette figure qui représente la « fréquence » permet de montrer les distributions en soulignant la (légère) sous représentation des « ancien·nes » (1947-1953) et la (légère) sur représentation des « jeunes » (1967 et après)">
+
+Sur le graphique ci-dessous, les écarts ont été calculés par année et le résultat lissé avec une moyenne mobile d’ordre 13.
+
+<https://farm4.staticflickr.com/3839/33633179332_4769729f0a_o_d.jpg size=medium link>
+
+On peut ainsi constater que les élu·es âgé·es (typiquement entre 65 et 75 ans) ont accordé (un peu) moins de parrainages que celles et ceux entre 35 et 55 ans.
+
+En tenant compte de ce profil d’ensemble, il est alors possible d’établir la sous - ou sur - représentation des tranches d'âges des élu·es pour chacun·e des candidat·es.
+
+<https://farm4.staticflickr.com/3944/32949006424_6cf43b4444_k_d.jpg size=original class=fullwidth link>
+
+<quote>
+
+Quelques explications complémentaires :
+
+{On restitue ici la démarche des « +1 ou -1 » qui sont les écarts entre la répartition des parrainages observée (premier groupe de colonnes) et celle, « théorique », qui résulte de la répartition F/H des différentes assemblées : c'es-à-dire en fait celle qu'on obtiendrait si les femmes et les hommes votaient de façon identique.}
+
+{Le « +1 ou -1 » sont les écarts à cette situation "de référence" (homogénéité des votes) et la différence des deux (soit +2, la différence entre l'une des catégories par rapport à l'autre catégorie prise comme valeur de référence). Ce sont les deux présentations traditionnelles inspirées de ce qui se fait en analyse de la variance.}
+
+{De la même façon, les courbes donnent les écarts (pour chaque année de naissance) par rapport à la pyramide des âges "théoriques" où tout le monde aurait le même comportement de vote. Mais là, on ne garde que la référence correspondant à la pyramide des âges avec homogénéité, car ça n'a pas trop de sens de choisir un âge de référence.}
+
+</quote>
+
+On remarque que :
+
+_ • Benoît Hamon est le {seul} candidat qui entraîne une adhésion forte chez les « jeunes » élu·es (moins de 50 ans...) ;
+
+_ • pour Marine Le Pen, Nicolas Dupont-Aignan, François Fillon et Jean-Luc Mélenchon, les « ancien·nes » ont une part plus forte, au détriment des « jeunes » de tous âges (moins de 50 ans) à l’exception de Jean-Luc Mélenchon dont le résultat est à peu près conforme à ce qui est attendu pour les moins de 40 ans ;
+
+_ • Emmanuel Macron bénéficie également d’une approbation plus élevée chez les ancien·nes au détriment des jeunes, mais l’effet est beaucoup moins prononcé.
+
+_ • Parmi les « petit·tes candidat·es » Nathalie Arthaud et Philippe Poutou ont obtenu le meilleur résultat chez les {baby boomers} dits encore « soixante-huitards »... Jean Lassalle ayant un profil assez similaire.
+
+Enfin, on notera que l’effet « genre » et l’effet « âge » se recoupent car les élues sont en moyenne plus jeunes que leurs collègues masculins.
+
+
+
+--------------------------
+
+PS: Vos commentaires sur cette analyse sont les bienvenus à [contact@visionscarto.net->mailto:contact@visionscarto.net]
+
+La bandeau représente un extrait d'une affiche de propagande crée par Zoya Pravdina en 1950, « Bienvenue aux urnes, origines de la puissance soviétique ! ».
+
+
+--------------------------
+
+MOTS-CLÉS: 
+- secondaire
+
+
+--------------------------
+Visionscarto - version du 24 juin 2017 14:03

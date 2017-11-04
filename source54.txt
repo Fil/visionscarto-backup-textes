@@ -16,11 +16,7 @@ AUTEUR:
 TEXTE:
 
 |{{Titre :}}| Actes de piraterie maritime et attaques armées selon l'ordre de gravité, 1996-2013 |
-|{{Mots-clés :}} | #Transport
-#Transport_maritime
-#Piraterie_maritime
-#Rapport_piraterie_maritime
-#visualisation |
+|{{Mots-clés :}} | #Transport #Transport_maritime #Piraterie_maritime |
 |{{Apparition(s) :}} |Rapport [«UNOSAT Global Report on Maritime Piracy - a geospatial analysis 1995-2013»->http://www.unitar.org/unosat/piracy] |
 |{{Auteur :}} | Philippe Rivière, Philippe Rekacewicz |
 |{{Date de création :}} | Janvier 2014 |
@@ -33,12 +29,7 @@ TEXTE:
 
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 7 février 2015 13:13
+Visionscarto - version du 30 avril 2017 21:57

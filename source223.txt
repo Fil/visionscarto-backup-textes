@@ -51,10 +51,8 @@ Minard expliquait avec insistance :
 </blockquote>
 
 Minard concède toutefois qu’il n’est pas facile de suivre le parcours d’un type de marchandise donné, les sections de rectangle correspondantes étant parfois disjointes. Ce diagramme comprend plusieurs éléments qui apparaîtront plus tard sur ses cartes de flux :
-
-- d’une part l’utilisation de la proportionnalité pour mieux identifier l’importance des volumes (en faisant varier la largeur des segments représentant les flux) ;
-
-- d’autre part l’utilisation couleurs différentielles pour distinguer les types de flux.
+-- d’une part, l’utilisation de la proportionnalité pour mieux identifier l’importance des volumes (en faisant varier la largeur des segments représentant les flux) ;
+-- d’autre part, l’utilisation couleurs différentielles pour distinguer les types de flux.
 
 Minard dessine au total -- au milieu des années 1840 --  quatre « tableaux graphiques » ; les trois autres diagrammes sont en noir et blanc. Ce sera d’ailleurs l’unique et dernière fois que Minard utilisera ce grand format.
 
@@ -153,17 +151,13 @@ Minard a conceptualisé il y a 150 ans les bases d’une sémiologie graphique d
 #Charles-Joseph_Minard
 
 
+
 --------------------------
 
 PS: Ce texte a été traduit par Jasmine Rivière-Poupon pour Visionscarto. Si vous souhaitez réagir, contribuer, commenter, utiliser ce texte ou les images, ou simplement contacter l'auteure, nous vous invitons à nous écrire à l'adresse  [->contact@visionscarto.net].
 
 
---------------------------
-
-LANG: fr
-
-
 
 
 --------------------------
-Visionscarto - version du 3 mars 2016 13:50
+Visionscarto - version du 5 mai 2017 07:24
